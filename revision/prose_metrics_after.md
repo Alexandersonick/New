@@ -1,7 +1,7 @@
 # Prose Metrics Report — My Twin Sister Took My Place as His Wife
-Niche profile: **romance** · Chapters: 30 · Words (measured): **72,987** · Mean chapter: 2433 (CV 0.15) · Dialogue (book): 37%
+Niche profile: **romance** · Chapters: 30 · Words (measured): **72,926** · Mean chapter: 2431 (CV 0.15) · Dialogue (book): 37%
 
-Parse integrity: 72,987 of 73,116 raw words kept (100%) — OK. **WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Maud, Declan, Maud, Declan, Maud, Maud…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.**
+Parse integrity: 72,926 of 73,055 raw words kept (100%) — OK. **WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Maud, Declan, Maud, Declan, Maud, Maud…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.**
 
 Every FLAG below is a place to read, not a verdict. Record intentional exceptions in the DEFECT/SAMENESS ledger.
 
@@ -9,51 +9,51 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 
 | Ch | Words | Dlg% | TTFD | Sent mean/CV/range | ≤4w | Para CV | Filter/1k | -ly/500 | Emo/1k (anchored) | —/1k | Exit words | Exit kind |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 2,415 | 16% | 203 | 12.9/0.91/50 | 25% | 1.02 | 2.0 | 0.7 | 0.5 (100%) | 0.0 | 23 | dialogue |
+| 1 | 2,414 | 16% | 203 | 12.9/0.91/50 | 25% | 1.02 | 2.0 | 0.7 | 0.5 (100%) | 0.0 | 23 | dialogue |
 | 2 | 2,047 | 27% | 150 | 10.8/0.89/58 | 24% | 1.1 | 6.0 | 1.7 | 1.3 (100%) | 0.0 | 17 | image/quiet |
-| 3 | 2,907 | 43% | 288 | 11.5/0.9/56 | 25% | 1.17 | 2.4 | 1.5 | 0.0 (n/a) | 0.7 | 19 | dialogue |
-| 4 | 2,249 | 29% | 126 | 10.7/0.88/44 | 25% | 0.97 | 2.5 | 0.6 | 1.2 (100%) | 0.4 | 1 | image/quiet |
-| 5 | 2,373 | 45% | 0 | 10.9/1.0/75 | 25% | 1.01 | 3.0 | 0.8 | 3.0 (75%) | 0.0 | 7 | dialogue |
+| 3 | 2,906 | 43% | 288 | 11.5/0.9/56 | 25% | 1.17 | 2.4 | 1.5 | 0.0 (n/a) | 0.7 | 19 | dialogue |
+| 4 | 2,247 | 29% | 126 | 10.6/0.88/44 | 25% | 0.96 | 2.5 | 0.6 | 1.2 (100%) | 0.4 | 1 | image/quiet |
+| 5 | 2,372 | 45% | 0 | 10.9/1.0/75 | 25% | 1.01 | 3.0 | 0.8 | 3.0 (75%) | 0.0 | 7 | dialogue |
 | 6 | 2,616 | 45% | 33 | 11.7/0.99/72 | 24% | 0.99 | 4.9 | 2.4 | 0.0 (n/a) | 0.4 | 13 | image/quiet |
 | 7 | 2,619 | 50% | 42 | 10.0/0.94/76 | 16% | 1.1 | 4.6 | 1.5 | 0.8 (100%) | 1.9 | 22 | dialogue |
 | 8 | 2,601 | 23% | 169 | 11.9/0.82/43 | 26% | 0.9 | 5.5 | 0.8 | 0.5 (100%) | 0.4 | 1 | dialogue |
-| 9 | 2,535 | 32% | 181 | 11.6/0.88/52 | 23% | 0.97 | 1.2 | 0.9 | 0.0 (n/a) | 0.0 | 24 | image/quiet |
+| 9 | 2,534 | 32% | 181 | 11.6/0.88/52 | 23% | 0.97 | 1.2 | 0.9 | 0.0 (n/a) | 0.0 | 24 | image/quiet |
 | 10 | 2,056 | 34% | 179 | 10.8/0.84/43 | 24% | 0.88 | 3.7 | 2.9 | 0.0 (n/a) | 0.0 | 1 | dialogue |
-| 11 | 3,134 | 17% | 105 | 14.2/0.98/76 | 24% | 1.08 | 4.6 | 1.7 | 2.3 (100%) | 0.0 | 16 | image/quiet |
+| 11 | 3,132 | 17% | 105 | 14.2/0.98/76 | 24% | 1.08 | 4.6 | 1.7 | 2.3 (100%) | 0.0 | 16 | image/quiet |
 | 12 | 1,857 | 30% | 373 | 11.5/0.79/41 | 27% | 1.01 | 3.1 | 0.4 | 0.0 (n/a) | 0.0 | 18 | dialogue |
-| 13 | 2,086 | 51% | 0 | 10.4/0.84/52 | 23% | 0.95 | 2.0 | 1.5 | 1.0 (100%) | 0.0 | 19 | dialogue |
+| 13 | 2,085 | 51% | 0 | 10.4/0.85/52 | 23% | 0.95 | 2.0 | 1.5 | 1.0 (100%) | 0.0 | 19 | dialogue |
 | 14 | 2,876 | 54% | 0 | 9.3/0.74/48 | 24% | 0.99 | 2.3 | 2.3 | 0.0 (n/a) | 0.7 | 23 | image/quiet |
-| 15 | 2,740 | 41% | 94 | 11.6/0.88/53 | 24% | 1.24 | 4.3 | 1.2 | 1.8 (100%) | 0.0 | 19 | dialogue |
+| 15 | 2,739 | 41% | 94 | 11.6/0.88/53 | 24% | 1.24 | 4.3 | 1.2 | 1.8 (100%) | 0.0 | 19 | dialogue |
 | 16 | 2,176 | 34% | 121 | 9.8/0.88/47 | 24% | 0.91 | 4.9 | 0.3 | 0.7 (100%) | 1.8 | 21 | image/quiet |
 | 17 | 2,426 | 29% | 40 | 11.3/0.97/63 | 23% | 1.07 | 5.8 | 0.9 | 0.6 (100%) | 0.4 | 7 | dialogue |
-| 18 | 2,279 | 17% | 116 | 11.5/0.82/42 | 24% | 0.91 | 2.6 | 1.1 | 0.0 (n/a) | 0.0 | 2 | dialogue |
+| 18 | 2,278 | 17% | 116 | 11.4/0.82/42 | 24% | 0.91 | 2.6 | 1.1 | 0.0 (n/a) | 0.0 | 2 | dialogue |
 | 19 | 2,519 | 30% | 88 | 11.1/0.96/58 | 25% | 1.16 | 1.7 | 1.1 | 2.3 (75%) | 0.0 | 15 | image/quiet |
 | 20 | 1,680 | 31% | 181 | 10.4/0.89/51 | 23% | 1.04 | 2.6 | 0.9 | 0.9 (0%) | 1.2 | 5 | dialogue |
 | 21 | 3,295 | 69% | 0 | 13.0/0.86/62 | 17% | 1.32 | 3.0 | 3.5 | 2.0 (100%) | 0.6 | 17 | image/quiet |
 | 22 | 2,190 | 40% | 94 | 10.3/0.86/50 | 23% | 0.97 | 3.8 | 1.1 | 0.8 (100%) | 0.5 | 3 | dialogue |
-| 23 | 2,376 | 44% | 23 | 12.8/0.84/54 | 19% | 1.06 | 2.2 | 1.5 | 1.5 (100%) | 0.4 | 3 | image/quiet |
-| 24 | 2,441 | 36% | 283 | 11.3/0.84/45 | 25% | 1.0 | 1.9 | 1.0 | 0.6 (0%) | 0.8 | 25 | image/quiet |
+| 23 | 2,340 | 44% | 23 | 12.6/0.84/54 | 19% | 1.06 | 2.3 | 1.5 | 1.5 (100%) | 0.4 | 3 | image/quiet |
+| 24 | 2,440 | 36% | 282 | 11.3/0.84/45 | 25% | 1.0 | 1.9 | 1.0 | 0.6 (0%) | 0.8 | 25 | image/quiet |
 | 25 | 2,068 | 19% | 833 | 16.3/0.9/72 | 15% | 1.06 | 4.8 | 1.5 | 0.0 (n/a) | 0.0 | 21 | image/quiet |
 | 26 | 1,830 | 43% | 43 | 12.4/0.83/50 | 22% | 1.06 | 3.8 | 0.0 | 0.0 (n/a) | 1.1 | 1 | dialogue |
-| 27 | 2,831 | 24% | 40 | 6.8/0.92/37 | 48% | 0.99 | 5.1 | 0.5 | 0.0 (n/a) | 0.0 | 1 | dialogue |
-| 28 | 2,831 | 53% | 45 | 10.0/0.91/51 | 25% | 1.02 | 6.8 | 1.5 | 0.0 (n/a) | 0.0 | 23 | image/quiet |
-| 29 | 2,446 | 39% | 0 | 10.6/0.87/45 | 25% | 1.07 | 2.7 | 1.7 | 0.7 (100%) | 0.8 | 3 | dialogue |
+| 27 | 2,821 | 24% | 40 | 6.7/0.91/29 | 48% | 0.98 | 4.6 | 0.5 | 0.0 (n/a) | 0.0 | 1 | dialogue |
+| 28 | 2,830 | 53% | 45 | 10.0/0.91/51 | 25% | 1.02 | 6.8 | 1.5 | 0.0 (n/a) | 0.0 | 23 | image/quiet |
+| 29 | 2,444 | 39% | 0 | 10.6/0.87/45 | 25% | 1.07 | 2.7 | 1.7 | 0.7 (100%) | 0.8 | 3 | dialogue |
 | 30 | 2,488 | 40% | 165 | 11.4/0.84/48 | 23% | 1.09 | 4.7 | 1.3 | 0.0 (n/a) | 0.0 | 1 | dialogue |
 
-### Ch 1 — Chapter 1 (2,415 w)
+### Ch 1 — Chapter 1 (2,414 w)
 - FLAG: dialogue 16% below floor 25%
 - FLAG: self-posed question→short answer pattern ×4
 
-### Ch 5 — Chapter 5 (2,373 w)
+### Ch 5 — Chapter 5 (2,372 w)
 - FLAG: emotion anchoring 75% < 85%; e.g. She'd hate to be seen like this.
 
 ### Ch 8 — Chapter 8 (2,601 w)
 - FLAG: dialogue 23% below floor 25%
 
-### Ch 11 — Chapter 11 (3,134 w)
+### Ch 11 — Chapter 11 (3,132 w)
 - FLAG: dialogue 17% below floor 25%
 
-### Ch 18 — Chapter 18 (2,279 w)
+### Ch 18 — Chapter 18 (2,278 w)
 - FLAG: dialogue 17% below floor 25%
 
 ### Ch 19 — Chapter 19 (2,519 w)
@@ -62,17 +62,17 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 ### Ch 20 — Chapter 20 (1,680 w)
 - FLAG: emotion anchoring 0% < 85%; e.g. "Tell me you're here to make me happy.
 
-### Ch 24 — Chapter 24 (2,441 w)
+### Ch 24 — Chapter 24 (2,440 w)
 - FLAG: emotion anchoring 0% < 85%; e.g. She's scared.
 
 ### Ch 25 — Chapter 25 (2,068 w)
 - FLAG: dialogue 19% below floor 25%
 
-### Ch 27 — Chapter 27 (2,831 w)
+### Ch 27 — Chapter 27 (2,821 w)
 - FLAG: dialogue 24% below floor 25%
 - FLAG: fragment share 48% > 30% (compulsive punch-fragments)
 
-### Ch 28 — Chapter 28 (2,831 w)
+### Ch 28 — Chapter 28 (2,830 w)
 - FLAG: filter words 6.8/1k > 6.0
 
 ## Book-level flags

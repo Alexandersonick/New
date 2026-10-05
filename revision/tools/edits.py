@@ -139,3 +139,26 @@ EDITS = [
 ("insert_after", 3599, None, "R03",
  "“Then ask her in person,” he said. “What time is your sister coming?”"),
 ]
+
+# ---------------- Hostile-reader follow-up (rank 11 tic 'never once'; rank 9 residual glosses) ----------------
+SUBS = [
+ (64,   "she had never once in thirty-five years worn it", "she had not in thirty-five years worn it"),
+ (272,  "he had never once asked me to move it", "he had never asked me to move it"),
+ (366,  "and I never once heard her complain", "and I never heard her complain"),
+ (420,  "It had never once been true.", "It had never been true."),
+ (431,  "His sign has never once been right.", "His sign has never been right."),
+ (1074, "it has never once failed", "it has never failed"),
+ (1198, "My own mother has never once raised her voice to me", "My own mother has never raised her voice to me"),
+ (1267, "who never once pressed it", "who never pressed it"),
+ (1433, "My sister had never once in thirty-five years told", "My sister had not in thirty-five years told"),
+ (1727, "You’ve never once in eleven years done", "You’ve never in eleven years done"),
+ (2086, "He had never once done this", "He had never done this"),
+ (2688, "and never once done it himself", "and never done it himself"),
+ (3255, "She said I never once let her hold my hand.", "She said I never let her hold my hand."),
+ (3422, "It has never once been wrong.", "It has never been wrong."),
+ (3426, "and never once said so in front of Bernadette", "and never said so in front of Bernadette"),
+ (2648, "If he did the face, and it was perfect, I would never be able to tell whether I wanted him in this room or only what his hands could do in it, and neither would he. ", ""),
+ (3146, " so it would lie flat, so nobody would ever see where she had been struck.", " so it would lie flat."),
+ # Reader note: follow + honest review, no links
+ (3671, "You can also follow me on Amazon to hear about new releases first.", "You can also follow me on Amazon: search for Shawn J Dean, open my author page, and tap Follow. You’ll hear about new releases first."),
+]

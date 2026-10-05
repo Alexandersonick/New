@@ -1,6 +1,41 @@
 # Change record: every edit, original beside revised
 
-Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit's ¶ numbers run about one higher). Underscores mark italics.
+Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit's ¶ numbers run about one higher). Underscores mark italics. TOC page numbers were also re-synced to the new pagination (not listed).
+
+
+### Chapter 1 — Maud · ¶64 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …she had never once in thirty-five years worn it…
+
+**After:** …she had not in thirty-five years worn it…
+
+
+### Chapter 3 — Maud · ¶272 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …he had never once asked me to move it…
+
+**After:** …he had never asked me to move it…
+
+
+### Chapter 4 — Declan · ¶366 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …and I never once heard her complain…
+
+**After:** …and I never heard her complain…
+
+
+### Chapter 4 — Declan · ¶420 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …It had never once been true.…
+
+**After:** …It had never been true.…
+
+
+### Chapter 5 — Maud · ¶431 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …His sign has never once been right.…
+
+**After:** …His sign has never been right.…
 
 
 ### Chapter 5 — Maud · ¶486 · R04 · replace
@@ -89,12 +124,33 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 **Before:** “No yellow,” he said, writing it.
 
 
+### Chapter 9 — Maud · ¶1074 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …it has never once failed…
+
+**After:** …it has never failed…
+
+
 ### Chapter 9 — Maud · ¶1079 · R01 · replace
 
 **Before:** I sat back and dictated. “Two-forty p.m. Varnish removal, test area two, lower right, adjacent to the July window. Solvent gel, six applications of sixty seconds, cleared with a damp swab and rinsed. Operator D. Hale, under direct supervision of M. Alder, conservator, present throughout. Result: varnish fully reduced. Original paint layer intact.”
 
 
 **After:** I sat back and dictated the entry, the time and the area and the six applications of sixty seconds and the operator line, and then the only line I cared about. “Result: varnish fully reduced. Original paint layer intact.”
+
+
+### Chapter 11 — Maud · ¶1198 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …My own mother has never once raised her voice to me…
+
+**After:** …My own mother has never raised her voice to me…
+
+
+### Chapter 11 — Maud · ¶1267 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …who never once pressed it…
+
+**After:** …who never pressed it…
 
 
 ### Chapter 12 — Declan · ¶1323 · R01 · replace
@@ -136,6 +192,20 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 
 
 **After:** “I had a ticket open on my laptop,” she said. “Twice. The second time I didn’t call your mother first. Philadelphia to Bologna, $900, and my finger on the button. And then you sent me a picture.” She leaned over and turned two pages and put her finger on it. “View from my window. A road with all those skinny trees. And I thought, fine, she’s alive, she’s being weird, she hit her head, leave her alone.”
+
+
+### Chapter 13 — Maud · ¶1433 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …My sister had never once in thirty-five years told…
+
+**After:** …My sister had not in thirty-five years told…
+
+
+### Chapter 15 — Maud · ¶1727 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …You’ve never once in eleven years done…
+
+**After:** …You’ve never in eleven years done…
 
 
 ### Chapter 15 — Maud · ¶1747 · R01 · replace
@@ -186,6 +256,13 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 **After:** I wrote it down before I moved the lamp. _Left brow, outer end at veil: old loss beneath 1957 fill, approx. 6 mm._
 
 
+### Chapter 18 — Declan · ¶2086 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …He had never once done this…
+
+**After:** …He had never done this…
+
+
 ### Chapter 19 — Maud · ¶2239 · R01/R02 · delete
 
 **Before:** “Why does it go darker when it dries?” he said.
@@ -225,6 +302,20 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 ### Chapter 23 — Maud · ¶2648 · R01 (timetable) · insert_after
 
 **Inserted after ¶2648:** That left me ten days. The face was one night’s work if the night was planned to the minute, and I could plan it with one hand. What I couldn’t do with one hand was the work, and I would not ask for his until I knew which I was asking for. If I didn’t know by the twenty-third, I would telephone Frances that morning and tell her not to come, and the parish would hang Helen Wrobel for one more Christmas, and I would sign my name to that as well.
+
+
+### Chapter 23 — Maud · ¶2648 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …If he did the face, and it was perfect, I would never be able to tell whether I wanted him in this room or only what his hands could do in it, and neither would he. …
+
+**After:** …(deleted)…
+
+
+### Chapter 24 — Declan · ¶2688 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …and never once done it himself…
+
+**After:** …and never done it himself…
 
 
 ### Chapter 25 — Maud · ¶2860 · R02 · replace
@@ -324,6 +415,13 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 **After:** He was coming to it now, the old scrape at the end of the brow where it ran under the veil, where something had struck her between 1886 and 1957. Someone after that had filled it with a small brush and left it a little low, mended and left showing, and then Wrobel had covered all of it.
 
 
+### Chapter 27 — Maud · ¶3146 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** … so it would lie flat, so nobody would ever see where she had been struck.…
+
+**After:** … so it would lie flat.…
+
+
 ### Chapter 27 — Maud · ¶3156 · R02 (consistency) · replace
 
 **Before:** Across her left brow, under the veil, ran an old break, mended and a little low.
@@ -345,6 +443,13 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 ### Chapter 27 — Maud · ¶3180 · R02 · delete
 
 **Before:** “Then it’s yours,” Frances said.
+
+
+### Chapter 28 — Declan · ¶3255 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …She said I never once let her hold my hand.…
+
+**After:** …She said I never let her hold my hand.…
 
 
 ### Chapter 28 — Declan · ¶3267 · R03 · replace
@@ -377,6 +482,20 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 
 
 **After:** “I know you do. I knew in the chapel, with my head on the bricks. That was never the part I couldn’t tell.” She drew a breath and let it go. “The evenings were never going to pay for the nine weeks. I’ve stopped wanting them to.”
+
+
+### Chapter 29 — Maud · ¶3422 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …It has never once been wrong.…
+
+**After:** …It has never been wrong.…
+
+
+### Chapter 29 — Maud · ¶3426 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …and never once said so in front of Bernadette…
+
+**After:** …and never said so in front of Bernadette…
 
 
 ### Chapter 30 — Maud · ¶3599 · R03 · replace
@@ -420,3 +539,10 @@ Paragraph numbers are absolute body indices in the supplied `_2` DOCX (the audit
 ### Chapter 30 — Maud · ¶3599 · R03 · insert_after
 
 **Inserted after ¶3599:** “Then ask her in person,” he said. “What time is your sister coming?”
+
+
+### A Note to Readers · ¶3671 · Follow-up (hostile reader / reader note) · in-line change
+
+**Before:** …You can also follow me on Amazon to hear about new releases first.…
+
+**After:** …You can also follow me on Amazon: search for Shawn J Dean, open my author page, and tap Follow. You’ll hear about new releases first.…
