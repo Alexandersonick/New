@@ -30,3 +30,18 @@ Source: `qc/HOSTILE_READER_ch01-03.md`. First-time verdict **PASS**. Repeat-read
 |---|---|---|---|
 | D-08 | rank 11 | The "fifteen mornings" story is told three times: Ch 10 (Adam memory), Ch 22 (Adam retells), Ch 25 (to Pip). | Cut the Ch 22 retelling down to the realisation ("we did the same thing"); trim the Ch 10 memory to a glimpse, so the full telling lands once, in Ch 25, to her. |
 | D-09 | staging | Ch 23's discovery of the moved chair and blanket risked a "secret-then-discovered" repair rhythm (catalog house template). | **Fixed:** Ch 22 now has Adam text her before he sleeps in the room; Ch 23 has her deliberately not checking. |
+
+## Full-draft Hostile Reader Pass (Phase 12): `qc/HOSTILE_READER_full_draft1.md`
+First-time verdict **FAIL** (rank 11, medium). Repeat reader `could_write_the_same_book_review: true`.
+No Breach Gate breach; no DNF point.
+
+| ID | Tag | Finding | Fix | Status |
+|---|---|---|---|---|
+| D-10 | rank 11 | The fifteen-mornings story is told three times; fern and receipt lines duplicated. | Ch 10 and Ch 22 retellings cut; Ch 25 is the only telling. | **fixed** (structural) |
+| D-11 | rank 11 | Phrase tics: "two years" ×53, "looks at me" ×65, "a long time" ×43; the "before / like a person / I'm learning / I'm asking / bad part first" chant. | Line-revision agents A–F (brief addendum). | line pass |
+| D-12 | rank 10 | Countdown and money logic: "ten days" on vote day; Friday balance includes a Saturday closure; grant reimbursed before trainees exist. | Test is Friday 12 Feb, close of business; Nashville line stops Mon 8 Feb; grant kept out of the test math. | **fixed** (Ch 21, 24, 26, 28, 29, 30) |
+| D-13 | rank 6 | Billionaire signal weak; triangle defused by Ch 9. | "Billion-dollar couple" press (Ch 2); $1.1B on the slide (Ch 5); the paper-worth vs. checking-account line (Ch 7); Simone's feelings left ambiguous until Ch 17 ("What else I feel… is not your business"). | **fixed** |
+| D-14 | §5.3 | Final paragraph register drop. | New Ch 30 ending: short final paragraph, object at rest (the radiator chair). | **fixed** |
+| D-15 | CATALOG_SAMENESS | Repeat reader recognised: heroine sets terms; "learns to ask"; authority figures moved by "the bad part first"; no-clap equity beat; prepared speech left in a pocket; months-later shared desk; phone-face-down vow; numeric time-stamping; weld similes; numbered plans; blunt-matriarch crew. | Terms removed (Ch 16: Adam originates telling-before, from Odell's parking-lot line). Gil and Margaret say yes for business reasons. No-clap and pocket speech cut. Ch 30 is now the same week with no shared desk. Line pass cuts clock times, weld similes, numbered-plan prose and the asking chant. Lolo votes no, and refuses to give advice in Ch 27. | structural fixed; line pass running |
+| D-16 | continuity | Oct 9 weekday → Oct 8 (Thursday); Northgate signing place (initialled in Chicago, signed at the counter); "a week ago" → three weeks; Adam's POV quoting Ch 9 scenes he didn't see; "flight suit" → travel suit; the "person familiar" leak answered (Simone's Ch 30 text: Halvard's comms team); Tavi's internship. | **fixed** |
+| D-17 | rank 13 | Meta wink in Ch 27 ("old woman at the edge of the story"). | Cut. | **fixed** |
