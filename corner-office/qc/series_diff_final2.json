@@ -1,0 +1,2011 @@
+{
+  "params": {
+    "n": 4,
+    "min_count": 3,
+    "min_books": 2,
+    "open_high": 0.35,
+    "end_high": 0.3,
+    "exit_same": 0.3
+  },
+  "profiles": [
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/assistant-remembered.md",
+      "title": "The Assistant Remembered What My Husband Forgot",
+      "quote_style": "double",
+      "words": 8419,
+      "chapters": 5,
+      "chapter_mean": 1683.8,
+      "chapter_cv": 0.152,
+      "dialogue_pct": 29.1,
+      "dialogue_pct_ch1_3": 29.3,
+      "ttfd_ch1": 429,
+      "first_person_per_1000": 55.7,
+      "first_person_share": 0.599,
+      "narration_mode": "first-person",
+      "pov_markers": 0,
+      "first_sentence": "The handwriting on the card was wrong.",
+      "first_60_words": "The handwriting on the card was wrong It caught me before the flowers did which tells you something about which of the two mattered more to me The flowers were good white ranunculus and a green I couldn't name wrapped in brown paper instead of that crinkling cellophane which meant Whit had used a real florist instead of the app",
+      "last_paragraph": "We walked out the back door together, into an ordinary Saturday afternoon, toward two separate cars, in no hurry, for once, to decide which one to take.",
+      "top_ngrams": [
+        [
+          "either of us had",
+          3
+        ],
+        [
+          "i didn't want to",
+          3
+        ],
+        [
+          "thank you for telling",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 1,
+        "question": 0,
+        "decision": 0,
+        "cliffhanger-ish": 0,
+        "image/quiet": 3,
+        "SUMMARY?": 1,
+        "NAMED-FEELING?": 1,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 20.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 60.0,
+        "SUMMARY?": 20.0,
+        "NAMED-FEELING?": 20.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 8436,
+        "parsed_words": 8419,
+        "ratio": 0.998,
+        "ok": true,
+        "note": "",
+        "section_markers": 0,
+        "chapters": 5
+      },
+      "voice": {
+        "book": {
+          "words": 5965,
+          "rates": {
+            "em_dash": 0.5,
+            "neg_par": 0.0,
+            "not_exactly": 0.17,
+            "understood": 0.0,
+            "hedge": 0.0,
+            "first_time": 0.0,
+            "filter": 3.52,
+            "theme": 0.0
+          },
+          "counts": {
+            "em_dash": 3,
+            "neg_par": 0,
+            "not_exactly": 1,
+            "understood": 0,
+            "hedge": 0,
+            "first_time": 0,
+            "filter": 21,
+            "theme": 0
+          },
+          "openers": [
+            "i said",
+            "i have",
+            "fern said",
+            "naomi said",
+            "i did",
+            "ten years",
+            "that was",
+            "there was",
+            "i sat",
+            "i didn't",
+            "it had",
+            "this s",
+            "i turned",
+            "a small",
+            "a woman",
+            "a pause",
+            "another pause",
+            "i hung",
+            "fern had",
+            "in the"
+          ]
+        },
+        "by_pov": {
+          "unlabelled": {
+            "words": 5965,
+            "rates": {
+              "em_dash": 0.5,
+              "neg_par": 0.0,
+              "not_exactly": 0.17,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 3.52,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 3,
+              "neg_par": 0,
+              "not_exactly": 1,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 21,
+              "theme": 0
+            },
+            "openers": [
+              "i said",
+              "i have",
+              "fern said",
+              "naomi said",
+              "i did",
+              "ten years",
+              "that was",
+              "there was",
+              "i sat",
+              "i didn't",
+              "it had",
+              "this s",
+              "i turned",
+              "a small",
+              "a woman",
+              "a pause",
+              "another pause",
+              "i hung",
+              "fern had",
+              "in the"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "unlabelled": 5965
+        }
+      },
+      "label": "The Assistant Remembered What My Husband Forgot"
+    },
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/bodyguard-posing-husband.md",
+      "title": "My Bodyguard Is Posing as My Husband",
+      "quote_style": "double",
+      "words": 7202,
+      "chapters": 6,
+      "chapter_mean": 1200.3,
+      "chapter_cv": 0.336,
+      "dialogue_pct": 22.6,
+      "dialogue_pct_ch1_3": 13.3,
+      "ttfd_ch1": 54,
+      "first_person_per_1000": 0.9,
+      "first_person_share": 0.012,
+      "narration_mode": "third-person",
+      "pov_markers": 6,
+      "first_sentence": "The number was wrong by four hundred and twelve dollars, and that was the part that wouldn't let Laney go home.",
+      "first_60_words": "The number was wrong by four hundred and twelve dollars and that was the part that wouldn't let Laney go home Not the four hundred and twelve dollars itself Ashcroft Capital moved that much in the time it took her to swallow her coffee It was the shape of the wrongness a single trust-account adjustment entry dated the last business",
+      "last_paragraph": "Cole kissed the top of her head, and together they sat in the gathering dusk, two people who had once built an entire life out of a careful, necessary lie and had, slowly, patiently, over two remarkable years, built something infinitely truer in its place   —   a real home, on a real street, under a",
+      "top_ngrams": [
+        [
+          "four hundred and twelve",
+          5
+        ],
+        [
+          "hundred and twelve dollars",
+          5
+        ],
+        [
+          "a few minutes later",
+          3
+        ],
+        [
+          "better part of a",
+          3
+        ],
+        [
+          "closed all the way",
+          3
+        ],
+        [
+          "its own kind of",
+          3
+        ],
+        [
+          "never quite closed all",
+          3
+        ],
+        [
+          "on the porch step",
+          3
+        ],
+        [
+          "part of a year",
+          3
+        ],
+        [
+          "quite closed all the",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 1,
+        "question": 0,
+        "decision": 0,
+        "cliffhanger-ish": 1,
+        "image/quiet": 4,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 0,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 16.7,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 16.7,
+        "image/quiet": 66.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 7234,
+        "parsed_words": 7202,
+        "ratio": 0.996,
+        "ok": true,
+        "note": " WARNING: 6 `## ` headings were read as POV/section markers because they do not look like chapter headings (Laney, Laney, Laney, Cole, Cole, Laney) while only 6 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+        "section_markers": 6,
+        "chapters": 6
+      },
+      "voice": {
+        "book": {
+          "words": 5572,
+          "rates": {
+            "em_dash": 11.31,
+            "neg_par": 0.54,
+            "not_exactly": 0.18,
+            "understood": 0.18,
+            "hedge": 0.0,
+            "first_time": 0.0,
+            "filter": 5.38,
+            "theme": 0.36
+          },
+          "counts": {
+            "em_dash": 63,
+            "neg_par": 3,
+            "not_exactly": 1,
+            "understood": 1,
+            "hedge": 0,
+            "first_time": 0,
+            "filter": 30,
+            "theme": 2
+          },
+          "openers": [
+            "laney said",
+            "she had",
+            "it was",
+            "that was",
+            "cole said",
+            "she didn't",
+            "it didn't",
+            "she just",
+            "she pulled",
+            "then she",
+            "she closed",
+            "she heard",
+            "she was",
+            "she told",
+            "i don't",
+            "richard said",
+            "she checked",
+            "checked the",
+            "meredith said",
+            "rosa said"
+          ]
+        },
+        "by_pov": {
+          "Laney": {
+            "words": 4501,
+            "rates": {
+              "em_dash": 11.78,
+              "neg_par": 0.67,
+              "not_exactly": 0.22,
+              "understood": 0.22,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 6.44,
+              "theme": 0.44
+            },
+            "counts": {
+              "em_dash": 53,
+              "neg_par": 3,
+              "not_exactly": 1,
+              "understood": 1,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 29,
+              "theme": 2
+            },
+            "openers": [
+              "she had",
+              "laney said",
+              "it was",
+              "that was",
+              "she didn't",
+              "it didn't",
+              "she just",
+              "she pulled",
+              "then she",
+              "she closed",
+              "she heard",
+              "she was",
+              "she told",
+              "i don't",
+              "richard said",
+              "she checked",
+              "checked the",
+              "meredith said",
+              "cole said",
+              "the number"
+            ]
+          },
+          "Cole": {
+            "words": 1071,
+            "rates": {
+              "em_dash": 9.34,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 0.93,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 10,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 1,
+              "theme": 0
+            },
+            "openers": [
+              "rosa said",
+              "cole admitted",
+              "laney said",
+              "cole said",
+              "they talked",
+              "the reception",
+              "reyes found",
+              "okonkwo quieter",
+              "he found",
+              "they chose",
+              "she joined",
+              "they spent",
+              "laney read",
+              "cole taught",
+              "laney announced",
+              "he kissed",
+              "they left"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "Laney": 4501,
+          "Cole": 1071
+        }
+      },
+      "label": "My Bodyguard Is Posing as My Husband"
+    },
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/estranged-husband-came-back.md",
+      "title": "My Estranged Husband Came Back",
+      "quote_style": "double",
+      "words": 11764,
+      "chapters": 5,
+      "chapter_mean": 2352.8,
+      "chapter_cv": 0.183,
+      "dialogue_pct": 29.1,
+      "dialogue_pct_ch1_3": 29.2,
+      "ttfd_ch1": 179,
+      "first_person_per_1000": 61.1,
+      "first_person_share": 0.646,
+      "narration_mode": "first-person",
+      "pov_markers": 0,
+      "first_sentence": "You do not, under any circumstances, answer the porch light at nine o'clock at night in a town like Sutton's Ridge without knowing who's standing on the other side of it.",
+      "first_60_words": "You do not under any circumstances answer the porch light at nine o'clock at night in a town like Sutton's Ridge without knowing who's standing on the other side of it Everyone knows that It is not a rule anyone wrote down because it has never once needed writing down because nothing happens in Sutton's Ridge at nine o'clock at",
+      "last_paragraph": "I reached for Theo's hand on the step, his grandmother's ring catching the last of the porch light, and did not let go.",
+      "top_ngrams": [
+        [
+          "for what it's worth",
+          5
+        ],
+        [
+          "at nine o'clock at",
+          4
+        ],
+        [
+          "i had never once",
+          4
+        ],
+        [
+          "i have never once",
+          4
+        ],
+        [
+          "nine o'clock at night",
+          4
+        ],
+        [
+          "of a man who",
+          4
+        ],
+        [
+          "a woman who had",
+          3
+        ],
+        [
+          "and i would like",
+          3
+        ],
+        [
+          "i'm not going to",
+          3
+        ],
+        [
+          "its own kind of",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 0,
+        "question": 0,
+        "decision": 0,
+        "cliffhanger-ish": 0,
+        "image/quiet": 5,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 0,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 0.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 100.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 11778,
+        "parsed_words": 11764,
+        "ratio": 0.999,
+        "ok": true,
+        "note": "",
+        "section_markers": 0,
+        "chapters": 5
+      },
+      "voice": {
+        "book": {
+          "words": 8343,
+          "rates": {
+            "em_dash": 1.8,
+            "neg_par": 0.0,
+            "not_exactly": 0.12,
+            "understood": 0.0,
+            "hedge": 0.24,
+            "first_time": 0.12,
+            "filter": 3.96,
+            "theme": 0.12
+          },
+          "counts": {
+            "em_dash": 15,
+            "neg_par": 0,
+            "not_exactly": 1,
+            "understood": 0,
+            "hedge": 2,
+            "first_time": 1,
+            "filter": 33,
+            "theme": 1
+          },
+          "openers": [
+            "i said",
+            "i did",
+            "i had",
+            "theo said",
+            "it was",
+            "i thought",
+            "i told",
+            "that was",
+            "i was",
+            "i watched",
+            "my father",
+            "he said",
+            "what i",
+            "some things",
+            "you do",
+            "it is",
+            "i broke",
+            "this was",
+            "he had",
+            "i want"
+          ]
+        },
+        "by_pov": {
+          "unlabelled": {
+            "words": 8343,
+            "rates": {
+              "em_dash": 1.8,
+              "neg_par": 0.0,
+              "not_exactly": 0.12,
+              "understood": 0.0,
+              "hedge": 0.24,
+              "first_time": 0.12,
+              "filter": 3.96,
+              "theme": 0.12
+            },
+            "counts": {
+              "em_dash": 15,
+              "neg_par": 0,
+              "not_exactly": 1,
+              "understood": 0,
+              "hedge": 2,
+              "first_time": 1,
+              "filter": 33,
+              "theme": 1
+            },
+            "openers": [
+              "i said",
+              "i did",
+              "i had",
+              "theo said",
+              "it was",
+              "i thought",
+              "i told",
+              "that was",
+              "i was",
+              "i watched",
+              "my father",
+              "he said",
+              "what i",
+              "some things",
+              "you do",
+              "it is",
+              "i broke",
+              "this was",
+              "he had",
+              "i want"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "unlabelled": 8343
+        }
+      },
+      "label": "My Estranged Husband Came Back"
+    },
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/i-was-his-neglected-wife.md",
+      "title": "I Was His Neglected Wife",
+      "quote_style": "double",
+      "words": 11224,
+      "chapters": 8,
+      "chapter_mean": 1403.0,
+      "chapter_cv": 0.215,
+      "dialogue_pct": 20.5,
+      "dialogue_pct_ch1_3": 15.9,
+      "ttfd_ch1": 46,
+      "first_person_per_1000": 1.1,
+      "first_person_share": 0.016,
+      "narration_mode": "third-person",
+      "pov_markers": 8,
+      "first_sentence": "Marisol Vega had learned exactly how many seconds she could hold a smile before it started reading as a symptom.",
+      "first_60_words": "Marisol Vega had learned exactly how many seconds she could hold a smile before it started reading as a symptom Four maybe five She was on second four now watching Porter Lindqvist explain her own spreadsheet back to a client who had not asked him to So the phased draw works in our favor here Porter said tapping a manicured",
+      "last_paragraph": "\"It was worth every bit of what it cost,\" Idris said, and took her hand as they walked out together, past Deb's desk, past the front door with its new lettering catching the last of the afternoon light, out into a Saturday that belonged, at last, to both of them equally, built the slow, unglamorous,",
+      "top_ngrams": [
+        [
+          "a woman who had",
+          5
+        ],
+        [
+          "for the first time",
+          5
+        ],
+        [
+          "exactly as long as",
+          4
+        ],
+        [
+          "of a woman who",
+          4
+        ],
+        [
+          "and she thought about",
+          3
+        ],
+        [
+          "at the front desk",
+          3
+        ],
+        [
+          "exactly this kind of",
+          3
+        ],
+        [
+          "for exactly as long",
+          3
+        ],
+        [
+          "he had never once",
+          3
+        ],
+        [
+          "he wanted to admit",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 2,
+        "question": 0,
+        "decision": 2,
+        "cliffhanger-ish": 1,
+        "image/quiet": 2,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 2,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 25.0,
+        "question": 0.0,
+        "decision": 25.0,
+        "cliffhanger-ish": 12.5,
+        "image/quiet": 25.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 25.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 11260,
+        "parsed_words": 11224,
+        "ratio": 0.997,
+        "ok": true,
+        "note": " WARNING: 8 `## ` headings were read as POV/section markers because they do not look like chapter headings (Marisol, Idris, Idris, Marisol, Idris, Idris…) while only 8 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+        "section_markers": 8,
+        "chapters": 8
+      },
+      "voice": {
+        "book": {
+          "words": 8919,
+          "rates": {
+            "em_dash": 8.18,
+            "neg_par": 0.0,
+            "not_exactly": 0.0,
+            "understood": 0.45,
+            "hedge": 0.11,
+            "first_time": 0.56,
+            "filter": 5.05,
+            "theme": 0.22
+          },
+          "counts": {
+            "em_dash": 73,
+            "neg_par": 0,
+            "not_exactly": 0,
+            "understood": 4,
+            "hedge": 1,
+            "first_time": 5,
+            "filter": 45,
+            "theme": 2
+          },
+          "openers": [
+            "marisol said",
+            "idris said",
+            "porter said",
+            "deb said",
+            "she had",
+            "she did",
+            "she sat",
+            "he did",
+            "he sat",
+            "renata said",
+            "he had",
+            "she didn't",
+            "deb looked",
+            "there was",
+            "marisol had",
+            "renata was",
+            "he turned",
+            "she watched",
+            "he was",
+            "deb had"
+          ]
+        },
+        "by_pov": {
+          "Marisol": {
+            "words": 3949,
+            "rates": {
+              "em_dash": 6.84,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.51,
+              "hedge": 0.0,
+              "first_time": 0.25,
+              "filter": 4.05,
+              "theme": 0.25
+            },
+            "counts": {
+              "em_dash": 27,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 2,
+              "hedge": 0,
+              "first_time": 1,
+              "filter": 16,
+              "theme": 1
+            },
+            "openers": [
+              "marisol said",
+              "porter said",
+              "she had",
+              "she did",
+              "she sat",
+              "renata said",
+              "marisol had",
+              "renata was",
+              "she watched",
+              "he had",
+              "she didn't",
+              "deb looked",
+              "her own",
+              "it was",
+              "her voice",
+              "there was",
+              "four months",
+              "idris said",
+              "she thought",
+              "marisol vega"
+            ]
+          },
+          "Idris": {
+            "words": 4970,
+            "rates": {
+              "em_dash": 9.26,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.4,
+              "hedge": 0.2,
+              "first_time": 0.8,
+              "filter": 5.84,
+              "theme": 0.2
+            },
+            "counts": {
+              "em_dash": 46,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 2,
+              "hedge": 1,
+              "first_time": 4,
+              "filter": 29,
+              "theme": 1
+            },
+            "openers": [
+              "idris said",
+              "marisol said",
+              "deb said",
+              "porter said",
+              "he did",
+              "he sat",
+              "he drove",
+              "she had",
+              "he would",
+              "that night",
+              "idris calder",
+              "he walked",
+              "renata shook",
+              "real depth",
+              "idris turned",
+              "this was",
+              "deb was",
+              "she didn't",
+              "a pause",
+              "she stamped"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "Marisol": 3949,
+          "Idris": 4970
+        }
+      },
+      "label": "I Was His Neglected Wife"
+    },
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/quarterback-fake-wife.md",
+      "title": "The Quarterback Needs a Fake Wife",
+      "quote_style": "double",
+      "words": 7600,
+      "chapters": 6,
+      "chapter_mean": 1266.7,
+      "chapter_cv": 0.29,
+      "dialogue_pct": 37.2,
+      "dialogue_pct_ch1_3": 40.1,
+      "ttfd_ch1": 254,
+      "first_person_per_1000": 39.0,
+      "first_person_share": 0.484,
+      "narration_mode": "first-person",
+      "pov_markers": 6,
+      "first_sentence": "Six weeks isn't a deadline.",
+      "first_60_words": "Six weeks isn't a deadline Six weeks is a countdown and I have never once in my life beaten a countdown The letter was sitting on top of the mail pile when I came in at five which meant Dot had already read it which meant she'd spent the whole dark drive in from her place composing a way to",
+      "last_paragraph": "Behind us, faint through the frosted window glass, Diane was humming something low over the last of the dishes, Theo's voice rising once more in some fresh, self-important protest about bedtime. I closed my hand around the key one more time, warm now from both our pockets, and slipped it into mine i",
+      "top_ngrams": [
+        [
+          "front of us the",
+          3
+        ],
+        [
+          "go back to dublin",
+          3
+        ],
+        [
+          "in front of us",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 1,
+        "question": 0,
+        "decision": 1,
+        "cliffhanger-ish": 0,
+        "image/quiet": 4,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 0,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 16.7,
+        "question": 0.0,
+        "decision": 16.7,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 66.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 7629,
+        "parsed_words": 7600,
+        "ratio": 0.996,
+        "ok": true,
+        "note": " WARNING: 6 `## ` headings were read as POV/section markers because they do not look like chapter headings (Nora, Cade, Nora, Cade, Nora, Nora) while only 6 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+        "section_markers": 6,
+        "chapters": 6
+      },
+      "voice": {
+        "book": {
+          "words": 4769,
+          "rates": {
+            "em_dash": 5.66,
+            "neg_par": 0.0,
+            "not_exactly": 0.0,
+            "understood": 0.0,
+            "hedge": 0.21,
+            "first_time": 0.21,
+            "filter": 3.56,
+            "theme": 0.0
+          },
+          "counts": {
+            "em_dash": 27,
+            "neg_par": 0,
+            "not_exactly": 0,
+            "understood": 0,
+            "hedge": 1,
+            "first_time": 1,
+            "filter": 17,
+            "theme": 0
+          },
+          "openers": [
+            "i said",
+            "i thought",
+            "i did",
+            "i looked",
+            "cade said",
+            "nora said",
+            "six weeks",
+            "it was",
+            "three two",
+            "ninety days",
+            "i like",
+            "cade hargrove",
+            "nobody in",
+            "renata said",
+            "priya said",
+            "the whole",
+            "it had",
+            "i closed",
+            "the letter",
+            "she'd failed"
+          ]
+        },
+        "by_pov": {
+          "Nora": {
+            "words": 3471,
+            "rates": {
+              "em_dash": 6.63,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.29,
+              "filter": 4.61,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 23,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 1,
+              "filter": 16,
+              "theme": 0
+            },
+            "openers": [
+              "i said",
+              "i thought",
+              "i looked",
+              "cade said",
+              "six weeks",
+              "three two",
+              "ninety days",
+              "i did",
+              "i like",
+              "cade hargrove",
+              "priya said",
+              "the whole",
+              "it had",
+              "i closed",
+              "the letter",
+              "she'd failed",
+              "it was",
+              "i read",
+              "following the",
+              "effective immediately"
+            ]
+          },
+          "Cade": {
+            "words": 1298,
+            "rates": {
+              "em_dash": 3.08,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.77,
+              "first_time": 0.0,
+              "filter": 0.77,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 4,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 1,
+              "first_time": 0,
+              "filter": 1,
+              "theme": 0
+            },
+            "openers": [
+              "nora said",
+              "nobody in",
+              "renata said",
+              "i said",
+              "two words",
+              "renata had",
+              "it was",
+              "renata always",
+              "she sat",
+              "something in",
+              "she checked",
+              "i laughed",
+              "she let",
+              "i knew",
+              "i measure",
+              "it's safer",
+              "i want",
+              "marcus found",
+              "he waited",
+              "marcus is"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "Nora": 3471,
+          "Cade": 1298
+        }
+      },
+      "label": "The Quarterback Needs a Fake Wife"
+    },
+    {
+      "path": "/tmp/claude-0/-home-user-New/dea850da-a009-54c0-9bc8-a7d8767472a7/scratchpad/priors/twin-sister.md",
+      "title": "My Twin Sister Took My Place as His Wife",
+      "quote_style": "double",
+      "words": 12299,
+      "chapters": 5,
+      "chapter_mean": 2459.8,
+      "chapter_cv": 0.111,
+      "dialogue_pct": 33.6,
+      "dialogue_pct_ch1_3": 29.8,
+      "ttfd_ch1": 203,
+      "first_person_per_1000": 42.6,
+      "first_person_share": 0.398,
+      "narration_mode": "first-person",
+      "pov_markers": 5,
+      "first_sentence": "The first wrong thing was my coat, because I had left it on the third hook in the front hall on August 3 and it had just walked out of my front door without me.",
+      "first_60_words": "The first wrong thing was my coat because I had left it on the third hook in the front hall on August 3 and it had just walked out of my front door without me Camel wool a man's cut 11 at a thrift shop in Wilmington worn through at the right cuff where my wrist used to rest on",
+      "last_paragraph": "\"Again.\"",
+      "top_ngrams": [
+        [
+          "what do you need",
+          4
+        ],
+        [
+          "on the corridor floor",
+          3
+        ],
+        [
+          "on the hall table",
+          3
+        ],
+        [
+          "the dining room and",
+          3
+        ]
+      ],
+      "ngram_cap_reached": false,
+      "exit_counts": {
+        "dialogue": 4,
+        "question": 0,
+        "decision": 0,
+        "cliffhanger-ish": 0,
+        "image/quiet": 1,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 0,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 80.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 20.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 12328,
+        "parsed_words": 12299,
+        "ratio": 0.998,
+        "ok": true,
+        "note": " WARNING: 5 `## ` headings were read as POV/section markers because they do not look like chapter headings (Maud, Declan, Maud, Maud, Maud) while only 5 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+        "section_markers": 5,
+        "chapters": 5
+      },
+      "voice": {
+        "book": {
+          "words": 8163,
+          "rates": {
+            "em_dash": 0.0,
+            "neg_par": 0.0,
+            "not_exactly": 0.0,
+            "understood": 0.0,
+            "hedge": 0.0,
+            "first_time": 0.0,
+            "filter": 3.43,
+            "theme": 0.0
+          },
+          "counts": {
+            "em_dash": 0,
+            "neg_par": 0,
+            "not_exactly": 0,
+            "understood": 0,
+            "hedge": 0,
+            "first_time": 0,
+            "filter": 28,
+            "theme": 0
+          },
+          "openers": [
+            "i said",
+            "declan said",
+            "he had",
+            "cora said",
+            "i had",
+            "it was",
+            "she had",
+            "my sister",
+            "declan had",
+            "he was",
+            "on the",
+            "i took",
+            "when i",
+            "i have",
+            "i looked",
+            "she turned",
+            "he set",
+            "he did",
+            "he took",
+            "it had"
+          ]
+        },
+        "by_pov": {
+          "Maud": {
+            "words": 6666,
+            "rates": {
+              "em_dash": 0.0,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 2.85,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 0,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 19,
+              "theme": 0
+            },
+            "openers": [
+              "i said",
+              "declan said",
+              "cora said",
+              "i had",
+              "it was",
+              "he had",
+              "my sister",
+              "she had",
+              "on the",
+              "i took",
+              "when i",
+              "i have",
+              "i looked",
+              "declan had",
+              "at the",
+              "i could",
+              "she turned",
+              "the coat",
+              "i was",
+              "there were"
+            ]
+          },
+          "Declan": {
+            "words": 1497,
+            "rates": {
+              "em_dash": 0.0,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 6.01,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 0,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 9,
+              "theme": 0
+            },
+            "openers": [
+              "he had",
+              "he set",
+              "it had",
+              "he was",
+              "cora looked",
+              "he did",
+              "he put",
+              "he took",
+              "cora had",
+              "ray had",
+              "one the",
+              "two cora's",
+              "three terminal",
+              "it was",
+              "he started",
+              "ten settings",
+              "first load",
+              "the stemware",
+              "behind him",
+              "cora laughed"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "Maud": 6666,
+          "Declan": 1497
+        }
+      },
+      "label": "My Twin Sister Took My Place as His Wife"
+    },
+    {
+      "path": "17_MANUSCRIPT.md",
+      "title": "My CEO Husband Gave Her My Corner Office",
+      "quote_style": "double",
+      "words": 68607,
+      "chapters": 30,
+      "chapter_mean": 2286.9,
+      "chapter_cv": 0.161,
+      "dialogue_pct": 33.7,
+      "dialogue_pct_ch1_3": 27.9,
+      "ttfd_ch1": 107,
+      "first_person_per_1000": 56.0,
+      "first_person_share": 0.479,
+      "narration_mode": "first-person",
+      "pov_markers": 30,
+      "first_sentence": "My office is hanging in the sky over Monroe Avenue, turning a quarter inch at a time, and it has never looked better.",
+      "first_60_words": "My office is hanging in the sky over Monroe Avenue turning a quarter inch at a time and it has never looked better Walt Kasprzak has it on four chains off the hook of a hundred-ton crane that takes up both lanes and a bus stop Snow is coming down sideways off the river the small mean kind that gets",
+      "last_paragraph": "I don't straighten it. He'll want it at five to seven.",
+      "top_ngrams": [
+        [
+          "every one of them",
+          13
+        ],
+        [
+          "in the break room",
+          13
+        ],
+        [
+          "room in the yard",
+          12
+        ],
+        [
+          "phone in my hand",
+          11
+        ],
+        [
+          "one in the morning",
+          10
+        ],
+        [
+          "i'm going to tell",
+          8
+        ],
+        [
+          "inside of the door",
+          8
+        ],
+        [
+          "of the lindqvist building",
+          8
+        ],
+        [
+          "put a post in",
+          8
+        ],
+        [
+          "a hundred and forty",
+          7
+        ]
+      ],
+      "ngram_cap_reached": true,
+      "exit_counts": {
+        "dialogue": 15,
+        "question": 0,
+        "decision": 2,
+        "cliffhanger-ish": 0,
+        "image/quiet": 14,
+        "SUMMARY?": 0,
+        "NAMED-FEELING?": 0,
+        "STOCK-ENDING!": 0
+      },
+      "exit_pct": {
+        "dialogue": 50.0,
+        "question": 0.0,
+        "decision": 6.7,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 46.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "parse_integrity": {
+        "raw_words": 68769,
+        "parsed_words": 68607,
+        "ratio": 0.998,
+        "ok": true,
+        "note": " WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+        "section_markers": 30,
+        "chapters": 30
+      },
+      "voice": {
+        "book": {
+          "words": 45499,
+          "rates": {
+            "em_dash": 0.2,
+            "neg_par": 0.0,
+            "not_exactly": 0.0,
+            "understood": 0.0,
+            "hedge": 0.02,
+            "first_time": 0.0,
+            "filter": 2.24,
+            "theme": 0.0
+          },
+          "counts": {
+            "em_dash": 9,
+            "neg_par": 0,
+            "not_exactly": 0,
+            "understood": 0,
+            "hedge": 1,
+            "first_time": 0,
+            "filter": 102,
+            "theme": 0
+          },
+          "openers": [
+            "i say",
+            "i don't",
+            "i sit",
+            "simone says",
+            "i put",
+            "he doesn't",
+            "i tell",
+            "she doesn't",
+            "then i",
+            "i stand",
+            "lolo says",
+            "i take",
+            "i know",
+            "then he",
+            "he looks",
+            "i could",
+            "there's a",
+            "she looks",
+            "it's the",
+            "she turns"
+          ]
+        },
+        "by_pov": {
+          "Pip": {
+            "words": 32271,
+            "rates": {
+              "em_dash": 0.22,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.03,
+              "first_time": 0.0,
+              "filter": 2.05,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 7,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 1,
+              "first_time": 0,
+              "filter": 66,
+              "theme": 0
+            },
+            "openers": [
+              "i say",
+              "i don't",
+              "he doesn't",
+              "i put",
+              "lolo says",
+              "i sit",
+              "he looks",
+              "then he",
+              "simone says",
+              "i could",
+              "he takes",
+              "i stand",
+              "i look",
+              "i go",
+              "she doesn't",
+              "she looks",
+              "adam says",
+              "when i",
+              "i know",
+              "then i"
+            ]
+          },
+          "Adam": {
+            "words": 13228,
+            "rates": {
+              "em_dash": 0.15,
+              "neg_par": 0.0,
+              "not_exactly": 0.0,
+              "understood": 0.0,
+              "hedge": 0.0,
+              "first_time": 0.0,
+              "filter": 2.72,
+              "theme": 0.0
+            },
+            "counts": {
+              "em_dash": 2,
+              "neg_par": 0,
+              "not_exactly": 0,
+              "understood": 0,
+              "hedge": 0,
+              "first_time": 0,
+              "filter": 36,
+              "theme": 0
+            },
+            "openers": [
+              "i say",
+              "i don't",
+              "simone says",
+              "i sit",
+              "i tell",
+              "it's the",
+              "i take",
+              "she doesn't",
+              "then i",
+              "i know",
+              "i put",
+              "i didn't",
+              "i've had",
+              "i stand",
+              "there's a",
+              "she turns",
+              "odell says",
+              "i'm going",
+              "pip says",
+              "she has"
+            ]
+          }
+        },
+        "pov_coverage": {
+          "Pip": 32271,
+          "Adam": 13228
+        }
+      },
+      "label": "My CEO Husband Gave Her My Corner Office",
+      "is_target": true
+    }
+  ],
+  "fail_set": [],
+  "watch_set": [
+    {
+      "ngram": "the two of us",
+      "target_count": 3,
+      "prior_books_hit": 1,
+      "prior_counts": {
+        "The Assistant Remembered What My Husband Forgot": 0,
+        "My Bodyguard Is Posing as My Husband": 0,
+        "My Estranged Husband Came Back": 3,
+        "I Was His Neglected Wife": 0,
+        "The Quarterback Needs a Fake Wife": 0,
+        "My Twin Sister Took My Place as His Wife": 0
+      }
+    }
+  ],
+  "target_signature": [
+    {
+      "ngram": "every one of them",
+      "count": 13
+    },
+    {
+      "ngram": "in the break room",
+      "count": 13
+    },
+    {
+      "ngram": "room in the yard",
+      "count": 12
+    },
+    {
+      "ngram": "phone in my hand",
+      "count": 11
+    },
+    {
+      "ngram": "one in the morning",
+      "count": 10
+    },
+    {
+      "ngram": "i'm going to tell",
+      "count": 8
+    },
+    {
+      "ngram": "inside of the door",
+      "count": 8
+    },
+    {
+      "ngram": "of the lindqvist building",
+      "count": 8
+    },
+    {
+      "ngram": "put a post in",
+      "count": 8
+    },
+    {
+      "ngram": "a hundred and forty",
+      "count": 7
+    }
+  ],
+  "opening_similarity": [
+    {
+      "prior": "The Assistant Remembered What My Husband Forgot",
+      "jaccard": 0.236,
+      "high": false
+    },
+    {
+      "prior": "My Bodyguard Is Posing as My Husband",
+      "jaccard": 0.196,
+      "high": false
+    },
+    {
+      "prior": "My Estranged Husband Came Back",
+      "jaccard": 0.235,
+      "high": false
+    },
+    {
+      "prior": "I Was His Neglected Wife",
+      "jaccard": 0.231,
+      "high": false
+    },
+    {
+      "prior": "The Quarterback Needs a Fake Wife",
+      "jaccard": 0.214,
+      "high": false
+    },
+    {
+      "prior": "My Twin Sister Took My Place as His Wife",
+      "jaccard": 0.255,
+      "high": false
+    }
+  ],
+  "ending_similarity": [
+    {
+      "prior": "The Assistant Remembered What My Husband Forgot",
+      "jaccard": 0.0,
+      "high": false
+    },
+    {
+      "prior": "My Bodyguard Is Posing as My Husband",
+      "jaccard": 0.0,
+      "high": false
+    },
+    {
+      "prior": "My Estranged Husband Came Back",
+      "jaccard": 0.0,
+      "high": false
+    },
+    {
+      "prior": "I Was His Neglected Wife",
+      "jaccard": 0.0,
+      "high": false
+    },
+    {
+      "prior": "The Quarterback Needs a Fake Wife",
+      "jaccard": 0.0,
+      "high": false
+    },
+    {
+      "prior": "My Twin Sister Took My Place as His Wife",
+      "jaccard": 0.0,
+      "high": false
+    }
+  ],
+  "prior_opening_baseline": 0.253,
+  "exit_rhythm": {
+    "kinds": [
+      "dialogue",
+      "question",
+      "decision",
+      "cliffhanger-ish",
+      "image/quiet",
+      "SUMMARY?",
+      "NAMED-FEELING?",
+      "STOCK-ENDING!"
+    ],
+    "threshold_l1": 0.3,
+    "histograms_pct": {
+      "The Assistant Remembered What My Husband Forgot": {
+        "dialogue": 20.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 60.0,
+        "SUMMARY?": 20.0,
+        "NAMED-FEELING?": 20.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "My Bodyguard Is Posing as My Husband": {
+        "dialogue": 16.7,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 16.7,
+        "image/quiet": 66.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "My Estranged Husband Came Back": {
+        "dialogue": 0.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 100.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "I Was His Neglected Wife": {
+        "dialogue": 25.0,
+        "question": 0.0,
+        "decision": 25.0,
+        "cliffhanger-ish": 12.5,
+        "image/quiet": 25.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 25.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "The Quarterback Needs a Fake Wife": {
+        "dialogue": 16.7,
+        "question": 0.0,
+        "decision": 16.7,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 66.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "My Twin Sister Took My Place as His Wife": {
+        "dialogue": 80.0,
+        "question": 0.0,
+        "decision": 0.0,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 20.0,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      },
+      "My CEO Husband Gave Her My Corner Office": {
+        "dialogue": 50.0,
+        "question": 0.0,
+        "decision": 6.7,
+        "cliffhanger-ish": 0.0,
+        "image/quiet": 46.7,
+        "SUMMARY?": 0.0,
+        "NAMED-FEELING?": 0.0,
+        "STOCK-ENDING!": 0.0
+      }
+    },
+    "distances": [
+      {
+        "prior": "The Assistant Remembered What My Husband Forgot",
+        "l1": 0.763,
+        "same": false
+      },
+      {
+        "prior": "My Bodyguard Is Posing as My Husband",
+        "l1": 0.763,
+        "same": false
+      },
+      {
+        "prior": "My Estranged Husband Came Back",
+        "l1": 1.097,
+        "same": false
+      },
+      {
+        "prior": "I Was His Neglected Wife",
+        "l1": 0.982,
+        "same": false
+      },
+      {
+        "prior": "The Quarterback Needs a Fake Wife",
+        "l1": 0.634,
+        "same": false
+      },
+      {
+        "prior": "My Twin Sister Took My Place as His Wife",
+        "l1": 0.632,
+        "same": false
+      }
+    ],
+    "same_rhythm_priors": []
+  },
+  "voice": {
+    "tics": {
+      "em_dash": {
+        "label": "em dashes",
+        "threshold": 5.0
+      },
+      "neg_par": {
+        "label": "negative parallelism ('not X, but Y')",
+        "threshold": 0.5
+      },
+      "not_exactly": {
+        "label": "'not X, exactly' / 'not quite X' reframes",
+        "threshold": 0.3
+      },
+      "understood": {
+        "label": "'[name] understood' cognitive summaries",
+        "threshold": 0.4
+      },
+      "hedge": {
+        "label": "hedges before disclosure ('for what it's worth', 'I want to be honest')",
+        "threshold": 0.3
+      },
+      "first_time": {
+        "label": "'for the first time' epiphany markers",
+        "threshold": 0.25
+      },
+      "filter": {
+        "label": "filter words (felt/saw/noticed/realized…)",
+        "threshold": 6.0
+      },
+      "theme": {
+        "label": "theme statements ('that was the thing about…')",
+        "threshold": 0.5
+      }
+    },
+    "shared_min": 3,
+    "opener_high": 0.3,
+    "pairs": [
+      {
+        "prior": "The Assistant Remembered What My Husband Forgot",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.0,
+        "flag": false
+      },
+      {
+        "prior": "My Bodyguard Is Posing as My Husband",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.026,
+        "flag": false
+      },
+      {
+        "prior": "My Estranged Husband Came Back",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.0,
+        "flag": false
+      },
+      {
+        "prior": "I Was His Neglected Wife",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.0,
+        "flag": false
+      },
+      {
+        "prior": "The Quarterback Needs a Fake Wife",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.0,
+        "flag": false
+      },
+      {
+        "prior": "My Twin Sister Took My Place as His Wife",
+        "shared_tics": [],
+        "shared_count": 0,
+        "opener_jaccard": 0.0,
+        "flag": false
+      }
+    ],
+    "pov_pairs": [],
+    "house_habits": [],
+    "convergence": "—"
+  },
+  "parse_integrity": {
+    "The Assistant Remembered What My Husband Forgot": {
+      "raw_words": 8436,
+      "parsed_words": 8419,
+      "ratio": 0.998,
+      "ok": true,
+      "note": "",
+      "section_markers": 0,
+      "chapters": 5
+    },
+    "My Bodyguard Is Posing as My Husband": {
+      "raw_words": 7234,
+      "parsed_words": 7202,
+      "ratio": 0.996,
+      "ok": true,
+      "note": " WARNING: 6 `## ` headings were read as POV/section markers because they do not look like chapter headings (Laney, Laney, Laney, Cole, Cole, Laney) while only 6 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 6,
+      "chapters": 6
+    },
+    "My Estranged Husband Came Back": {
+      "raw_words": 11778,
+      "parsed_words": 11764,
+      "ratio": 0.999,
+      "ok": true,
+      "note": "",
+      "section_markers": 0,
+      "chapters": 5
+    },
+    "I Was His Neglected Wife": {
+      "raw_words": 11260,
+      "parsed_words": 11224,
+      "ratio": 0.997,
+      "ok": true,
+      "note": " WARNING: 8 `## ` headings were read as POV/section markers because they do not look like chapter headings (Marisol, Idris, Idris, Marisol, Idris, Idris…) while only 8 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 8,
+      "chapters": 8
+    },
+    "The Quarterback Needs a Fake Wife": {
+      "raw_words": 7629,
+      "parsed_words": 7600,
+      "ratio": 0.996,
+      "ok": true,
+      "note": " WARNING: 6 `## ` headings were read as POV/section markers because they do not look like chapter headings (Nora, Cade, Nora, Cade, Nora, Nora) while only 6 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 6,
+      "chapters": 6
+    },
+    "My Twin Sister Took My Place as His Wife": {
+      "raw_words": 12328,
+      "parsed_words": 12299,
+      "ratio": 0.998,
+      "ok": true,
+      "note": " WARNING: 5 `## ` headings were read as POV/section markers because they do not look like chapter headings (Maud, Declan, Maud, Maud, Maud) while only 5 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 5,
+      "chapters": 5
+    },
+    "My CEO Husband Gave Her My Corner Office": {
+      "raw_words": 68769,
+      "parsed_words": 68607,
+      "ratio": 0.998,
+      "ok": true,
+      "note": " WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 30,
+      "chapters": 30
+    }
+  },
+  "parse_integrity_ok": true,
+  "axis_table": [
+    {
+      "axis": "1 Inciting disruption (+ kind)",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text] (hint — Ch1 opens: \"The handwriting on the card was wrong.\")",
+        "My Bodyguard Is Posing as My Husband": "[fill from text] (hint — Ch1 opens: \"The number was wrong by four hundred and twelve dollars, and that was the part that wouldn't let Lan\")",
+        "My Estranged Husband Came Back": "[fill from text] (hint — Ch1 opens: \"You do not, under any circumstances, answer the porch light at nine o'clock at night in a town like \")",
+        "I Was His Neglected Wife": "[fill from text] (hint — Ch1 opens: \"Marisol Vega had learned exactly how many seconds she could hold a smile before it started reading a\")",
+        "The Quarterback Needs a Fake Wife": "[fill from text] (hint — Ch1 opens: \"Six weeks isn't a deadline.\")",
+        "My Twin Sister Took My Place as His Wife": "[fill from text] (hint — Ch1 opens: \"The first wrong thing was my coat, because I had left it on the third hook in the front hall on Augu\")",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text] (hint — Ch1 opens: \"My office is hanging in the sky over Monroe Avenue, turning a quarter inch at a time, and it has nev\")"
+      }
+    },
+    {
+      "axis": "2 The bind",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "3 First irreversible decision (chapter)",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "4 Midpoint reversal",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "5 Rupture / lowest point",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "6 Climax action (+ who causes it)",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "7 Repair mechanism (+ shape)",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "8 Resolution & epilogue shape",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "[fill from text]",
+        "My Bodyguard Is Posing as My Husband": "[fill from text]",
+        "My Estranged Husband Came Back": "[fill from text]",
+        "I Was His Neglected Wife": "[fill from text]",
+        "The Quarterback Needs a Fake Wife": "[fill from text]",
+        "My Twin Sister Took My Place as His Wife": "[fill from text]",
+        "My CEO Husband Gave Her My Corner Office": "[fill from text]"
+      }
+    },
+    {
+      "axis": "9 Form: structure / POV / timeline entry",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "first-person",
+        "My Bodyguard Is Posing as My Husband": "third-person + 6 POV markers",
+        "My Estranged Husband Came Back": "first-person",
+        "I Was His Neglected Wife": "third-person + 8 POV markers",
+        "The Quarterback Needs a Fake Wife": "first-person + 6 POV markers",
+        "My Twin Sister Took My Place as His Wife": "first-person + 5 POV markers",
+        "My CEO Husband Gave Her My Corner Office": "first-person + 30 POV markers"
+      }
+    },
+    {
+      "axis": "10 Form: ending image (+ class)",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "We walked out the back door together, into an ordinary Saturday afternoon, toward two separate cars, in no hurry, for on",
+        "My Bodyguard Is Posing as My Husband": "Cole kissed the top of her head, and together they sat in the gathering dusk, two people who had once built an entire li",
+        "My Estranged Husband Came Back": "I reached for Theo's hand on the step, his grandmother's ring catching the last of the porch light, and did not let go.",
+        "I Was His Neglected Wife": "\"It was worth every bit of what it cost,\" Idris said, and took her hand as they walked out together, past Deb's desk, pa",
+        "The Quarterback Needs a Fake Wife": "Behind us, faint through the frosted window glass, Diane was humming something low over the last of the dishes, Theo's v",
+        "My Twin Sister Took My Place as His Wife": "\"Again.\"",
+        "My CEO Husband Gave Her My Corner Office": "I don't straighten it. He'll want it at five to seven."
+      }
+    },
+    {
+      "axis": "11 Form: narrator signature",
+      "cells": {
+        "The Assistant Remembered What My Husband Forgot": "'either of us had' ×3; 'i didn't want to' ×3; 'thank you for telling' ×3",
+        "My Bodyguard Is Posing as My Husband": "'four hundred and twelve' ×5; 'hundred and twelve dollars' ×5; 'a few minutes later' ×3; 'better part of a' ×3; 'closed all the way' ×3",
+        "My Estranged Husband Came Back": "'for what it's worth' ×5; 'at nine o'clock at' ×4; 'i had never once' ×4; 'i have never once' ×4; 'nine o'clock at night' ×4",
+        "I Was His Neglected Wife": "'a woman who had' ×5; 'for the first time' ×5; 'exactly as long as' ×4; 'of a woman who' ×4; 'and she thought about' ×3",
+        "The Quarterback Needs a Fake Wife": "'front of us the' ×3; 'go back to dublin' ×3; 'in front of us' ×3",
+        "My Twin Sister Took My Place as His Wife": "'what do you need' ×4; 'on the corridor floor' ×3; 'on the hall table' ×3; 'the dining room and' ×3",
+        "My CEO Husband Gave Her My Corner Office": "'every one of them' ×13; 'in the break room' ×13; 'room in the yard' ×12; 'phone in my hand' ×11; 'one in the morning' ×10"
+      }
+    }
+  ],
+  "axis_11_mechanical": "PASS",
+  "reminder": "Core axes 1–8 are filled by reading the earlier books' actual text — never blurbs or summaries — and scored BLIND from surface-stripped rows by a reader who did not write the concept. Gate (SKILL.md, Catalog & Series Layer): FAIL if ≥5 of 8 core axes match any one earlier book; the shape-axis COMBINATION (inciting kind + repair shape + ending-image class) and the climax staging set are never reused series-wide; this script's flags are heuristics — a flag plus a confirming read is the finding."
+}
