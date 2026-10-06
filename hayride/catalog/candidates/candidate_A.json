@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "tests_trust",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate A - Ten Questions",
+    "opening_engine": "public_raffle_draw_binds_by_own_rule",
+    "inciting_event": "chance_pairing_under_own_rule",
+    "heroine_goal": "save_asset",
+    "external_engine": "season_ticket_target",
+    "agency_pattern": "early_bargain",
+    "hero_error": "emotional_withholding",
+    "power_configuration": "heroine_institutional_authority",
+    "containment": "volunteer_duty_pairing",
+    "midpoint_reversal": "heroine_shared_fault_exposed",
+    "darkest_moment_cause": "truth_reveal_by_heroine_device",
+    "climax_owner": "heroine_led",
+    "climax_mechanism": "heroine_public_confession",
+    "repair_mechanism": "sustained_unglamorous_presence",
+    "resolution_visibility": "community_witnessed",
+    "ending_state": "reconciled_engaged_couple",
+    "setting_function": "small_town_scorekeeping_reputation",
+    "supporting_cast_function": "competing_agendas",
+    "epilogue_design": "next_season_coda_spoken_line",
+    "climax_venue": "moving_wagon",
+    "climax_audience": "riders_mixed_town",
+    "evidence_delivery": "confession",
+    "decisive_authority": "heroines_own_choice",
+    "spectacle_mode": "private_line",
+    "macro_beats": [
+      "forced_pairing",
+      "heroine_sets_terms",
+      "truths_traded_weekly",
+      "shared_fault_revealed",
+      "hero_offered_exit",
+      "truth_wounds",
+      "heroine_public_confession",
+      "hero_stays_by_choice"
+    ],
+    "signature_scenes": [
+      "question_per_ride_on_front_bench",
+      "corn_maze_truth",
+      "legend_rewritten_mid_ride",
+      "dull_work_unwitnessed"
+    ],
+    "evidence_notes": "concept; shape triple external_blow / sustained_unglamorous_presence / spoken_line"
+  }
+}
