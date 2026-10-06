@@ -690,7 +690,7 @@ She had one question. She had about four hundred, actually, collected over seven
 
 She didn't look at him. She said it to the corn.
 
-He didn't answer right away. Marguerite rattled over a rut. Behind them a teenager laughed at something on a phone.
+The answer took its time. Marguerite rattled over a rut. Behind them a teenager laughed at something on a phone.
 
 "I wanted to hear you tell it," Gus said. "Guys at the shop in Chicago had heard of it. A lighting designer from Holland told me about it at a bar in 2022, the bride and the 6:10, like it was a thing that happened to somebody else. I wanted to hear it once in person, from you, and know it was mine." He paused. "That's the selfish answer. Dot asking is the other one."
 
@@ -1274,7 +1274,7 @@ She'd had it since Monday. Since Owen Sterk and his beakers. Since 4:50 on Tuesd
 
 "Did you ever think about calling?"
 
-He didn't answer right away. He never answered right away. She was learning that he took the question in his hands first and turned it over to find the true side.
+He took his time. He always took his time with these. She was learning that he took the question in his hands first and turned it over to find the true side.
 
 "Every Sunday," Gus said. "For a year. I'd sit in the truck in the parking lot behind the theater shop at about four, because the shop was closed Sundays and nobody would see me, and I'd get your name up on the phone, and I'd look at it."
 
@@ -2038,7 +2038,7 @@ She sat on the dock until Dot's porch light went out.
 
 The third Friday of October was the night the hayride had been waiting six years for, and Roz knew by six-thirty that she was going to ruin it.
 
-Kenzie Vos had posted at 9:14 the night before, from the Grange parking lot, on the *Lakeshore Ledger*'s Facebook page: OFFICIAL! Carrow Grange votes to make "The Lantern Bride" the hayride's heritage story — plaque coming to Teague's Pond. Full feature in our Halloween edition! There was a photo of the side-room door. By Friday morning it had nine hundred shares, and by Friday afternoon the online ticket page Danny had built in 2023 and nobody used had sold out the 8:20 and the 9:00 on both wagons for the first time in the history of the internet.
+Kenzie Vos had posted at 9:14 the night before, from the Grange parking lot, on the *Lakeshore Ledger*'s Facebook page: OFFICIAL! Carrow Grange votes to make "The Lantern Bride" the hayride's heritage story — plaque coming to Teague's Pond. Full feature in our Halloween edition! There was a photo of the side-room door. By Friday morning it had nine hundred shares, and by Friday afternoon the online ticket page Danny had built in 2023 and nobody used had sold out the 8:20 and the 9:00 on both wagons, a first in the history of the internet.
 
 "Bunco," said Lorna, coming past the Wagon One bench at six-thirty-eight with a tray of cider. "Battle Creek. Twelve of them. Pink fleece. They've got matching *buttons*, Roz. With the bride on them. Somebody made buttons."
 
@@ -2196,7 +2196,7 @@ A pause, and a rustle, and then Clyde's voice, flat as a field: "Approve."
 
 "See?" said Lorna. "That's two words this month. You're good for him."
 
-Danny jogged past with his wand and his clipboard, breathless, headlamp crooked. He slowed down by the wagon. He didn't say anything for a second.
+Danny jogged past with his wand and his clipboard, breathless, headlamp crooked. He slowed down by the wagon and stood there a second, working up to it.
 
 "You did it," he said.
 
@@ -2226,7 +2226,7 @@ She hadn't planned it. She'd had a different question ready all week, the one fr
 
 The wagon rattled. Somewhere behind them a man laughed at something his wife said.
 
-He didn't answer right away.
+He turned it over first, the way he turned all of them over.
 
 "No," Gus said. He looked out at the corn. "I hated the whistle."
 
@@ -3820,7 +3820,7 @@ She turned into her driveway and sat there with the engine running.
 
 The porch was dark. It had been dark since March of 2024. That was when the fixture had died, not the bulb, the fixture, some corroded wire inside the old brass lantern housing her father had put up in 1999. She'd put a new bulb in and it hadn't come on, and she'd put another new bulb in and it hadn't come on, and she'd thought about the ladder and the breaker and the wire nuts and had decided, in the specific way you decide things in the spring before your brother finishes high school and your life is mostly eighth graders and fog machines, that she'd do it later. Then it was summer, and then it was the hayride, and then it was the next year, and she came home in the dark every night and found her keys by the light of her phone and had stopped noticing.
 
-Tomorrow was the twenty-sixth.
+It was the twenty-sixth. It had been the twenty-sixth all day.
 
 There was a handful of wire nuts in her coat pocket. She didn't remember putting them there. She'd taken them out of the coffee can in the Lab at three-fifteen to count for Wednesday's circuits lab, and somehow they had come to the parking lot with her, and home, the way your hands will carry a thing they've decided about before you have.
 
@@ -3994,7 +3994,7 @@ He came off I-94 onto US-131 and then onto the two-lane county roads in the full
 
 Off to the left, north across the field on Teague Road, if you knew where to look, there was a porch light.
 
-He didn't slow down. He drove home and backed Delores up to the barn door and sat in the cab with the engine off for a minute, in the dark, with the Gerstner in the bed behind him and the porch light across the field.
+He kept his speed. He drove home and backed Delores up to the barn door and sat in the cab with the engine off for a minute, in the dark, with the Gerstner in the bed behind him and the porch light across the field.
 
 "Friday," he told the truck.
 

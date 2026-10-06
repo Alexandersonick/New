@@ -1,0 +1,60 @@
+# SERIES_LEDGER — pen name "Shawn J Dean" (PROVISIONAL pen name, assumption A2 in
+# 01_INTAKE_AND_NICHE_CONTRACT.md; confirm before publication).
+# Schema: master-fiction-pipeline references/schemas.md, SERIES_LEDGER.
+SERIES_LEDGER:
+  pen_name: Shawn J Dean (provisional)
+  series:
+    - series_id: standalone-seasonal-wave
+      fixed_premise: false
+      declared_constants: []        # S1 is a seasonal release slot, not a shared-cast series
+      FINGERPRINTS:
+        # --- published shelf (text available) ---
+        - ref: catalog/fingerprint_twin_sister.json
+          book: My Twin Sister Took My Place as His Wife
+          source: manuscript (back-filled from full text, this project)
+          status: published
+        # --- published shelf (NO text or fingerprint available: gate BLOCKED) ---
+        - book: My Billionaire Husband Left Me Out in the Cold
+          source: none
+          status: published, text unavailable, back-fill owed
+        - book: My Country Star Husband Brought Her Onstage in My Hometown
+          source: none
+          status: published, text unavailable, back-fill owed
+        # --- this title ---
+        - ref: catalog/fingerprint_hayride_measured.json
+          book: Two Tickets to the Haunted Hayride
+          source: manuscript (measured; revised after BLIND_SAMENESS_REVIEW_measured)
+          status: in production
+          planned_vs_measured_notes: catalog/STRUCTURAL_DRIFT_REPORT_manuscript.md
+          goal_shape_used: "save the community event against a money deadline (insurance/new wagon)"
+          rotate_next_title:          # SAMENESS_VERDICT items from BLIND_SAMENESS_REVIEW_measured §11–12
+            - heroine sets the resolution's shape (her request + yes)
+            - fail-first first rung (softened line punished before the real repair)
+            - restrained, self-reporting hero type
+            - similes drawn from the hero's own trade
+            - echo-repeat replies; offstage sound cutting a tense beat
+        # --- concept pool for this title (kept for every later comparison) ---
+        - ref: catalog/candidates/candidate_A.json
+          source: concept
+          rejected_for: superseded_by_A2 (failed H3 alone; lineage of this title)
+        - ref: catalog/candidates/candidate_A2.json
+          source: concept
+          status: selected
+        - ref: catalog/candidates/rejected_B.json
+          source: concept
+          rejected_for: see catalog/BLIND_SAMENESS_REVIEW_concept.md
+        - ref: catalog/candidates/rejected_C.json
+          source: concept
+          rejected_for: see catalog/BLIND_SAMENESS_REVIEW_concept.md
+        - ref: catalog/candidates/candidate_D.json
+          source: concept
+          rejected_for: see catalog/BLIND_SAMENESS_REVIEW_concept_batch2.md
+        - ref: catalog/candidates/candidate_E.json
+          source: concept
+          rejected_for: see catalog/BLIND_SAMENESS_REVIEW_concept_batch2.md
+      FACTS_SNAPSHOTS: []           # standalone: no shared FACTS issued to other books
+      FACTS: []                     # standalone: no cross-book facts (in-book facts: 03_STORY_BIBLE.md §6, §13, §14)
+      SIGNALS: []                   # Review-Signal Scan: N/A, unpublished
+  catalog_comparison_set:
+    - book_id: my-twin-sister-took-my-place-as-his-wife
+  last_backfill: "2026-10-06: twin-sister fingerprint back-filled from full text; the other two titles could not be back-filled (no text)"
