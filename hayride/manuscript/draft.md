@@ -2366,7 +2366,7 @@ He couldn't sleep, so at two in the morning he went out to the barn.
 
 He'd built the model in September, in the first week, before the Supper, before Dot had driven her Buick into his barn with a binder. He'd built it for no reason, he told himself at the time, which was a lie he recognized from Lakefront: designers always said they were just noodling when they built a model, and then the model turned out to be the show.
 
-It sat on a sheet of plywood on two sawhorses in the back corner, under a drop cloth. He pulled the cloth off. Teague's Pond, at a quarter inch to the foot, from memory and from one afternoon in early September when he'd walked down the pond lane alone with a tape measure and a notebook and had not been seen by anybody, he was almost sure. The water was poured resin, tinted black, with a little swirl of white acrylic where the fog would lie. The willows were wire armatures wrapped in raffia, dyed. The dock was coffee stirrers. On the far bank he'd put a tiny black box for the fog rig, because he'd guessed there'd be one and guessed where, and he'd guessed right, which he'd found out at one in the morning a week ago in the wet grass with a Maglite in his hand.
+It sat on a sheet of plywood on two sawhorses in the back corner, under a drop cloth. He pulled the cloth off. Teague's Pond, at a quarter inch to the foot, from memory and one unseen afternoon with a tape measure. The water was poured resin, tinted black, with a little swirl of white acrylic where the fog would lie. The willows were wire armatures wrapped in raffia, dyed. The dock was coffee stirrers. On the far bank sat a tiny black box for the fog rig, exactly where he'd guessed it would be.
 
 Across the black resin water, from bank to bank, ran a single strand of clear fishing line, and on it, halfway, hung a tiny lantern he'd made from a glass bead and a scrap of cheesecloth.
 
@@ -4624,7 +4624,7 @@ At five-forty, with the sky starting to go gray over the field, she got up from 
 
 The yard was empty. Dot's kitchen light was on up at the house; Dot got up at five and always had. The Big Wagon sat in its shed with its new pin from Ohio. The chalkboard in the Grange shed said $29,350 in Bev's capitals, and under it someone, probably Danny, had drawn a very small lantern.
 
-She walked down the pond lane on foot, without the headlamp, because there was enough gray light now to see by. The corn stubble was white with frost. Her breath hung in front of her. The Woodlot trees stood bare and black and dripping on both sides of the lane, and the ghost's line was a silver thread overhead between two oaks, empty.
+She walked down the pond lane on foot, without the headlamp. The corn stubble was white with frost, and the ghost's line between the Woodlot oaks was a silver thread overhead, empty.
 
 At the pond she walked out onto the dock and stood at the end.
 
