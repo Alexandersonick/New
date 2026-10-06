@@ -24,3 +24,9 @@ Source: `qc/HOSTILE_READER_ch01-03.md`. First-time verdict **PASS**. Repeat-read
 | M-04 | Emotion anchoring below 85% where emotion words appear | Anchor or cut in revision |
 | M-05 | Chapter-length CV 0.14 | Forward chapters vary from 1,600 to 3,400 |
 | M-06 | Repeated 4-grams: "one in the morning" ×8, "the phone face down" ×4, "says it the way" ×4 | Vary in revision |
+
+## Logged during drafting
+| ID | Tag | Finding | Plan |
+|---|---|---|---|
+| D-08 | rank 11 | The "fifteen mornings" story is told three times: Ch 10 (Adam memory), Ch 22 (Adam retells), Ch 25 (to Pip). | Cut the Ch 22 retelling down to the realisation ("we did the same thing"); trim the Ch 10 memory to a glimpse, so the full telling lands once, in Ch 25, to her. |
+| D-09 | staging | Ch 23's discovery of the moved chair and blanket risked a "secret-then-discovered" repair rhythm (catalog house template). | **Fixed:** Ch 22 now has Adam text her before he sleeps in the room; Ch 23 has her deliberately not checking. |
