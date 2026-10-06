@@ -45,3 +45,22 @@ No Breach Gate breach; no DNF point.
 | D-15 | CATALOG_SAMENESS | Repeat reader recognised: heroine sets terms; "learns to ask"; authority figures moved by "the bad part first"; no-clap equity beat; prepared speech left in a pocket; months-later shared desk; phone-face-down vow; numeric time-stamping; weld similes; numbered plans; blunt-matriarch crew. | Terms removed (Ch 16: Adam originates telling-before, from Odell's parking-lot line). Gil and Margaret say yes for business reasons. No-clap and pocket speech cut. Ch 30 is now the same week with no shared desk. Line pass cuts clock times, weld similes, numbered-plan prose and the asking chant. Lolo votes no, and refuses to give advice in Ch 27. | structural fixed; line pass running |
 | D-16 | continuity | Oct 9 weekday → Oct 8 (Thursday); Northgate signing place (initialled in Chicago, signed at the counter); "a week ago" → three weeks; Adam's POV quoting Ch 9 scenes he didn't see; "flight suit" → travel suit; the "person familiar" leak answered (Simone's Ch 30 text: Halvard's comms team); Tavi's internship. | **fixed** |
 | D-17 | rank 13 | Meta wink in Ch 27 ("old woman at the edge of the story"). | Cut. | **fixed** |
+
+## Final Hostile Reader Pass: `qc/HOSTILE_READER_final.md`
+First-time verdict **FAIL** (narrow: rank 11 medium, the Ch 26–28 re-explanations). Repeat reader
+`could_write_the_same_book_review: true` (11 structural devices named). Breach Gate PASS, Ending PASS,
+Promise PASS with watch items. No DNF point. Brief: `qc/FINAL_FIX_BRIEF.md` (groups A–D).
+
+| ID | Tag | Finding | Fix | Status |
+|---|---|---|---|---|
+| F-01 | CATALOG_SAMENESS S2 | The hero publicly credits her before an institution ("Hers… I sell it"). | Ch 15: Pip puts the UNIT 001 file (planted Ch 3) on the walnut herself, and Adam stays silent. Ch 25 callback changed. | **fixed** |
+| F-02 | CATALOG_SAMENESS S6 | The hero stands silent at the public resolution (Nashville). | Ch 29: Adam does the talking and takes Kiana's questions. | group D |
+| F-03 | CATALOG_SAMENESS S4 | The phone given up as a trust token. | Ch 12 framing cut; Ch 30 watch cut. | groups B, D |
+| F-04 | CATALOG_SAMENESS S5 | The polished speech abandoned for plain truth, ×3. | Kept once (Ch 16); Ch 22 and Ch 24 cut. | groups B, C |
+| F-05 | CATALOG_SAMENESS S8 | An elder states the thesis. | Ch 23 gloss cut; the story is kept. | group C |
+| F-06 | rank 11 | Nashville plan ×5; porch ≈ floor speech; TV confession ×5; "telling you before" spreading. | Ch 26 porch cut to the ask; Ch 27 recap one line; Ch 28 speeches given new material; confessions 5 → 3; catchphrase kept to Adam and Pip. | groups C, D |
+| F-07 | continuity | K1 "last night", K2 "fight", K3 "700 knees", K4 "eleven years", K5 "Tues PM", K6 "Simone told me", K7 "two weeks of cuts", K8 Gordon's leak timing. | One-line fixes. | groups A, C, D |
+| F-08 | rank 10 | The "Tuesday at seven" memory teased, never told. | Tease cut (Ch 3, Ch 7). | group A |
+| F-09 | rank 6 (C7/C8) | Grovel hijacked; triangle thin. | Ch 25: Adam names his pull toward Simone, without excuse. Blurb: "The VP isn't anybody's villain." Shelf-fit note in package. | group C; package **fixed** |
+| F-10 | rank 11 (C2/C4) | Tic and tag recurrence; age/hometown/tenure intros. | Group caps; about six intros rewritten. | groups A–D |
+| — | not fixed, by decision | S1 (her workspace as the separation base), S3 (reporting before acting), S9 (her relapse), S10 (ritual restarts), S11 (blunt crew). | S1, S3 and S10 are the book's premise and repair, which the user's hook and blurb require. S9 is the fingerprint's adversarial lowest point (the blind reader cleared it: blame is not rebalanced). S11 is lane-inherent. Recorded as house-template overlap in the delivery. | disclosed |

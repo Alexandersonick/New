@@ -17,7 +17,7 @@
 >
 > By four the next morning, the room is hanging from a crane over Monroe Avenue.
 >
-> Pip still owns a third of the company, and the sale her husband has been quietly negotiating can't close without her yes. The boardroom is about to learn whose idea everything was. But the video of her stolen room is selling thousands of rooms, the company is weeks from missing payroll, and the man who stopped telling her anything has secrets of his own: a fortune pledged against a loan, and a VP he calls at one in the morning when he can't sleep.
+> Pip still owns a third of the company, and the sale her husband has been quietly negotiating can't close without her yes. The boardroom is about to learn whose idea everything was. But the video of her stolen room is selling thousands of rooms, the company is weeks from missing payroll, and the man who stopped telling her anything has secrets of his own: a fortune pledged against a loan, and a VP he calls at one in the morning when he can't sleep. The VP isn't anybody's villain. That only makes it worse.
 >
 > Adam Kerrigan can sell anything to anyone. Now he has to learn the one thing he never could: how to tell his wife the truth *before* it costs them everything, and how to beg for forgiveness without turning it into a pitch.
 >
@@ -25,6 +25,14 @@
 
 ## Categories (user-supplied)
 Second Chances Romance · Billionaires & Millionaires Romance · Love Triangle Romance
+
+*Shelf-fit note (final hostile read, C8/C9):* **Billionaires** is delivered as stakes (a $1.1B
+sale, a paper fortune of about $400M) rather than as a wealth fantasy. Adam is cash-poor and the
+settings are a plant, a bowling alley and a West Side kitchen. **Love Triangle** is an emotional
+triangle: the work wife, the 1 a.m. calls, and no physical affair. The other woman is not a villain
+and gets no comeuppance. Both are disclosed honestly by the blurb, but readers who come for a
+glamour billionaire or an other-woman revenge plot may rate down. These are the author's
+categories, and they are kept as supplied.
 
 ## Keywords (user-supplied, unchanged)
 1. work wife emotional affair
