@@ -1,5 +1,236 @@
 # Two Tickets to the Haunted Hayride
 
+## Chapter 1
+
+<!-- POV: Roz -->
+
+Roz Pietrowski had written the rule herself, which was the worst part.
+
+She had written it on the back of a Bakker's Diner placemat last October, in the middle of the Seat War, while two grown women argued over a wagon bench as if it were the last lifeboat off the *Titanic*. She had laminated it on the teachers' lounge laminator. Now it lay face up on the folding table beside the jar, and the jar was the same blue Ball canning jar the Carrow Haunted Hayride had used since 1987, quart-sized, gone faintly green with age, with a strip of masking tape on the side that said GUIDES in Dot Teague's handwriting.
+
+Forty-one folded ticket halves sat inside it. One of them had his name on it.
+
+"Nobody touch the jar," Roz said into the microphone.
+
+The Hoekstra boys, who had drifted up to the edge of the little stage with frosting on their fingers, froze. The microphone squealed. Ninety people at the long tables of the Grange Hall winced together.
+
+"Turn it down, Rosie!" somebody's grandpa called.
+
+"I'm turning it down, Mr. Kuiper."
+
+"You're turning it *up*."
+
+She turned it the other way. The squeal died. The room laughed, and she let it, because a laugh this early was a good sign. You wanted them loose before the scary part.
+
+Lorna Bakker leaned in at the edge of the stage with a coffee mug in each hand and set one down by Roz's elbow like a cornerman with a water bottle.
+
+"Okay, so," Lorna said, low and fast, "that's a lot of town looking at you."
+
+"They're looking at the jar."
+
+"They're looking at the jar and then at the back of the hall and then at you, in a triangle, it's very geometric, I've been watching it for twenty minutes." Lorna sipped from her own mug. "Do you want me to faint? I can faint. I can faint into the apple crisp and we can do this in November."
+
+"Nobody's fainting."
+
+"He's sitting with his mom. He's eaten one ham bun in two hours. One. That's a man in distress, Roz."
+
+"That's a man with a mother who made the ham buns."
+
+"Ruth did not make those ham buns, Ruth buys those at Meijer and everyone knows it." Lorna lowered her voice even further. "You don't have to look at him."
+
+"I'm not looking at him."
+
+"I know. That's what I'm saying. You're not looking at him so hard it's making noise."
+
+Roz picked up the coffee and drank some, mostly so her hands would have a job. She did not look toward the coat hooks, where the back tables were, where at six-fifteen the door had opened and ninety heads had very carefully not turned. She knew where he was the way you know where a stove is.
+
+"Wagon Two first," she said into the microphone, and Lorna retreated to the diner table with both mugs.
+
+She shook the jar once, reached in without looking, and handed the half-ticket to Danny, who stood beside her holding the laminated Guide Handbook against his chest like a hymnal. Danny was nineteen and working for leftover apple crisp, and he read every name like a heavyweight bout.
+
+"Lorna," he boomed. "BAKKER."
+
+Lorna whooped and lifted both mugs. The second ticket came out Clyde Mulder. Clyde, at table six, raised one hand an inch off the tablecloth, which for Clyde was a parade.
+
+"Lorna and Clyde," Roz said. "Wagon Two, front bench. You'll hate each other by the ninth."
+
+"I hate him already!" Lorna called.
+
+"Mutual," said Clyde.
+
+The laugh came right on time, and Roz's shoulders came down half an inch. She had been on the hayride since she was thirteen, building things that sat up out of the dark, and the trick of a room was the trick of a scare: find where they're looking, then put the thing somewhere else.
+
+She shook the jar again. "Wagon One."
+
+"Chair's in there too?" Ed Brinks called from the Brinks table. Ed had played the farmer at the Corn Stop for thirty years and believed this gave him heckling rights.
+
+"Chair's in there too, Ed. Random. Forever. I'll hold myself to it."
+
+"She said that last year," someone told someone.
+
+"She laminated it," someone else said.
+
+Roz reached in. She picked a ticket from the bottom, because the bottom felt fairer, which was not how probability worked, and she taught probability to thirteen-year-olds every spring. She unfolded it.
+
+It was her own name, Rosalind Pietrowski, in Dot's tidy cursive.
+
+"ROZ," Danny announced. "PIETROWSKI."
+
+"Rigged!" yelled Ed.
+
+"It's a *jar*, Ed."
+
+Another laugh, and she rode it straight back into the glass, because she had built the whole evening around this next part without admitting she had built it. There were forty names left. One of them was his. One in forty was two and a half percent, which was about the odds of rain on a day the weather service called clear, and she had stood under a lot of clear skies and stayed dry.
+
+She drew, and unfolded it with her thumb.
+
+*August VanderWal.*
+
+She looked at it for one second and it felt like a week.
+
+Then she did what she had always done when something came at her out of the dark. She kept her face exactly where it was.
+
+"Danny," she said, holding it out. "Read the next one, please, I've got jar on my hands."
+
+Danny leaned over, and his whole body stopped. He looked at the ticket, and then at her, and then at the back of the hall, and then he said, much too loudly and in his own voice, "You drew him? You drew *HIM*?"
+
+The Grange Hall went quiet.
+
+She knew that quiet; she had built it on purpose at Teague's Pond every October for six years. A fork touched a plate. The radiator ticked twice.
+
+"August VanderWal," Roz read into the microphone, in her taking-attendance voice. "Wagon One, front bench."
+
+At the side of the stage, a folding chair scraped.
+
+Bev Oosterhouse, vice-chair, ten years chair before Roz, came up the two steps to the stage, set her casserole carrier on the corner of the table, and put her palm flat on the lid of the jar. She had a pumpkin brooch on her quilted vest and a clipboard under her arm, and Roz had never in her life seen Bev without at least one of the clipboard or the casserole carrier.
+
+"Now," Bev said. "Rosalind. Let me fix this."
+
+"There's nothing to fix, Bev."
+
+"Honey." Bev lowered her voice, which accomplished nothing, because the microphone was eight inches from her pumpkin brooch. "It's you and him on a bench for ten nights in the dark in front of the whole county. Put it back. Draw again. Nobody will say a word."
+
+Ninety people sat very still to show Bev exactly how many words they would say.
+
+"Rule seven," Roz said.
+
+Danny looked down at the handbook against his chest as if it had spoken. Then, because he was nineteen and her brother and therefore built to make things worse, he flipped it open and read.
+
+"'Rule seven. Guide pairs are drawn at the Harvest Supper. No swaps. A guide who leaves her draw leaves the season.'" He turned the page. "Oh. There's another one."
+
+"I know there's another one, Danny."
+
+"'Rule twelve. A chair who breaks a rule steps down.'" He shut the handbook. "Roz. You wrote this."
+
+"I wrote this."
+
+"You wrote this *about yourself*."
+
+"I wrote it about everybody. I'm part of everybody." She set the ticket on the table, his name face up, between her hand and Bev's. "Bev. If I put it back, the Seat War was for nothing. Next year everyone puts one back. Arlene puts one back."
+
+At table four, Arlene Doornbos, who had been half of the Seat War, sat up straighter and folded her arms.
+
+"Arlene would never," said Arlene.
+
+"Arlene would absolutely," said three people at once.
+
+Bev did not laugh. Bev looked at Roz for a long moment with an expression Roz had seen on her exactly once before, in the back of St. Casimir's in June of 2019, over a pound cake.
+
+"I'm trying to help you," Bev said quietly.
+
+"I know you are." And she did know it, which made it harder. "It's handled."
+
+"It is not handled. It's a hayride."
+
+"It's handled *and* it's a hayride."
+
+"Bev," Lorna called from the diner table, "if you take it back now I'll give you the last slice of the sour cream raisin, and you know I don't give anybody the sour cream raisin."
+
+Bev took her hand off the jar. She picked up her casserole carrier. She went back down the two steps to her folding chair and sat and set the carrier on her knees and folded both hands over the lid of it like a lid on a lid.
+
+"Well," Bev announced to the room, "I hope it's a warm October."
+
+That was the most quotable thing anyone said all night, and everyone in Carrow knew it, and Roz could see Lorna across the hall mouthing it to Clyde so she would have it right for the diner in the morning.
+
+Roz drew the rest of the pairs. She did them on time and in order and she made the joke she always made about the no-chainsaws rule, and it landed, though not as well as usual. She thanked the Teagues for the land. She announced the walk-through, Thursday at six. The room clapped and the noise came back up, like a radio when you finally find the station.
+
+Then the last part of the ritual arrived, and she had forgotten about it until it was standing in front of her.
+
+"Okay!" Danny shouted over the noise. "Guides! Come get your person! Pin 'em inside your coat, left side, Dot's rules!"
+
+"Arlo's rules," Dot called from her table. "Arlo was the sentimental one. I just did the handwriting."
+
+The guides were already lining up for their halves. Clyde had brought his cigar box, the way he did every year, and he held it open for the Hoekstra boys to see the tickets inside, thirty-one seasons of partners in faded pencil and ballpoint.
+
+"Every one of these people," Clyde told them, "I sat beside for ten nights in the dark."
+
+"Did any of them scream?" asked the younger Hoekstra.
+
+"All of them," said Clyde. "Every year. Lorna screams at the scarecrow and she built half the scarecrow."
+
+"I *painted* the scarecrow," Lorna said, arriving at the table. "Painting is not building. Give me my man."
+
+Lorna took Clyde's half and kissed it, loudly. Clyde took Lorna's and put it in his shirt pocket without looking at it.
+
+"Romance," Lorna said.
+
+"Paperwork," said Clyde.
+
+Danny handed out the halves. Roz stood beside him with her own ticket in her fingers, her name in Dot's handwriting, waiting to give it away.
+
+He came up last. She could have told you he would. A man who sat at the back for two hours and ate one ham bun was a man who would stand at the end of the line. She could have built a scare around it.
+
+She looked at him, because there was nowhere else to look.
+
+He was taller than she remembered, or he stood straighter, or her memory had been leaning on him. His hair was the color of wet sand and needed cutting. There was a carpenter's pencil behind his right ear, at a church supper, as if a measurement might break out at any moment. He wore a brown work jacket with sawdust in the seams, and his left pinky was crooked in a way it had not been seven years ago.
+
+He looks like somebody let him out of a coat, she thought. Like he'd hung on a hook a long time and wasn't sure yet how to stand without it.
+
+"Rosalind," he said.
+
+Nobody called her Rosalind but Bev and the Archdiocese of Kalamazoo. He said it like a word he had practiced in a truck.
+
+"August."
+
+Danny looked from one to the other like a man watching a tennis match he'd bet his car on.
+
+Roz held out her ticket. Gus looked at it and didn't take it, not right away, and she knew with a terrible, professional clarity what he was doing. He was giving her one more second to pull it back. He was building her an exit. He was standing very still so that if she wanted to take her hand away, nobody would see her do it.
+
+Her thumb pressed her own name flat against the tablecloth. She hated that he knew how.
+
+"Take it," she said. "I've got a jar full of people waiting to see if you do."
+
+"I could say I've got a conflict," he said, very low. "Thursdays, Fridays, all of October. I could say it's a work thing and nobody would have to watch you do this."
+
+"Do you have a conflict?"
+
+"I have a barn full of lumber and a mother who's moving to Grand Rapids. No."
+
+"Then take it, August, before Bev comes back up here with a lasagna."
+
+He took it by the very edge, the way you'd take a slide out of a microscope, and his fingers didn't touch hers. Then he unzipped the work jacket halfway, reached inside to the left, and pinned her name to the lining with a safety pin he had brought in his pocket.
+
+He'd brought a pin. He had come to the Supper knowing that if his name came out of the jar beside anyone's, he'd be pinning them over his heart, and he had come anyway, with a pin.
+
+"Thursday," she said. "Six o'clock, walk-through. Wear boots."
+
+"I own boots, Rosalind."
+
+"Good boots. The pond lane's a swamp after the first of the month and Hank won't wait for you to find a dry spot."
+
+"I remember the pond lane."
+
+There it was, the first crack. He said it plainly, no weight on it, and it landed on her like a dropped sandbag anyway. She took his ticket from Danny, August VanderWal in Dot's cursive, and pinned it inside her father's barn coat, the brown canvas one with the sleeves rolled twice, without looking at what her hands were doing. Her hands had been pinning things in the dark since she was a teenager. They knew the way.
+
+"Thursday," Gus said, and touched the zipper of his jacket, over the pin, as if checking that it held.
+
+He turned to go. He made two steps toward the coat hooks before the table nearest the stage, where the Teagues and the Ruiters and three generations of Brinkses sat, made a sound like a drawer being pulled open.
+
+It was Dot Teague. Dot was eighty-one and had not stood up at a Harvest Supper since her hip, and she didn't stand now. She turned in her chair, a small woman in a red cardigan with an old dog collar buckled around her wrist like a bracelet, and looked up at him with the same pale, delighted blue eyes she'd had in 2008, when she hired two teenagers to scare strangers in her woods.
+
+The hall, which had come back to life, went still again to listen.
+
+"Augie VanderWal," Dot said. "You still pull early?"
 
 ## Chapter 2
 
