@@ -26,7 +26,7 @@ STORY_DNA:
 CHEMISTRY_LEDGER:
   reasons_to_fall:            # married couple: reasons to fall AGAIN
     - {id: RTF-01, who: Pip→Adam, act: "he declines the 1 a.m. call in the room (Ch 12)", channel: protection-with-limits}
-    - {id: RTF-02, who: Adam→Pip, act: "she reads Bryce's charm aloud as a load test and makes Adam laugh in the yard (Ch 5)", channel: humor}
+    - {id: RTF-02, who: Adam→Pip, act: "she reads Kurt's charm aloud as a load test and makes Adam laugh in the yard (Ch 5)", channel: humor}
     - {id: RTF-03, who: Pip→Adam, act: "he sells her plan to the steel supplier honestly and well, the talent she married (Ch 18)", channel: competence}
     - {id: RTF-04, who: Adam→Pip, act: "she says on the boardroom record that she wants thirty days, not his head (Ch 15)", channel: only-one-who-tells-the-truth}
     - {id: RTF-05, who: Pip→Adam, act: "he tells her about the Northgate call the same night, badly (Ch 19)", channel: only-one-who-tells-the-truth}

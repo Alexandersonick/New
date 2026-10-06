@@ -42,7 +42,7 @@ Magic, species and technology fields are not applicable.
     after the last round (closed 20 months ago).
   - The press calls them "the billion-dollar couple": the last round valued the company at about
     $1.3B.
-- **Acquirer:** Halvard Group of Minneapolis (CEO Bryce Lindahl). It wants the Corner brand and the
+- **Acquirer:** Halvard Group of Minneapolis (CEO Kurt Lindahl). It wants the Corner brand and the
   order book. Its integration plan moves production to its own plants within eighteen months.
 - **Cash:** about nine weeks at the midpoint. **Customer deposits (10%) sit in escrow** until steel is
   cut for that customer's unit (door rule 2, Pip's from 2014), so the order spike adds demand without
@@ -57,7 +57,7 @@ Magic, species and technology fields are not applicable.
 - **The Sobczaks:** Stan (74, retired tool-and-die maker, **alive**) and Halina (71), West Side,
   near the basilica. Pip's brothers Joe and Marek live nearby. The family appears lightly. **No family
   dinner ordeal for Adam** (catalog house device).
-- **Lolo's bowling:** Tuesday nights, Clyde Park Lanes. The team is "the Spare Parts".
+- **Lolo's bowling:** Monday nights, Clyde Park Lanes. The team is "the Spare Parts".
 - **Simone's place:** a rented condo downtown on Ionia Avenue, with boxes still unpacked from the move.
 
 ## Procedural rules (Risk Tier: B, plausible-not-technical)

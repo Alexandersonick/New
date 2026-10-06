@@ -68,7 +68,7 @@ as differentiation by the Novelty Gate.
 | Ruth Baskin, 58 | lead investor (Lakeshore Ventures), board member | wants the exit; not evil, just a fund with a clock |
 | Gordon Pyle, 52 | CFO | sweats; the person who knows the numbers and is never asked |
 | Del Ortiz, 61 | independent director | retired union plant manager; the board vote that can swing |
-| Bryce Lindahl, 49 | CEO of Halvard Group (the acquirer) | smooth, Minneapolis; wants the brand, not the plant |
+| Kurt Lindahl, 49 | CEO of Halvard Group (the acquirer) | smooth, Minneapolis; wants the brand, not the plant |
 | Tavi Okonkwo, 23 | design intern | films the crane; the video goes viral |
 | Benny Szymanski, 58; Darnell Price, 34; Irene Kwiatkowski, 50 | night crew | countable community; Benny votes no |
 
