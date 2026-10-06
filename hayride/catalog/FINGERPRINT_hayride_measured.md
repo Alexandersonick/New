@@ -124,7 +124,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 | 4 | Keeps her secret from her brother: *"If you want the rest, it's hers. Ask her."* | Brother | 9 |
 | 5 | Sits in the dunk tank for the wagon fund | Town | 7 |
 | 6 | Holds the light for 79 minutes and never offers to fix: *"You said flashlight."* | Her | 8 |
-| 7 | *rev:* removed. He tells her in the truck that he knows what tomorrow is ("I just know"); the porch light is now fixed by her, alone, on the anniversary eve [20] | Her | 20 |
+| 7 | *rev:* removed. He tells her in the truck that he knows what tomorrow is ("I just know"); the porch light is now fixed by her, alone, on the old wedding date [20] | Her | 20 |
 | 8 | Discloses the offer in person and refuses to let her "go" decide for him | Her | 24 |
 | 9 | Declines the offer for his own reasons, hangs the door with his shop's name, and reports the real cost from the doorway (the lost overflow work, $20–30k a year): *"Not for you... Well. Not only."* | Her; old boss; mother | 26 |
 | 10 | Stays belted and answers *"Right here. Choosing this one."* | 32 riders | 28 |

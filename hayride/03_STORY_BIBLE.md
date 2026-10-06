@@ -204,7 +204,7 @@ Facts behind it: Gus never took a 6:10; he drove his truck. Roz never sewed a ve
 | Thu Oct 22 | 16 | Kenzie interviews Roz, who refuses; Bev gives the interview; Roz and Danny fight and make up | |
 | R7, Fri Oct 23 | 17–18 | The Search debuts and works; the corn maze to fetch a lost lantern; Q7 (what do you want?); **first kiss** | $21,900 |
 | R8, Sat Oct 24 | 19 | word of mouth; Q8 | $25,600 |
-| Oct 25–27 | 20 | Mon Oct 26, the would-have-been wedding date; Gus fixes her porch light unasked | |
+| Oct 25–27 | 20 | Mon Oct 26, the would-have-been wedding date; that evening Roz fixes her own dead porch light in eleven minutes (rev. after BLIND_SAMENESS_REVIEW_measured H7; was: Gus fixes it unasked) | |
 | Wed Oct 28 | 21 | Calumet offers Gus Head of Scene Shop | |
 | Thu Oct 29 | 22 | the *Ledger* prints the feature with Gus's name, and Oct 31 sells out for both wagons | |
 | **R9, Fri Oct 30** | 23 | the target is hit on the 9:40 ride; Q9: "Would you have come back if the job hadn't ended?" "No." She ends the questions | **$29,350** |
@@ -268,14 +268,14 @@ CHEMISTRY_LEDGER:
       - {act: declines Calumet on the phone, losing the job and its overflow builds, chapter: 26, witnessed_by: no one, cost_to_repairer: the job, two contracts, his winter margin}
       - {act: tells her the same morning, plainly, without asking for anything, chapter: 26, witnessed_by: no one, cost_to_repairer: exposure}
       - {act: stays belted and silent while she tells it, chapter: 28, witnessed_by: riders, cost_to_repairer: hands her the moment}
-      - {act: the unglamorous work across Ch 13–22 (hitch pin in the mud, 40 lanterns, porch light, hay at 6 a.m.), witnessed_by: her, incrementally, cost_to_repairer: time}
+      - {act: the unglamorous work across Ch 13–22 (hitch pin in the mud, 40 lanterns, hay at 6 a.m.), witnessed_by: her, incrementally, cost_to_repairer: time}
     on_page: true
     first_attempt_fails: false   # not a fail-then-succeed rhythm
     repair_shape: sustained unglamorous presence (+ a costed refusal of an exit)
   devices_used: [others'-talk introduction (primary intro), competence/charm-witness (first attraction),
     answer-length ladder, comic undercut at exits (secondary), mirror line (Ch 3 "You still pull
     early." / Ch 19 "Only when I'm scared.")]
-  care_object_count: low by design (the porch light; the belt buckled in Ch 28). Care-object is not primary.
+  care_object_count: low by design (the held Maglite in Ch 8; the belt buckled in Ch 28). The porch light is her own act (rev). Care-object is not primary.
   intimacy_scene_functions: [Ch 18 first kiss: tests trust (after Q7); Ch 28/29 kiss: confirms repair]
 ```
 
@@ -349,3 +349,15 @@ These override the rows above where they conflict.
 - Gus's father's slicker says PETE. VanderWal Scenic hoodies: 12 printed (minimum order).
 - Hayride guide jar: 11 tickets (guides + alternates). Committee: Bev (vice-chair), Roz (chair), Dot, Clyde, Arlene Doornbos, Ed Brinks, Marv Kuiper (treasurer). Heritage vote 4–3 (Bev, Arlene, Marv, Ed for; Roz, Dot, Clyde against).
 - Tally: Oct 2 $2,300; Oct 3 $6,100; Oct 9 $9,800; Oct 10 $13,900; Oct 16 $16,200; Oct 17 $17,400.
+
+## 14. Facts fixed during revision and copyedit (supersede earlier entries where they differ)
+- Roz's mother left in 2015 (Roz 20, Danny 8). Walt Pietrowski died June 2019. Engagement Dec 2017 (barn loft; Danny's Polaroid "SHE SAID YES (OBVIOUSLY)"); ring returned Oct 6, 2019; Gus left Sat Oct 12, 2019; wedding would have been Mon Oct 26, 2019.
+- Tally (Bev's chalkboard): Oct 2 $2,300; Oct 3 $6,100; Oct 9 $9,800; Oct 10 $13,900; Oct 16 $16,200; Oct 17 $17,400; Oct 23 $21,900; Oct 24 $25,600; goal met in Ch 23 at $29,350; FINAL Oct 31 **$36,410**. The new DOT-rated wagon's specs are due to Great Lakes Mutual by Nov 15 (Ch 30).
+- Gus's client: Westbrook College opera (Mozart, garden hedges), delivered to Holland. Hardware: Carrow Hardware, Mr. Haverkamp; Lyle on the woodstove bench.
+- Ch 28 riders include Brody (photographer) and Jaxon (the Saturn boy from Sturgis).
+- Arlo finale vote (Ch 14): 4–3, Roz, Dot, Ed, Arlene for; Bev, Marv, Clyde against.
+- Dot stopped riding in 2020 (after Arlo died); first ride back is Ch 19. Ed has been in the Corn "since Clinton's second term".
+- Geography: Hollins Road runs east–west. The VanderWal place is a quarter mile east of the Teague drive. Roz's house is north, on Teague Road; her porch light is visible from the VanderWal barn across the field.
+- Roz's porch light: dead from March 2024 (corroded wire at the box, breaker 9); she fixes it herself on Mon Oct 26 (Ch 20) and leaves it on. Lorna's photo of her under it reaches Gus at 7:38 p.m. (Ch 21).
+- Ending (Ch 30): Gus says a proposal is coming. Roz refuses Danny's one-word "stay" and names her own terms ("When you ask, ask on a Tuesday... the answer's yes"). Gus writes TUES in the frost on the dock board with one of Walt's pencils.
+- Gus's voice device in the text: headset cue-calls ("Standby whistle... Whistle. Hold." Ch 2; "Standby humiliation" Ch 4; "Standby dunk tank" Ch 7; "Blackout" Ch 12; "Bark, go" Ch 17; "going dark" Ch 21; "Standby" Ch 29). The register plan keeps cue-calls out of Ch 24 and Ch 26.
