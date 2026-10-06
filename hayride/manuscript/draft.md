@@ -2998,7 +2998,7 @@ Tonight Ed didn't say it.
 
 Behind him, on a hay wagon parked at the maze edge, sat forty lanterns. Gus had cleaned every bail. Roz had wired every candle. Danny had put the batteries in and checked the polarity of every one, twice, under threat.
 
-Ed limped forward. Gus saw Roz's mouth twitch at the limp. Ed picked up a lantern from the wagon, switched it on, and held it out over the side of the Big Wagon to the first rider within reach, who happened to be Mateo.
+Ed limped forward. Beside Gus, Roz's mouth twitched at the limp. Ed picked up a lantern from the wagon, switched it on, and held it out over the side of the Big Wagon to the first rider within reach, who happened to be Mateo.
 
 "Take one," Ed said, in a voice Gus had never heard him use, low and urgent and hoarse. "We're looking for somebody."
 
@@ -3028,7 +3028,7 @@ Gus had heard her tell the bride a hundred and twenty-some times by now. He knew
 
 "And they came," Roz said. "Forty of them. Neighbors. In their work clothes and their church clothes. One man came straight from a wedding in his good shoes and walked the corn all night in them and complained about it for thirty years." A laugh from somewhere in the dark, small and surprised. "Every one of them brought a lantern. Like the one you're holding."
 
-Gus watched them look down at their lanterns.
+Thirty-two heads bent to look at their lanterns.
 
 "They made lines," Roz said. "Ten feet apart, across the rows, so nobody would get ahead and nobody would fall behind. And they walked this field, all night, calling. *Arlo. Arlo.*"
 
@@ -3102,7 +3102,7 @@ On the 11:00, the last ride, they came back to the barn one lantern short.
 
 "Raccoon'll find it first," said Ed. "That raccoon's a menace. He'll have it in his den by morning, reading by it."
 
-Roz looked at the dark corn. Gus watched her calculate: one lantern, one LED, one battery pack, one tomorrow, one raccoon.
+Roz looked at the dark corn, running the numbers: one lantern, one LED, one battery pack, one tomorrow, one raccoon.
 
 "I'll get it now," she said.
 
@@ -3112,7 +3112,7 @@ She didn't argue. That was how he knew how tired she was, or how good the night 
 
 * * *
 
-The Teague maze was seven acres of field corn cut in a pattern Dot drew on graph paper every July, and this year's pattern was, according to the map on the sign at the entrance, a pumpkin. From inside, in the dark, it was not a pumpkin. It was a series of identical eight-foot walls of dry rustling stalks under a sky full of stars, and every path forked, and every fork looked like every other fork.
+The Teague maze was seven acres of field corn cut in a pattern Dot drew on graph paper every July, and this year's pattern was, according to the map on the sign at the entrance, a pumpkin. From inside, in the dark, it was a series of identical eight-foot walls of dry rustling stalks under a sky full of stars, and every path forked, and no part of it looked like a pumpkin.
 
 They found the lantern in twenty minutes, on its side at the bottom of a dead end near the pumpkin's stem, where a small child had obviously set it down very carefully and then been hauled away by a parent. It was still on. The LED candle glowed in the dirt like a tiny campfire.
 
@@ -3138,7 +3138,7 @@ She looked at the lantern in her hand.
 
 He held the Maglite. He didn't turn it on.
 
-"My name on a shop door," Gus said. "Not a hoodie. A door. VanderWal Scenic, painted, with the hours under it, even if nobody ever comes during the hours." He thought about it. "And things I build that go out and come back. Sets. A hedge for a college opera that goes to Holland in a truck and comes back after the run, and I strike it and store it and somebody rents it two years later for a different opera with different people pretending to be in love behind it. Things that travel and come home." He shrugged. "That's it. That's the want."
+"My name on a shop door," Gus said. "A real door, painted, VanderWal Scenic, with the hours under it, even if nobody ever comes during the hours." He thought about it. "And things I build that go out and come back. Sets. A hedge for a college opera that goes to Holland in a truck and comes back after the run, and I strike it and store it and somebody rents it two years later for a different opera with different people pretending to be in love behind it. Things that travel and come home." He shrugged. "That's it. That's the want."
 
 She was very still.
 
@@ -3153,4 +3153,168 @@ She was very still.
 The corn rustled. Far off, on Hollins Road, a car went by, and its headlights moved across the tops of the stalks above them like a slow searchlight, and went away.
 
 "What do you want, Roz?" he said.
+
+## Chapter 18
+
+<!-- POV: Roz -->
+
+Nobody had asked Roz what she wanted since 2019, and the last person who had asked was standing in front of her in a corn maze at midnight asking again.
+
+She held the lantern. It was the most useful thing she could think of to do with her hands.
+
+"That's not fair," she said.
+
+"It's the same question."
+
+"It's my question. You can't ask my question back. That's not how it works."
+
+"There's no rule," said Gus. "I checked. Rule three's about finales. Rule seven's about the jar. There's nothing in the handbook about the corn."
+
+"The corn is Dot's. Dot doesn't have rules."
+
+"Then it's the one place in Carrow you can answer a question without a vote."
+
+The corn ticked around them. A breeze went through the tops of the stalks, dry and papery, like somebody whispering in a room you couldn't see into. Her headlamp made a white circle on his chest, VanderWal Scenic in white letters, and she turned it off, because it felt like interrogating him, and then there was only the lantern between them, low and gold, lighting his face from underneath the way Ed's lit Ed.
+
+She opened her mouth to say *the number*. Twenty-nine thousand. A new wagon by the first of the year. That was what she wanted; it was on the chalkboard; it was the answer you could give in a committee. It was an answer you could chalk.
+
+What came out was different.
+
+"I want Danny to go to a four-year school," she said. "Next fall. Not Lake Michigan College, Western or State or somewhere with a dorm, somewhere he has a roommate who's an idiot and he eats cereal for dinner and calls me on Sunday to complain about it. I want him to go and not feel like he's leaving me in the house alone. I want to sell the house, maybe. I don't know. I want to stop knowing which stair creaks." She stopped. She hadn't meant any of that to come out of her mouth, and it kept coming. "I want the hayride to last. Not because of Dad, or Dot, or Arlo. Because it's good. Because it's the best thing this town does, all of us out in a field in the dark scaring each other on purpose and then going home. I want it to last after I'm not chair. I want to not be chair. I want somebody else to check the battery box. I want to sit on the wagon once, in the back, with a blanket, and just ride it, and not know what's coming." She took a breath. "And I want to stop being the one who's in charge of how everybody else feels. Bev and Danny and the committee and twenty-six eighth graders and Joyce from Battle Creek. I want one hour where nobody needs me to keep my face where it is."
+
+She stopped because she'd run out of air.
+
+He didn't say anything. He stood there with the dark Maglite in his hand and listened to her like it was the most interesting thing he'd ever heard, like she was a show he'd paid for.
+
+"That's a lot of wants," she said.
+
+"That was a paragraph."
+
+"I know it was a paragraph."
+
+"You've said four words to me at a time for three weeks," Gus said. "You just said a paragraph."
+
+"Don't make it a thing."
+
+"It's not a thing. I'm just noticing. I've been timing your answers since the Supper." He tilted his head. "The first night you said 'Belt.' One word. Then 'FOG is mine.' Then it was sentences. Then, the night of the fog box, you said a whole thing about Meijer."
+
+"You're keeping count of my words?"
+
+"I'm a carpenter," said Gus. "I measure."
+
+She almost laughed. She didn't, quite, but it was so close she had to look down at the lantern, and the lantern was steady in her hand, and she noticed that her hand was steady too, which it had not been all night, which it had not been since the jar.
+
+* * *
+
+"Lorna told me about the pie," she said.
+
+He went still. It was a small thing. If she hadn't been watching for it, she wouldn't have seen it, but she'd been watching people for scares since she was thirteen and she knew what a body did when the thing it had been waiting for finally came down the line.
+
+"Lorna promised," he said.
+
+"Lorna's a businesswoman."
+
+"Lorna gave me free coffee for three hours and told me she'd take it to the grave."
+
+"She said she was going to. Then she decided the grave was taking too long." Roz turned the lantern a little in her hand. "Third stool. Sour cream raisin. You hate sour cream raisin."
+
+"I do hate it."
+
+"You sat there three hours."
+
+"Until close."
+
+"Why?"
+
+He looked at the corn wall behind her. He looked at it for a while, the way he did, turning the question over to find the side that was true.
+
+"Because you'd said don't call," Gus said. "You hadn't said don't sit in the diner. I thought maybe that was a loophole." He shrugged, a small careful movement. "I thought if I sat where you'd find me, and you came in, then it wasn't me going after you. It was just you finding me there. And then it'd be your choice, and I wouldn't have broken anything. I'd have just been eating pie." He paused. "I didn't eat the pie."
+
+"Lorna said."
+
+"It was very bad pie. No offense to your taste."
+
+"It's excellent pie."
+
+"It has *raisins* in it, Roz. In *sour cream*."
+
+She laughed.
+
+She didn't decide to. It came up out of her like the fog out of the box at two in the morning, all at once, too much, sliding everywhere, and she laughed out loud in the corn maze at midnight with a lantern in her hand, and she couldn't stop for a while, and he stood there and watched her do it with an expression she had not seen on his face in seven years. She had seen it last on a kitchen floor in 2019, sitting on the linoleum with a bridal veil from Kalamazoo in her lap, laughing because she'd asked him to be honest and he had been.
+
+When she stopped, they were closer than they had been. She didn't remember either of them moving. The lantern was between them, held low, and the light came up from it onto both their faces, and the corn stood around them eight feet high on three sides, and above them the stars.
+
+"I wasn't going to come in," she said quietly. "That night. To the diner. I knew you were there. Lorna's mom called my house at eight-thirty. I sat in the kitchen with the phone on the table and I didn't go."
+
+"I know."
+
+"You didn't know."
+
+"I knew," said Gus. "When the bell didn't go. You'd have come by nine if you were coming. You're always early."
+
+She looked at him. He looked back. His face was doing what it had been doing for three weeks, which was nothing, which was holding very still and letting her look, and she understood suddenly, the way she understood a rig when the last piece fit, that it had never been nothing. It had been the effort of holding still. It had been a man holding a flashlight exactly where she needed it for seventy-nine minutes and never once reaching for the clamp.
+
+"You're not going to do anything," she said. "Are you."
+
+"Not unless you say."
+
+"That's the whole problem with you."
+
+"I know."
+
+"You always wait for me to say."
+
+"Last time you said *go*," said Gus, very quietly. "So I'm being careful."
+
+She put the lantern down.
+
+She set it on the ground at their feet, in the dirt of the dead end, carefully, upright, the way the little boy on the 11:00 must have set it down, and it lit them both from below, and she straightened up, and she put one hand flat on his chest, over the white letters, over the place where inside his jacket her name was pinned in Dot Teague's handwriting, and she kissed him.
+
+It wasn't long. It was cold and short and a little clumsy, because she'd forgotten the exact height of him, or her memory had been leaning, and she had to go up on her toes on the soft dirt, and his hand came up to her elbow to steady her, light, the way he'd taken her ticket at the Supper by the very edge. He tasted like cold air and Lorna's cider. He didn't hurry. He didn't hold on. When she stepped back down off her toes, he let her go exactly as far as she went and not one inch farther.
+
+They stood there. The corn ticked.
+
+"Okay," he said.
+
+"Don't say okay."
+
+"I've got nothing else," said Gus. "I've literally got nothing else. Every other word has left."
+
+Something crashed in the corn behind him.
+
+It was loud, a great dry splintering rustle, as if something large had come through a wall of stalks at speed, and they both turned, and out of the corn wall at the end of the dead end, into the lantern light, rolled a raccoon the size of a beagle, fat and gray and masked, clutching in its front paws a red-and-white striped object that was unmistakably the lid of Ed Brinks's lantern oil can.
+
+It stopped. It looked at them. They looked at it.
+
+It looked at the lantern on the ground.
+
+"No," said Roz.
+
+The raccoon considered her. Then it turned around with enormous dignity, lid and all, and walked back into the corn, unhurried, like a man leaving a party he hadn't enjoyed.
+
+Gus started to laugh. It came out of him slowly and then all at once, and he put the heel of his hand against his forehead and laughed until he had to lean on the corn, which was not a thing you could lean on, and it bent, and he almost went over, and she grabbed his jacket and held him up, and then they were both laughing in the dead end at midnight with a lantern on the ground and a raccoon somewhere nearby with a lid.
+
+"Ed's going to want to know," Roz said, when she could talk.
+
+"Ed's never going to know."
+
+"He's been hunting that raccoon for three weeks."
+
+"Then he can keep hunting it," said Gus. "That raccoon just saw something private."
+
+* * *
+
+They found the way out by keeping their right hands on the corn wall, which was the trick Dot had taught them both at fourteen and fifteen, and which worked on every maze she'd ever drawn because she'd never once bothered to make it not work. It took eleven minutes. Neither of them said much. She carried the lantern. He carried the dark Maglite. Once, at a fork, the backs of their hands touched on the way past, and neither of them moved them away, and neither of them made it a thing.
+
+At the maze entrance there was a light.
+
+It was Danny's headlamp. He was sitting on a hay bale by the sign with his arms folded, still in his parking-field vest, and as they came out of the corn into the open he stood up and looked at them, at his sister with the lantern and Gus with the flashlight and the two of them walking very carefully a foot apart, and his face did a series of things in fast succession that Roz would think about for weeks.
+
+"Hank sent me," Danny said. "To make sure you didn't die."
+
+"We didn't die."
+
+"Great. Awesome." He looked at Gus. He looked at Roz. He looked at the lantern. He looked at the dark wall of the maze behind them.
+
+"Huh," Danny said. "Ain't nobody comes back out of that corn."
 
