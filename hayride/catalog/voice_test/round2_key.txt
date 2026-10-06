@@ -1,0 +1,1 @@
+{'Sample 1': 'vt2_G21.txt', 'Sample 2': 'vt2_G12.txt', 'Sample 3': 'vt2_D24.txt', 'Sample 4': 'vt2_D8.txt'}

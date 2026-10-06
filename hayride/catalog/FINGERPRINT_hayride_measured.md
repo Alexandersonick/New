@@ -6,7 +6,7 @@
 | source | manuscript (measured row) |
 | filled_by | read of the full text, all 30 chapters (scratchpad `hr/draft_v2.md`, 68,788 parsed words), plus `series_diff.py` measurements (prior: `twin_sister.md`) on this file |
 | not consulted | story bible, chapter map, concept candidates, architecture fingerprint. This row measures what the text does. It does not check drift against the plan. |
-| date | 2026-10-06 |
+| date | 2026-10-06 (revised the same day after BLIND_SAMENESS_REVIEW_measured H7: rows marked *rev* reflect the post-review text) |
 | machine row | `fingerprint_hayride_measured.json` (schema 1.1, evidence_level FULL_TEXT, lane `sweet_small_town_holiday_second_chance`) |
 | exact sub-lane | second chance with an ex-fiancé, under forced public proximity at a seasonal small-town event |
 | triage | `catalog_similarity.py` against the twin-sister row: score 0.080, PASS band, no hard failures (AMBER only because the comparison set is short) |
@@ -124,7 +124,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 | 4 | Keeps her secret from her brother: *"If you want the rest, it's hers. Ask her."* | Brother | 9 |
 | 5 | Sits in the dunk tank for the wagon fund | Town | 7 |
 | 6 | Holds the light for 79 minutes and never offers to fix: *"You said flashlight."* | Her | 8 |
-| 7 | Fixes her dead porch light unasked and leaves a note: "DIDN'T COME IN. DIDN'T NEED ANYTHING. *I know.*" | Her; town gossip | 20 |
+| 7 | *rev:* removed. He tells her in the truck that he knows what tomorrow is ("I just know"); the porch light is now fixed by her, alone, on the anniversary eve [20] | Her | 20 |
 | 8 | Discloses the offer in person and refuses to let her "go" decide for him | Her | 24 |
 | 9 | Declines the offer for his own reasons, hangs the door with his shop's name, and reports the real cost from the doorway (the lost overflow work, $20–30k a year): *"Not for you... Well. Not only."* | Her; old boss; mother | 26 |
 | 10 | Stays belted and answers *"Right here. Choosing this one."* | 32 riders | 28 |
@@ -140,7 +140,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 | 4 | Says *"I'm sorry"* in public, in the hardware store: "For six years of the pond." | Store owner, two old men | 22 |
 | 5 | Makes the dock confession | 32 riders | 28 |
 | 6 | Enforces rule twelve on herself and steps down | Committee, volunteers | 29 |
-| 7 | Says *"Stay."* | Him | 30 |
+| 7 | *rev:* Names her own terms instead of the word her brother handed her: *"When you ask, ask on a Tuesday... And the answer's yes."* He writes TUES in the frost | Him | 30 |
 | 8 | Changes how she says go: tells her brother "go. And come home Sundays. And call." | Him (reported) | 30 |
 
 **Repair shape:** `public_confession`, by the heroine. Hero side: `sustained_presence`.
@@ -150,7 +150,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 ### 8. Resolution & epilogue shape
 **Resolution shape:** `full_reconciliation`.
 - *"I love you... I have the whole time."* / *"I love you too. I've never once said it out loud in this town."* [29]
-- He announces that a proposal is coming, "here, on purpose, because I decided to". She says *"Stay... Whenever you ask the other thing, the answer's yes"* [30].
+- He announces that a proposal is coming, "here, on purpose, because I decided to". *rev:* She answers with her own terms: ask on a Tuesday, the answer's yes; he writes TUES in the frost on the dock board [30].
 - The ring was sold [4]. None is replaced.
 
 **Side resolutions:**
@@ -194,7 +194,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 6. `job_offer_triggers_heroine_repeat_send_away` [21–25]
 7. `hero_declines_offer_on_own_terms` [24, 26]
 8. `heroine_public_self_indicting_retelling` [28]
-9. `heroine_steps_down_and_says_stay` [29–30]
+9. `heroine_steps_down_and_names_her_own_terms` [29–30] (*rev*; was `says_stay`)
 
 ---
 
@@ -208,7 +208,7 @@ The child's question frames it in [5]: *"Did he leave? Or did you tell him to?"*
 The deeper question is how the two of them parted:
 - She says "go" first, so leaving is her idea.
 - He obeyed "go" because obeying was easy.
-- The book resolves it by inverting both: she learns to say "Stay," and he decides for himself ("for once in his life easy wasn't the same as obedient", [24]).
+- The book resolves it by inverting both: she stops saying *go* and, refusing the one-word fix her brother offers, says what she wants in her own terms [30], and he decides for himself ("for once in his life easy wasn't the same as obedient", [24]).
 
 ### 10. Protagonist's dominant strategy
 `building`. She manages feeling the way she builds scares: control the wait, keep the face "exactly where it was", rig the room.
@@ -273,7 +273,7 @@ No villain. The antagonist is affection plus procedure.
 **Signature scenes:**
 - the jar draw and "Rule seven" [1]
 - the binder's back page: *"(Front-bench guide: WHISTLE on 'that's the 6:10.')"* [2]
-- the whistle hit on the word, and the wagon turns to stare [3]
+- the whistle hit, and the wagon turns to stare [3]
 - the truth-a-night deal [3]
 - "Do you still have the ring?" / "No. I sold it." [4]
 - the popcorn and the stopped ride [4]
@@ -291,12 +291,12 @@ No villain. The antagonist is affection plus procedure.
 - the first lantern ride: *"That's finished."* [17]
 - the corn-maze kiss and the raccoon [18]
 - Dot lifts the last lantern: *"That's about where he was."* [19]
-- the porch light and *"I know."* [20]
+- the porch light she fixes herself, in eleven minutes, two and a half years late [20] (*rev*)
 - the empty Pullman warehouse floor, where a quarter stands on edge [21]
 - *"I'm sorry"* in the hardware store [22]
 - *"No."* / *"I'm done asking."* [23]
 - "Go." again in the parking field [24]
-- the rooster and "Stay" [25]
+- the rooster and Danny's "say the other thing" [25], refused and replaced at [30] (*rev*)
 - the bride brought home at dawn [25, 27]
 - the door hung with the name and the hours [26]
 - the dock confession, *"Right here. Choosing this one,"* and the lanterns lifted to the bench [28]
@@ -309,10 +309,10 @@ No villain. The antagonist is affection plus procedure.
 |---|---|---|
 | First-inspection line (true, not misjudged) | [1], her POV: *"He was taller than she remembered, or he stood straighter, or her memory had been leaning on him... He looks like somebody let him out of a coat... Like he'd hung on a hook a long time."* Confirmed by the closed-room line in [13]. Capped by an object-act: *"He'd brought a pin."* | **PRIMARY. Carries the first attraction beat.** |
 | Restraint as care (offered exit plus stillness), not a bank device | [1]: *"giving her one more second to pull it back, standing very still so that if she took her hand away, nobody would see"*; *"I could say I've got a conflict... nobody would have to watch you do this."* | **Carries the first care beat.** The bank does not cover it; record it as `other` |
-| Care-object-and-service | [6] hand flat on the bench, then removed "before she could notice" (service, no object); [8] the Maglite held 79 minutes; [20] porch-light wire plus pencil note; [26] the door | First *bank* care device. It dominates the care beats from [8] |
+| Care-object-and-service | [6] hand flat on the bench, then removed "before she could notice" (service, no object); [8] the Maglite held 79 minutes; [26] the door (*rev:* the [20] porch-light repair was cut; the light is now her own act) | First *bank* care device. It dominates the care beats from [8] |
 | Others'-talk introduction | [1]: whispers under the ham buns (*"Chicago let him go, is what I heard. Bought her house off her"*) before he is seen. He is also pre-cast as the villain of her story | Introduction mode |
 | Answer-length ladder | Explicit in [18]: *"The first night you said 'Belt.' One word... You just said a paragraph."* / *"I'm a carpenter. I measure."* | Secondary, structural |
-| Mirror line | "Still choosing the city" [3] becomes "Choosing this one" [28]; "Go" [4, 16, 24] becomes "Stay" [25, 30]; *"You still pull early?"* [1] becomes *"Do you still pull early?" / "Only when I'm scared."* [19]; his ex's "whole room... kept the door shut on" [13] becomes the door he hangs [26] | Secondary, load-bearing at the climax |
+| Mirror line | "Still choosing the city" [3] becomes "Choosing this one" [28]; "Go" [4, 16, 24] is answered not by "Stay" but by her own terms ("ask on a Tuesday") [30] (*rev:* the one-word callback payoff was removed); *"You still pull early?"* [1] becomes *"Do you still pull early?" / "Only when I'm scared."* [19]; his ex's "whole room... kept the door shut on" [13] becomes the door he hangs [26] | Secondary, load-bearing at the climax |
 | Charm-witness | Clyde (*"That story's mean."* [5, 10]); Lorna (*"He's giving you the answers that'll make you believe him"* [5]); Mateo (*"That's my friend. That's the train guy."* [13]); Dot (*"That's the right answer."* [19]); Ruth (*"She labels like me."* [15]) | Secondary, frequent |
 | Comic undercut at chapter exit | [4] "Trains are cool."; [7] pie poll; [13] "That's the train guy."; [18] "Ain't nobody comes back out of that corn." | Secondary |
 | Narrator-wrong-once | [18]: *"it had never been nothing. It had been the effort of holding still."* Also "Still choosing the city" was hers and wrong [5] | Secondary |
@@ -338,7 +338,7 @@ No villain. The antagonist is affection plus procedure.
   - she reads a room and uses "the voice" on riders
 
 **The hero, theatre scenic carpenter turned one-man shop:**
-- He hits the cue on the word [3].
+- He works the toggle the stagehand's way, four fingers on the rail and thumb on the cue [3] (*rev:* was "hits the cue on the word").
 - He reads the room as a stage manager ("Standby humiliation. Humiliation, go." [4]).
 - He kerfs the reeds hummock that makes the true finale technically possible [15].
 - His model of the pond carries his private decision [12, 24].
@@ -446,7 +446,7 @@ No tic is above threshold at book level. Gus's filter-word rate sits on the thre
 
 | Phrase | Count | Note |
 |---|---|---|
-| "She didn't" / "He didn't" | 55 / 52 | Restraint rendered as actions not taken |
+| "She didn't" / "He didn't" | 55 / 52 → *rev* 30 / 11 (sentence-initial, narration only) | Restraint rendered as actions not taken; Gus's chains converted to stage-manager cue-calling and object-talk |
 | "didn't say anything" | 27 | |
 | "the way he" / "the way she" | 27 / 27 | Similes and characterising comparisons |
 | "the way you…" / "the way a…" | 18 / 15 | |
