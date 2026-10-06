@@ -1,0 +1,100 @@
+body {
+  font-family: "Times New Roman", Georgia, serif;
+  line-height: 1.4;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 0.2em;
+  font-size: 1.4em;
+}
+
+/* Chapter headings are H1 (siblings of the hidden Title Page H1 — see
+   build_epub_source.js for why); this visually hides only the Title Page
+   heading's own text without affecting real chapter headings. */
+h1.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.2em;
+  text-align: justify;
+  orphans: 2;
+  widows: 2;
+}
+
+/* Title page */
+div.titlepage {
+  text-align: center;
+  margin-top: 3em;
+}
+p.booktitle {
+  font-size: 2.2em;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+  text-indent: 0;
+}
+p.booksubtitle {
+  font-size: 1.1em;
+  text-indent: 0;
+  margin-bottom: 1.2em;
+}
+p.seriesline {
+  text-indent: 0;
+  margin-bottom: 0.2em;
+}
+p.authorline {
+  text-indent: 0;
+  font-size: 1.1em;
+  margin-top: 0.2em;
+}
+
+/* POV / date subtitle under each chapter heading */
+p.povline {
+  text-indent: 0;
+  text-align: center;
+  font-size: 0.9em;
+  margin-bottom: 1.2em;
+}
+
+/* Scene break glyph */
+p.scenebreak {
+  text-indent: 0;
+  text-align: center;
+  margin: 1.2em 0;
+  letter-spacing: 0.2em;
+}
+
+/* THE END mark */
+p.theend {
+  text-indent: 0;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  letter-spacing: 0.15em;
+}
+
+/* Letters / epigraphs — plain markdown *italic* paragraphs, no class, styled via em */
+p em {
+  font-style: italic;
+}
+.copyright p{font-size:0.85em;text-indent:0;margin:0 0 0.8em 0;}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+p.bookno { text-indent: 0; text-align: center; letter-spacing: 0.15em; margin-top: 2em; }
+p.booksub { text-indent: 0; text-align: center; font-style: italic; margin-bottom: 2em; }
+h1 + p, h2 + p, p.povline + p, p.scenebreak + p, p.booksub + p { text-indent: 0; }
