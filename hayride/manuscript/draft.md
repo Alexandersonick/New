@@ -5156,3 +5156,177 @@ Standby, Gus thought, out of old habit, in the stage manager's voice. Then he st
 
 From the dark at the back of the machine shed, up in Marguerite's seat, Hank Ruiter said: "Yup."
 
+## Chapter 30
+
+<!-- POV: Roz -->
+
+On the first of November the frost came down hard, and at seven in the morning half of Carrow showed up at the Teague farm in work gloves to take the hayride apart.
+
+Nobody organized it. Nobody ever had. It was the oldest rule of the hayride and it wasn't in the handbook: on the morning after the last night, you came back and struck it. You took down what you'd put up. You carried the bales back to the barn and the skeletons back to the Grange basement and the extension cords back to whoever's garage they'd come out of in September, labeled or not. You did it in the cold with coffee, and nobody was in charge, and it was always done by noon.
+
+Roz stood in the yard at seven-ten with a coffee from Lorna in one hand and her father's coat buttoned to the throat, and she didn't have a clipboard, which hadn't happened in nine years.
+
+She didn't know what to do with her other hand. She put it in her pocket. Her fingers found the ticket half, and the folded muslin, and the dog collar, which she'd taken off her wrist at two in the morning and put in her coat pocket because it was too big and she was afraid of losing it.
+
+"Okay, so," said Lorna, beside her, in a sweatshirt that said BAKKER'S DINER: WE'RE OPEN EARLY BECAUSE WE'RE NOSY, "you look like a woman who doesn't know where to stand."
+
+"I don't know where to stand."
+
+"That's because you've never stood anywhere at a strike. You've always been on the fog box." Lorna sipped her coffee. "Bev's got the clipboard. Bev's got a *new* clipboard. It's purple."
+
+Across the yard, Bev Oosterhouse stood by the Grange shed with a purple clipboard and her reading glasses on their beaded chain, directing the Hoekstra boys toward the scarecrow with the calm authority of a general who has been waiting a decade for this campaign. She saw Roz looking. She lifted the purple clipboard one inch, like Clyde at the Supper.
+
+"She's going to be good at it," said Roz.
+
+"She's going to be *terrifying* at it." Lorna nudged her. "Go do something with your hands. You're making me nervous. Go take down a fog machine."
+
+* * *
+
+The fog box on the far bank was the last thing she'd built and the first thing she took down, because she knew it best, and because it was the farthest from everyone.
+
+She walked down the pond lane alone. The frost was white on the stubble and white on the ghost's line between the Woodlot oaks, a silver thread furred with ice. The ghost was gone already; Brielle had come at six-thirty with her father and reeled it in, and folded the sheet, and left it on Roz's porch swing in a Meijer bag with a note that said THANK YOU FOR LETTING ME PULL IT, in purple marker, with a heart.
+
+At the pond, the water was still and steaming in the cold.
+
+She went around the edge through the wet grass to the far bank, to the plywood box under the willows. She opened the lid. She drained the line, quarter turn on the valve, and coiled the braided hose from her kitchen sink, which she was never going to put back under the sink, which was going to live in this box now forever. She unplugged the Singer and coiled its cable. She took the little lantern for Arlo out of its nest in the cattails, the low one, the one the size of a six-year-old, and switched it off, and wrapped it in a towel, and put it in her tool bag. She took the speaker down from the willow branch and coiled the wire, and pressed the test button once, out of habit, and across the cold water Rufus barked twice, happy, at nobody.
+
+She smiled. She couldn't help it.
+
+When she came back around the pond, he was sitting on the end of the dock.
+
+He had two coffees, one in each hand, and Delores was parked at the head of the lane, which you weren't supposed to do, which nobody ever did. He was in the VanderWal Scenic hoodie and his father's yellow slicker, PETE across the shoulders. He had his legs over the edge of the dock the way she'd sat there at fourteen and seventeen and twenty-four and two weeks ago. He was looking at the line.
+
+The line was still up. She'd taken the trolley off it last night, and the lantern, but the line itself was still strung from the cedar post under the far willows across ninety feet of water to the eyebolt in the last piling, almost invisible, catching the low November sun in a single bright thread.
+
+She walked out the dock. The boards were frosted. She sat down beside him.
+
+He handed her a coffee.
+
+"Lorna already gave me one," she said.
+
+"Lorna gives everybody one. This one's from me." He looked at the line. "Are you taking it down?"
+
+"I have to. Rule four. Nothing stays up over the winter. Ice'll pull the eyebolt."
+
+"Do you want help?"
+
+She looked at him. He was looking at the line, not at her, and his face was doing the plain thing, the thing from the corn, nothing held back behind it.
+
+"Hold the flashlight," she said.
+
+"It's daytime."
+
+"I know," said Roz.
+
+He laughed. It went out over the water and came back off the willows, and somewhere on the far bank a heron that she hadn't known was there lifted off out of the reeds with a sound like somebody shaking out a sheet, and flew low and slow across the pond, under the line, and away over the corn.
+
+* * *
+
+They took the line down together. She cut it at the eyebolt and he held the slack, and they reeled it in hand over hand off the cedar post across ninety feet of water, the monofilament coming up out of the steam on the pond wet and bright, until the whole length of it lay coiled in a loose figure eight on the dock between them, a little pile of almost nothing.
+
+"That's it?" he said.
+
+"That's it. That's the whole ghost."
+
+"It's so small."
+
+"It always was," said Roz. "That's the trick."
+
+She picked up the coil and put it in her tool bag. Then she sat back down on the end of the dock beside him, with her coffee, and their shoulders touched, and she let them.
+
+Across the field, up at the barn, someone had started the Grange's old radio on the hood of a truck, the classical station out of Kalamazoo, and it came down to them faint over the stubble, something with violins. Ed's voice carried from somewhere in the Corn, explaining to someone that the raccoon was real, he was not making the raccoon up, there was a *raccoon*. Hank's truck backed up to the machine shed, beeping.
+
+"Danny's applying to Western," she said.
+
+Gus looked at her.
+
+"He told me at six this morning. In the kitchen. He'd been up all night writing the essay. He's going to write it about the shelf you put in the barn loft with him. He said I could read it if I didn't cry." She turned her cup in her hands. "I read it. I cried."
+
+"What'd you tell him?"
+
+She'd thought about it on the drive over. She'd thought about how she'd said *go* her whole life, the way you'd shut a door before the wind could slam it, and how this morning, standing in her kitchen in her socks with her brother's essay in her hands, she'd said it again. It had come out completely differently.
+
+"I said go," Roz said. "And come home Sundays. And call."
+
+"Did he say he would?"
+
+"He said, 'Obviously, Roz, God,'" she said, "which in Danny is a sworn affidavit."
+
+Gus laughed again. She leaned her shoulder into his.
+
+They sat there for a while. The sun came up a little higher over the corn and the steam thinned on the water, and the pond turned from gray to a dark, clear blue with the bare willows standing in it upside down.
+
+"Roz," he said.
+
+Something in his voice. She knew it. She'd heard it on the drive back from Paw Paw, in the truck, in the parking lot of Tractor Supply. She'd heard it at a kitchen table in December of 2017, in a barn loft, and at another one in October of 2019.
+
+"I'd like to ask you something," Gus said. "And it isn't for the hayride. It's not one of the ten. It's not for a wagon or a jar or a reporter. I don't have a ring, because I sold the ring to a man on Clark Street for five hundred and ten dollars, which you know. And I'm not going to ask it today. I just want you to know it's coming. I want you to know I'm going to ask it, someday, when you're ready, and that I'm not going anywhere in the meantime, and that when I ask it, I'll be asking it here, on purpose, because I decided to." He took a breath. "So you can see it coming. Down the line. So it doesn't jump out at you."
+
+She looked at him.
+
+She knew what she was supposed to say. She'd known since two in the morning on her kitchen floor, since the rooster, since Danny at the table with his hands flat on the oilcloth. It was one word. It was shorter than *go*.
+
+"Stay," Roz said.
+
+He went still.
+
+"That's not an answer," he said, after a moment. "I didn't ask yet."
+
+"It's not an answer. It's the other thing." She held his eyes. "It's the thing I didn't say. At the table. When you asked me to come, and asked me to wait, and I told you to go. I should've said it then and I didn't know how." Her voice didn't stay level. She didn't try to make it. "Stay, Gus. That's all. Whenever you ask the other thing, the answer's yes. But I wanted to say this one first. Because I never have."
+
+He didn't say anything. He didn't say okay. He put his coffee down on the frosted boards beside him, carefully, the way you'd set down a lantern, and put his hand over hers on her cup, and held it, and stayed.
+
+* * *
+
+At eleven, Bev came across the yard with the purple clipboard and stopped in front of her.
+
+"Now," Bev said. "Rosalind. The new wagon."
+
+"What about it?"
+
+"Great Lakes wants the specifications by the fifteenth. DOT-rated, thirty-two seats, belts on the front bench. Somebody has to pick it. Somebody who knows what a wagon needs at the pond in the dark." Bev made a mark on the clipboard. "I've appointed you effects lead. It's done. I wrote it down."
+
+"Bev, I'm not chair. I can't be appointed to anything. I broke rule one."
+
+"You broke rule one as *chair*. You're not chair. Effects leads can be anybody. It's in the bylaws." Bev looked at her over the reading glasses. "Rule thirteen."
+
+"There's no rule thirteen."
+
+"There is now," said Bev. "I wrote it this morning at five o'clock at my kitchen table. 'The effects lead shall be Rosalind Pietrowski until she says otherwise.' It's on the purple clipboard. I'll laminate it Monday."
+
+Roz looked at her. Bev looked back. The pumpkin brooch caught the sun.
+
+"Thank you, Bev."
+
+"Don't thank me. You'll be building that wagon a fog machine by February and complaining about it." Bev turned to go, and then turned back. "And Rosalind. Bring him to Thanksgiving. At my house. Ruth's coming down from Grand Rapids. I called her last night. We're going to have a very long talk over a very large turkey, and I'd like witnesses."
+
+She walked away before Roz could answer, purple clipboard under her arm, already calling to the Hoekstra boys about the scarecrow.
+
+Before noon, when the yard was nearly struck and Bev was checking off the last items on her purple clipboard and Lorna was cutting the sheet cake that said AHFAD on the tailgate of Hank's truck for anyone who wanted a square, Clyde Mulder found Roz by the wagon shed and held out a cigar box.
+
+It was a new one. Empty. Swisher Sweets, from the gas station on M-40.
+
+"For yours," Clyde said.
+
+Roz took it. She looked at it. Then she looked at Clyde, who was looking at the barn.
+
+"Thank you, Clyde."
+
+"Starts with one," said Clyde, and went off to help Ed carry the scarecrow.
+
+She stood by the wagon shed and opened the cigar box. She reached into her coat, on the left, and unpinned the ticket half. August VanderWal, in Dot's handwriting. She put it in the box. Then she went across the yard to where Gus was rolling up extension cords by the Grange shed, and held out her hand, and he looked at her and at the box and understood without being told, and unzipped his jacket halfway and reached inside, to the left, and unpinned her name, Rosalind Pietrowski, in the same hand, and gave it to her.
+
+She put them in the box together. Two tickets. She closed the lid.
+
+Then there was only one thing left.
+
+The Bride's lantern had spent the night on the cue box on the front bench of the Big Wagon in the machine shed, where she'd set it after the 11:00. At some point in the night its battery had died. Now, in the late morning, she went into the shed and picked it up off the cue box, off the masking tape that said BARK, and carried it out across the yard and into the Teague barn, where Dot kept everything that had ever mattered to the hayride: the first wagon wheel from 1987, and Arlo's straw hat, and a hook where the old dog collar had hung for sixty-eight years before Dot started wearing it.
+
+The hook was empty now. The collar was in Roz's coat pocket, and the dog it was going to belong to had not been born yet.
+
+She hung the lantern there instead.
+
+It hung on the old iron nail on the barn wall in a bar of November sun from the high window, with no veil and no candle, a two-dollar hurricane lantern from a Goodwill in Kalamazoo.
+
+Its glass held the light from the window, and it was still.
+
