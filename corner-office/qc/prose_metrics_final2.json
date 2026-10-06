@@ -1,0 +1,4971 @@
+{
+  "book": {
+    "title": "My CEO Husband Gave Her My Corner Office",
+    "words": 68399,
+    "chapters": 30,
+    "chapter_mean": 2279.9666666666667,
+    "chapter_cv": 0.16198314377711134,
+    "dialogue_ratio": 0.3367344551820933,
+    "ai_tier1_total": 0,
+    "ai_tier2_total": 34,
+    "neg_par_total": 0,
+    "tricolon_total": 1,
+    "theme_total": 0,
+    "stock_total": 0,
+    "slop_total": 0,
+    "slop_names": [],
+    "asides_total": 0,
+    "body_beats": {
+      "knuckles": 3
+    },
+    "gestures_per_10k": {
+      "swallowed": 0.1
+    },
+    "repeated_4grams": [
+      [
+        "every one of them",
+        13
+      ],
+      [
+        "in the break room",
+        13
+      ],
+      [
+        "room in the yard",
+        12
+      ],
+      [
+        "phone in my hand",
+        11
+      ],
+      [
+        "one in the morning",
+        10
+      ],
+      [
+        "of the lindqvist building",
+        8
+      ],
+      [
+        "inside of the door",
+        8
+      ],
+      [
+        "put a post in",
+        8
+      ],
+      [
+        "i'm going to tell",
+        8
+      ],
+      [
+        "one hand on the",
+        7
+      ],
+      [
+        "i can see the",
+        7
+      ],
+      [
+        "since the spring before",
+        7
+      ],
+      [
+        "the spring before last",
+        7
+      ],
+      [
+        "i can hear the",
+        7
+      ],
+      [
+        "i don't know what",
+        7
+      ],
+      [
+        "in the glass room",
+        7
+      ],
+      [
+        "a hundred and forty",
+        7
+      ],
+      [
+        "he says and goes",
+        6
+      ],
+      [
+        "pip he says and",
+        6
+      ],
+      [
+        "you barely use it",
+        6
+      ],
+      [
+        "by the time clock",
+        6
+      ],
+      [
+        "rooms sold since pip",
+        6
+      ],
+      [
+        "and i don't know",
+        6
+      ],
+      [
+        "i'm going to say",
+        6
+      ],
+      [
+        "money before the money",
+        6
+      ],
+      [
+        "going to stand up",
+        6
+      ],
+      [
+        "in front of him",
+        5
+      ],
+      [
+        "a lot of things",
+        5
+      ],
+      [
+        "eyes go to the",
+        5
+      ],
+      [
+        "a door that closes",
+        5
+      ],
+      [
+        "the glass conference room",
+        5
+      ],
+      [
+        "what do you want",
+        5
+      ],
+      [
+        "the cold comes in",
+        5
+      ],
+      [
+        "on my mother's rug",
+        5
+      ],
+      [
+        "hands flat on the",
+        5
+      ],
+      [
+        "the one with no",
+        5
+      ],
+      [
+        "the room across the",
+        5
+      ],
+      [
+        "room across the hall",
+        5
+      ],
+      [
+        "at the far end",
+        5
+      ],
+      [
+        "i know what it",
+        5
+      ],
+      [
+        "four hundred and twenty",
+        5
+      ],
+      [
+        "hundred and twenty thousand",
+        5
+      ],
+      [
+        "borrowed nine million dollars",
+        5
+      ],
+      [
+        "and goes back to",
+        5
+      ],
+      [
+        "and opens the door",
+        5
+      ],
+      [
+        "hook by the door",
+        5
+      ],
+      [
+        "going to say something",
+        5
+      ],
+      [
+        "then i'm going to",
+        5
+      ],
+      [
+        "sold since pip liberated",
+        5
+      ],
+      [
+        "since pip liberated one",
+        5
+      ],
+      [
+        "i don't know yet",
+        5
+      ],
+      [
+        "in the radiator chair",
+        5
+      ],
+      [
+        "seven point four million",
+        5
+      ],
+      [
+        "point four million dollars",
+        5
+      ],
+      [
+        "box at the bottom",
+        5
+      ],
+      [
+        "i'm going to stand",
+        5
+      ],
+      [
+        "hundred and forty people",
+        5
+      ],
+      [
+        "time and a half",
+        5
+      ],
+      [
+        "of the fourth floor",
+        4
+      ],
+      [
+        "hand on the frame",
+        4
+      ],
+      [
+        "corner with no post",
+        4
+      ],
+      [
+        "it's on a lease",
+        4
+      ],
+      [
+        "hand flat on the",
+        4
+      ],
+      [
+        "four in the morning",
+        4
+      ],
+      [
+        "i think about the",
+        4
+      ],
+      [
+        "i don't know who",
+        4
+      ],
+      [
+        "in my coat pocket",
+        4
+      ],
+      [
+        "a man from minneapolis",
+        4
+      ],
+      [
+        "the phone face down",
+        4
+      ],
+      [
+        "phone face down on",
+        4
+      ],
+      [
+        "i'm standing in the",
+        4
+      ],
+      [
+        "ficus on my desk",
+        4
+      ],
+      [
+        "said yes before i",
+        4
+      ],
+      [
+        "with no post in",
+        4
+      ],
+      [
+        "for half a second",
+        4
+      ],
+      [
+        "can i ask you",
+        4
+      ],
+      [
+        "i ask you something",
+        4
+      ],
+      [
+        "the clyde park plant",
+        4
+      ],
+      [
+        "under the yellow curtains",
+        4
+      ],
+      [
+        "i know i say",
+        4
+      ],
+      [
+        "i don't know how",
+        4
+      ],
+      [
+        "on the other end",
+        4
+      ],
+      [
+        "before i can stop",
+        4
+      ],
+      [
+        "room with no post",
+        4
+      ],
+      [
+        "and every one of",
+        4
+      ],
+      [
+        "standing in the snow",
+        4
+      ],
+      [
+        "put my hand on",
+        4
+      ],
+      [
+        "says and hangs up",
+        4
+      ],
+      [
+        "i take my phone",
+        4
+      ],
+      [
+        "take my phone out",
+        4
+      ],
+      [
+        "one at a time",
+        4
+      ],
+      [
+        "one with no post",
+        4
+      ],
+      [
+        "i keep my eyes",
+        4
+      ],
+      [
+        "says without looking up",
+        4
+      ],
+      [
+        "over her reading glasses",
+        4
+      ],
+      [
+        "on the table between",
+        4
+      ],
+      [
+        "i don't know i",
+        4
+      ],
+      [
+        "go back to the",
+        4
+      ],
+      [
+        "goes back to the",
+        4
+      ],
+      [
+        "at the rolling door",
+        4
+      ],
+      [
+        "mother and the thermostat",
+        4
+      ],
+      [
+        "the radiator chair and",
+        4
+      ],
+      [
+        "doesn't answer right away",
+        4
+      ],
+      [
+        "in her small level",
+        4
+      ],
+      [
+        "on either side of",
+        4
+      ],
+      [
+        "i say it comes",
+        4
+      ],
+      [
+        "say it comes out",
+        4
+      ],
+      [
+        "every one of those",
+        4
+      ],
+      [
+        "when i come in",
+        4
+      ],
+      [
+        "in the next room",
+        4
+      ],
+      [
+        "put money down on",
+        4
+      ],
+      [
+        "and then i'm going",
+        4
+      ],
+      [
+        "count rooms sold since",
+        4
+      ],
+      [
+        "four thousand one hundred",
+        4
+      ],
+      [
+        "who can weld the",
+        4
+      ],
+      [
+        "can weld the knee",
+        4
+      ],
+      [
+        "i put my hand",
+        4
+      ],
+      [
+        "desk on top of",
+        4
+      ],
+      [
+        "corner of the desk",
+        4
+      ],
+      [
+        "door of my room",
+        4
+      ],
+      [
+        "i want to say",
+        4
+      ],
+      [
+        "the screen goes dark",
+        4
+      ],
+      [
+        "a bank in chicago",
+        4
+      ],
+      [
+        "can i come in",
+        4
+      ],
+      [
+        "whiteboard in the break",
+        4
+      ],
+      [
+        "i'm telling you before",
+        4
+      ],
+      [
+        "stand in front of",
+        4
+      ],
+      [
+        "back of my neck",
+        4
+      ],
+      [
+        "i'd have said yes",
+        4
+      ],
+      [
+        "flat on the floor",
+        4
+      ],
+      [
+        "you're going to do",
+        4
+      ],
+      [
+        "with his lunch cooler",
+        4
+      ],
+      [
+        "at five to seven",
+        4
+      ],
+      [
+        "the fourth floor of",
+        3
+      ],
+      [
+        "fourth floor of the",
+        3
+      ],
+      [
+        "floor of the lindqvist",
+        3
+      ],
+      [
+        "the back in iron-on",
+        3
+      ],
+      [
+        "back in iron-on letters",
+        3
+      ],
+      [
+        "all of it before",
+        3
+      ],
+      [
+        "says i'm going to",
+        3
+      ],
+      [
+        "all the way to",
+        3
+      ],
+      [
+        "the cap back on",
+        3
+      ],
+      [
+        "clyde park in the",
+        3
+      ],
+      [
+        "color on the eight",
+        3
+      ],
+      [
+        "there's a woman in",
+        3
+      ],
+      [
+        "woman in my room",
+        3
+      ],
+      [
+        "on the east side",
+        3
+      ],
+      [
+        "i walk across the",
+        3
+      ],
+      [
+        "his eyes go to",
+        3
+      ],
+      [
+        "three in the morning",
+        3
+      ],
+      [
+        "in the same voice",
+        3
+      ],
+      [
+        "i know he says",
+        3
+      ],
+      [
+        "i made eggs and",
+        3
+      ],
+      [
+        "made eggs and ate",
+        3
+      ],
+      [
+        "eggs and ate them",
+        3
+      ],
+      [
+        "i say i'm going",
+        3
+      ],
+      [
+        "say i'm going to",
+        3
+      ],
+      [
+        "the meeting has started",
+        3
+      ],
+      [
+        "i would like to",
+        3
+      ],
+      [
+        "i am telling you",
+        3
+      ],
+      [
+        "into the glass room",
+        3
+      ],
+      [
+        "in the northwest corner",
+        3
+      ],
+      [
+        "like pigeons and radiator",
+        3
+      ],
+      [
+        "pigeons and radiator paint",
+        3
+      ],
+      [
+        "which is how you",
+        3
+      ],
+      [
+        "with the engine running",
+        3
+      ],
+      [
+        "that's not what i",
+        3
+      ],
+      [
+        "i tell myself it's",
+        3
+      ],
+      [
+        "tell myself it's because",
+        3
+      ],
+      [
+        "doesn't look up from",
+        3
+      ],
+      [
+        "the other end of",
+        3
+      ],
+      [
+        "and i'm going to",
+        3
+      ],
+      [
+        "bolt plates in the",
+        3
+      ],
+      [
+        "i can stop it",
+        3
+      ],
+      [
+        "the future of work",
+        3
+      ],
+      [
+        "she lets that sit",
+        3
+      ],
+      [
+        "face of a man",
+        3
+      ],
+      [
+        "i'm going to have",
+        3
+      ],
+      [
+        "seven in the morning",
+        3
+      ],
+      [
+        "in the other chair",
+        3
+      ],
+      [
+        "the grand rapids ledger",
+        3
+      ],
+      [
+        "the snow coming down",
+        3
+      ],
+      [
+        "she says i don't",
+        3
+      ],
+      [
+        "hi he says and",
+        3
+      ],
+      [
+        "know what to do",
+        3
+      ],
+      [
+        "one point one billion",
+        3
+      ],
+      [
+        "and put a post",
+        3
+      ],
+      [
+        "with snow melting off",
+        3
+      ],
+      [
+        "do the nose voice",
+        3
+      ],
+      [
+        "my hands flat on",
+        3
+      ],
+      [
+        "thank you i say",
+        3
+      ],
+      [
+        "his face does something",
+        3
+      ],
+      [
+        "the way my mother",
+        3
+      ],
+      [
+        "stops in the door",
+        3
+      ],
+      [
+        "the door where the",
+        3
+      ],
+      [
+        "room with the ladder",
+        3
+      ],
+      [
+        "the two of us",
+        3
+      ],
+      [
+        "you want to know",
+        3
+      ],
+      [
+        "i'm going to be",
+        3
+      ],
+      [
+        "the one that can",
+        3
+      ]
+    ],
+    "repeated_5grams": [
+      [
+        "at one in the morning",
+        10
+      ],
+      [
+        "the inside of the door",
+        8
+      ],
+      [
+        "the phone in my hand",
+        8
+      ],
+      [
+        "since the spring before last",
+        7
+      ],
+      [
+        "put a post in it",
+        6
+      ],
+      [
+        "the room in the yard",
+        6
+      ],
+      [
+        "the room across the hall",
+        5
+      ],
+      [
+        "four hundred and twenty thousand",
+        5
+      ],
+      [
+        "rooms sold since pip liberated",
+        5
+      ],
+      [
+        "sold since pip liberated one",
+        5
+      ],
+      [
+        "seven point four million dollars",
+        5
+      ],
+      [
+        "a hundred and forty people",
+        5
+      ],
+      [
+        "at four in the morning",
+        4
+      ],
+      [
+        "the phone face down on",
+        4
+      ],
+      [
+        "can i ask you something",
+        4
+      ],
+      [
+        "i take my phone out",
+        4
+      ],
+      [
+        "the one with no post",
+        4
+      ],
+      [
+        "and goes back to the",
+        4
+      ],
+      [
+        "i say it comes out",
+        4
+      ],
+      [
+        "say it comes out of",
+        4
+      ],
+      [
+        "the hook by the door",
+        4
+      ],
+      [
+        "and then i'm going to",
+        4
+      ],
+      [
+        "count rooms sold since pip",
+        4
+      ],
+      [
+        "who can weld the knee",
+        4
+      ],
+      [
+        "the corner of the desk",
+        4
+      ],
+      [
+        "the door of my room",
+        4
+      ],
+      [
+        "the whiteboard in the break",
+        4
+      ],
+      [
+        "whiteboard in the break room",
+        4
+      ],
+      [
+        "my room in the yard",
+        4
+      ],
+      [
+        "down in the radiator chair",
+        4
+      ],
+      [
+        "the back of my neck",
+        4
+      ],
+      [
+        "i'm going to stand up",
+        4
+      ],
+      [
+        "of the fourth floor of",
+        3
+      ],
+      [
+        "the fourth floor of the",
+        3
+      ],
+      [
+        "fourth floor of the lindqvist",
+        3
+      ],
+      [
+        "floor of the lindqvist building",
+        3
+      ],
+      [
+        "the back in iron-on letters",
+        3
+      ],
+      [
+        "all the way to the",
+        3
+      ],
+      [
+        "phone face down on the",
+        3
+      ],
+      [
+        "a ficus on my desk",
+        3
+      ],
+      [
+        "i made eggs and ate",
+        3
+      ],
+      [
+        "made eggs and ate them",
+        3
+      ],
+      [
+        "eggs and ate them over",
+        3
+      ],
+      [
+        "ate them over the sink",
+        3
+      ],
+      [
+        "i say i'm going to",
+        3
+      ],
+      [
+        "like pigeons and radiator paint",
+        3
+      ],
+      [
+        "i tell myself it's because",
+        3
+      ],
+      [
+        "on the other end of",
+        3
+      ],
+      [
+        "before i can stop it",
+        3
+      ],
+      [
+        "the face of a man",
+        3
+      ],
+      [
+        "and put a post in",
+        3
+      ],
+      [
+        "my hands flat on the",
+        3
+      ],
+      [
+        "thank you i say and",
+        3
+      ],
+      [
+        "sit down at my desk",
+        3
+      ],
+      [
+        "the room with the ladder",
+        3
+      ],
+      [
+        "the one that can leave",
+        3
+      ],
+      [
+        "i keep my eyes on",
+        3
+      ],
+      [
+        "in the room across the",
+        3
+      ],
+      [
+        "plaster and a closet full",
+        3
+      ],
+      [
+        "and a closet full of",
+        3
+      ],
+      [
+        "one in the morning and",
+        3
+      ],
+      [
+        "you barely use it i",
+        3
+      ],
+      [
+        "at the far end of",
+        3
+      ],
+      [
+        "the far end of the",
+        3
+      ],
+      [
+        "me over her reading glasses",
+        3
+      ],
+      [
+        "i want the room she",
+        3
+      ],
+      [
+        "want the room she took",
+        3
+      ],
+      [
+        "on the table between us",
+        3
+      ],
+      [
+        "the middle of the night",
+        3
+      ],
+      [
+        "in a bank in cleveland",
+        3
+      ],
+      [
+        "what are we doing today",
+        3
+      ],
+      [
+        "the whiteboard by the time",
+        3
+      ],
+      [
+        "whiteboard by the time clock",
+        3
+      ],
+      [
+        "sit there with the phone",
+        3
+      ],
+      [
+        "the room on its cribbing",
+        3
+      ],
+      [
+        "his hands in his pockets",
+        3
+      ],
+      [
+        "where the post would be",
+        3
+      ],
+      [
+        "eleven boxes i have not",
+        3
+      ],
+      [
+        "boxes i have not unpacked",
+        3
+      ],
+      [
+        "and the cold comes in",
+        3
+      ],
+      [
+        "going to sit in the",
+        3
+      ],
+      [
+        "hook by the door the",
+        3
+      ],
+      [
+        "stand there with my hands",
+        3
+      ],
+      [
+        "my phone in my hand",
+        3
+      ],
+      [
+        "put money down on a",
+        3
+      ],
+      [
+        "money down on a room",
+        3
+      ],
+      [
+        "i'm going to say something",
+        3
+      ],
+      [
+        "in the break room with",
+        3
+      ],
+      [
+        "a room with no post",
+        3
+      ],
+      [
+        "room with no post in",
+        3
+      ],
+      [
+        "shoes with the salt lines",
+        3
+      ],
+      [
+        "he sets the mug on",
+        3
+      ],
+      [
+        "sets the mug on the",
+        3
+      ],
+      [
+        "the mug on the radiator",
+        3
+      ],
+      [
+        "put my hand over my",
+        3
+      ],
+      [
+        "so quiet i can hear",
+        3
+      ],
+      [
+        "quiet i can hear the",
+        3
+      ],
+      [
+        "the money before the money",
+        3
+      ],
+      [
+        "out from the parking lot",
+        3
+      ],
+      [
+        "with his hands folded on",
+        3
+      ],
+      [
+        "gets up and opens the",
+        3
+      ],
+      [
+        "up and opens the door",
+        3
+      ],
+      [
+        "in the radiator chair and",
+        3
+      ],
+      [
+        "takes her glasses off and",
+        3
+      ],
+      [
+        "her glasses off and lets",
+        3
+      ],
+      [
+        "glasses off and lets them",
+        3
+      ],
+      [
+        "sit there with my hands",
+        3
+      ],
+      [
+        "in her small level printing",
+        3
+      ],
+      [
+        "no post in the corner",
+        3
+      ],
+      [
+        "box at the bottom of",
+        3
+      ],
+      [
+        "his hands in his coat",
+        3
+      ],
+      [
+        "hands in his coat pockets",
+        3
+      ],
+      [
+        "sits down in the radiator",
+        3
+      ],
+      [
+        "the yard in the dark",
+        3
+      ],
+      [
+        "thank you for telling me",
+        3
+      ],
+      [
+        "since pip liberated one 7",
+        3
+      ],
+      [
+        "room in the yard with",
+        3
+      ],
+      [
+        "i'm going to tell them",
+        3
+      ],
+      [
+        "phone in my hand and",
+        3
+      ],
+      [
+        "the maples on clyde park",
+        3
+      ],
+      [
+        "with its one bad headlight",
+        3
+      ],
+      [
+        "the phone face up on",
+        3
+      ],
+      [
+        "the dots come and go",
+        3
+      ],
+      [
+        "five percent of the company",
+        3
+      ],
+      [
+        "going to stand up tomorrow",
+        3
+      ],
+      [
+        "in front of a hundred",
+        3
+      ],
+      [
+        "front of a hundred and",
+        3
+      ],
+      [
+        "of a hundred and forty",
+        3
+      ],
+      [
+        "he caps the marker and",
+        3
+      ],
+      [
+        "out of the fourth floor",
+        2
+      ],
+      [
+        "is two inches off my",
+        2
+      ],
+      [
+        "spare parts across the back",
+        2
+      ],
+      [
+        "parts across the back in",
+        2
+      ],
+      [
+        "across the back in iron-on",
+        2
+      ],
+      [
+        "back in iron-on letters that",
+        2
+      ],
+      [
+        "in iron-on letters that have",
+        2
+      ],
+      [
+        "one hand on the frame",
+        2
+      ],
+      [
+        "hand on the frame and",
+        2
+      ],
+      [
+        "for a second it hangs",
+        2
+      ],
+      [
+        "a second it hangs there",
+        2
+      ],
+      [
+        "two glass walls meeting at",
+        2
+      ],
+      [
+        "glass walls meeting at the",
+        2
+      ],
+      [
+        "walls meeting at the corner",
+        2
+      ],
+      [
+        "meeting at the corner with",
+        2
+      ],
+      [
+        "at the corner with no",
+        2
+      ],
+      [
+        "the corner with no post",
+        2
+      ],
+      [
+        "and comes out the other",
+        2
+      ],
+      [
+        "comes out the other side",
+        2
+      ],
+      [
+        "for a dollar a year",
+        2
+      ],
+      [
+        "without anybody asking him to",
+        2
+      ],
+      [
+        "five fingers and a palm",
+        2
+      ],
+      [
+        "fingers and a palm right",
+        2
+      ],
+      [
+        "and a palm right at",
+        2
+      ],
+      [
+        "a palm right at the",
+        2
+      ],
+      [
+        "palm right at the joint",
+        2
+      ],
+      [
+        "darnell comes out of the",
+        2
+      ],
+      [
+        "a quarter of an inch",
+        2
+      ],
+      [
+        "in front of the whole",
+        2
+      ],
+      [
+        "the elevator doors opened on",
+        2
+      ],
+      [
+        "elevator doors opened on four",
+        2
+      ],
+      [
+        "like your mother at a",
+        2
+      ],
+      [
+        "when the band plays the",
+        2
+      ],
+      [
+        "the band plays the wrong",
+        2
+      ],
+      [
+        "band plays the wrong polka",
+        2
+      ],
+      [
+        "i lay the phone face",
+        2
+      ],
+      [
+        "lay the phone face down",
+        2
+      ],
+      [
+        "face down on the dash",
+        2
+      ],
+      [
+        "the first monday of the",
+        2
+      ],
+      [
+        "first monday of the year",
+        2
+      ],
+      [
+        "the color on the eight",
+        2
+      ],
+      [
+        "came down from the integration",
+        2
+      ],
+      [
+        "down from the integration team",
+        2
+      ],
+      [
+        "there's a woman in my",
+        2
+      ],
+      [
+        "a woman in my room",
+        2
+      ],
+      [
+        "door on the east side",
+        2
+      ],
+      [
+        "i walk across the floor",
+        2
+      ],
+      [
+        "i once thought it was",
+        2
+      ],
+      [
+        "he said yes before i",
+        2
+      ],
+      [
+        "said yes before i finished",
+        2
+      ],
+      [
+        "yes before i finished the",
+        2
+      ],
+      [
+        "before i finished the sentence",
+        2
+      ],
+      [
+        "the end of the design",
+        2
+      ],
+      [
+        "end of the design studio",
+        2
+      ],
+      [
+        "of the design studio with",
+        2
+      ],
+      [
+        "is already a little late",
+        2
+      ],
+      [
+        "already a little late for",
+        2
+      ],
+      [
+        "a little late for him",
+        2
+      ],
+      [
+        "his eyes go to the",
+        2
+      ],
+      [
+        "you barely use it he",
+        2
+      ],
+      [
+        "about at three in the",
+        2
+      ],
+      [
+        "at three in the morning",
+        2
+      ],
+      [
+        "it like a fact on",
+        2
+      ],
+      [
+        "like a fact on a",
+        2
+      ],
+      [
+        "a fact on a slide",
+        2
+      ],
+      [
+        "my mother says it to",
+        2
+      ],
+      [
+        "mother says it to the",
+        2
+      ],
+      [
+        "his thumb goes to the",
+        2
+      ],
+      [
+        "already knows the answer to",
+        2
+      ],
+      [
+        "he breathes out through his",
+        2
+      ],
+      [
+        "we'll get you something better",
+        2
+      ]
+    ],
+    "similar_names": [
+      [
+        "Gordon",
+        "Grand"
+      ],
+      [
+        "Nashville",
+        "Northgate"
+      ],
+      [
+        "Park",
+        "Pip"
+      ]
+    ],
+    "cliffhanger_share": 0.0,
+    "max_consecutive_low_dialogue": 0,
+    "name_hits": {
+      "Adam": 80,
+      "Simone": 129,
+      "Pip": 53,
+      "Lolo": 86,
+      "Nashville": 31,
+      "Kurt": 53,
+      "Park": 33,
+      "Gordon": 47,
+      "Benny": 69,
+      "Clyde": 33,
+      "Monday": 20,
+      "Halvard": 19,
+      "Ruth": 51,
+      "Darnell": 58,
+      "Irene": 64,
+      "Northgate": 22,
+      "Friday": 20,
+      "Grand": 17,
+      "Avenue": 23,
+      "October": 14,
+      "Michigan": 22,
+      "Rapids": 12,
+      "Saturdays": 3,
+      "Lindqvist": 19,
+      "Odell": 28
+    },
+    "names_used": [
+      "Adam",
+      "Simone",
+      "Pip",
+      "Lolo",
+      "Nashville",
+      "Kurt",
+      "Park",
+      "Gordon",
+      "Benny",
+      "Clyde",
+      "Monday",
+      "Halvard",
+      "Ruth",
+      "Darnell",
+      "Irene",
+      "Northgate",
+      "Friday",
+      "Grand",
+      "Avenue",
+      "October",
+      "Michigan",
+      "Rapids",
+      "Saturdays",
+      "Lindqvist",
+      "Odell"
+    ],
+    "parse_integrity": {
+      "raw_words": 68561,
+      "parsed_words": 68399,
+      "ratio": 0.998,
+      "ok": true,
+      "note": " WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip\u2026) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N \u2014 Title`; chapter-level metrics below are computed on merged chapters.",
+      "section_markers": 30,
+      "chapters": 30
+    }
+  },
+  "thresholds": {
+    "filter_words_per_1000_max": 6.0,
+    "adverbs_ly_per_500_max": 6.0,
+    "emotion_anchored_ratio_min": 0.85,
+    "named_emotion_per_1000_max": 6.0,
+    "dialogue_ratio_chapter_min": 0.25,
+    "consecutive_low_dialogue_chapters_max": 1,
+    "time_to_first_dialogue_words_max_ch1": 400,
+    "sentence_length_cv_min": 0.45,
+    "sentence_length_range_min": 22,
+    "short_sentence_share_max": 0.3,
+    "paragraph_length_cv_min": 0.5,
+    "last_paragraph_words_max": 30,
+    "cliffhanger_share_max": 0.34,
+    "em_dashes_per_1000_max": 3.0,
+    "negative_parallelism_per_10k_max": 2,
+    "tricolons_per_10k_max": 5,
+    "ai_tier1_hits_max": 0,
+    "ai_tier2_per_10k_max": 25,
+    "repeated_4gram_min_count": 3,
+    "body_beat_per_book_max": 5,
+    "theme_statements_per_10k_max": 3,
+    "chapter_length_cv_min": 0.15,
+    "chapter_words_min": 1200,
+    "chapter_words_max": 3500,
+    "tense_minority_share_max": 0.15,
+    "exclamations_per_1000_max": 8.0,
+    "gesture_per_10k_max": 15.0,
+    "min_chapter_words_for_rate_flags": 500
+  },
+  "niche": "romance",
+  "chapters": [
+    {
+      "title": "Chapter 1  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2271,
+      "scenes": 1,
+      "paragraphs": 108,
+      "sentences": 218,
+      "sentence_len": {
+        "mean": 10.4,
+        "median": 7.0,
+        "min": 1,
+        "max": 68,
+        "cv": 0.91,
+        "range": 67,
+        "short_share_le4": 0.26,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 21.0,
+        "cv": 1.12,
+        "max": 141
+      },
+      "dialogue_ratio": 0.27,
+      "time_to_first_dialogue": 107,
+      "filter_words_per_1000": 1.8,
+      "adverbs_ly_per_500": 1.5,
+      "adverb_examples": [
+        [
+          "finally",
+          1
+        ],
+        [
+          "mostly",
+          1
+        ],
+        [
+          "clearly",
+          1
+        ],
+        [
+          "gently",
+          1
+        ],
+        [
+          "actually",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 19,
+        "present_markers": 66,
+        "minority_share": 0.22
+      },
+      "first_person_per_1000": 44.8,
+      "first_sentence": "My office is hanging in the sky over Monroe Avenue, turning a quarter inch at a time, and it has never looked better.",
+      "first_sentence_words": 23,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Take the longest way you know, Walt.\"",
+      "exit_words": 7,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 2,
+        "Pip": 1,
+        "Lolo": 6,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 1,
+        "Darnell": 6,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 1,
+        "Grand": 0,
+        "Avenue": 2,
+        "October": 0,
+        "Michigan": 2,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 2,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 2  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 3083,
+      "scenes": 1,
+      "paragraphs": 128,
+      "sentences": 275,
+      "sentence_len": {
+        "mean": 11.2,
+        "median": 7,
+        "min": 1,
+        "max": 53,
+        "cv": 0.89,
+        "range": 52,
+        "short_share_le4": 0.26,
+        "long_share_ge30": 0.08
+      },
+      "paragraph_len": {
+        "mean": 24.1,
+        "cv": 1.07,
+        "max": 146
+      },
+      "dialogue_ratio": 0.25,
+      "time_to_first_dialogue": 96,
+      "filter_words_per_1000": 4.3,
+      "adverbs_ly_per_500": 1.3,
+      "adverb_examples": [
+        [
+          "probably",
+          1
+        ],
+        [
+          "unfriendly",
+          1
+        ],
+        [
+          "normally",
+          1
+        ],
+        [
+          "barely",
+          1
+        ],
+        [
+          "gently",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.4,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 19,
+        "present_markers": 89,
+        "minority_share": 0.18
+      },
+      "first_person_per_1000": 48.5,
+      "first_sentence": "Twenty hours earlier, I'm standing in the elevator of the Lindqvist building with a box of donuts from Marge's, because it's the first Monday of the year and I'",
+      "first_sentence_words": 53,
+      "weak_opener_flag": false,
+      "last_paragraph": "Then I go down the rest of the stairs to my truck.",
+      "exit_words": 12,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 9,
+        "Simone": 14,
+        "Pip": 0,
+        "Lolo": 1,
+        "Nashville": 1,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 1,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 5,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 2,
+        "Grand": 1,
+        "Avenue": 2,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 3  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2541,
+      "scenes": 1,
+      "paragraphs": 125,
+      "sentences": 249,
+      "sentence_len": {
+        "mean": 10.2,
+        "median": 7,
+        "min": 1,
+        "max": 52,
+        "cv": 0.89,
+        "range": 51,
+        "short_share_le4": 0.27,
+        "long_share_ge30": 0.05
+      },
+      "paragraph_len": {
+        "mean": 20.3,
+        "cv": 1.17,
+        "max": 127
+      },
+      "dialogue_ratio": 0.32,
+      "time_to_first_dialogue": 131,
+      "filter_words_per_1000": 2.9,
+      "adverbs_ly_per_500": 2.9,
+      "adverb_examples": [
+        [
+          "properly",
+          2
+        ],
+        [
+          "slowly",
+          2
+        ],
+        [
+          "nearly",
+          1
+        ],
+        [
+          "mostly",
+          1
+        ],
+        [
+          "improperly",
+          1
+        ]
+      ],
+      "named_emotion_count": 3,
+      "named_emotion_per_1000": 1.7,
+      "emotion_anchored_ratio": 0.67,
+      "unanchored_emotion_examples": [
+        "He's been bored since the holidays."
+      ],
+      "em_dashes_per_1000": 0.8,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 23,
+        "present_markers": 50,
+        "minority_share": 0.32
+      },
+      "first_person_per_1000": 59.4,
+      "first_sentence": "The Clyde Park plant sounds like a kitchen the night before a wedding, if the kitchen were the size of a hockey rink and everybody in it were holding a welding ",
+      "first_sentence_words": 32,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Three in the morning,\" I say. \"I'll bring the bolts.\"",
+      "exit_words": 10,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 7,
+        "Simone": 2,
+        "Pip": 1,
+        "Lolo": 7,
+        "Nashville": 1,
+        "Kurt": 1,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 3,
+        "Clyde": 1,
+        "Monday": 1,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 3,
+        "Northgate": 0,
+        "Friday": 1,
+        "Grand": 1,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 4  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2387,
+      "scenes": 1,
+      "paragraphs": 87,
+      "sentences": 203,
+      "sentence_len": {
+        "mean": 11.8,
+        "median": 7,
+        "min": 1,
+        "max": 59,
+        "cv": 0.95,
+        "range": 58,
+        "short_share_le4": 0.23,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 27.4,
+        "cv": 1.03,
+        "max": 123
+      },
+      "dialogue_ratio": 0.32,
+      "time_to_first_dialogue": 0,
+      "filter_words_per_1000": 1.8,
+      "adverbs_ly_per_500": 1.8,
+      "adverb_examples": [
+        [
+          "calmly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ],
+        [
+          "sincerely",
+          1
+        ],
+        [
+          "slyly",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "named_emotion_count": 5,
+      "named_emotion_per_1000": 3.1,
+      "emotion_anchored_ratio": 0.2,
+      "unanchored_emotion_examples": [
+        "He'll love it.",
+        "\"I'm excited to see the room.",
+        "She's going to love you.\"",
+        "\"Love it."
+      ],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 12,
+        "present_markers": 54,
+        "minority_share": 0.18
+      },
+      "first_person_per_1000": 65.0,
+      "first_sentence": "\"Tell me it's a prank,\" I say.",
+      "first_sentence_words": 7,
+      "weak_opener_flag": false,
+      "last_paragraph": "She's filing it like it's any Tuesday in the world.",
+      "exit_words": 10,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 12,
+        "Pip": 5,
+        "Lolo": 0,
+        "Nashville": 1,
+        "Kurt": 13,
+        "Park": 2,
+        "Gordon": 1,
+        "Benny": 0,
+        "Clyde": 2,
+        "Monday": 2,
+        "Halvard": 1,
+        "Ruth": 1,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 2,
+        "October": 1,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 3,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 5  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2267,
+      "scenes": 1,
+      "paragraphs": 99,
+      "sentences": 210,
+      "sentence_len": {
+        "mean": 10.8,
+        "median": 7.0,
+        "min": 1,
+        "max": 82,
+        "cv": 0.98,
+        "range": 81,
+        "short_share_le4": 0.24,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 22.9,
+        "cv": 0.96,
+        "max": 88
+      },
+      "dialogue_ratio": 0.38,
+      "time_to_first_dialogue": 132,
+      "filter_words_per_1000": 1.4,
+      "adverbs_ly_per_500": 2.5,
+      "adverb_examples": [
+        [
+          "especially",
+          2
+        ],
+        [
+          "exactly",
+          2
+        ],
+        [
+          "finally",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.4,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.8,
+      "exclamations_per_1000": 0.4,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 9,
+        "present_markers": 49,
+        "minority_share": 0.16
+      },
+      "first_person_per_1000": 66.7,
+      "first_sentence": "He knocks on the glass.",
+      "first_sentence_words": 5,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"He loves it,\" I tell the knee frame in the vise. \"We're in so much trouble.\"",
+      "exit_words": 16,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 6,
+        "Simone": 2,
+        "Pip": 0,
+        "Lolo": 1,
+        "Nashville": 2,
+        "Kurt": 9,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 1,
+        "Monday": 2,
+        "Halvard": 3,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 1,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 6  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 1761,
+      "scenes": 1,
+      "paragraphs": 76,
+      "sentences": 136,
+      "sentence_len": {
+        "mean": 12.9,
+        "median": 10.0,
+        "min": 1,
+        "max": 42,
+        "cv": 0.73,
+        "range": 41,
+        "short_share_le4": 0.09,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 23.2,
+        "cv": 0.91,
+        "max": 93
+      },
+      "dialogue_ratio": 0.29,
+      "time_to_first_dialogue": 217,
+      "filter_words_per_1000": 1.6,
+      "adverbs_ly_per_500": 0.8,
+      "adverb_examples": [
+        [
+          "carefully",
+          1
+        ],
+        [
+          "barely",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.1,
+      "exclamations_per_1000": 0.6,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 8,
+        "present_markers": 41,
+        "minority_share": 0.16
+      },
+      "first_person_per_1000": 42.9,
+      "first_sentence": "We have two coffee makers.",
+      "first_sentence_words": 5,
+      "weak_opener_flag": false,
+      "last_paragraph": "The couch in the front room has the thickest wall in the house. I lie down on it and put the pillow over my head.",
+      "exit_words": 25,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 0,
+        "Nashville": 1,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 2,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 7  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2570,
+      "scenes": 1,
+      "paragraphs": 97,
+      "sentences": 237,
+      "sentence_len": {
+        "mean": 10.8,
+        "median": 7,
+        "min": 1,
+        "max": 77,
+        "cv": 1.03,
+        "range": 76,
+        "short_share_le4": 0.25,
+        "long_share_ge30": 0.08
+      },
+      "paragraph_len": {
+        "mean": 26.5,
+        "cv": 1.12,
+        "max": 142
+      },
+      "dialogue_ratio": 0.33,
+      "time_to_first_dialogue": 125,
+      "filter_words_per_1000": 2.3,
+      "adverbs_ly_per_500": 1.4,
+      "adverb_examples": [
+        [
+          "flatly",
+          1
+        ],
+        [
+          "probably",
+          1
+        ],
+        [
+          "evenly",
+          1
+        ],
+        [
+          "personally",
+          1
+        ],
+        [
+          "gently",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.6,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.8,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 17,
+        "present_markers": 63,
+        "minority_share": 0.21
+      },
+      "first_person_per_1000": 45.6,
+      "first_sentence": "Simone has moved into the glass conference room, which is like moving into an aquarium.",
+      "first_sentence_words": 15,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"What's six?\" I say.",
+      "exit_words": 4,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 14,
+        "Pip": 7,
+        "Lolo": 0,
+        "Nashville": 4,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 8,
+        "Benny": 0,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 4,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 6,
+        "Friday": 2,
+        "Grand": 0,
+        "Avenue": 2,
+        "October": 2,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 8  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2429,
+      "scenes": 1,
+      "paragraphs": 112,
+      "sentences": 217,
+      "sentence_len": {
+        "mean": 11.2,
+        "median": 8,
+        "min": 1,
+        "max": 54,
+        "cv": 0.86,
+        "range": 53,
+        "short_share_le4": 0.09,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 21.7,
+        "cv": 1.03,
+        "max": 110
+      },
+      "dialogue_ratio": 0.36,
+      "time_to_first_dialogue": 91,
+      "filter_words_per_1000": 1.9,
+      "adverbs_ly_per_500": 2.6,
+      "adverb_examples": [
+        [
+          "absurdly",
+          1
+        ],
+        [
+          "seriously",
+          1
+        ],
+        [
+          "apparently",
+          1
+        ],
+        [
+          "usually",
+          1
+        ],
+        [
+          "directly",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.6,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 10,
+        "present_markers": 59,
+        "minority_share": 0.14
+      },
+      "first_person_per_1000": 48.5,
+      "first_sentence": "By Thursday the intern has moved into my plant.",
+      "first_sentence_words": 9,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"She says you should eat,\" he says, with his mouth full.",
+      "exit_words": 11,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 4,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 0,
+        "Benny": 4,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 3,
+        "Irene": 5,
+        "Northgate": 0,
+        "Friday": 1,
+        "Grand": 1,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 4,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 9  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2265,
+      "scenes": 1,
+      "paragraphs": 92,
+      "sentences": 233,
+      "sentence_len": {
+        "mean": 9.7,
+        "median": 7,
+        "min": 1,
+        "max": 63,
+        "cv": 0.89,
+        "range": 62,
+        "short_share_le4": 0.26,
+        "long_share_ge30": 0.04
+      },
+      "paragraph_len": {
+        "mean": 24.6,
+        "cv": 1.03,
+        "max": 114
+      },
+      "dialogue_ratio": 0.43,
+      "time_to_first_dialogue": 257,
+      "filter_words_per_1000": 0.0,
+      "adverbs_ly_per_500": 3.1,
+      "adverb_examples": [
+        [
+          "carefully",
+          2
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ],
+        [
+          "unfriendly",
+          1
+        ],
+        [
+          "honestly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.6,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 3,
+        "present_markers": 38,
+        "minority_share": 0.07
+      },
+      "first_person_per_1000": 45.3,
+      "first_sentence": "Simone Achterberg arrives at the plant on Monday a little after eight in a gray Volvo with a ski rack and no skis, parks it between the lines, straight, and wal",
+      "first_sentence_words": 48,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Have them re-zero it after every run,\" she says. \"Your zero's going to keep drifting. It's the cold.\"",
+      "exit_words": 18,
+      "exit_kinds": [
+        "dialogue",
+        "decision"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 11,
+        "Pip": 0,
+        "Lolo": 1,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 2,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 2,
+        "Monday": 1,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 8,
+        "Irene": 7,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 10  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2123,
+      "scenes": 1,
+      "paragraphs": 89,
+      "sentences": 191,
+      "sentence_len": {
+        "mean": 11.1,
+        "median": 7,
+        "min": 1,
+        "max": 67,
+        "cv": 0.88,
+        "range": 66,
+        "short_share_le4": 0.13,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 23.9,
+        "cv": 1.05,
+        "max": 96
+      },
+      "dialogue_ratio": 0.31,
+      "time_to_first_dialogue": 30,
+      "filter_words_per_1000": 2.7,
+      "adverbs_ly_per_500": 0.7,
+      "adverb_examples": [
+        [
+          "warmly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          2
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 13,
+        "present_markers": 45,
+        "minority_share": 0.22
+      },
+      "first_person_per_1000": 58.8,
+      "first_sentence": "Kurt Lindahl orders the bone-in ribeye, medium rare, and then asks the waiter, a kid named Tyler with a neck tattoo of a compass, whether the beef is from Michi",
+      "first_sentence_words": 30,
+      "weak_opener_flag": false,
+      "last_paragraph": "I put the phone face down on the nightstand and lie back on the bed in my clothes.",
+      "exit_words": 18,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 3,
+        "Pip": 2,
+        "Lolo": 0,
+        "Nashville": 0,
+        "Kurt": 8,
+        "Park": 0,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 1,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 11  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2186,
+      "scenes": 1,
+      "paragraphs": 89,
+      "sentences": 203,
+      "sentence_len": {
+        "mean": 10.8,
+        "median": 7,
+        "min": 1,
+        "max": 52,
+        "cv": 0.92,
+        "range": 51,
+        "short_share_le4": 0.27,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 24.6,
+        "cv": 0.89,
+        "max": 90
+      },
+      "dialogue_ratio": 0.38,
+      "time_to_first_dialogue": 81,
+      "filter_words_per_1000": 2.2,
+      "adverbs_ly_per_500": 0.0,
+      "adverb_examples": [],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.5,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 5,
+        "present_markers": 47,
+        "minority_share": 0.1
+      },
+      "first_person_per_1000": 48.8,
+      "first_sentence": "Ruth Baskin drinks an oat milk cortado with an extra shot, standing up, at a tall table by the window of a coffee place on Fulton Street that used to be a bank.",
+      "first_sentence_words": 33,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"About time,\" she says. \"Now go tell your husband.\"",
+      "exit_words": 9,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 1,
+        "Pip": 0,
+        "Lolo": 9,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 4,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 11,
+        "Darnell": 3,
+        "Irene": 10,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 12  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2181,
+      "scenes": 1,
+      "paragraphs": 112,
+      "sentences": 207,
+      "sentence_len": {
+        "mean": 10.5,
+        "median": 7,
+        "min": 1,
+        "max": 61,
+        "cv": 1.02,
+        "range": 60,
+        "short_share_le4": 0.24,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 19.5,
+        "cv": 1.08,
+        "max": 104
+      },
+      "dialogue_ratio": 0.34,
+      "time_to_first_dialogue": 23,
+      "filter_words_per_1000": 4.2,
+      "adverbs_ly_per_500": 1.0,
+      "adverb_examples": [
+        [
+          "usually",
+          1
+        ],
+        [
+          "probably",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.9,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 10,
+        "present_markers": 48,
+        "minority_share": 0.17
+      },
+      "first_person_per_1000": 61.8,
+      "first_sentence": "At ten past eleven on Friday night somebody knocks on my glass with one knuckle, and I don't even have to look up.",
+      "first_sentence_words": 23,
+      "weak_opener_flag": false,
+      "last_paragraph": "The chair by the radiator is still warm. I don't sit in it.",
+      "exit_words": 13,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 3,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 1,
+        "Nashville": 0,
+        "Kurt": 1,
+        "Park": 2,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 2,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 2,
+        "Darnell": 1,
+        "Irene": 1,
+        "Northgate": 0,
+        "Friday": 2,
+        "Grand": 1,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 13  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2192,
+      "scenes": 1,
+      "paragraphs": 78,
+      "sentences": 210,
+      "sentence_len": {
+        "mean": 10.4,
+        "median": 6.0,
+        "min": 1,
+        "max": 50,
+        "cv": 0.92,
+        "range": 49,
+        "short_share_le4": 0.28,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 28.1,
+        "cv": 1.06,
+        "max": 135
+      },
+      "dialogue_ratio": 0.29,
+      "time_to_first_dialogue": 156,
+      "filter_words_per_1000": 1.9,
+      "adverbs_ly_per_500": 1.0,
+      "adverb_examples": [
+        [
+          "slowly",
+          2
+        ],
+        [
+          "gently",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 2,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 12,
+        "present_markers": 42,
+        "minority_share": 0.22
+      },
+      "first_person_per_1000": 61.7,
+      "first_sentence": "The Nashville plant is the cleanest building I've ever paid for.",
+      "first_sentence_words": 11,
+      "weak_opener_flag": false,
+      "last_paragraph": "It's the first lie I've told Simone since May. I tell it in the dark with my eyes open, and set an alarm for five-thirty.",
+      "exit_words": 25,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 2,
+        "Pip": 6,
+        "Lolo": 0,
+        "Nashville": 5,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 5,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 1,
+        "Halvard": 1,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 3,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 1,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 13
+      }
+    },
+    {
+      "title": "Chapter 14  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 1476,
+      "scenes": 1,
+      "paragraphs": 63,
+      "sentences": 137,
+      "sentence_len": {
+        "mean": 10.8,
+        "median": 7,
+        "min": 1,
+        "max": 51,
+        "cv": 0.93,
+        "range": 50,
+        "short_share_le4": 0.26,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 23.4,
+        "cv": 0.88,
+        "max": 95
+      },
+      "dialogue_ratio": 0.35,
+      "time_to_first_dialogue": 115,
+      "filter_words_per_1000": 0.0,
+      "adverbs_ly_per_500": 1.0,
+      "adverb_examples": [
+        [
+          "slowly",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 4,
+        "present_markers": 45,
+        "minority_share": 0.08
+      },
+      "first_person_per_1000": 44.0,
+      "first_sentence": "Clyde Park Lanes has twenty-four lanes, a bar called the Gutter that serves Stroh's in a can, and carpet so old the pattern has worn down to a theory.",
+      "first_sentence_words": 29,
+      "weak_opener_flag": false,
+      "last_paragraph": "Behind me, very quietly, Tavi says, \"Good form.\"",
+      "exit_words": 8,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 15,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 7,
+        "Clyde": 1,
+        "Monday": 1,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 2,
+        "Irene": 6,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 1,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 15  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 3052,
+      "scenes": 1,
+      "paragraphs": 94,
+      "sentences": 249,
+      "sentence_len": {
+        "mean": 12.3,
+        "median": 8,
+        "min": 1,
+        "max": 102,
+        "cv": 0.99,
+        "range": 101,
+        "short_share_le4": 0.21,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 32.5,
+        "cv": 1.0,
+        "max": 149
+      },
+      "dialogue_ratio": 0.29,
+      "time_to_first_dialogue": 265,
+      "filter_words_per_1000": 3.3,
+      "adverbs_ly_per_500": 2.3,
+      "adverb_examples": [
+        [
+          "slowly",
+          4
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "carefully",
+          1
+        ],
+        [
+          "unkindly",
+          1
+        ],
+        [
+          "absently",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 0.9,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 22,
+        "present_markers": 69,
+        "minority_share": 0.24
+      },
+      "first_person_per_1000": 47.8,
+      "first_sentence": "There's a thermos on my desk.",
+      "first_sentence_words": 6,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Thirty days,\" I say again, to the table, to nobody, and stand up, and go.",
+      "exit_words": 15,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 11,
+        "Simone": 3,
+        "Pip": 0,
+        "Lolo": 0,
+        "Nashville": 2,
+        "Kurt": 6,
+        "Park": 1,
+        "Gordon": 6,
+        "Benny": 7,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 2,
+        "Ruth": 20,
+        "Darnell": 1,
+        "Irene": 1,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 1,
+        "October": 4,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 16  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2280,
+      "scenes": 1,
+      "paragraphs": 99,
+      "sentences": 172,
+      "sentence_len": {
+        "mean": 13.3,
+        "median": 9.0,
+        "min": 1,
+        "max": 61,
+        "cv": 0.84,
+        "range": 60,
+        "short_share_le4": 0.16,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 23.0,
+        "cv": 1.02,
+        "max": 104
+      },
+      "dialogue_ratio": 0.37,
+      "time_to_first_dialogue": 16,
+      "filter_words_per_1000": 4.2,
+      "adverbs_ly_per_500": 2.1,
+      "adverb_examples": [
+        [
+          "slowly",
+          2
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ],
+        [
+          "finally",
+          1
+        ],
+        [
+          "perfectly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.4,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.8,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 10,
+        "present_markers": 43,
+        "minority_share": 0.19
+      },
+      "first_person_per_1000": 71.4,
+      "first_sentence": "Ruth catches me in the hall outside the boardroom before I can get to the stairs.",
+      "first_sentence_words": 16,
+      "weak_opener_flag": false,
+      "last_paragraph": "The pigeon lifts off the sprinkler head above me, beats twice, and goes out the open side of the ramp into the snow.",
+      "exit_words": 23,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 2,
+        "Pip": 5,
+        "Lolo": 0,
+        "Nashville": 1,
+        "Kurt": 1,
+        "Park": 0,
+        "Gordon": 1,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 4,
+        "Darnell": 0,
+        "Irene": 0,
+        "Northgate": 1,
+        "Friday": 0,
+        "Grand": 2,
+        "Avenue": 1,
+        "October": 1,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 1
+      }
+    },
+    {
+      "title": "Chapter 17  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2214,
+      "scenes": 1,
+      "paragraphs": 93,
+      "sentences": 184,
+      "sentence_len": {
+        "mean": 12.0,
+        "median": 9.0,
+        "min": 1,
+        "max": 49,
+        "cv": 0.74,
+        "range": 48,
+        "short_share_le4": 0.12,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 23.8,
+        "cv": 0.97,
+        "max": 112
+      },
+      "dialogue_ratio": 0.45,
+      "time_to_first_dialogue": 107,
+      "filter_words_per_1000": 0.8,
+      "adverbs_ly_per_500": 0.8,
+      "adverb_examples": [
+        [
+          "quietly",
+          1
+        ],
+        [
+          "finally",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.8,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 6,
+        "present_markers": 48,
+        "minority_share": 0.11
+      },
+      "first_person_per_1000": 51.7,
+      "first_sentence": "Simone Achterberg lives on the eleventh floor of a building on Ionia Avenue that used to be a cold-storage warehouse for a meatpacker.",
+      "first_sentence_words": 23,
+      "weak_opener_flag": false,
+      "last_paragraph": "I stand there in the snow on Ionia Avenue reading it over and over until the screen goes dark in my hand.",
+      "exit_words": 22,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 3,
+        "Simone": 12,
+        "Pip": 0,
+        "Lolo": 0,
+        "Nashville": 2,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 1,
+        "Benny": 0,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 1,
+        "Irene": 1,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 3,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 18  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2591,
+      "scenes": 1,
+      "paragraphs": 105,
+      "sentences": 195,
+      "sentence_len": {
+        "mean": 13.3,
+        "median": 9,
+        "min": 1,
+        "max": 63,
+        "cv": 0.83,
+        "range": 62,
+        "short_share_le4": 0.12,
+        "long_share_ge30": 0.1
+      },
+      "paragraph_len": {
+        "mean": 24.7,
+        "cv": 1.14,
+        "max": 145
+      },
+      "dialogue_ratio": 0.3,
+      "time_to_first_dialogue": 75,
+      "filter_words_per_1000": 1.1,
+      "adverbs_ly_per_500": 2.5,
+      "adverb_examples": [
+        [
+          "carefully",
+          1
+        ],
+        [
+          "plainly",
+          1
+        ],
+        [
+          "lightly",
+          1
+        ],
+        [
+          "probably",
+          1
+        ],
+        [
+          "finally",
+          1
+        ]
+      ],
+      "named_emotion_count": 3,
+      "named_emotion_per_1000": 1.7,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.5,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 9,
+        "present_markers": 62,
+        "minority_share": 0.13
+      },
+      "first_person_per_1000": 62.2,
+      "first_sentence": "On Thursday morning, in the dark, I call my husband from the truck in the plant lot and ask him to come to Monroe with me.",
+      "first_sentence_words": 26,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Later,\" I say. \"Eat your kie\u0142basa.\"",
+      "exit_words": 7,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 9,
+        "Simone": 2,
+        "Pip": 0,
+        "Lolo": 9,
+        "Nashville": 1,
+        "Kurt": 0,
+        "Park": 4,
+        "Gordon": 0,
+        "Benny": 4,
+        "Clyde": 4,
+        "Monday": 0,
+        "Halvard": 1,
+        "Ruth": 0,
+        "Darnell": 3,
+        "Irene": 4,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 1,
+        "October": 1,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 19  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2274,
+      "scenes": 1,
+      "paragraphs": 92,
+      "sentences": 173,
+      "sentence_len": {
+        "mean": 13.1,
+        "median": 9,
+        "min": 1,
+        "max": 63,
+        "cv": 0.86,
+        "range": 62,
+        "short_share_le4": 0.14,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 24.7,
+        "cv": 1.13,
+        "max": 160
+      },
+      "dialogue_ratio": 0.28,
+      "time_to_first_dialogue": 230,
+      "filter_words_per_1000": 1.2,
+      "adverbs_ly_per_500": 1.8,
+      "adverb_examples": [
+        [
+          "weekly",
+          2
+        ],
+        [
+          "slightly",
+          1
+        ],
+        [
+          "actually",
+          1
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "badly",
+          1
+        ]
+      ],
+      "named_emotion_count": 4,
+      "named_emotion_per_1000": 2.4,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.4,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 10,
+        "present_markers": 38,
+        "minority_share": 0.21
+      },
+      "first_person_per_1000": 53.0,
+      "first_sentence": "My wife and my work wife have taken over the transparency room, and everybody on the fourth floor can watch them do it.",
+      "first_sentence_words": 23,
+      "weak_opener_flag": false,
+      "last_paragraph": "Two years across the hall. I never knew she had a lake.",
+      "exit_words": 12,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 14,
+        "Pip": 14,
+        "Lolo": 0,
+        "Nashville": 2,
+        "Kurt": 4,
+        "Park": 0,
+        "Gordon": 2,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 2,
+        "Northgate": 4,
+        "Friday": 0,
+        "Grand": 2,
+        "Avenue": 0,
+        "October": 1,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 20  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2172,
+      "scenes": 1,
+      "paragraphs": 80,
+      "sentences": 170,
+      "sentence_len": {
+        "mean": 12.8,
+        "median": 8.0,
+        "min": 2,
+        "max": 79,
+        "cv": 0.96,
+        "range": 77,
+        "short_share_le4": 0.18,
+        "long_share_ge30": 0.09
+      },
+      "paragraph_len": {
+        "mean": 27.1,
+        "cv": 0.94,
+        "max": 109
+      },
+      "dialogue_ratio": 0.27,
+      "time_to_first_dialogue": 380,
+      "filter_words_per_1000": 1.9,
+      "adverbs_ly_per_500": 1.9,
+      "adverb_examples": [
+        [
+          "weekly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "gently",
+          1
+        ],
+        [
+          "badly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.3,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.5,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 1,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 1,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 5,
+        "present_markers": 60,
+        "minority_share": 0.08
+      },
+      "first_person_per_1000": 48.1,
+      "first_sentence": "The story goes up on the Furnishings Weekly website just after six on Thursday morning, which is a strange hour to publish news about furniture unless you want ",
+      "first_sentence_words": 45,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"A defiant answer from Philippa Sobczak,\" she says. \"We've reached out to Halvard and to CEO Adam Kerrigan for comment. Back to you, Tom.\"",
+      "exit_words": 24,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 2,
+        "Simone": 2,
+        "Pip": 0,
+        "Lolo": 3,
+        "Nashville": 0,
+        "Kurt": 4,
+        "Park": 1,
+        "Gordon": 0,
+        "Benny": 6,
+        "Clyde": 1,
+        "Monday": 1,
+        "Halvard": 5,
+        "Ruth": 3,
+        "Darnell": 9,
+        "Irene": 7,
+        "Northgate": 1,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 1,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 21  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2407,
+      "scenes": 1,
+      "paragraphs": 78,
+      "sentences": 221,
+      "sentence_len": {
+        "mean": 10.9,
+        "median": 8,
+        "min": 1,
+        "max": 51,
+        "cv": 0.76,
+        "range": 50,
+        "short_share_le4": 0.2,
+        "long_share_ge30": 0.05
+      },
+      "paragraph_len": {
+        "mean": 30.9,
+        "cv": 0.86,
+        "max": 105
+      },
+      "dialogue_ratio": 0.39,
+      "time_to_first_dialogue": 252,
+      "filter_words_per_1000": 2.7,
+      "adverbs_ly_per_500": 2.0,
+      "adverb_examples": [
+        [
+          "quietly",
+          3
+        ],
+        [
+          "immediately",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ],
+        [
+          "completely",
+          1
+        ]
+      ],
+      "named_emotion_count": 3,
+      "named_emotion_per_1000": 2.0,
+      "emotion_anchored_ratio": 0.67,
+      "unanchored_emotion_examples": [
+        "I do not want anything to happen to the plant because I was angry with you.\""
+      ],
+      "em_dashes_per_1000": 0.8,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 5,
+      "ai_tier2_top": [
+        [
+          "quietly",
+          3
+        ],
+        [
+          "quiet",
+          2
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 12,
+        "present_markers": 54,
+        "minority_share": 0.18
+      },
+      "first_person_per_1000": 65.5,
+      "first_sentence": "Halvard walks at 8:14 on Friday morning, by email, in four sentences.",
+      "first_sentence_words": 13,
+      "weak_opener_flag": false,
+      "last_paragraph": "On the counter, the laptop plays my face again, silent. My finger points behind me at nothing.",
+      "exit_words": 17,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 2,
+        "Simone": 9,
+        "Pip": 0,
+        "Lolo": 0,
+        "Nashville": 1,
+        "Kurt": 1,
+        "Park": 2,
+        "Gordon": 0,
+        "Benny": 0,
+        "Clyde": 2,
+        "Monday": 0,
+        "Halvard": 3,
+        "Ruth": 1,
+        "Darnell": 1,
+        "Irene": 0,
+        "Northgate": 2,
+        "Friday": 2,
+        "Grand": 0,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 22  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 1800,
+      "scenes": 1,
+      "paragraphs": 57,
+      "sentences": 145,
+      "sentence_len": {
+        "mean": 12.4,
+        "median": 10,
+        "min": 1,
+        "max": 48,
+        "cv": 0.76,
+        "range": 47,
+        "short_share_le4": 0.16,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 31.6,
+        "cv": 0.84,
+        "max": 117
+      },
+      "dialogue_ratio": 0.29,
+      "time_to_first_dialogue": 905,
+      "filter_words_per_1000": 5.5,
+      "adverbs_ly_per_500": 0.8,
+      "adverb_examples": [
+        [
+          "actually",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.6,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.6,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          2
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 11,
+        "present_markers": 22,
+        "minority_share": 0.33
+      },
+      "first_person_per_1000": 85.9,
+      "first_sentence": "I sit in my car outside the gate at Clyde Park for two hours and ten minutes with the engine running, waiting for second shift to go home.",
+      "first_sentence_words": 28,
+      "weak_opener_flag": false,
+      "last_paragraph": "First I'm going to tell her.",
+      "exit_words": 6,
+      "exit_kinds": [
+        "decision"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 10,
+        "Pip": 3,
+        "Lolo": 1,
+        "Nashville": 1,
+        "Kurt": 0,
+        "Park": 3,
+        "Gordon": 1,
+        "Benny": 2,
+        "Clyde": 3,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 1,
+        "Darnell": 2,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 2,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 23  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2382,
+      "scenes": 1,
+      "paragraphs": 80,
+      "sentences": 210,
+      "sentence_len": {
+        "mean": 11.3,
+        "median": 7.0,
+        "min": 1,
+        "max": 74,
+        "cv": 0.93,
+        "range": 73,
+        "short_share_le4": 0.23,
+        "long_share_ge30": 0.05
+      },
+      "paragraph_len": {
+        "mean": 29.8,
+        "cv": 0.87,
+        "max": 106
+      },
+      "dialogue_ratio": 0.32,
+      "time_to_first_dialogue": 118,
+      "filter_words_per_1000": 1.9,
+      "adverbs_ly_per_500": 2.5,
+      "adverb_examples": [
+        [
+          "exactly",
+          2
+        ],
+        [
+          "honestly",
+          1
+        ],
+        [
+          "carefully",
+          1
+        ],
+        [
+          "personally",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ]
+      ],
+      "named_emotion_count": 2,
+      "named_emotion_per_1000": 1.2,
+      "emotion_anchored_ratio": 0.0,
+      "unanchored_emotion_examples": [
+        "Because I said it to hurt you.",
+        "I am not angry anymore."
+      ],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 14,
+        "present_markers": 39,
+        "minority_share": 0.26
+      },
+      "first_person_per_1000": 61.5,
+      "first_sentence": "On Monday, day one of ten, I try to fix it by myself, and by four in the afternoon I've learned what every bank in West Michigan sounds like when it's being kin",
+      "first_sentence_words": 33,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"How do I ask any of them? How do you ask people for something after you've spent so long deciding for them?\"",
+      "exit_words": 22,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 7,
+        "Pip": 2,
+        "Lolo": 0,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 0,
+        "Benny": 4,
+        "Clyde": 0,
+        "Monday": 1,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 2,
+        "Irene": 1,
+        "Northgate": 1,
+        "Friday": 1,
+        "Grand": 0,
+        "Avenue": 3,
+        "October": 0,
+        "Michigan": 2,
+        "Rapids": 0,
+        "Saturdays": 1,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 24  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2087,
+      "scenes": 1,
+      "paragraphs": 75,
+      "sentences": 196,
+      "sentence_len": {
+        "mean": 10.6,
+        "median": 7.0,
+        "min": 1,
+        "max": 48,
+        "cv": 0.86,
+        "range": 47,
+        "short_share_le4": 0.26,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 27.8,
+        "cv": 1.0,
+        "max": 110
+      },
+      "dialogue_ratio": 0.32,
+      "time_to_first_dialogue": 403,
+      "filter_words_per_1000": 3.5,
+      "adverbs_ly_per_500": 2.1,
+      "adverb_examples": [
+        [
+          "quietly",
+          1
+        ],
+        [
+          "usually",
+          1
+        ],
+        [
+          "nervously",
+          1
+        ],
+        [
+          "patiently",
+          1
+        ],
+        [
+          "seriously",
+          1
+        ]
+      ],
+      "named_emotion_count": 3,
+      "named_emotion_per_1000": 2.1,
+      "emotion_anchored_ratio": 0.67,
+      "unanchored_emotion_examples": [
+        "\"Well, I hope you thought of something."
+      ],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 19,
+        "present_markers": 36,
+        "minority_share": 0.35
+      },
+      "first_person_per_1000": 56.7,
+      "first_sentence": "Monday night a little after ten, sitting in Pip's chair in the room in the yard with the heater ticking, I write her a text and send it.",
+      "first_sentence_words": 28,
+      "weak_opener_flag": false,
+      "last_paragraph": "On the shelf, on top of Darnell's blanket, sits her grandmother's afghan, every color of yarn Goodwill had in 1981, folded with the corners square.",
+      "exit_words": 25,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 1,
+        "Pip": 4,
+        "Lolo": 0,
+        "Nashville": 2,
+        "Kurt": 2,
+        "Park": 1,
+        "Gordon": 1,
+        "Benny": 1,
+        "Clyde": 1,
+        "Monday": 1,
+        "Halvard": 1,
+        "Ruth": 2,
+        "Darnell": 2,
+        "Irene": 0,
+        "Northgate": 3,
+        "Friday": 1,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 1,
+        "Michigan": 1,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 25  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2197,
+      "scenes": 1,
+      "paragraphs": 88,
+      "sentences": 190,
+      "sentence_len": {
+        "mean": 11.6,
+        "median": 8.0,
+        "min": 1,
+        "max": 52,
+        "cv": 0.88,
+        "range": 51,
+        "short_share_le4": 0.17,
+        "long_share_ge30": 0.08
+      },
+      "paragraph_len": {
+        "mean": 25.0,
+        "cv": 1.1,
+        "max": 152
+      },
+      "dialogue_ratio": 0.38,
+      "time_to_first_dialogue": 234,
+      "filter_words_per_1000": 1.5,
+      "adverbs_ly_per_500": 1.5,
+      "adverb_examples": [
+        [
+          "exactly",
+          1
+        ],
+        [
+          "fairly",
+          1
+        ],
+        [
+          "slowly",
+          1
+        ],
+        [
+          "finally",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.7,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.0,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          2
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 6,
+        "present_markers": 33,
+        "minority_share": 0.15
+      },
+      "first_person_per_1000": 76.8,
+      "first_sentence": "I don't call Northgate.",
+      "first_sentence_words": 4,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"It's a good rug,\" he says.",
+      "exit_words": 6,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 3,
+        "Pip": 0,
+        "Lolo": 2,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 0,
+        "Gordon": 2,
+        "Benny": 0,
+        "Clyde": 0,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 1,
+        "Irene": 0,
+        "Northgate": 1,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 26  \u2014  Adam",
+      "pov_line": "Adam",
+      "words": 2037,
+      "scenes": 1,
+      "paragraphs": 82,
+      "sentences": 170,
+      "sentence_len": {
+        "mean": 12.0,
+        "median": 9.0,
+        "min": 2,
+        "max": 47,
+        "cv": 0.76,
+        "range": 45,
+        "short_share_le4": 0.18,
+        "long_share_ge30": 0.06
+      },
+      "paragraph_len": {
+        "mean": 24.8,
+        "cv": 0.93,
+        "max": 118
+      },
+      "dialogue_ratio": 0.53,
+      "time_to_first_dialogue": 70,
+      "filter_words_per_1000": 2.1,
+      "adverbs_ly_per_500": 3.1,
+      "adverb_examples": [
+        [
+          "finally",
+          3
+        ],
+        [
+          "slowly",
+          2
+        ],
+        [
+          "genuinely",
+          1
+        ]
+      ],
+      "named_emotion_count": 0,
+      "named_emotion_per_1000": 0.0,
+      "emotion_anchored_ratio": null,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.5,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 2,
+        "present_markers": 29,
+        "minority_share": 0.06
+      },
+      "first_person_per_1000": 64.4,
+      "first_sentence": "On Friday morning at six, sitting in Pip's chair in the room in the yard with my knees up and the afghan around my shoulders, I call Odell Haynes in La Vergne, ",
+      "first_sentence_words": 33,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Six a.m.,\" she says. \"Don't be late.\"",
+      "exit_words": 8,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 0,
+        "Simone": 0,
+        "Pip": 3,
+        "Lolo": 0,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 5,
+        "Benny": 3,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 0,
+        "Irene": 1,
+        "Northgate": 0,
+        "Friday": 2,
+        "Grand": 1,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 8
+      }
+    },
+    {
+      "title": "Chapter 27  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 1480,
+      "scenes": 1,
+      "paragraphs": 51,
+      "sentences": 120,
+      "sentence_len": {
+        "mean": 12.3,
+        "median": 9.0,
+        "min": 1,
+        "max": 42,
+        "cv": 0.73,
+        "range": 41,
+        "short_share_le4": 0.12,
+        "long_share_ge30": 0.08
+      },
+      "paragraph_len": {
+        "mean": 29.0,
+        "cv": 0.95,
+        "max": 167
+      },
+      "dialogue_ratio": 0.37,
+      "time_to_first_dialogue": 131,
+      "filter_words_per_1000": 2.1,
+      "adverbs_ly_per_500": 1.6,
+      "adverb_examples": [
+        [
+          "slowly",
+          2
+        ],
+        [
+          "carefully",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 1.1,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.7,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 4,
+        "present_markers": 23,
+        "minority_share": 0.15
+      },
+      "first_person_per_1000": 53.4,
+      "first_sentence": "Near midnight on Friday, second shift goes home, and I'm sitting in the break room at Clyde Park under the fluorescent lights with a cup of vending-machine hot ",
+      "first_sentence_words": 32,
+      "weak_opener_flag": false,
+      "last_paragraph": "Then I take the cap back off, and leave the marker on the tray, uncapped, where anyone can reach it.",
+      "exit_words": 20,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 1,
+        "Simone": 1,
+        "Pip": 0,
+        "Lolo": 10,
+        "Nashville": 1,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 1,
+        "Benny": 1,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 1,
+        "Irene": 0,
+        "Northgate": 0,
+        "Friday": 1,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 1,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    },
+    {
+      "title": "Chapter 28  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2895,
+      "scenes": 1,
+      "paragraphs": 101,
+      "sentences": 205,
+      "sentence_len": {
+        "mean": 14.1,
+        "median": 11,
+        "min": 1,
+        "max": 52,
+        "cv": 0.74,
+        "range": 51,
+        "short_share_le4": 0.13,
+        "long_share_ge30": 0.1
+      },
+      "paragraph_len": {
+        "mean": 28.7,
+        "cv": 0.96,
+        "max": 136
+      },
+      "dialogue_ratio": 0.36,
+      "time_to_first_dialogue": 100,
+      "filter_words_per_1000": 0.5,
+      "adverbs_ly_per_500": 2.4,
+      "adverb_examples": [
+        [
+          "slowly",
+          5
+        ],
+        [
+          "exactly",
+          1
+        ],
+        [
+          "fairly",
+          1
+        ],
+        [
+          "completely",
+          1
+        ],
+        [
+          "plainly",
+          1
+        ]
+      ],
+      "named_emotion_count": 3,
+      "named_emotion_per_1000": 1.6,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.3,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 5,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          4
+        ],
+        [
+          "tension",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 14,
+        "present_markers": 80,
+        "minority_share": 0.15
+      },
+      "first_person_per_1000": 37.0,
+      "first_sentence": "Just before six on Saturday morning there are a hundred and forty-one people standing on the floor of the Clyde Park plant, and none of them are working, and th",
+      "first_sentence_words": 37,
+      "weak_opener_flag": false,
+      "last_paragraph": "\"Well,\" he says. \"We got knees to make.\"",
+      "exit_words": 8,
+      "exit_kinds": [
+        "dialogue"
+      ],
+      "name_hits": {
+        "Adam": 5,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 9,
+        "Nashville": 0,
+        "Kurt": 0,
+        "Park": 1,
+        "Gordon": 3,
+        "Benny": 7,
+        "Clyde": 1,
+        "Monday": 0,
+        "Halvard": 0,
+        "Ruth": 0,
+        "Darnell": 8,
+        "Irene": 7,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 0,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 0,
+        "Saturdays": 0,
+        "Lindqvist": 1,
+        "Odell": 1
+      }
+    },
+    {
+      "title": "Chapter 29  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2698,
+      "scenes": 1,
+      "paragraphs": 104,
+      "sentences": 214,
+      "sentence_len": {
+        "mean": 12.6,
+        "median": 9.0,
+        "min": 1,
+        "max": 87,
+        "cv": 0.85,
+        "range": 86,
+        "short_share_le4": 0.15,
+        "long_share_ge30": 0.07
+      },
+      "paragraph_len": {
+        "mean": 25.9,
+        "cv": 0.97,
+        "max": 131
+      },
+      "dialogue_ratio": 0.33,
+      "time_to_first_dialogue": 72,
+      "filter_words_per_1000": 2.2,
+      "adverbs_ly_per_500": 0.8,
+      "adverb_examples": [
+        [
+          "mostly",
+          2
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.5,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 0.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 0,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 2,
+      "ai_tier2_top": [
+        [
+          "quiet",
+          1
+        ],
+        [
+          "quietly",
+          1
+        ]
+      ],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 10,
+        "present_markers": 50,
+        "minority_share": 0.17
+      },
+      "first_person_per_1000": 62.1,
+      "first_sentence": "He goes to Nashville on Sunday morning, and he tells me a day ahead.",
+      "first_sentence_words": 14,
+      "weak_opener_flag": false,
+      "last_paragraph": "He lifts his chin, once, and goes in to work.",
+      "exit_words": 10,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 9,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 0,
+        "Nashville": 3,
+        "Kurt": 0,
+        "Park": 3,
+        "Gordon": 2,
+        "Benny": 11,
+        "Clyde": 3,
+        "Monday": 2,
+        "Halvard": 0,
+        "Ruth": 1,
+        "Darnell": 1,
+        "Irene": 5,
+        "Northgate": 0,
+        "Friday": 0,
+        "Grand": 1,
+        "Avenue": 1,
+        "October": 0,
+        "Michigan": 0,
+        "Rapids": 1,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 5
+      }
+    },
+    {
+      "title": "Chapter 30  \u2014  Pip",
+      "pov_line": "Pip",
+      "words": 2101,
+      "scenes": 1,
+      "paragraphs": 90,
+      "sentences": 194,
+      "sentence_len": {
+        "mean": 10.8,
+        "median": 7.0,
+        "min": 1,
+        "max": 51,
+        "cv": 0.93,
+        "range": 50,
+        "short_share_le4": 0.25,
+        "long_share_ge30": 0.08
+      },
+      "paragraph_len": {
+        "mean": 23.3,
+        "cv": 1.05,
+        "max": 114
+      },
+      "dialogue_ratio": 0.29,
+      "time_to_first_dialogue": 43,
+      "filter_words_per_1000": 2.0,
+      "adverbs_ly_per_500": 1.0,
+      "adverb_examples": [
+        [
+          "weekly",
+          1
+        ],
+        [
+          "wildly",
+          1
+        ],
+        [
+          "gently",
+          1
+        ]
+      ],
+      "named_emotion_count": 1,
+      "named_emotion_per_1000": 0.7,
+      "emotion_anchored_ratio": 1.0,
+      "unanchored_emotion_examples": [],
+      "em_dashes_per_1000": 1.4,
+      "exclamations_per_1000": 0.0,
+      "negative_parallelism": [],
+      "participial_tails": [],
+      "copula_avoidance": [],
+      "tricolons": 0,
+      "self_posed_questions": 1,
+      "theme_statements": [],
+      "author_asides": [],
+      "ai_tier1": {},
+      "ai_tier2_count": 0,
+      "ai_tier2_top": [],
+      "stock_endings": {},
+      "name_slop": {},
+      "tense": {
+        "past_markers": 8,
+        "present_markers": 51,
+        "minority_share": 0.14
+      },
+      "first_person_per_1000": 52.3,
+      "first_sentence": "On Friday, the day the bank in Chicago counts our money, my husband comes through the door of my room at five to seven with snow on his shoulders and an espress",
+      "first_sentence_words": 51,
+      "weak_opener_flag": false,
+      "last_paragraph": "I don't straighten it. He'll want it at five to seven.",
+      "exit_words": 11,
+      "exit_kinds": [
+        "image/quiet"
+      ],
+      "name_hits": {
+        "Adam": 6,
+        "Simone": 0,
+        "Pip": 0,
+        "Lolo": 7,
+        "Nashville": 0,
+        "Kurt": 3,
+        "Park": 2,
+        "Gordon": 7,
+        "Benny": 5,
+        "Clyde": 2,
+        "Monday": 2,
+        "Halvard": 1,
+        "Ruth": 0,
+        "Darnell": 3,
+        "Irene": 2,
+        "Northgate": 0,
+        "Friday": 4,
+        "Grand": 2,
+        "Avenue": 0,
+        "October": 0,
+        "Michigan": 3,
+        "Rapids": 2,
+        "Saturdays": 0,
+        "Lindqvist": 0,
+        "Odell": 0
+      }
+    }
+  ],
+  "flags": [
+    "Possible merged chapters \u2014 see the parse-integrity warning at the top.",
+    "Repeated 4-word phrases (\u22653\u00d7): 200 distinct \u2014 top: 'every one of them' \u00d713; 'in the break room' \u00d713; 'room in the yard' \u00d712; 'phone in my hand' \u00d711; 'one in the morning' \u00d710; 'of the lindqvist building' \u00d78; 'inside of the door' \u00d78; 'put a post in' \u00d78",
+    "Similar character names (same initial, similar shape): [('Gordon', 'Grand'), ('Nashville', 'Northgate'), ('Park', 'Pip')]"
+  ]
+}

@@ -1247,10 +1247,10 @@
       "path": "17_MANUSCRIPT.md",
       "title": "My CEO Husband Gave Her My Corner Office",
       "quote_style": "double",
-      "words": 68607,
+      "words": 68399,
       "chapters": 30,
-      "chapter_mean": 2286.9,
-      "chapter_cv": 0.161,
+      "chapter_mean": 2280.0,
+      "chapter_cv": 0.162,
       "dialogue_pct": 33.7,
       "dialogue_pct_ch1_3": 27.9,
       "ttfd_ch1": 107,
@@ -1325,8 +1325,8 @@
         "STOCK-ENDING!": 0.0
       },
       "parse_integrity": {
-        "raw_words": 68769,
-        "parsed_words": 68607,
+        "raw_words": 68561,
+        "parsed_words": 68399,
         "ratio": 0.998,
         "ok": true,
         "note": " WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",
@@ -1335,7 +1335,7 @@
       },
       "voice": {
         "book": {
-          "words": 45499,
+          "words": 45350,
           "rates": {
             "em_dash": 0.2,
             "neg_par": 0.0,
@@ -1343,7 +1343,7 @@
             "understood": 0.0,
             "hedge": 0.02,
             "first_time": 0.0,
-            "filter": 2.24,
+            "filter": 2.25,
             "theme": 0.0
           },
           "counts": {
@@ -1362,9 +1362,9 @@
             "i sit",
             "simone says",
             "i put",
-            "he doesn't",
             "i tell",
             "she doesn't",
+            "he doesn't",
             "then i",
             "i stand",
             "lolo says",
@@ -1381,7 +1381,7 @@
         },
         "by_pov": {
           "Pip": {
-            "words": 32271,
+            "words": 32216,
             "rates": {
               "em_dash": 0.22,
               "neg_par": 0.0,
@@ -1405,8 +1405,8 @@
             "openers": [
               "i say",
               "i don't",
-              "he doesn't",
               "i put",
+              "he doesn't",
               "lolo says",
               "i sit",
               "he looks",
@@ -1419,14 +1419,14 @@
               "i go",
               "she doesn't",
               "she looks",
-              "adam says",
               "when i",
               "i know",
+              "adam says",
               "then i"
             ]
           },
           "Adam": {
-            "words": 13228,
+            "words": 13134,
             "rates": {
               "em_dash": 0.15,
               "neg_par": 0.0,
@@ -1434,7 +1434,7 @@
               "understood": 0.0,
               "hedge": 0.0,
               "first_time": 0.0,
-              "filter": 2.72,
+              "filter": 2.74,
               "theme": 0.0
             },
             "counts": {
@@ -1460,20 +1460,20 @@
               "i know",
               "i put",
               "i didn't",
-              "i've had",
               "i stand",
               "there's a",
               "she turns",
               "odell says",
               "i'm going",
               "pip says",
-              "she has"
+              "she has",
+              "i can"
             ]
           }
         },
         "pov_coverage": {
-          "Pip": 32271,
-          "Adam": 13228
+          "Pip": 32216,
+          "Adam": 13134
         }
       },
       "label": "My CEO Husband Gave Her My Corner Office",
@@ -1862,8 +1862,8 @@
       "chapters": 5
     },
     "My CEO Husband Gave Her My Corner Office": {
-      "raw_words": 68769,
-      "parsed_words": 68607,
+      "raw_words": 68561,
+      "parsed_words": 68399,
       "ratio": 0.998,
       "ok": true,
       "note": " WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.",

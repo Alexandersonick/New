@@ -64,3 +64,27 @@ Promise PASS with watch items. No DNF point. Brief: `qc/FINAL_FIX_BRIEF.md` (gro
 | F-09 | rank 6 (C7/C8) | Grovel hijacked; triangle thin. | Ch 25: Adam names his pull toward Simone, without excuse. Blurb: "The VP isn't anybody's villain." Shelf-fit note in package. | group C; package **fixed** |
 | F-10 | rank 11 (C2/C4) | Tic and tag recurrence; age/hometown/tenure intros. | Group caps; about six intros rewritten. | groups A–D |
 | — | not fixed, by decision | S1 (her workspace as the separation base), S3 (reporting before acting), S9 (her relapse), S10 (ritual restarts), S11 (blunt crew). | S1, S3 and S10 are the book's premise and repair, which the user's hook and blurb require. S9 is the fingerprint's adversarial lowest point (the blind reader cleared it: blame is not rebalanced). S11 is lane-inherent. Recorded as house-template overlap in the delivery. | disclosed |
+
+## Confirmation read: `qc/HOSTILE_READER_confirm.md`
+- **First-time reader:** PASS. Rank 11 is now LOW.
+- **Repeat reader:** still `true`, at reduced strength ("same bones", not "I could have written the outline").
+- **Must-fixes, both applied:**
+  - Ch 30: Adam is now "still on with Neil", replacing the unexplained "signing something".
+  - Ch 29: Odell's "no slide… in your pocket" line is cut.
+- **Optional one-liners, all applied:** Ch 15 (Adam's staged silence cut), Ch 24 (the second credit line cut), Ch 25, Ch 26 (call-in-my-head paragraph), Ch 27 (whiteboard reprint), Ch 28. The Ch 30 thermostat callback is also cut.
+- **Final measure:** 68,399 words, CV 0.16, dialogue 34%. series_diff AXIS_11 PASS, with no voice convergence and no house habits.
+
+**OPEN: `CATALOG_SAMENESS` (repeat reader, residual).** The remaining overlap is the house's own repair
+grammar, not the user's hook:
+- the heroine's workspace as the stage of the separation and the apology;
+- "before" texts as the repair rhythm;
+- the elder's reframe of the family rule;
+- the heroine committing the hero's sin at the lowest point;
+- the ask-not-command ending with a morning ritual;
+- a blunt crew;
+- craft and clock voice tags.
+
+Clearing it needs a structural change to the repair rhythm or the lowest point, or the author
+accepting these as the pen name's house style. **This is the author's decision.** The blind
+Catalog Novelty Gate (H1–H8) passes; this open item is the hostile reader's repeat-reader test,
+which is a separate gate.

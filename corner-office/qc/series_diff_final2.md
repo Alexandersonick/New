@@ -7,10 +7,10 @@ Mechanical measurement only. AXIS_11_MECHANICAL is the one PASS/FAIL; the Jaccar
 
 | Metric | The Assistant Remembered What My Husband Forgot | My Bodyguard Is Posing as My Husband | My Estranged Husband Came Back | I Was His Neglected Wife | The Quarterback Needs a Fake Wife | My Twin Sister Took My Place as His Wife | My CEO Husband Gave Her My Corner Office (TARGET) |
 |---|---|---|---|---|---|---|---|
-| Words (parsed) | 8,419 | 7,202 | 11,764 | 11,224 | 7,600 | 12,299 | 68,607 |
+| Words (parsed) | 8,419 | 7,202 | 11,764 | 11,224 | 7,600 | 12,299 | 68,399 |
 | Parse coverage (parsed / raw) | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
 | Chapters | 5 | 6 | 5 | 8 | 6 | 5 | 30 |
-| Mean chapter words | 1684 | 1200 | 2353 | 1403 | 1267 | 2460 | 2287 |
+| Mean chapter words | 1684 | 1200 | 2353 | 1403 | 1267 | 2460 | 2280 |
 | Chapter-length CV | 0.15 | 0.34 | 0.18 | 0.21 | 0.29 | 0.11 | 0.16 |
 | Dialogue % (book) | 29.1 | 22.6 | 29.1 | 20.5 | 37.2 | 33.6 | 33.7 |
 | Dialogue % (ch 1–3) | 29.3 | 13.3 | 29.2 | 15.9 | 40.1 | 29.8 | 27.9 |
@@ -139,7 +139,7 @@ Sentence-level habits measured on NARRATION ONLY (dialogue stripped), per 1,000 
 | '[name] understood' cognitive summaries | ≥0.4 | 0.00 | 0.18 | 0.00 | 0.45 | 0.00 | 0.00 | 0.00 |
 | hedges before disclosure ('for what it's worth', 'I want to be honest') | ≥0.3 | 0.00 | 0.00 | 0.24 | 0.11 | 0.21 | 0.00 | 0.02 |
 | 'for the first time' epiphany markers | ≥0.25 | 0.00 | 0.00 | 0.12 | 0.56 | 0.21 | 0.00 | 0.00 |
-| filter words (felt/saw/noticed/realized…) | ≥6.0 | 3.52 | 5.38 | 3.96 | 5.05 | 3.56 | 3.43 | 2.24 |
+| filter words (felt/saw/noticed/realized…) | ≥6.0 | 3.52 | 5.38 | 3.96 | 5.05 | 3.56 | 3.43 | 2.25 |
 | theme statements ('that was the thing about…') | ≥0.5 | 0.00 | 0.36 | 0.12 | 0.22 | 0.00 | 0.00 | 0.00 |
 
 | Prior | Shared tics | Which | Opener Jaccard | Flag |
@@ -159,7 +159,7 @@ Per-POV vectors were computed where a POV label covers ≥1,000 narration words 
 - I Was His Neglected Wife: Marisol (3,949 w), Idris (4,970 w)
 - The Quarterback Needs a Fake Wife: Nora (3,471 w), Cade (1,298 w)
 - My Twin Sister Took My Place as His Wife: Maud (6,666 w), Declan (1,497 w)
-- My CEO Husband Gave Her My Corner Office: Pip (32,271 w), Adam (13,228 w)
+- My CEO Husband Gave Her My Corner Office: Pip (32,216 w), Adam (13,134 w)
 
 ## 7. Twelve-axis table (skeleton)
 

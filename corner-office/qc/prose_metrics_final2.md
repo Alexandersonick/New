@@ -1,7 +1,7 @@
 # Prose Metrics Report — My CEO Husband Gave Her My Corner Office
-Niche profile: **romance** · Chapters: 30 · Words (measured): **68,607** · Mean chapter: 2287 (CV 0.16) · Dialogue (book): 34%
+Niche profile: **romance** · Chapters: 30 · Words (measured): **68,399** · Mean chapter: 2280 (CV 0.16) · Dialogue (book): 34%
 
-Parse integrity: 68,607 of 68,769 raw words kept (100%) — OK. **WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.**
+Parse integrity: 68,399 of 68,561 raw words kept (100%) — OK. **WARNING: 30 `## ` headings were read as POV/section markers because they do not look like chapter headings (Pip, Pip, Pip, Adam, Pip, Pip…) while only 30 chapter(s) were found. If those are chapter titles, write them `## Chapter N — Title`; chapter-level metrics below are computed on merged chapters.**
 
 Every FLAG below is a place to read, not a verdict. Record intentional exceptions in the DEFECT/SAMENESS ledger.
 
@@ -23,7 +23,7 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 | 12 | 2,181 | 34% | 23 | 10.5/1.02/60 | 24% | 1.08 | 4.2 | 1.0 | 0.0 (n/a) | 0.9 | 13 | image/quiet |
 | 13 | 2,192 | 29% | 156 | 10.4/0.92/49 | 28% | 1.06 | 1.9 | 1.0 | 0.0 (n/a) | 1.4 | 25 | image/quiet |
 | 14 | 1,476 | 35% | 115 | 10.8/0.93/50 | 26% | 0.88 | 0.0 | 1.0 | 0.0 (n/a) | 0.0 | 8 | dialogue |
-| 15 | 3,075 | 29% | 265 | 12.3/0.99/101 | 22% | 0.99 | 3.2 | 2.3 | 0.9 (100%) | 0.0 | 15 | dialogue |
+| 15 | 3,052 | 29% | 265 | 12.3/0.99/101 | 21% | 1.0 | 3.3 | 2.3 | 0.9 (100%) | 0.0 | 15 | dialogue |
 | 16 | 2,280 | 37% | 16 | 13.3/0.84/60 | 16% | 1.02 | 4.2 | 2.1 | 1.4 (100%) | 1.8 | 23 | image/quiet |
 | 17 | 2,214 | 45% | 107 | 12.0/0.74/48 | 12% | 0.97 | 0.8 | 0.8 | 0.8 (100%) | 0.0 | 22 | image/quiet |
 | 18 | 2,591 | 30% | 75 | 13.3/0.83/62 | 12% | 1.14 | 1.1 | 2.5 | 1.7 (100%) | 1.5 | 7 | dialogue |
@@ -32,13 +32,13 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 | 21 | 2,407 | 39% | 252 | 10.9/0.76/50 | 20% | 0.86 | 2.7 | 2.0 | 2.0 (67%) | 0.8 | 17 | image/quiet |
 | 22 | 1,800 | 29% | 905 | 12.4/0.76/47 | 16% | 0.84 | 5.5 | 0.8 | 1.6 (100%) | 0.6 | 6 | decision |
 | 23 | 2,382 | 32% | 118 | 11.3/0.93/73 | 23% | 0.87 | 1.9 | 2.5 | 1.2 (0%) | 0.4 | 22 | dialogue |
-| 24 | 2,106 | 31% | 403 | 10.7/0.87/47 | 25% | 1.0 | 3.5 | 2.1 | 2.1 (67%) | 0.0 | 25 | image/quiet |
-| 25 | 2,201 | 38% | 234 | 11.6/0.88/51 | 17% | 1.11 | 1.5 | 1.5 | 0.7 (100%) | 0.0 | 6 | dialogue |
-| 26 | 2,112 | 51% | 70 | 12.1/0.76/45 | 17% | 0.94 | 1.9 | 2.9 | 0.0 (n/a) | 0.5 | 8 | dialogue |
-| 27 | 1,504 | 36% | 131 | 12.2/0.73/41 | 12% | 0.96 | 2.1 | 1.6 | 1.0 (100%) | 0.7 | 20 | image/quiet |
-| 28 | 2,897 | 36% | 100 | 14.1/0.74/51 | 13% | 0.96 | 0.5 | 2.4 | 1.6 (100%) | 0.3 | 8 | dialogue |
-| 29 | 2,712 | 33% | 72 | 12.6/0.85/86 | 15% | 0.97 | 2.2 | 0.8 | 0.5 (100%) | 0.4 | 10 | image/quiet |
-| 30 | 2,148 | 30% | 43 | 10.8/0.93/50 | 24% | 1.05 | 2.0 | 1.0 | 0.7 (100%) | 1.4 | 11 | image/quiet |
+| 24 | 2,087 | 32% | 403 | 10.6/0.86/47 | 26% | 1.0 | 3.5 | 2.1 | 2.1 (67%) | 0.0 | 25 | image/quiet |
+| 25 | 2,197 | 38% | 234 | 11.6/0.88/51 | 17% | 1.1 | 1.5 | 1.5 | 0.7 (100%) | 0.0 | 6 | dialogue |
+| 26 | 2,037 | 53% | 70 | 12.0/0.76/45 | 18% | 0.93 | 2.1 | 3.1 | 0.0 (n/a) | 0.5 | 8 | dialogue |
+| 27 | 1,480 | 37% | 131 | 12.3/0.73/41 | 12% | 0.95 | 2.1 | 1.6 | 1.1 (100%) | 0.7 | 20 | image/quiet |
+| 28 | 2,895 | 36% | 100 | 14.1/0.74/51 | 13% | 0.96 | 0.5 | 2.4 | 1.6 (100%) | 0.3 | 8 | dialogue |
+| 29 | 2,698 | 33% | 72 | 12.6/0.85/86 | 15% | 0.97 | 2.2 | 0.8 | 0.5 (100%) | 0.4 | 10 | image/quiet |
+| 30 | 2,101 | 29% | 43 | 10.8/0.93/50 | 25% | 1.05 | 2.0 | 1.0 | 0.7 (100%) | 1.4 | 11 | image/quiet |
 
 ### Ch 1 — Chapter 1  —  Pip (2,271 w)
 - FLAG: tense mix: minority share 22% (possible tense drift)
@@ -72,7 +72,7 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 ### Ch 13 — Chapter 13  —  Adam (2,192 w)
 - FLAG: tense mix: minority share 22% (possible tense drift)
 
-### Ch 15 — Chapter 15  —  Pip (3,075 w)
+### Ch 15 — Chapter 15  —  Pip (3,052 w)
 - FLAG: tense mix: minority share 24% (possible tense drift)
 
 ### Ch 16 — Chapter 16  —  Adam (2,280 w)
@@ -89,11 +89,11 @@ Every FLAG below is a place to read, not a verdict. Record intentional exception
 - FLAG: emotion anchoring 0% < 85%; e.g. Because I said it to hurt you. | I am not angry anymore.
 - FLAG: tense mix: minority share 26% (possible tense drift)
 
-### Ch 24 — Chapter 24  —  Adam (2,106 w)
+### Ch 24 — Chapter 24  —  Adam (2,087 w)
 - FLAG: emotion anchoring 67% < 85%; e.g. "Well, I hope you thought of something.
-- FLAG: tense mix: minority share 34% (possible tense drift)
+- FLAG: tense mix: minority share 35% (possible tense drift)
 
-### Ch 29 — Chapter 29  —  Pip (2,712 w)
+### Ch 29 — Chapter 29  —  Pip (2,698 w)
 - FLAG: tense mix: minority share 17% (possible tense drift)
 
 ## Book-level flags
@@ -112,7 +112,7 @@ Repeated 4-grams (≥3×): 'every one of them' ×13; 'in the break room' ×13; '
 
 Repeated 5-grams (≥2×): 'at one in the morning' ×10; 'the inside of the door' ×8; 'the phone in my hand' ×8; 'since the spring before last' ×7; 'put a post in it' ×6; 'the room in the yard' ×6; 'the room across the hall' ×5; 'four hundred and twenty thousand' ×5; 'rooms sold since pip liberated' ×5; 'sold since pip liberated one' ×5; 'seven point four million dollars' ×5; 'a hundred and forty people' ×5; 'at four in the morning' ×4; 'the phone face down on' ×4; 'can i ask you something' ×4
 
-Name frequency in narration: Simone 129, Lolo 86, Adam 81, Benny 69, Irene 64, Darnell 58, Pip 53, Kurt 53, Ruth 51, Gordon 47, Park 33, Clyde 33, Nashville 31, Odell 28, Avenue 23, Northgate 22, Michigan 22, Monday 20, Friday 20, Halvard 19, Lindqvist 19, Grand 17, October 14, Rapids 12, Saturdays 2
+Name frequency in narration: Simone 129, Lolo 86, Adam 80, Benny 69, Irene 64, Darnell 58, Pip 53, Kurt 53, Ruth 51, Gordon 47, Park 33, Clyde 33, Nashville 31, Odell 28, Avenue 23, Northgate 22, Michigan 22, Monday 20, Friday 20, Halvard 19, Lindqvist 19, Grand 17, October 14, Rapids 12, Saturdays 3
 
 ## How to read this
 

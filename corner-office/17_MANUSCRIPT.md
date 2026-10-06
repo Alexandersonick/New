@@ -2871,7 +2871,7 @@ Ruth doesn't say anything. Del Ortiz sits back in his chair and folds his hands 
 
 I sit there with my hands flat on the black walnut on either side of the file, and I can feel the grain under my palms. I've been waiting since the spring before last for somebody in this building to say it out loud in a room with a table in it. Nobody was going to. So it's my voice, and a steel receipt held up to a camera, and a man in a turtleneck in Minneapolis who wants to buy it writing it down, and it doesn't feel like anything I thought it would. It feels like paying a bill.
 
-Adam's eyes are on me. His mouth is shut. He doesn't add anything, and he doesn't do the face where he checks whether I liked it. He just holds still and waits to see what it costs.
+Adam's eyes are on me. I don't look over to see what's in them.
 
 "Gordon," Ruth says, "before we go on, I think the board needs the full cash picture. Including the facility."
 
@@ -4429,7 +4429,7 @@ Margaret Oyelaran is about sixty, Nigerian by way of Evanston, in a camel suit a
 
 Margaret uncaps the pen.
 
-I don't give them the history. They have Gordon's reports; they can read. I tell them one thing they can't get from a spreadsheet: that Nashville was my idea, over my co-founder's objection, and the nine million went into it, and the plan that keeps this company alive is hers, not mine. Steel at net sixty, escrow at cut. That's all I say about it. Margaret watches me say it without blinking.
+I don't give them the history. They have Gordon's reports; they can read. I tell them one thing they can't get from a spreadsheet: that Nashville was my idea, over my co-founder's objection, and the nine million went into it. That's all I say about it. Margaret watches me say it without blinking.
 
 When I'm done, the room stays quiet long enough for a barge to go by on the river below, pushing ice.
 
@@ -4650,7 +4650,7 @@ And then, before I can think about it, before I can plan anything, he gets up ou
 
 My hands are flat on my knees, and I keep them there.
 
-"I'm sorry about Nashville. I'm sorry about the slide. I'm sorry I stood up in front of three hundred people and decided our life without you and then kept talking because I was in the middle of a pitch. I'm sorry about the room. *You barely use it.* I said that to you in front of the whole floor, and I said it like a fact on a slide, and I knew what the room was. I was at the wedding. I made the speech." His voice doesn't break. It just gets very quiet, every word set down one at a time, like Simone's. "I'm sorry about Northgate. I'm sorry I didn't knock. I'm sorry I called her at one in the morning and told her the things I should have told you, and called it work. I'm sorry about what I said at the counter. I'm sorry I knew you that well and used it."
+"I'm sorry about Nashville. I'm sorry about the slide. I'm sorry I stood up in front of three hundred people and decided our life without you and then kept talking because I was in the middle of a pitch. I'm sorry about the room. *You barely use it.* I said that to you in front of the whole floor, and I said it like a fact on a slide, and I knew what the room was. I was at the wedding. I made the speech." His voice doesn't break. It just gets very quiet, every word set down one at a time, like Simone's. "I'm sorry about Northgate. I'm sorry I didn't knock. I'm sorry I called her at one in the morning and told her the things I should have told you. I'm sorry about what I said at the counter. I'm sorry I knew you that well and used it."
 
 He stops, still on his knees on the rug.
 
@@ -4712,7 +4712,7 @@ He picks up on the first ring, because Odell gets up at four-thirty every day of
 
 "That's not early, that's insomnia." I hear a coffee maker going in the background, and a dog. "What can I do for you?"
 
-I've had this call in my head since about two in the morning, when I gave up on sleeping and lay on the floor under the afghan looking at the cedar ceiling. I've had it every way there is. I've had it with a reason first and a cushion after. I've had it as a slide. I've had it as a speech about the future of work, God help me, and I lay there in the dark and laughed out loud at myself, alone in a ten-by-twelve room in a factory yard.
+I've been awake since about two, on the floor under the afghan, looking at the cedar ceiling.
 
 "Odell," I say, "I'm going to tell you something before I do it, and then I'm going to ask you something. Is that all right?"
 
@@ -4892,14 +4892,7 @@ He uncaps the red marker, wipes out yesterday's number, writes the new one in hi
 
 "Then I'll bring an eraser," he says, and goes.
 
-The rest of the board is as I left it Thursday:
-
-*HOLE: 2.3*
-*STATE GRANT: −0.61*
-*= 1.7*
-
-*SATURDAYS × 12 WKS + 2ND SHIFT TRAINING (KNEE) = FASTER CUT = FASTER ESCROW*
-*CREW EQUITY: 5% OF CO. FROM PIP'S SHARES → TRUST → EVERYONE ON THE FLOOR*
+The rest of the board is as I left it Thursday: the hole, the grant, the Saturdays, the five percent.
 
 And under that is the box, a square I drew in blue marker on Thursday afternoon and didn't put anything in. I've been staring at it for an hour.
 
@@ -5171,7 +5164,7 @@ Benny's goes up too, and he shrugs at me across the floor. "I don't like change,
 
 "I know it isn't, Benny."
 
-More hands go up, not many: a few of the old-timers from Lindqvist, who've seen plants close and plants saved and don't trust either one. Darnell counts them too.
+More hands go up, more than I'd like: old-timers from Lindqvist, who've seen plants close and plants saved and don't trust either one. Darnell counts them too.
 
 He goes to the whiteboard and takes the marker out of my hand without asking, which is the most Darnell thing he's ever done, and under the box with *NASH* in it, he writes the tally in his blocky numbers.
 
@@ -5203,7 +5196,7 @@ He tells me Saturday at noon, in the yard, standing by the room while the knee l
 
 "You talked for four minutes this morning in front of a hundred and forty people."
 
-"Three minutes forty, Gordon timed it." He looks at the plant, at the open rolling door, at the yellow curtains on the knee line glowing with the arcs behind them. "Odell said, *Boss, no slide. They'll know if you've got one in your pocket.*"
+"Three minutes forty, Gordon timed it." He looks at the plant, at the open rolling door, at the yellow curtains on the knee line glowing with the arcs behind them.
 
 "Can I hear it?" I say. "If they don't mind."
 
@@ -5439,11 +5432,7 @@ I sit there with my own coffee going cold in my hands.
 
 "I don't agree with you, Adam."
 
-"I know. That's why I'm telling you now and not calling him till nine." He folds his hands on his stomach. "You can say no. Or you can say no and I call him anyway, and you tell me I was wrong at seven on Monday. Your father says that's how a thermostat works."
-
-"My father turned it to sixty-eight on Sunday and my mother turned it back on Sunday night and now they're not speaking."
-
-"He told me," Adam says, and wipes his mouth. "He's very happy about it."
+"I know. That's why I'm telling you now and not calling him till nine." He folds his hands on his stomach. "You can say no. Or you can say no and I call him anyway, and you tell me I was wrong at seven on Monday."
 
 Out the glass corner the yard's going gray, and the maples on Clyde Park are coming up out of the dark. Benny's Silverado isn't in yet; it's early, even for Benny.
 
@@ -5543,7 +5532,7 @@ The answer comes back a minute later.
 
 Near five my phone rings, and it isn't Adam. It's Gordon.
 
-"Pip," he says, and he's in the stairwell, because I can hear the pigeons. "Pip. Adam's in with the lender's lawyers, signing something, so he told me to call you." He takes a breath. "Six point four one at close. The escrow from eight days of cuts, Gil's terms, and a week of Nashville we didn't spend. Neil just called. We're over the floor by four hundred and ten thousand dollars." He laughs, a little wildly. "One week of Nashville, Pip. Almost to the dollar."
+"Pip," he says, and he's in the stairwell, because I can hear the pigeons. "Pip. Adam's still on with Neil, so he told me to call you." He takes a breath. "Six point four one at close. The escrow from eight days of cuts, Gil's terms, and a week of Nashville we didn't spend. Neil just called. We're over the floor by four hundred and ten thousand dollars." He laughs, a little wildly. "One week of Nashville, Pip. Almost to the dollar."
 
 I sit down on the stool at my bench.
 
