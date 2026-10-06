@@ -2564,7 +2564,7 @@ Roz laughed. She hadn't known that. She'd known her grandfather for eleven years
 
 She was quiet for a moment.
 
-"I was nine," Dot said. "I lived over on Teague Road then, past your place. My mother walked me over and sat me on the porch with a blanket, and I watched them. All night. I watched forty lanterns go out into that corn in a line and come back and go out again. Back and forth. All night long, calling. *Arlo. Arlo. Arlo.* You'd see the lights go in, and then they'd be gone in the corn, just a glow over the tassels, and you'd hear the calling come back across the field like an echo. And then they'd come out at the far end, by the pond, and turn around, and come back."
+"I was thirteen," Dot said. "I lived over on Teague Road then, past your place. My mother walked me over and sat me on the porch with a blanket, and I watched them. All night. I watched forty lanterns go out into that corn in a line and come back and go out again. Back and forth. All night long, calling. *Arlo. Arlo. Arlo.* You'd see the lights go in, and then they'd be gone in the corn, just a glow over the tassels, and you'd hear the calling come back across the field like an echo. And then they'd come out at the far end, by the pond, and turn around, and come back."
 
 The polka station played something with an accordion. Pepper the Fourth shifted on the refrigerator.
 
@@ -2578,7 +2578,7 @@ She picked up the collar and turned it over in her fingers.
 
 Roz had put her fork down a while ago. She didn't remember doing it.
 
-"He told me that story on our first date," Dot said. "1970. At the Dairy Queen in Paw Paw. He said that was the scariest night of his life and the best one. He said he'd never been so lost and he'd never been so looked for." She buckled the collar back around her wrist. "That's why he wanted the hayride, you know. In '87. He said everybody ought to get to be a little scared in the corn once in a while, if there's a light coming."
+"He told me that story on our first date," Dot said. "1975. At the Dairy Queen in Paw Paw. He said that was the scariest night of his life and the best one. He said he'd never been so lost and he'd never been so looked for." She buckled the collar back around her wrist. "That's why he wanted the hayride, you know. In '87. He said everybody ought to get to be a little scared in the corn once in a while, if there's a light coming."
 
 * * *
 
@@ -2611,4 +2611,334 @@ Dot looked at her through the screen for a long moment. Behind her, the polka st
 Dot opened the screen door. She stood in it, small and straight, with the dog collar on her wrist, and she looked Roz up and down the way she'd looked at her at fourteen, when Roz had come up those same steps with a drawing of a ghost on a zip line and asked if she could hang it in the Woodlot.
 
 "Well, now," Dot said. "It's true. That'd be new for you."
+
+## Chapter 15
+
+<!-- POV: Gus -->
+
+On Monday evening at six-fifteen, the Ford Explorer that had belonged to Walt Pietrowski came up the VanderWal drive with its rear hatch tied shut with baling twine, because there were too many lanterns inside it for the hatch to close.
+
+Gus was on a ladder painting a hedge. He came down.
+
+Roz got out of the driver's side and stood by the hood in her barn coat with her hands in her pockets and looked at his barn, not at him: the open door, the radio, the flats along the wall, the table on its sawhorses. She looked at it the way he'd once watched her look at a borrowed fog machine before she bought it, checking the seams.
+
+"How many?" he said.
+
+"Thirty-seven." She untied the twine. The hatch swung up and a lantern slid out, and she caught it one-handed without looking. "Goodwill in Kalamazoo had nineteen. The ReStore in Portage had eight. Arlene had ten in her garage from when her husband collected them, and she says if I tell anybody she gave them to me for the hayride she'll deny it under oath."
+
+"Arlene voted against you."
+
+"Arlene voted against the bride being withdrawn. She voted *for* Arlo." Roz handed him the lantern. "So did Ed. Ed switched. Four to three again, the other way. Bev and Marv and Clyde against."
+
+"Clyde voted against?"
+
+"Clyde said, and I quote, 'Too nice.'"
+
+Gus laughed. He couldn't help it. She almost did, too; he saw it get as far as her eyes.
+
+"Ed switched because he gets a new line," Roz said. "He gets to hand out the lanterns. He gets to say, 'Take one. We're looking for somebody.' He practiced it for us in the side room. He did it four times. He did it with a limp on the third one."
+
+"Does Ed have a limp?"
+
+"He does now." She leaned into the Explorer and started pulling lanterns out two at a time, by their wire bails, the way you'd carry buckets. "I need a bench. My garage has one, and it's eight feet long, and four feet of it is the fog chiller I'm rebuilding. I need forty of these wired with LED candles and switches and battery packs by Friday at six, plus the reeds rig on the far bank, plus the bark."
+
+"The bark."
+
+"For the dog. Pepper. At dawn." She set two lanterns on his gravel. "You've got a bench."
+
+"I've got a bench."
+
+"I'm not asking you to help."
+
+"You're asking for my bench."
+
+"I'm asking for your bench," Roz agreed, and finally looked at him, and her face was the face from the fog box, the two a.m. face, all problem and no history. "And a drill press, if you've got one. And possibly an outlet."
+
+"I've got four outlets and a drill press that was my dad's and runs a little hot." He picked up the two lanterns off the gravel. "And I'm going to help. You can say no. But I'm going to be in the barn either way, because it's my barn and I've got a hedge to paint, and if you're going to be wiring forty lanterns six feet away from me I'd rather be wiring the other twenty."
+
+She stood by the Explorer for a while.
+
+"You're slow at wiring," she said.
+
+"I'm very slow at wiring."
+
+"You solder like a man trying to defuse a bomb."
+
+"That's how you're supposed to solder."
+
+"It is not," said Roz. She picked up four lanterns, two in each hand, and walked past him into the barn. "You do the bails and the switches. I do the circuits. And you don't touch the bark."
+
+* * *
+
+They worked until eleven on Monday and until midnight on Tuesday.
+
+He'd forgotten what it was like to build next to her. Or he hadn't forgotten; he'd put it in the room with the closed door, and walked past it for seven years, and now the door was open and the room was full of light and solder smoke and the classical station out of Kalamazoo. She worked fast and neat and almost without talking, her reading glasses on, the ones she refused to wear on the wagon, her tongue very slightly between her teeth when a connection was fiddly. She wired an LED candle into the base of a lantern in about four minutes, start to finish, battery pack and toggle and all, and set it at the end of the table, and switched it on, and checked it, and switched it off, and reached for the next one without looking. By ten o'clock on Monday she had a row of eleven.
+
+He had three. He had cleaned and straightened the bails on eighteen, and he had drilled every switch hole on the drill press, and he had soldered three circuits under her occasional, silent, devastating supervision.
+
+"You're holding the iron too long," she said, at nine-forty, without looking up.
+
+"I'm being thorough."
+
+"You're cooking the LED. Two seconds. Touch, flow, off."
+
+"Touch, flow, off," he repeated. He tried it. It worked. He tried not to look pleased about it and failed.
+
+"Don't look pleased," said Roz. "It's two seconds."
+
+On Tuesday Danny came after his Stats class, as he'd been doing, and stood in the barn door with his backpack on for a full ten seconds, looking at his sister at Gus's bench, before he said anything.
+
+"Roz?"
+
+"Hi, Danny."
+
+"You're... here."
+
+"I needed a bench."
+
+Danny looked at Gus. Gus looked at the solder. Danny looked back at his sister.
+
+"Okay," said Danny, in the extremely careful voice of a young man who had been working in this barn for two weeks without telling her and had just realized she knew. "Cool. Cool cool cool. Do you want me to... what do you want me to do?"
+
+"Batteries," said Roz. "There's a case of double-As in the Explorer. Two in each pack. Check the polarity. If you put one in backwards I'll know."
+
+"How will you know?"
+
+"I'll know, Danny."
+
+He went for the batteries. On his way out the door he stopped and turned around and pointed at Gus, and said, with tremendous seriousness, "Fifteen an hour includes this, right?"
+
+"Fifteen an hour includes this."
+
+"Cool," said Danny, and went.
+
+Roz didn't look up from her circuit. "Fifteen an hour?"
+
+"Saturdays eight to noon. He sands."
+
+"You're paying my brother fifteen an hour to sand."
+
+"He's a very good sander."
+
+"Carrow Hardware pays eleven."
+
+"That's what I told him. I told him not to tell anybody."
+
+"He told Lorna. Lorna told me. I've known for a week." She soldered a connection, two seconds, touch, flow, off. "He seems happier. Since. He sleeps till his alarm. He hasn't slept till his alarm since he was twelve."
+
+Gus didn't say anything. He bent a bail.
+
+"That's not a thank-you," Roz said.
+
+"I know it's not."
+
+"I just thought you should know he sleeps."
+
+* * *
+
+The bark was the hard part.
+
+She wanted a real one. A single bark, from a dog, a beagle if possible, recorded clean, with a little bit of night air around it. She played him the options on her phone at eleven-thirty on Tuesday, sitting on an upturned bucket with the forty lanterns lined up on the bench behind her like a choir. A sound-effects library bark, crisp and professional. A YouTube bark from a beagle named Biscuit in Tennessee. A bark Danny had recorded that afternoon from the Hoekstras' dog through a car window, which was mostly wind.
+
+"They're all wrong," she said.
+
+"They're barks."
+
+"They're *barks*. They're not *him*. Pepper was half beagle and half something nobody would admit to." She put the phone down. "The whole thing is that it's one dog. It's one dog in the corn at dawn, and he's barking because he hears forty people coming, and it's *happy*. These are all either scary or they're from Tennessee."
+
+Gus looked at her, sitting on the bucket in her reading glasses with solder flux on her thumb, very seriously upset about the regional origin of a bark.
+
+"My Aunt Joan has a beagle mix," he said.
+
+Roz looked up.
+
+"Rufus. He's about nine. Joan's driving down tomorrow with the U-Haul for my mom. She's bringing him; she takes him everywhere. He's half beagle and half something she won't admit to." Gus paused. "He barks at everything. He barks when he's happy. He's going to be very happy tomorrow, because there'll be boxes and he'll think every one of them is for him."
+
+She stared at him.
+
+"What time?" she said.
+
+* * *
+
+Joan's U-Haul came up the drive at six fifty-two on Wednesday morning in the blue dark, and Roz's Explorer came up behind it at six fifty-four.
+
+Gus was on the porch with his mother and a pot of coffee and forty-one boxes stacked in the front hall, every one labeled in red. Ruth had been up since four. She had made coffee twice, cleaned the already clean refrigerator, and was now standing on the porch in her good coat holding her purse, which Gus understood to mean that she was ready to leave the house she had lived in for thirty-four years and would prefer not to discuss it.
+
+She watched the Explorer come up the drive behind the U-Haul. She watched Roz get out in her barn coat and work gloves with a roll of packing tape over her wrist and a red Sharpie behind her ear.
+
+"Well," said Ruth VanderWal. "Good morning, Rosalind."
+
+"Good morning, Mrs. VanderWal."
+
+"You've come to record a dog."
+
+"I've come to carry boxes," said Roz. "The dog's extra."
+
+Ruth looked at her for a long moment over the porch rail. Then she handed Roz her own red Sharpie, the good one, the one she'd used on all forty-one boxes, and said, "The ones in the hall that say GR go in the truck. The ones that say AUGUST stay. Anything that isn't labeled, label."
+
+"Yes, ma'am."
+
+They carried boxes for two hours. Joan, who was Ruth's younger sister and talked constantly about her bunions, directed the loading of the U-Haul from a lawn chair with Rufus in her lap. Rufus, as predicted, barked at every box. He barked at the toaster. He barked at the ceramic owl cookie jar. He barked at Gus.
+
+Roz had set her phone on the porch rail, recording, at six fifty-eight, and she didn't stop it once.
+
+At about eight-fifteen, Gus came back from the truck for another load and found her in the front hall, crouched over the boxes that hadn't been labeled, the ones that had gotten missed, the junk-drawer box and the coat-closet box and a box of his father's National Geographics. She had the red Sharpie in her teeth. She was writing on them in block capitals that looked so much like his mother's he had to look twice. GR, KITCHEN DRAWER. GR, COATS, WINTER. AUGUST, PETE'S MAGAZINES (DON'T THROW OUT).
+
+She'd come to the box his mother had labeled herself, the one that said AUGUST, DON'T THROW OUT. The one with the pictures.
+
+She didn't open it. She looked at the label for a moment. Then she picked it up, heavier than it looked, and instead of putting it with the GR boxes or leaving it in the hall, she carried it out the back door and across the yard to the barn, and set it down gently on the end of the workbench, beside the forty lanterns, where it would be out of the weather.
+
+Gus stood in the kitchen doorway and watched her come back across the yard.
+
+At nine-ten, with the U-Haul loaded and Rufus in the cab and Joan already complaining about the drive to Grand Rapids, his mother stood by the truck door in her good coat and held him for a long time. She didn't cry. She patted his back twice, the way she had when he was small and had a fever.
+
+Then she let go, and looked past him at the porch, where Roz was standing with a coffee mug, labeling the last box. AUGUST, BOOKS.
+
+"She labels like me," Ruth said.
+
+## Chapter 16
+
+<!-- POV: Roz -->
+
+Kenzie Vos was waiting outside room 114 at 3:05 on Thursday with her notebook held against her chest like a shield and a look on her face of terrified professionalism.
+
+"Miss Pietrowski! Hi. Hi. I don't want to bother you."
+
+"Then don't," said Roz, but gently, because Kenzie was twenty-four and had once been a seventh grader who threw up a little on the hayride, and because a herd of eighth graders was stampeding past them toward the buses and all of them had turned their heads at the word *Pietrowski* like sunflowers.
+
+"I just want ten minutes. For the feature. The Halloween edition." Kenzie flipped the notebook open. "It's going to be the front page. My editor gave me eighteen hundred words. That's like, unheard of. That's the school levy."
+
+"I know what eighteen hundred words is."
+
+"I want the author's side. That's all. Why you wrote it. Why you withdrew it." Kenzie lowered her voice. "Why you withdrew it *now*. With him on the wagon. People are saying things."
+
+"People are always saying things."
+
+"People are saying you're getting back together."
+
+Two eighth graders who had been walking slowly enough to hear stopped walking altogether. Roz looked at them. They walked.
+
+"No comment," she said.
+
+"Okay. That's fine. That's a valid response." Kenzie wrote it down. She actually wrote *no comment* in the notebook, and underlined it, and then looked up with an expression of such earnest apology that Roz almost liked her. "Just so you know. Mrs. Oosterhouse is giving me her interview at the diner. At four. She said she'd speak for the committee."
+
+"Then you'll have plenty," said Roz, and went back into her classroom, and closed the door, and stood with her back against it for a while.
+
+* * *
+
+She went to the diner at four anyway.
+
+She told herself it was for pie. She took the back booth, the one by the pie case where Lorna sat to do the books, and Lorna slid in across from her without a word with two coffees, and they both watched the counter.
+
+Bev sat on the third stool from the register with her casserole carrier on the stool beside her, like a companion. Kenzie sat on the fourth with her notebook and her phone recording on the counter between them. There were maybe eleven people in the diner, and every one of them had stopped eating.
+
+"It's a simple story," Bev was saying, in her committee voice, the one that carried. "That's why it lasts. A boy took the train, and a girl stayed. That's Carrow. That's every town like it. Some people leave, and some people hold the lantern."
+
+Kenzie wrote.
+
+"I was there, you know," Bev said. "That week. I brought the pound cake. I sat at that table." She tapped the counter twice, a little drumroll. "She didn't cry. Twenty-four years old, a brother to raise, her father barely in the ground. Not a tear. You put that in. People should know what she held together."
+
+"That's beautiful," said Kenzie.
+
+"It's the truth," said Bev.
+
+Lorna's coffee cup made a small sound against the saucer.
+
+"You could stand up," Lorna said quietly.
+
+"And say what?"
+
+"The other half."
+
+Roz looked at her.
+
+"I keep telling people I have the other half of a story," Lorna said, "and I never tell anybody, because it's not mine to tell. But you want a piece of it, I'll give you mine." She turned her coffee cup a quarter turn on the saucer. "October eleventh. 2019. The night before he left. He came in here at seven and sat at that counter, third stool, Bev's stool, and he ordered a coffee and a slice of sour cream raisin, which he hates."
+
+"He hates sour cream raisin."
+
+"He hates it. He ordered it because it's yours. And he sat there and didn't eat it. Three hours. Until close. I kept refilling the coffee, and he kept looking at the door every time the bell went, and at ten o'clock I flipped the sign and he paid and left a twenty on a six-dollar check, and the pie was still sitting there." Lorna looked at the counter, where Bev was explaining to Kenzie the difference between a heritage story and a legend. "He was waiting for you to walk in. He thought maybe you would, if he sat where you'd find him. That's my half."
+
+The diner's bell went. A man came in for a to-go order. Bev didn't look up.
+
+"I didn't know that," Roz said.
+
+"I know you didn't. I didn't tell you, because you'd told him to go and you'd told *me*, very clearly, in your kitchen, with your face doing that thing, that I was never to say his name in your house again." Lorna drank some coffee. "So I didn't. For seven years. I'm only saying it now because you asked me in September not to let you get hurt, and Roz, honey, I think the thing hurting you right now is all the stuff nobody's said."
+
+At the counter, Bev said, "Put that she's the best chair since Arlo. Put that in."
+
+"I'm putting it in," said Kenzie.
+
+Roz picked up her coffee. She didn't stand up. She sat in the back booth and drank it and listened to Bev Oosterhouse tell a reporter, with love, in front of eleven people, the story Roz had written and could no longer stand, and she didn't stand up, and Lorna didn't ask her to again.
+
+* * *
+
+Danny was home when she got there, which was the second sign.
+
+The first sign was that he had heard. She could tell from the driveway. The porch light was off, because it had been off since 2024, when it burned out and she kept meaning to get the ladder. But the kitchen light was on, and he was at the table in their father's chair, and his phone was face-down in front of him, which meant somebody had texted him and he'd read it and turned it over so he wouldn't read it again.
+
+"Mason Kuiper's cousin was in the diner," Danny said, before she had her coat off.
+
+"I know."
+
+"Bev gave the reporter the whole thing. The train. The lantern. 'She didn't cry.' Mason's cousin put a video on his story."
+
+"I know, Danny. I was there."
+
+He looked up. "You were *there*?"
+
+"In the back booth."
+
+"And you didn't say anything?"
+
+"What would I have said?"
+
+"The *truth*, Roz!" He stood up. The chair scraped back on the linoleum, the sound it had made under their father every morning for twenty years. "You'd have said the truth! It's not hard! You just open your mouth and you say 'Bev, that's not how it went'!"
+
+"It's a ghost story."
+
+"It's going in the *newspaper*! With his *name*! With a *picture of the pond*! It's going to be on the front page next to the school levy, Roz, it's going to be in every house from here to Paw Paw, and it's not true, and you *know* it's not true, and you just sat there!"
+
+"Lower your voice."
+
+"No!"
+
+She had never heard him say that to her. Not once. Not at thirteen when she took his Xbox for a month, not at sixteen when she wouldn't sign for the car, not at seventeen when she drove to the Benton Harbor police station at one in the morning and he got in the passenger side and she didn't say a word the whole drive home. He'd said a lot of things. He'd never said no to her face.
+
+"He bought me a drill," Danny said. His voice was shaking. "He taught me a shelf. And he's been sitting on that wagon for three weeks getting popcorn thrown at him and he never says *anything*, he never says one thing to defend himself, I asked him in the barn and he wouldn't tell me, he said *it's hers, ask her*. He won't tell it. He's protecting *you*. And you're letting Bev put him in the newspaper."
+
+"You don't know what happened, Danny."
+
+"Yes, I do."
+
+He said it quietly. That was the worst part. He'd been yelling, and then he wasn't.
+
+"I was on the stairs," Danny said.
+
+The kitchen clock above the stove ticked. Three minutes fast. It had been three minutes fast since 2016.
+
+"October sixth," he said. "You thought I was doing homework. I wasn't. I was on the stairs, on the fourth step, the one that doesn't creak. I heard all of it. He asked you to come. He said you could both come, me too, he said there were schools, he'd find an apartment with two bedrooms. And you said no. And he said then they could wait, he'd do it from Chicago, weekends, he'd drive back every weekend, and you said no. And you took off the ring and put it down by the rooster." Danny's voice cracked, the way it had at thirteen. "And you said, 'Go. Don't call. If you're going, go.' And he said, 'Roz.' Just your name. And you said it again. *Go.*"
+
+Roz held onto the back of a chair.
+
+"And he cried," Danny said. "In our kitchen. I heard him. And then he left, and you came upstairs, and you came in my room, and you said, 'Gus is gone,' like he'd done it to us. And I was twelve, and Dad was dead, and I believed you, because you were all I had." He wiped his face with the heel of his hand, hard, the way their father used to. "And then you wrote a ghost story about it, and the whole town believed you too."
+
+She didn't say anything. She couldn't. There was nothing in her mouth that was big enough.
+
+He stood there for a while, breathing. Then he turned and went into the mudroom, and she heard the cellar door, and his footsteps going down, and something heavy being dragged across the concrete, and his footsteps coming back up, slower.
+
+He came back into the kitchen carrying their father's toolbox.
+
+It was a red Craftsman, the big kind with the cantilever trays, dented on one corner where Walt Pietrowski had dropped it off a tailgate in 1996. It had been in the basement since June of 2019. Nobody had opened it. Roz had moved it once, to get to the furnace filter, and put it back in exactly the same spot.
+
+Danny set it on the kitchen table, on the oilcloth, between them, where the salt and pepper used to stand.
+
+"I want to take this to Gus's," he said. "For the shop. He's using a borrowed saw and a drill press that runs hot, and Dad's stuff is just sitting in the basement. Dad would've wanted it used. You know he would. He'd hate that it's in the basement."
+
+His voice was steady again. He was asking her. He was nineteen and taller than their father had been, and he was standing at the kitchen table with his hands on the toolbox lid asking her permission, the way he'd asked at twelve if he could stay up to watch the end of a game.
+
+Roz looked at the toolbox for a long time. The dent. The rust on the latches. WALT P. scratched on the lid with a nail, in his square capitals.
+
+She put her hand on the lid beside Danny's.
+
+"Take it," she said. "He should have real tools."
 
