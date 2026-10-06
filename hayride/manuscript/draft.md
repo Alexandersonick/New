@@ -1840,7 +1840,7 @@ And by the coat rack, on a folding chair pulled slightly back from the table, as
 
 "I just want to be transparent."
 
-"Hi," said Kenzie Vos, with the bright, nervous friendliness of a twenty-four-year-old who has been told by her editor that this is her big chance. "I'm a huge fan. I rode in seventh grade. I cried so hard I threw up a little."
+"Hi," said Kenzie Vos, clutching her notebook to her chest with the bright, nervous friendliness of a twenty-four-year-old who has been told by her editor that this is her big chance. "I'm a huge fan. I rode in seventh grade. I cried so hard I threw up a little."
 
 "That's the goal," said Roz, and sat down.
 
@@ -1860,7 +1860,7 @@ At seven-forty Bev cleared her throat and turned to a fresh page on the legal pa
 
 "New business," she said. "I have a motion."
 
-Roz watched the room. She couldn't help it; she was always watching the room. She watched Arlene sit up straighter and Marv take one of the pens off his ear. She watched Ed look at his hands and Dot look at the radiator. She watched Clyde not move at all. She watched Kenzie Vos turn to a new page.
+Roz read the room. She couldn't help it; she always read the room. Arlene sat up straighter. Marv took one of the pens off his ear. Ed looked at his hands and Dot at the radiator, and Clyde didn't move at all, and by the coat rack Kenzie Vos turned to a new page.
 
 "I move," said Bev, "that the committee adopt 'The Lantern Bride of Hollins Road' as the official heritage story of the Carrow Haunted Hayride. That we commission a commemorative plaque to be placed at Teague's Pond, at the head of the dock, in time for next season. Arlene's nephew Kyle does very nice work, he's done the VFW. And that the committee authorize me to speak on its behalf to the *Lakeshore Ledger* for its Halloween edition." She set her pen down. "I've written it out. I'll read it if anybody wants."
 
@@ -1968,11 +1968,211 @@ She'd made the veil from her own. That part of the story was true, sort of. She 
 
 *An author may withdraw her story.*
 
-She'd written that clause for someone else. For the Brinks family, in fact, back in 2015, when Ed's late father wanted his old Corn monologue retired and the committee had argued for a month about whether you were allowed to un-tell a thing once you'd told it. She had been twenty and new on the effects crew and she had stood up in that same side room and said: *Of course you are. It's yours. You made it. You can take it back.*
+She'd written that clause for someone else. For the Brinks family, in fact, back in 2015, when Ed's late father wanted his old Corn monologue retired and the committee had argued for a month about whether you were allowed to un-tell a thing once you'd told it. She had been twenty and the youngest person on the committee, and she had stood up in that same side room and said: *Of course you are. It's yours. You made it. You can take it back.*
 
 She switched off the headlamp.
 
 The dark came down. The pond, the line, the lantern, the willows, all of it went out at once, and for a while there was nothing but the cold boards under her and the small sounds of water and, very far off, a car on Hollins Road going east toward the VanderWal place and then past it.
 
 She sat on the dock until Dot's porch light went out.
+
+## Chapter 11
+
+<!-- POV: Roz -->
+
+The third Friday of October was the night the hayride had been waiting six years for, and Roz knew by six-thirty that she was going to ruin it.
+
+Kenzie Vos had posted at 9:14 the night before, from the Grange parking lot, on the *Lakeshore Ledger*'s Facebook page: OFFICIAL! Carrow Grange votes to make "The Lantern Bride" the hayride's heritage story — plaque coming to Teague's Pond. Full feature in our Halloween edition! There was a photo of the side-room door. By Friday morning it had nine hundred shares, and by Friday afternoon the online ticket page Danny had built in 2023 and nobody used had sold out the 8:20 and the 9:00 on both wagons for the first time in the history of the internet.
+
+"Bunco," said Lorna, coming past the Wagon One bench at six-thirty-eight with a tray of cider. "Battle Creek. Twelve of them. Pink fleece. They've got matching *buttons*, Roz. With the bride on them. Somebody made buttons."
+
+"I see them."
+
+"They're on the 8:20. On yours." Lorna lowered the tray. "Are you okay? You look like you did before the AP Chem final."
+
+"I'm fine."
+
+"You don't say fine. You say handled. Fine's new." Lorna looked at her for a long second and then at Gus, who was sitting on the right side of the bench with his hands on his knees, belted in, saying nothing. "Okay. Okay, so. I'm going to be on Two. If you need me, I'll be on Two, which is forty feet away and running the same route four minutes behind, so if you need me I can't actually help you at all, but I want it on record."
+
+"It's on record."
+
+Lorna went. Roz sat down on the left side of the bench and belted in and put her clipboard on her knees. The call sheet was on top. Seven rides. Two wagons. Every stop cued.
+
+At the bottom, where she'd written FINALE: AS APPROVED every night for two weeks, she had written nothing at all.
+
+"Gus," she said.
+
+He turned his head. It was the first time she'd used the short name since the Supper. She heard herself use it, and so did he, and neither of them said anything about it.
+
+"Don't flip the whistle tonight."
+
+He looked at her for a moment. He had a way of looking at a thing before he answered, a carpenter's way, checking the line.
+
+"Okay," he said.
+
+"You're not going to ask why."
+
+"Is it a question?"
+
+"No."
+
+"Then okay." He turned back to face the yard. After a moment he said, very quietly, to the cue box, "Night off, buddy."
+
+* * *
+
+The 7:00 went out full. Mateo was in the front row; it was Friday, and Mrs. Salas had decided at some point in the week that the season pass covered Fridays now too, by her own authority, and Bev had decided not to argue with a woman holding size-eight needles. The Orchard Gate. The Corn, where Ed's raccoon was apparently still in residence and had knocked over his lantern. The Woodlot, where Brielle pulled clean.
+
+The pond.
+
+Hank turned the key. Marguerite went quiet. The silence came down over thirty-two people, and the pond lay in front of them black and still, with her fog on it, low and white and perfect, sliding out from under the willows exactly the way it had at two in the morning a week ago.
+
+Roz looked at the water. She could see the line from here, if she knew where to look. She could see the dark bulk of the lantern on its trolley, parked out of sight in the willow shadow on the far bank, waiting for a motor that wasn't going to start.
+
+"This is Teague's Pond," she said.
+
+Her voice came out level. Good.
+
+"Most nights, this is where I tell you a story. About a girl on Hollins Road. A Lantern Bride. Some of you came for her. I know that." She took a breath. "I wrote her. I'm the author. And tonight I'm withdrawing her."
+
+Nobody moved. Thirty-two people sat on the hay bales and waited for the scare. She could feel them waiting. She knew, the way she knew the length of the fog line in feet, that they thought this was the setup.
+
+"She's not out there," Roz said. "It's just a pond."
+
+The fog lay on the water. Nothing came across it. The willows hung. A frog said something, once, very loudly, and stopped.
+
+Somewhere in the fourth row, a man said, uncertainly, "Is this part of it?"
+
+"No," said Roz.
+
+"Is she dead?" asked a girl of about seven, alarmed.
+
+"She's not dead, honey. She's withdrawn."
+
+"What's withdrawn?"
+
+Mateo turned around on his bale, with the air of a man who had ridden this hayride since he was six and was qualified to explain it. "It means she went home," he said.
+
+The little girl considered this. "Oh," she said, satisfied.
+
+"Hank," said Roz into the walkie. "Go."
+
+* * *
+
+It took eleven minutes for the 7:00 to get back to the barn and nine seconds for Bev to cross the yard.
+
+She came from the ticket table at a pace Roz had never seen her use, with her clipboard flat against her chest like a breastplate, and she stopped at the wagon step, where Roz was helping riders down, and she waited until the last one was on the gravel before she said, very low:
+
+"What did you do?"
+
+"Rule three," said Roz. "Second sentence."
+
+Bev's face did something. For one second it was the face from the Pietrowski kitchen in 2019, the pound cake face, and then it was something else, something Roz had never seen on Bev: it was hurt, plain and simple, as if Roz had reached across the table and slapped her.
+
+"I put that grammar in," Bev said.
+
+"I know you did."
+
+"I fixed that grammar *for you*."
+
+"I know, Bev."
+
+"The *Bunco*," Bev said. "They're on the 8:20. They've got *buttons*."
+
+"Then they'll ride a hayride with a pond at the end. It's still a good hayride. It's got a scarecrow and a raccoon."
+
+Bev opened her mouth and then closed it. She looked at the wagon, and at the bench, and at Gus sitting on the right side of it with his belt on, looking straight ahead at the corn, very carefully not part of this. Then she looked back at Roz.
+
+"Is this for him?" she said.
+
+"No," said Roz. "It's for me. I wrote it."
+
+Bev stood there for a moment longer. Then she turned and walked back to the ticket table. She sat down behind her three cash boxes. She picked up a roll of ones. She did not look at the wagon again all night.
+
+* * *
+
+The Bunco group asked for their money back on the 8:20.
+
+All twelve of them, in pink fleece, with buttons. They did it politely, in a line, at the ticket table, and the lady from Battle Creek did the talking, because the lady from Battle Creek was their leader, and she held her TEAM LANTERN BRIDE sign at her side like a flag lowered at a funeral.
+
+"I'm not upset," she said, to Arlene, who had the refund box. "I'm not *upset*. I'm disappointed. There's a difference."
+
+"Yes, ma'am."
+
+"She *withdrew* her. Who withdraws a ghost?"
+
+"I don't know, ma'am."
+
+"It's like if they cancelled Christmas," said a Bunco member in the back.
+
+"It's exactly like that," said the lady from Battle Creek.
+
+Arlene gave them one hundred and eighty dollars.
+
+The lady from Battle Creek did not go to the parking field with the others. She came across the gravel to the wagon step, where Roz was checking the belts, and stood there with her sign.
+
+"Can I ask you something?" she said.
+
+"Yes, ma'am."
+
+"I'm Joyce. I've ridden this since 2021. My husband passed in 2020, in the April, with the virus, and that fall my daughter drove me out here because I wasn't leaving the house, and I sat on that wagon and you told that story and I cried for the first time in six months." Joyce held the sign against her coat. "So I'd like to know why."
+
+Roz looked at her. Behind Joyce, the Bunco women were climbing into a church van, pink in the yard light.
+
+"Because it's not finished," Roz said.
+
+"It was finished. It was finished when I cried."
+
+"I know it was. For you." Roz took a breath. "It's a story about somebody I know, Joyce. And I left something out. Something I did. And I can't keep telling it at a pond with the part about me left out, with him sitting right there."
+
+Joyce looked at the bench. Gus was talking to Mateo about the Pere Marquette line, which ran from Grand Rapids to Chicago and which Mateo had ridden once to see a museum with a submarine in it.
+
+"Huh," said Joyce. She tucked the sign under her arm. "Well. Stories are finished when people love them, honey. That's my opinion. But I'll come back on Saturday and see if you've thought better of it."
+
+"You don't have to."
+
+"I've got buttons," said Joyce, and went to the van.
+
+On the walkie, from Wagon Two, Lorna's voice came through low and crackling. "Okay, so. You have done a thing."
+
+"I've done a thing."
+
+"Clyde wants you to know he approves."
+
+A pause, and a rustle, and then Clyde's voice, flat as a field: "Approve."
+
+"See?" said Lorna. "That's two words this month. You're good for him."
+
+Danny jogged past with his wand and his clipboard, breathless, headlamp crooked. He slowed down by the wagon. He didn't say anything for a second.
+
+"You did it," he said.
+
+"Go park people, Danny."
+
+"I'm going." He started off and then turned around, walking backward on the gravel. "Roz. Good."
+
+Then he was gone into the parking field, waving his wand at a minivan that was turning around to leave. Roz, at the wagon step, did not do the arithmetic, and then did it anyway, because she always did: twelve refunds at fifteen, plus three from the 9:00 who'd heard about it in line, plus the walk-ups who'd turned around in the parking field when Danny told them the bride was out.
+
+By the 10:20 the line for Wagon One was shorter than the line for Wagon Two for the first time all season.
+
+She told it every ride. She didn't tell it, rather. Every ride, at the pond, Hank turned the key, and the silence came down, and she said: *This is Teague's Pond. I'm the author. She's not out there tonight.* Every ride the fog slid out across the water and lay there with nothing on it. Every ride someone asked if it was part of it, and every ride she said no.
+
+Every ride, Gus sat beside her with his hands on his knees and his thumb nowhere near the toggle.
+
+He didn't ask her why. Not between the 8:20 and the 9:00, when she went under the wagon to check a battery box that was fine. Not between the 9:40 and the 10:20, when she stood by Marguerite's big wheel and stared at the barn wall for five minutes and Hank, from the tractor seat, said "Yup," to no one, in a tone she would later swear was sympathetic. He sat on the bench. He talked to Mateo about trains. He held, at one point, a stranger's baby for an entire ride while the baby's mother went back for a forgotten diaper bag, and the baby slept on his shoulder through the scarecrow and the Corn and the Woodlot and woke up at the pond, in the silence, and looked around at the dark and the fog with enormous eyes, and did not cry.
+
+* * *
+
+The 11:00 went out with fourteen people.
+
+On the way back, along the corn, in the dark, she asked.
+
+She hadn't planned it. She'd had a different question ready all week, the one from the night of the fog, the one she'd swallowed in the wet grass by the pump: *why didn't you fight me.* It was still there. But when she opened her mouth on the long stretch past the culvert, with the yard lights showing through the stalks and fourteen people behind her talking quietly about a pond with nothing on it, a different one came out, the one that had apparently been underneath the other one the whole time.
+
+"Do you hate me for the story?"
+
+The wagon rattled. Somewhere behind them a man laughed at something his wife said.
+
+He didn't answer right away. He never did.
+
+"No," Gus said. He looked out at the corn. "I hated the whistle."
 
