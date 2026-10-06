@@ -1,0 +1,58 @@
+{
+ "candidate": {
+  "lane": "marriage_crisis_grovel",
+  "evidence_level": "CONCEPT",
+  "relationship_start": "married_cofounders_drifted",
+  "monster_difference": "not_applicable",
+  "schema_version": "1.1",
+  "title": "E2 Candidate Z3 \u2014 Two Desks",
+  "opening_engine": "public_workplace_slight",
+  "inciting_event": "spouse_gives_founders_space_to_rival_publicly",
+  "heroine_goal": "keep_her_place",
+  "external_engine": "shared_office_launch_deadline",
+  "agency_pattern": "immediate_occupation",
+  "hero_error": "tells_each_woman_different_story",
+  "power_configuration": "hero_institutional_dominance",
+  "containment": "shared_room",
+  "midpoint_reversal": "two_women_compare_notes",
+  "darkest_moment_cause": "hero_scapegoats_rival",
+  "climax_owner": "heroine_and_rival",
+  "climax_mechanism": "joint_board_presentation",
+  "repair_mechanism": "public_confession_to_board_and_staff",
+  "resolution_visibility": "institutional_change",
+  "ending_state": "reconciled_marriage",
+  "pov_structure": "triple_close_third_past",
+  "setting_function": "shared_office_forced_proximity",
+  "relocation_reset": "no_relocation_reset",
+  "intimacy_function": "confirms_repair",
+  "supporting_cast_function": "competing_agendas",
+  "epilogue_design": "months_later_launch",
+  "narrative_voice_tags": [
+   "ensemble_close_third"
+  ],
+  "climax_venue": "public_civic_meeting",
+  "climax_audience": "institution",
+  "evidence_delivery": "documents_produced_aloud",
+  "decisive_authority": "vote",
+  "spectacle_mode": "room_turns_audibly",
+  "macro_beats": [
+   "founders_room_given_to_rival",
+   "heroine_moves_desk_in",
+   "forced_proximity_with_rival",
+   "women_compare_notes",
+   "launch_fails_hero_scapegoats",
+   "hero_public_confession",
+   "joint_board_presentation"
+  ],
+  "signature_scenes": [
+   "two_desks_one_room",
+   "notes_compared",
+   "board_presentation"
+  ],
+  "inciting_kind": "commission",
+  "repair_shape": "public_confession",
+  "ending_image_class": "spoken_line",
+  "evidence_notes": "status: candidate Z3"
+ },
+ "schema_version": "1.1"
+}

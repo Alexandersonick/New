@@ -1,0 +1,59 @@
+{
+ "candidate": {
+  "lane": "marriage_crisis_grovel",
+  "evidence_level": "CONCEPT",
+  "relationship_start": "married_cofounders_drifted",
+  "monster_difference": "not_applicable",
+  "schema_version": "1.1",
+  "title": "E2 Candidate Z2 \u2014 Deadlock",
+  "opening_engine": "domestic_evening_before_crisis",
+  "inciting_event": "spouse_gives_founders_space_to_rival_publicly",
+  "heroine_goal": "stop_forced_sale",
+  "external_engine": "deadlock_arbitration_clock",
+  "agency_pattern": "early_formal_trigger",
+  "hero_error": "decides_alone_confides_elsewhere",
+  "power_configuration": "institution_over_both",
+  "containment": "arbitration_freeze",
+  "midpoint_reversal": "past_timeline_reveals_heroine_broke_rule_first",
+  "darkest_moment_cause": "hero_truthful_testimony_sinks_her",
+  "climax_owner": "heroine_led",
+  "climax_mechanism": "joint_withdrawal_and_private_settlement",
+  "repair_mechanism": "rewrite_founders_agreement_and_move_hq",
+  "resolution_visibility": "private_recommitment",
+  "ending_state": "reconciled_marriage",
+  "pov_structure": "single_first_past_dual_timeline",
+  "setting_function": "founding_years_explain_present",
+  "relocation_reset": "no_relocation_reset",
+  "intimacy_function": "tests_trust",
+  "supporting_cast_function": "arbitrator_and_counsel",
+  "epilogue_design": "no_epilogue",
+  "narrative_voice_tags": [
+   "retrospective_dual_timeline",
+   "wry"
+  ],
+  "climax_venue": "road_or_weather",
+  "climax_audience": "the_two_of_them",
+  "evidence_delivery": "no_evidence",
+  "decisive_authority": "heroines_own_choice",
+  "spectacle_mode": "private_line",
+  "macro_beats": [
+   "founders_room_given_to_rival",
+   "heroine_triggers_deadlock",
+   "past_founding_chapters",
+   "heroine_original_fault_revealed",
+   "interim_ruling_against_her",
+   "stranded_overnight_settlement",
+   "agreement_rewritten"
+  ],
+  "signature_scenes": [
+   "arbitration_hearing",
+   "founding_garage_flashbacks",
+   "stranded_car_night"
+  ],
+  "inciting_kind": "commission",
+  "repair_shape": "changing_a_structure",
+  "ending_image_class": "document_or_record",
+  "evidence_notes": "status: candidate Z2"
+ },
+ "schema_version": "1.1"
+}
