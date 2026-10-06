@@ -165,7 +165,7 @@ function stripFullItalic(line) {
 const bodyParagraph = (text, opts = {}) => new Paragraph({
   children: parseInline(text, opts.italic || false),
   alignment: AlignmentType.JUSTIFIED,
-  spacing: { after: 0, line: 300 }, // ~1.25x, no extra paragraph gap — indent alone signals new paragraph (manuscript-style-guide.md)
+  spacing: { after: 0, line: 300, lineRule: 'auto' }, // ~1.25x, no extra paragraph gap — indent alone signals new paragraph (manuscript-style-guide.md)
   indent: opts.noIndent ? undefined : { firstLine: 360 }, // 0.25"
 });
 
@@ -190,7 +190,7 @@ function buildBody(lines, title, subtitle, pageMap) {
   children.push(new Paragraph({
     children: [new TextRun({ text: smartQuotes(title), bold: true, size: 64 })],
     alignment: AlignmentType.CENTER,
-    spacing: { after: 300 },
+    spacing: { after: 300, line: 240, lineRule: 'auto' },
   }));
   if (subtitle) {
     children.push(new Paragraph({
@@ -381,7 +381,7 @@ function buildDocument(children) {
       default: {
         document: {
           run: { font: BODY_FONT, size: 24 }, // 12pt
-          paragraph: { spacing: { line: 300 } }, // ~1.25x
+          paragraph: { spacing: { line: 300, lineRule: 'auto' } }, // ~1.25x
         },
       },
       paragraphStyles: [
