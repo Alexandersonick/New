@@ -52,7 +52,7 @@ Lane: sweet small-town holiday second chance (closed door).
 - **First attraction beat:** a true first-inspection line on the body ("looks like somebody let him out of a coat"), capped by an object-act (he brought a pin for her ticket).
 - **First care beat:** not a bank device. It is restraint as care: he stands still to give her a second to withdraw, and offers her a cover story.
 - **Later care:** care-object-and-service appears once (a held light while she repairs her own rig); the back half carries care through truthful disclosure and his own shop, not service to her house.
-- **Secondary devices:** others'-talk introduction, explicit answer-length ladder, mirror lines ("choosing the city" → "choosing this one"; "go" answered by her own terms, not by a one-word reversal), charm-witnesses, comic undercut exits, narrator-wrong-once, a weak involuntary symptom, pinned ticket halves as a token.
+- **Secondary devices:** others'-talk introduction, mirror lines ("choosing the city" → "choosing this one"; "go" answered by her own terms, not by a one-word reversal), charm-witnesses, comic undercut exits, narrator-wrong-once, a weak involuntary symptom, pinned ticket halves as a token.
 - **Question engine:** one true answer per night, asked in the dark on the ride home.
 
 **Voices:**

@@ -6,7 +6,7 @@
 | source | manuscript (measured row) |
 | filled_by | read of the full text, all 30 chapters (scratchpad `hr/draft_v2.md`, 68,788 parsed words), plus `series_diff.py` measurements (prior: `twin_sister.md`) on this file |
 | not consulted | story bible, chapter map, concept candidates, architecture fingerprint. This row measures what the text does. It does not check drift against the plan. |
-| date | 2026-10-06 (revised the same day after BLIND_SAMENESS_REVIEW_measured H7: rows marked *rev* reflect the post-review text) |
+| date | 2026-10-06 (revised the same day after BLIND_SAMENESS_REVIEW_measured H7: rows marked *rev* reflect the post-review text; *rev P15* rows reflect the Phase 15 hostile-reader revisions: recycled names renamed (Teague→Ambrose, Joan→Marlys, Mitch→Vince, Teo→Nico, Lou→Gil); "sitting face" charm-witness cut [4]; explicit answer-length ladder cut [18]; "You said flashlight" obedience line replaced [8]; Gus refuses her direct order at the hitch pin and is logged into the Grange minutes for it [13–14]; Roz's off-the-record correction to the reporter [16]) |
 | machine row | `fingerprint_hayride_measured.json` (schema 1.1, evidence_level FULL_TEXT, lane `sweet_small_town_holiday_second_chance`) |
 | exact sub-lane | second chance with an ex-fiancé, under forced public proximity at a seasonal small-town event |
 | triage | `catalog_similarity.py` against the twin-sister row: score 0.080, PASS band, no hard failures (AMBER only because the comparison set is short) |
@@ -123,7 +123,7 @@ The softened line in [5–6] ("Maybe still deciding") was a probe. She reversed 
 | 3 | Cues his own villain role every ride and never defends himself. To the newspaper: *"It's her story. I don't have anything to add to it."* | Riders, town, press | 3–11, 22 |
 | 4 | Keeps her secret from her brother: *"If you want the rest, it's hers. Ask her."* | Brother | 9 |
 | 5 | Sits in the dunk tank for the wagon fund | Town | 7 |
-| 6 | Holds the light for 79 minutes and never offers to fix: *"You said flashlight."* | Her | 8 |
+| 6 | Holds the light for eighty minutes and never offers to fix, for his own reason: *"Because it's your rig... Everybody hates that guy."* (*rev P15*: was "You said flashlight") | Her | 8 |
 | 7 | *rev:* removed. He tells her in the truck that he knows what tomorrow is ("I just know"); the porch light is now fixed by her, alone, on the old wedding date [20] | Her | 20 |
 | 8 | Discloses the offer in person and refuses to let her "go" decide for him | Her | 24 |
 | 9 | Declines the offer for his own reasons, hangs the door with his shop's name, and reports the real cost from the doorway (the lost overflow work, $20–30k a year): *"Not for you... Well. Not only."* | Her; old boss; mother | 26 |
@@ -311,7 +311,7 @@ No villain. The antagonist is affection plus procedure.
 | Restraint as care (offered exit plus stillness), not a bank device | [1]: *"giving her one more second to pull it back, standing very still so that if she took her hand away, nobody would see"*; *"I could say I've got a conflict... nobody would have to watch you do this."* | **Carries the first care beat.** The bank does not cover it; record it as `other` |
 | Care-object-and-service | [6] hand flat on the bench, then removed "before she could notice" (service, no object); [8] the Maglite held 79 minutes; [26] the door (*rev:* the [20] porch-light repair was cut; the light is now her own act) | First *bank* care device. It dominates the care beats from [8] |
 | Others'-talk introduction | [1]: whispers under the ham buns (*"Chicago let him go, is what I heard. Bought her house off her"*) before he is seen. He is also pre-cast as the villain of her story | Introduction mode |
-| Answer-length ladder | Explicit in [18]: *"The first night you said 'Belt.' One word... You just said a paragraph."* / *"I'm a carpenter. I measure."* | Secondary, structural |
+| Answer-length ladder | *rev P15:* explicit ladder cut; only a one-line callback remains ("the only thing you said to me was 'Belt.'" [18]). Previously explicit in [18]: *"The first night you said 'Belt.' One word... You just said a paragraph."* / *"I'm a carpenter. I measure."* | Secondary, structural |
 | Mirror line | "Still choosing the city" [3] becomes "Choosing this one" [28]; "Go" [4, 16, 24] is answered not by "Stay" but by her own terms ("ask on a Tuesday") [30] (*rev:* the one-word callback payoff was removed); *"You still pull early?"* [1] becomes *"Do you still pull early?" / "Only when I'm scared."* [19]; his ex's "whole room... kept the door shut on" [13] becomes the door he hangs [26] | Secondary, load-bearing at the climax |
 | Charm-witness | Clyde (*"That story's mean."* [5, 10]); Lorna (*"He's giving you the answers that'll make you believe him"* [5]); Mateo (*"That's my friend. That's the train guy."* [13]); Dot (*"That's the right answer."* [19]); Ruth (*"She labels like me."* [15]) | Secondary, frequent |
 | Comic undercut at chapter exit | [4] "Trains are cool."; [7] pie poll; [13] "That's the train guy."; [18] "Ain't nobody comes back out of that corn." | Secondary |
