@@ -190,7 +190,9 @@ function buildBody(lines, title, subtitle, pageMap) {
   children.push(new Paragraph({
     children: [new TextRun({ text: smartQuotes(title), bold: true, size: 64 })],
     alignment: AlignmentType.CENTER,
-    spacing: { after: 300 },
+    // explicit auto line rule: the inherited body spacing renders as a fixed 15 pt line,
+    // which overlaps a two-line 32 pt title
+    spacing: { after: 300, line: 264, lineRule: 'auto' },
   }));
   if (subtitle) {
     children.push(new Paragraph({

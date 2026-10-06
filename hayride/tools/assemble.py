@@ -9,7 +9,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 TITLE = "Two Tickets to the Haunted Hayride"
 SUBTITLE = "A Sweet Halloween Second-Chance Romance"
-out = [f"# {TITLE}", f"### {SUBTITLE}", ""]
+out = [f"# {TITLE}\n### {SUBTITLE}"]
 for f in sorted(glob.glob(os.path.join(ROOT, 'manuscript/chapters/ch*.md'))):
     s = open(f).read()
     m = re.search(r'^## (Chapter \d+)\s*\n\s*<!-- POV: (\w+) -->', s, re.M)
