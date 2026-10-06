@@ -3,7 +3,7 @@
 **Title:** My CEO Husband Gave Her My Corner Office
 **Subtitle:** A Billionaire Marriage-in-Crisis Grovel Romance
 **Author:** Shawn J Dean (**provisional**: confirm before upload)
-**Length:** 68,840 words measured (Phase 15 canonical assembly); about 230 pages at 6 × 9
+**Length:** 68,607 words measured (final canonical assembly); about 215 pages at 6 × 9 (verified in the built PDF)
 **Heat:** closed door (two kisses on the page, one fade to black)
 **Ending:** HEA, reconciled marriage, standalone, no cliffhanger
 
@@ -49,7 +49,7 @@ occupation compound, so no change is needed. Each phrase stays under KDP's 50-ch
 
 ## Promise Audit (reader-contract-gates.md §3)
 
-See `qc/PROMISE_AUDIT.md` (filled after the Phase 15 hostile read).
+See `qc/PROMISE_AUDIT.md`. Verdict: PASS, with two partial categories (disclosed) and the KDP answer owed by the author.
 
 ## KDP AI-content disclosure
 KDP asks whether the text was AI-generated. This manuscript was drafted and revised with an AI
