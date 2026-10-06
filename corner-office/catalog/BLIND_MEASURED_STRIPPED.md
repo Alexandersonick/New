@@ -18,7 +18,7 @@ the first one ever built, made by her before the company existed.
   "founder risk" flag, a city fine, and the husband humiliated in front of the acquirer.
 - **Midpoint (Ch 15, boardroom):** the viral video has produced thousands of deposits for her
   original design. Deposits sit in escrow until steel is cut, under her own founding rule. A
-  diligence question about the inventor gets the husband's one-line answer: hers. The finance chief
+  diligence question about the inventor gets the husband's one-line answer: hers. She then corrects the acquirer herself, on the record, listing what else is hers (the knee, the crane bay, the escrow rule, the name). The finance chief
   then reveals nine weeks of cash and that the husband secretly pledged his shares to a lender to
   make payroll. Her veto now starves the demand her own stunt created. She asks for thirty days.
   The censure fails 2–2 because the husband votes against it.
