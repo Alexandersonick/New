@@ -4136,7 +4136,7 @@ The parking field emptied the way a theater empties after the last show, all at 
 
 Gus waited by the Explorer.
 
-He'd helped Hank put Marguerite away. He'd helped Danny stack the bale blankets. He'd stood in the shed doorway while Lorna wrote AHEAD on a napkin in Marv's handwriting, at Marv's dictation, for the sheet cake, and everyone laughed. He'd waited for Roz to come out of the shed and she hadn't. She'd stayed in there with Bev and the cash boxes until eleven-fifty, and then she'd gone down the pond lane with her headlamp to check the reeds rig, which she'd spliced with electrical tape at five-forty and which did not need checking, and he'd watched her headlamp go away into the dark and come back twenty minutes later.
+He'd helped Hank put Marguerite away. He'd helped Danny stack the bale blankets. He'd stood in the shed doorway while Lorna wrote AHEAD on a napkin in Marv's handwriting, at Marv's dictation, for the sheet cake, and everyone laughed. He'd waited for Roz to come out of the shed and she hadn't. She'd stayed in there with Bev and the cash boxes until eleven-fifty, and then she'd gone down the pond lane with her headlamp to check the reeds rig, which she'd spliced with electrical tape at five-forty and which did not need checking, and her headlamp had gone away into the dark and come back twenty minutes later.
 
 Now it was twelve-fourteen. The field was empty except for the Explorer and Delores, parked at the far end by the road, and one minivan with its dome light on where a father was strapping a sleeping kid into a car seat by feel.
 
@@ -4192,7 +4192,7 @@ He went still.
 
 He stood in the empty field and looked at her.
 
-He knew exactly what she was doing. He'd watched her do it for three weeks to other people, and for seven years to him: telling the town where to look so it wouldn't see her hand. She was stopping the line. She was sending him first, before he could go, so it would be her choice and not his. It was a good scare. It was the oldest one she had.
+He knew exactly what this was. She'd done it for three weeks to other people, and for seven years to him: telling the town where to look so it wouldn't see her hand. She was stopping the line. She was sending him first, before he could go, so it would be her choice and not his. It was a good scare. It was the oldest one she had.
 
 "That's what you said last time," Gus said.
 
@@ -4226,7 +4226,159 @@ Halfway home, he stopped at the place where the road crested over the culvert an
 
 To the north, across the stubble on Teague Road, a quarter mile off, a porch light came on.
 
-He stood on the culvert and watched it for a while. He didn't wave. She couldn't have seen him if he had.
+He stood on the culvert with his hands in his pockets for a while. He didn't wave. She couldn't have seen him if he had.
 
 Then he walked the rest of the way home in the dark.
+
+## Chapter 25
+
+<!-- POV: Roz -->
+
+At ten past one in the morning, Roz sat at her kitchen table with her coat still on and the rooster salt shaker in front of her.
+
+She hadn't taken it out on purpose. She'd come in the back door and turned on the light over the stove and stood in the kitchen for a while, and then she'd opened the cupboard by the sink for a glass of water and the rooster had been right there on the shelf, where it had been since 1998, red and white ceramic, chipped on the comb, with a cork in the bottom that her father had replaced twice. She'd taken it down instead of the glass. Now it sat on the oilcloth in front of her, between her hands, and she looked at it.
+
+It was a very ugly salt shaker. Her mother had bought it at a garage sale in Decatur the year before Danny was born, and had said, *Isn't he awful, Walt? Isn't he just the worst thing you've ever seen?* and her father had said *I love him,* and so the rooster had stayed. Her mother had not.
+
+The stairs creaked.
+
+Not the fourth step. The fourth step didn't creak; that was the whole point of the fourth step. This was the second step, the loud one, the one you stepped on when you wanted someone to know you were coming.
+
+"You're up," Danny said.
+
+"So are you."
+
+"I was on Wagon Two till midnight. I'm nineteen. I'm always up." He came down the rest of the stairs in his socks and a Western Michigan sweatshirt she didn't know he owned, and he stopped in the kitchen doorway, and looked at her, and looked at the salt shaker. His face did something. "Oh," he said. "Okay."
+
+"It's not anything."
+
+"It's the rooster, Roz."
+
+"I wanted salt."
+
+"You don't have any food." He came in and pulled out the chair across from her, their father's chair, and sat down in it, backward, with his arms folded on the back the way he'd sat at twelve. "Gus's truck is still in the field."
+
+She looked up.
+
+"Delores," said Danny. "At the end by the road. I saw it when I left. He's not in it. I checked. I thought maybe he was sleeping in it. He walked home." He paused. "He walked home, Roz. A quarter mile, in the dark, when he had a truck."
+
+She didn't say anything.
+
+"What happened?"
+
+"Nothing happened."
+
+"Something happened. He walked. You're sitting with the rooster." Danny looked at her across the table. "What'd you do?"
+
+"Why do you think I did something?"
+
+"Because you've got your face on," said Danny. "The face. Where you put it on and leave it. You had it on at Dad's funeral. You had it on when Mom called on my sixteenth birthday and you handed me the phone and went out to the Lab for three hours. You've got it on right now."
+
+The kitchen clock ticked over the stove. Three minutes fast.
+
+"He got a job offer," Roz said. "In Chicago. A big one. Head of a scene shop. Eighty-four thousand dollars. He told me in the parking field."
+
+Danny was very still.
+
+"Is he going?"
+
+"He said he hasn't decided."
+
+"Okay," said Danny slowly. "So what'd you say?"
+
+She looked at the rooster.
+
+"I told him to go," she said.
+
+The furnace kicked on. Somewhere in the basement it made the sound it always made, a low whump, like something heavy being set down, and the heat started ticking through the old iron registers.
+
+Danny didn't say anything for a long time. Then he unfolded his arms from the back of the chair and put his hands flat on the table, on the oilcloth, on either side of the rooster, and leaned in.
+
+"You're doing it again," he said.
+
+"I'm not doing anything. It's eighty-four thousand dollars, Danny. It's a crew. It's his whole career. I'm not going to be the reason somebody doesn't take a job like that. Not again. I'm not going to be the girl on the dock with a lantern."
+
+"Roz."
+
+"He'd resent it. In five years. He'd be building hedges in a barn with a floor that slopes and he'd look at me across the dinner table and think about Ninety-Fifth Street."
+
+"*Roz.*"
+
+"What?"
+
+"You're doing it again," Danny said. His voice was very quiet and very steady. He was nineteen and he sounded about forty. "You did it to Mom. You did it to Gus. You do it to me every time I bring up Western. You do it to your eighth graders in June. You say *go* first. You say it before anybody can leave, so it's your idea and not theirs."
+
+"That's not..."
+
+"When Mom left, you were fifteen. You stood in the driveway and smiled and said 'Go, it's fine, I've got Dad and Danny.' I was eight. I remember. You smiled. She was crying and you were smiling and you said *go*." He swallowed. "And then when she was gone you went in the barn and built a scarecrow that sat up, and you didn't come out till midnight."
+
+Roz's hands were around the rooster. She didn't remember putting them there.
+
+"And Gus," Danny said. "And me. You've been telling me to apply to Western since August. 'Go, Danny, it's fine, you should go.' You say it so much it sounds like you want me gone." He looked at the rooster. "I know you don't. I know that's not it. I'm just saying that's what it sounds like. Every time. Like you're pushing people off the dock before they can jump."
+
+The furnace ticked. The clock ticked. Outside, very far off, a train went through somewhere east of Paw Paw, the real one, the Amtrak to Chicago, and its whistle came across the dark fields so faint you could almost pretend it wasn't there.
+
+"I don't know how to do it the other way," Roz said.
+
+It came out of her very small. She hadn't known she was going to say it until it was out.
+
+Danny looked at her across the table.
+
+"I know," he said. He reached over and picked up the rooster, gently, out of her hands, and turned it over and looked at the cork in the bottom, the one their father had replaced. "That's okay. Nobody does at first. Dad didn't. Dad used to say he learned how to stay on purpose because of Mom." He set the rooster down on the table between them, upright, facing her. "You could just try saying the other thing."
+
+"What other thing?"
+
+"*Stay,*" said Danny. "It's one word. It's shorter than *go*."
+
+* * *
+
+He went back up to bed at a quarter to two. He hugged her on the way past, awkwardly, from behind, his arms around her shoulders and her coat, his chin on top of her head the way their father used to do, and said, "I'm getting Delores in the morning. I'm going to drive her to his house and park her in the driveway with the keys on the seat, and I'm going to say 'Bro, you left your truck,' and that's all I'm going to say. I'm not saying anything for you." And he went up the stairs, on the loud step, so she'd know he was going.
+
+At two-oh-five her phone rang. It was Lorna.
+
+"Danny texted me," said Lorna. "Don't be mad at Danny."
+
+"I'm not mad at Danny."
+
+"He said 'sister in kitchen with rooster, code red.' I didn't know there was a code. I'm not sure there was a code before tonight." A pause. Lorna's voice changed, came down, the way it did in the back booth. "He's going to Chicago?"
+
+"He doesn't know."
+
+"And you told him to go."
+
+"Is there anybody in Carrow Danny didn't text?"
+
+"Hank. Hank doesn't have a phone." Lorna let out a long breath on the line. "Roz. Honey. You did it to me in 2016."
+
+"I didn't."
+
+"You absolutely did. When I almost moved to Denver with Kyle the bartender. You said, 'Go, Lorna, it's fine, you should go, Denver's great, they've got mountains.' And I almost went. I had boxes. I had boxes labeled. And then I didn't, because Kyle the bartender turned out to have a wife in Colorado Springs, but that's not the point. The point is you said *go* so fast I thought you didn't care."
+
+"I cared."
+
+"I *know* you cared. That's what I'm saying." Lorna's voice was warm and fierce and very tired. "You care so much you'd rather lose people on purpose than wait around to get left. It's the scariest thing you build, and you build it every time, and you build it beautiful. It's better than the scarecrow."
+
+Roz sat at the kitchen table with the phone against her ear and the rooster in front of her and didn't say anything.
+
+"Okay," said Lorna, after a while. "Okay. I'm going to bed. I've got a sheet cake to make that says AHEAD in Marv's handwriting, and Marv's handwriting is bad, so it's going to say AHFAD. Call me tomorrow. Or don't. But do something. Don't just sit there with the rooster."
+
+* * *
+
+She didn't sleep.
+
+At five-forty, with the sky starting to go gray over the field, she got up from the kitchen table, put the rooster back in the cupboard, and drove to the Teague farm.
+
+The yard was empty. Dot's kitchen light was on up at the house; Dot got up at five and always had. The Big Wagon sat in its shed with its new pin from Ohio. The chalkboard in the Grange shed said $29,350 in Bev's capitals, and under it someone, probably Danny, had drawn a very small lantern.
+
+She walked down the pond lane on foot, without the headlamp, because there was enough gray light now to see by. The corn stubble was white with frost. Her breath hung in front of her. The Woodlot trees stood bare and black and dripping on both sides of the lane, and the ghost's line was a silver thread overhead between two oaks, empty.
+
+At the pond she walked out onto the dock and stood at the end.
+
+There was mist on the water, real mist this time, not hers, rising off the warm pond into the cold air in long pale threads. Across the water, on the far bank, the willows were gray and hanging. Low in the reeds, the little lantern for Arlo sat dark and waiting in its nest of cattails, where she'd set it on Friday night, with its battery pack and its spliced wire and its electrical tape.
+
+And above it, on the line, out over the water, hung the Bride.
+
+She had parked the trolley in the middle of the pond on the night of the withdrawal, sixteen days ago, and had not moved it. She hadn't been able to make herself reel it in. Every ride since, the riders had passed it in the dark without knowing it was there, a hurricane lantern with a muslin veil hanging over the black water in the willow shadow, unlit, waiting for a motor that never started. Now, in the gray dawn, with the mist rising around it, she could see it plainly. The veil had gone damp and heavy. A spider had built a web between the wire bail and the line. It hung perfectly still. It looked exactly like what it was: a thing somebody had made, and left out in the weather, and stopped telling.
+
+Roz stood on the end of the dock in her father's coat and looked at it for a long time, while the light came up over the field behind her and the mist burned slowly off the water, and the lantern came out of the gray, piece by piece, the bail and the glass and the veil and the line, until it hung there in the plain morning, small and ordinary and hers.
 
