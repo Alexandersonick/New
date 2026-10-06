@@ -1630,5 +1630,349 @@ He was quiet for a moment, and she could see him notice that it wasn't the quest
 
 "Glycol. Wet grass. A woman who took apart her own kitchen sink at midnight to save a pump." He stood up, slowly, with a sound in his knees like a dropped bag of marbles. "I'll walk you back."
 
-They walked back around the pond to the lane, the fog still pouring out of the box behind them, sliding across the water, filling the low place where the lantern would ride on Friday. Halfway up the lane she turned around. Under the moon the whole pond had gone white, edge to edge.
+They walked back around the pond to the lane, the fog still pouring out of the box behind them, sliding across the water, filling the low place where the lantern would ride on Friday.
+
+Halfway up the lane she turned around. Under the moon the whole pond had gone white, edge to edge.
+
+## Chapter 9
+
+<!-- POV: Gus -->
+
+A flat is a lie you can carry under one arm.
+
+That was the first thing Gus ever learned in a scene shop, from a gray-bearded master carpenter at Lakefront named Lou, who had built walls for every play in Chicago since the Carter administration. A flat was a frame of one-by-three and a skin of luan plywood, painted to look like stone or brick or a rich man's library, and from the audience it weighed a thousand pounds and had been standing for a hundred years. Backstage, a kid could pick it up with two fingers. Everything in a theater was lying about its weight. The trick was to make the lie hold still while eight hundred people looked at it.
+
+On Monday morning he built six of them for Mozart.
+
+He built them in the pole barn with the big door rolled open for the light, on two sawhorses and a sheet of plywood he called the table, with the borrowed saw and his own nail gun and the radio tuned to the classical station out of Kalamazoo because it seemed polite. The flats were for the garden in the last act, where everyone hid behind hedges and mistook each other in the dark, and he had drawn them twice on the back of a Menards receipt and once properly on graph paper. Twelve feet tall. A double hedge with a gap in it a soprano could slip through.
+
+"Okay," he told the first frame, when it was squared and glued. "You're a hedge now. Act like it."
+
+The frame didn't argue. That was what he liked about frames.
+
+* * *
+
+Danny showed up at three-forty on Monday afternoon in his community-college hoodie with his backpack still on, which meant he'd driven straight from class, and stood in the open door of the barn for a while not coming in.
+
+"Bro," he said finally.
+
+"Hey, Danny."
+
+"That's a lot of wood."
+
+"It's a garden."
+
+Danny looked at the stack of luan. "It doesn't look like a garden."
+
+"It will when it's painted. Right now it's a lie in progress." Gus set down the nail gun. "You want a pop? There's a cooler."
+
+"I'm good." Danny came in two steps. Then three. He looked at the table, the saw, the radio, the graph paper weighted down with a coffee can of screws. He looked at the shelf on the north wall where Gus had lined up his father's old hand planes, the ones he'd found in the rafters in a feed sack. He looked at everything except Gus.
+
+"So," Danny said. "Are you hiring?"
+
+"Hiring?"
+
+"Like, for the garden. Or whatever. I can do stuff. I can run a saw. Somebody taught me." He shrugged at the floor. "I've got Saturday mornings free, before the hayride. And Tuesdays after Stats. I don't need a lot. Fifteen an hour. Twelve. Whatever. I just thought, you know. You've got a hoodie that says *Scenic* and no scenic guys."
+
+Gus looked at him for a long moment. Nineteen years old, six-two, with Walt Pietrowski's jaw and his sister's habit of saying the hard thing to a point just past your shoulder. The last time Gus had seen him before this October, Danny had been twelve and sitting in the Teague barn loft refusing to come down, with his arms around his knees, and Gus had stood at the bottom of the ladder for an hour and then gone home because there was nothing he could say that would get a grieving twelve-year-old down a ladder, least of all *I'm leaving.*
+
+"Does your sister know you're here?"
+
+"No."
+
+"Are you going to tell her?"
+
+"Probably not." Danny finally looked at him. "Is that a problem?"
+
+"It's not a problem for me. It's going to be a problem for you around Thanksgiving." Gus picked up a frame and set it against the wall. "Fifteen an hour. Saturdays eight to noon. You bring your own safety glasses, because I've got one pair and they fit my face. And you don't tell anybody in town I pay that much, because Carrow Hardware pays eleven and Hank's nephew will be over here by Friday."
+
+Danny grinned, fast and wide, the twelve-year-old grin.
+
+"Deal," he said. "Can I start now?"
+
+"It's Monday."
+
+"I've got till six. I'm on Wagon Two Friday, I'm not doing anything Monday." He was already shrugging off the backpack. "What do you need?"
+
+Gus handed him a sanding block.
+
+They worked for two hours with the classical station going. Danny sanded edges and Gus ran the nail gun, and for a long time neither of them talked, which was the right amount of talking for a barn. At about five-fifteen, with the light going long and gold through the open door, Danny said, without looking up from his sanding:
+
+"Did you really just leave?"
+
+Gus kept the nail gun on the frame. He sank one nail. Then another.
+
+"I left," he said.
+
+"That's not what I asked."
+
+"I know it's not."
+
+Danny stopped sanding. "So what happened?"
+
+There was a version of it Gus could tell. It would take about two minutes. It would start with a kitchen table and a rooster salt shaker and a girl of twenty-four with her father three months in the ground and her brother upstairs, and it would end with her saying *go*. It was true. It would make him look better, and her look worse, and her brother would carry it home in his backpack and set it down at that same kitchen table, and it was not his to give.
+
+"Your sister wrote a story," Gus said. "The story's got a guy who left. I'm the guy who left."
+
+"That's a non-answer, bro."
+
+"It's the answer you're getting from me." He set the nail gun down. "If you want the rest, it's hers. Ask her."
+
+Danny looked at him for a long moment with an expression Gus couldn't read. Then he went back to sanding, harder than before.
+
+"I know what I know," Danny muttered, to the luan.
+
+Gus didn't ask what that meant. He had a feeling he'd find out, and that it would not be in a barn.
+
+* * *
+
+His mother labeled forty-one boxes on Tuesday.
+
+He knew it was forty-one because she told him, at dinner, which they ate standing up in the kitchen because the table was now labeled for Grand Rapids. Joan was coming down with the U-Haul on the twenty-first. His mother had spent thirty-four years in this house and was leaving it in boxes marked in red, with a list on the refrigerator held up by the ceramic owl magnet he'd made in fourth grade, and she was handling it the way she handled everything, which was efficiently and with a slight air of having been put upon by the universe.
+
+"There's a box for you," she said. "In the front hall. It says AUGUST, DON'T THROW OUT."
+
+"What's in it?"
+
+"Things you'll throw out." She speared a green bean. "Your 4-H ribbons. Your report cards. The letter jacket. Some pictures."
+
+"What pictures?"
+
+His mother looked at him over her plate.
+
+"You know what pictures," Ruth said. "I wasn't going to throw them out. I'm not a monster. I'm also not taking them to Joan's. They're yours. You decide."
+
+His phone rang at 7:40. He looked at the screen: MITCH FERRANTE. He took it out onto the porch.
+
+"Gus." Mitch had a voice like a table saw running in the next room, constant and slightly worried. "You alive out there? You milking cows?"
+
+"Building hedges."
+
+"For who?"
+
+"Mozart."
+
+"Good. That's good. Mozart pays on time, usually." A sound of Mitch drinking something, probably the terrible coffee from the vending machine on the loading dock at Calumet, which Gus could taste from here. "Listen. Your tool chest. The big Gerstner. It's still in the shop at Lakefront, in the corner, under the drop cloth. The building's getting cleaned out the first of November. If you want it, somebody's got to come get it, or it goes to the auction with the rest."
+
+"I'll come get it."
+
+"Before the first."
+
+"Before the first. I'll come in on a Monday."
+
+"Okay. Good." Mitch paused. "Also. Unrelated. Calumet's restructuring the shop. Next season. They're going to want a head. A real one. With a crew. I'm not saying anything. I'm just saying keep your phone on."
+
+The porch light was on, and the moths had found it. Across the field, past the dark shape of the Teague barn, Gus could see the faint orange glow of the hayride's yard lights, which Roz must have left on for something, the fog box or the battery chargers. A quarter mile. He'd walked it a thousand times as a kid.
+
+"I've got a barn, Mitch."
+
+"Everybody's got a barn. I've got a barn in my head. Keep your phone on." Mitch hung up the way he always did, without saying goodbye, as if the call would just keep going on its own somewhere.
+
+Gus stood on the porch for a while. Then he went back inside and finished his green beans, standing up.
+
+* * *
+
+Bev Oosterhouse came on Wednesday at noon, with a casserole.
+
+She came up the gravel drive in her Buick LeSabre, which was a different Buick from Dot's and older, and she parked by the barn and got out with the casserole carrier in both arms like a woman delivering a newborn. Gus was on a ladder in the barn painting hedge texture with a sea sponge. He came down.
+
+"Mrs. Oosterhouse."
+
+"Now. Don't get down on my account." She came into the barn and looked around at the flats, the paint, the radio. She looked at the hand planes on the shelf for a long time. "Those were Pete's."
+
+"They were in the rafters."
+
+"He used to sharpen them at the Grange on Thursday nights. He said it calmed him down." Bev held out the carrier. "Tater tot hotdish. I don't do it with the cream of mushroom anymore, I do it with the cream of chicken, it's lighter. You'll want to put it in at three-fifty for forty minutes. The tots on top get soft if you microwave it, and I'll know."
+
+He took the casserole. It was heavy and warm and smelled like every funeral luncheon of his childhood.
+
+"Thank you."
+
+"Don't thank me. It's a bribe." Bev folded her hands. "The *Ledger* called."
+
+"The newspaper?"
+
+"Kenzie Vos. She's Henny Vos's granddaughter. She's twenty-four and she went to Western for journalism and she wants to write a Halloween feature." Bev said *feature* the way some people said *tattoo*. "About the Lantern Bride. About the story behind the story. She's heard you're back, because everyone from here to Kalamazoo has heard you're back, and she wants to put it on the front page of the Halloween issue with a picture of the pond."
+
+"Okay."
+
+"*Okay*," Bev repeated. "I'm going to the committee tomorrow night to make it the hayride's heritage story. Officially. With a plaque by the pond. Arlene's nephew does plaques. Bronze-look. And I'm going to give Kenzie her interview. I'm telling you that to your face because I was raised right, and because Ruth would never forgive me if I let you read it in the paper first."
+
+Gus held the casserole.
+
+He thought about the plaque. Bronze-look. *Here, at Teague's Pond, the Lantern Bride waits.* He thought about it standing at the edge of the water for thirty years after anyone who'd been at that kitchen table in 2019 was dead, with nobody left who knew it was only true-ish.
+
+"Why are you telling me?" he said.
+
+"I told you why."
+
+"No, you told me the rule. Why are you *telling* me?"
+
+Bev looked at him for a long moment. Her face, under the permanent and the reading glasses on their beaded chain, was not unkind. It was just very, very sure.
+
+"Because I was in that kitchen, August," she said quietly. "The week after. I brought the pound cake. I sat with that girl at that table and she didn't cry, not once, not one tear, and she was twenty-four years old with a brother to raise and a father in the ground and a dress in a box she had to return. I'm not going to argue with you about what happened. I know what I saw. She deserves to have her story told the way she told it. That's all."
+
+"Okay," Gus said.
+
+"Stop saying okay."
+
+"It's the only thing I've got that isn't an argument, Mrs. Oosterhouse."
+
+Bev studied him. Then she nodded, once, as if he had passed or failed something and she would let him know which later. She turned and went out to the Buick. At the car door she stopped, and turned back, and looked at him standing in the barn door with her casserole in both arms and hedge paint on his hands.
+
+"Now," Bev said. "Eat that while it's hot. It's the warmest thing you're going to get from this town till Christmas."
+
+## Chapter 10
+
+<!-- POV: Roz -->
+
+The Carrow Grange hayride committee met on the third Thursday of every month in the side room off the main hall, where the radiator was older than Dot and the folding table had a leg that had been shimmed with the same church bulletin since 2011.
+
+Roz arrived at six-fifty-five and was the last one there.
+
+That was how she knew. You didn't get seven Grange members into a room before seven o'clock for a regular meeting unless somebody had been on the phone all afternoon. Bev sat at the head of the table with a clipboard, a fresh legal pad, and a plate of lemon bars. Arlene had the cash ledger. Marv had his treasurer's binder and a pen behind each ear. Ed Brinks had come in from the field and still smelled faintly of the Corn. Dot sat by the radiator in her red cardigan, with her cane across her knees. Clyde sat at the far end, with his arms folded and his reading glasses on top of his head, looking at nothing.
+
+And by the coat rack, on a folding chair pulled slightly back from the table, as if she might not be allowed to sit at it, was a young woman with a reporter's notebook and a lanyard that said LAKESHORE LEDGER — PRESS.
+
+"Kenzie," Bev said, beaming, "this is our chair, Rosalind Pietrowski. Rosalind, this is Kenzie Vos. Henny's granddaughter. She's observing. Grange meetings are public."
+
+"I know they're public, Bev."
+
+"I just want to be transparent."
+
+"Hi," said Kenzie Vos, with the bright, nervous friendliness of a twenty-four-year-old who has been told by her editor that this is her big chance. "I'm a huge fan. I rode in seventh grade. I cried so hard I threw up a little."
+
+"That's the goal," said Roz, and sat down.
+
+* * *
+
+The first forty minutes were regular business, and Roz held onto them like a railing.
+
+Marv read the treasurer's report. Two weekends, four nights, thirteen thousand nine hundred dollars after expenses, which was forty-eight percent of goal with sixty percent of the season left. He read it with the slightly baffled joy of a man who had been Grange treasurer for nineteen years and had never once in all that time used the word *ahead*.
+
+"Ahead," Marv said again, and wrote it down, and underlined it.
+
+Arlene reported that the porta-john vendor wanted to bill for an extra pump-out. Ed reported that a raccoon had gotten into the Corn Stop's lantern oil and was now, as far as he could tell, living in the maze. Dot reported that her gutters were full of a small tree and that Augie VanderWal had told her so in a tone she didn't care for. Clyde reported nothing. Clyde had not reported anything at a committee meeting since 2014, when he'd moved to adjourn during the Pledge of Allegiance.
+
+Kenzie wrote it all down. She wrote down the raccoon.
+
+At seven-forty Bev cleared her throat and turned to a fresh page on the legal pad.
+
+"New business," she said. "I have a motion."
+
+Roz watched the room. She couldn't help it; she was always watching the room. She watched Arlene sit up straighter and Marv take one of the pens off his ear. She watched Ed look at his hands and Dot look at the radiator. She watched Clyde not move at all. She watched Kenzie Vos turn to a new page.
+
+"I move," said Bev, "that the committee adopt 'The Lantern Bride of Hollins Road' as the official heritage story of the Carrow Haunted Hayride. That we commission a commemorative plaque to be placed at Teague's Pond, at the head of the dock, in time for next season. Arlene's nephew Kyle does very nice work, he's done the VFW. And that the committee authorize me to speak on its behalf to the *Lakeshore Ledger* for its Halloween edition." She set her pen down. "I've written it out. I'll read it if anybody wants."
+
+"Second," said Arlene.
+
+There was a pause.
+
+"Discussion," said Bev. She looked at Roz. Her face was kind. That was the worst part. Bev looked at her the way you'd look at someone you were tucking in. "Rosalind?"
+
+"It's a ghost story, Bev," Roz said.
+
+"It's *our* ghost story."
+
+"It's a fundraiser. That's all it is. I wrote it in a summer to give the finale a hook. It's not heritage. Heritage is Arlo in the corn in 1958. Heritage is Dot and Arlo and a borrowed wagon. This is a thing I made up because we needed something at the pond."
+
+"People drive from Battle Creek," said Bev.
+
+"People drive from Battle Creek to Cedar Point. That doesn't make the Gemini heritage."
+
+Ed laughed, and then stopped laughing when Arlene looked at him.
+
+"Honey," Bev said, "it's not about whether you made it up. Everything's made up at first. The Grange was made up. Somebody's grandpa stood up in 1911 and said let's build a hall, and now it's a hall." She tapped the legal pad. "Six years. Six years that story's been at that pond. You've got children in your classroom who've never known a hayride without it. Kenzie threw up."
+
+"A little," said Kenzie, from the coat rack.
+
+"And now," Bev went on, "now of all years, with him on that bench, with the whole county lined up on Hollins Road to see it, now is when we make sure it stays. So nobody can come along in ten years and decide it was too sad, or too mean, or too *something*, and take it down."
+
+There it was. Roz heard it land, the way you hear a cue you've been waiting for. Bev wasn't doing this for the hayride. Or not only. Bev was doing it for her. Bev was building her a monument, in bronze-look, at the head of the dock, so that the girl at the kitchen table in October of 2019, the one who hadn't cried, would always have a ghost who waited, and a train that never came back.
+
+"He's on the bench because the jar put him there," Roz said. "Not because of the story."
+
+"Then it shouldn't bother anybody."
+
+"It's not about bothering. It's that the story isn't..."
+
+She stopped.
+
+Seven faces waited. Eight, with Kenzie's. The radiator banged once, like a fist on a door.
+
+*Isn't true.* That was the end of the sentence. That was the whole sentence. And if she said it, out loud, in this room with its bulletin-shimmed table and its public meeting and its reporter by the coat rack, the next question was the obvious one, the one Owen Sterk had asked in fourth period over a beaker. *Then what is?*
+
+"Isn't what, Rosalind?" Bev said gently.
+
+"Isn't finished," Roz said. "I'm still working on it."
+
+Clyde, at the end of the table, took his reading glasses off the top of his head and folded them and put them in his shirt pocket.
+
+"Call the question," said Arlene.
+
+"All in favor," said Bev.
+
+Bev's hand went up. Arlene's. Marv's, after a glance at Bev, because Marv's always did. Ed's, slowly, with a sort of apologetic shrug at Roz across the table, the shrug of a man who had played the farmer in the Corn for thirty years and knew a crowd-pleaser when he saw one.
+
+Four.
+
+"Opposed."
+
+Roz raised her hand.
+
+Dot raised hers, from the chair by the radiator, without looking up.
+
+And at the far end of the table, Clyde Mulder unfolded his arms and raised his right hand about four inches off the table, the same inch-high parade he gave at the Supper, only higher.
+
+Everyone looked at him. Even Kenzie. Clyde did not look at anyone.
+
+"It's mean," Clyde said.
+
+It was the first full sentence anyone in that room had heard Clyde say at a committee meeting in twelve years. He put his hand down. He folded his arms back up. He went back to looking at nothing.
+
+"Four to three," said Bev, after a moment. Her voice was very slightly off its track. "The motion carries."
+
+Kenzie wrote very fast.
+
+* * *
+
+Afterward, in the main hall, with the lights half off and Arlene rinsing the coffee urn, Bev found her by the coat hooks.
+
+"I know you're angry," Bev said.
+
+"I'm not angry."
+
+"You're angry. You do that thing with your jaw. Your father did it." Bev put a hand on her arm. "I'm not trying to take it from you. I'm trying to make sure nobody else can."
+
+"I know."
+
+"Do you?" Bev searched her face. "Rosalind, if you don't want it at the pond, there's a way. You know there's a way. You wrote that in too."
+
+Roz looked at her.
+
+"Rule three," said Bev. "Second sentence. 'An author may withdraw her story.' I fixed the grammar on it in January. You wanted 'their.'" Bev let go of her arm. "So if you don't want it, withdraw it. That's your right. Nobody can stop you." She picked up her casserole carrier from the bench by the door. "But you know what happens to the numbers if you do. And you know what that town out there will say about why. And I don't think you want either of those things any more than I do."
+
+She went out to her Buick. The hall door sighed shut behind her on its old hydraulic arm.
+
+* * *
+
+Roz drove to the Teague farm instead of home.
+
+She parked by the dark barn and walked down the pond lane by headlamp, the gravel loud under her boots, the corn black on both sides, the Woodlot's bare trees reaching over the lane like hands. It was Thursday. Nobody was here. Dot's porch light was on up at the house, a small gold square across the field, and that was all.
+
+The pond was black and still. She walked out onto the dock, the old boards giving under her, and sat down at the end with her legs over the water, the way she'd sat at fourteen and seventeen and twenty-four.
+
+Across the water, under the willows, she could just make out the line. The monofilament, invisible in daylight, caught her headlamp in a thin silver thread from bank to bank, and halfway along it, where she'd parked it after Saturday's last ride, the Bride's lantern hung on its trolley with its muslin veil, dark, waiting for tomorrow.
+
+She'd made the veil from her own. That part of the story was true, sort of. She had returned the real veil to the shop in Kalamazoo in November of 2019, and the woman at the counter had said *Oh, honey,* and Roz had said *It's fine, it's handled,* and on the way out to the car she had passed a bin of remnants and bought two yards of cheap muslin for four dollars without knowing why. The next summer she knew why.
+
+*An author may withdraw her story.*
+
+She'd written that clause for someone else. For the Brinks family, in fact, back in 2015, when Ed's late father wanted his old Corn monologue retired and the committee had argued for a month about whether you were allowed to un-tell a thing once you'd told it. She had been twenty and new on the effects crew and she had stood up in that same side room and said: *Of course you are. It's yours. You made it. You can take it back.*
+
+She switched off the headlamp.
+
+The dark came down. The pond, the line, the lantern, the willows, all of it went out at once, and for a while there was nothing but the cold boards under her and the small sounds of water and, very far off, a car on Hollins Road going east toward the VanderWal place and then past it.
+
+She sat on the dock until Dot's porch light went out.
 
