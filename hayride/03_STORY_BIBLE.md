@@ -327,3 +327,16 @@ Deliberate differences from PRIOR-1: dialogue share ≥40% book-wide (PRIOR-1: 3
 
 ## 11. Opening differentiator (O9 / catalog)
 Chapter 1's first page puts on the page what PRIOR-1's opening did not: a public raffle draw in which the heroine's own rule traps her (inciting = chance plus self-authored rule), and a timeline entry *before* the forced proximity begins (the Supper, a week before the first ride). PRIOR-1 opened on a covert discovery: the heroine watching unseen from the street as a substitution happens, with the timeline entering mid-betrayal.
+
+---
+
+## 12. Post-architecture adjustments (from BLIND_SAMENESS_REVIEW_architecture.md, risks 1, 2, 5, 7, 10)
+
+These override the rows above where they conflict.
+
+1. **No question-frame close (risk 1).** Ch 29 drops "Your turn. One question." The ask-and-answer device belongs to the rides only and ends with Q9. In Ch 29 he says it as a statement: "Sit with me next year." She says, "The draw's random." He says, "I know." She says, "I'll rig it." The romance is not resolved by a rule or a list.
+2. **His climax act is active, not restraint (risk 2).** In Ch 28, after she tells it true and walks back, a rider who came because of the *Ledger* calls out, "So where's the groom now?" Gus answers from the bench, five words, his own and unprompted: "Right here. Choosing this one." This inverts the legend's last line ("still choosing the city") in his voice. He does not narrate, explain or take her moment. It is a declaration about himself, made in public, at a cost to his pride.
+3. **Mateo's payoff is a full line, not "Yes." (risk 1, small habit).** Roz: "It's true. I'm the one who sent him."
+4. **No belt-buckling (risk 5).** He offers his hand from the bench, and she climbs up and buckles her own belt. Care-object stays a minor device.
+5. **The last sentence belongs to the lantern (risk 7).** The ticket halves appear earlier in Ch 30, not in the final sentence.
+6. **Ledger note (risk 10):** the heroine goal "save the event against a money deadline" is used here. Record it in SERIES_LEDGER so the next Shawn J Dean title does not reuse it.
