@@ -18,7 +18,7 @@ VOICE_CONTRACT:
       three chapters (the register shift is the repair).
   three_sentences_only_this_narrator_could_say:
     Pip:
-      - "My mother's love language is telling you what you did wrong at a funeral you weren't at."
+      - "My mother's love language is telling you what you did wrong at a wedding you weren't invited to."
       - "I don't cry at work. I go out to the yard and kick a pallet until it's the pallet's fault."
       - "He has the face of a man who has never once been told no by a woman holding a drill."
     Adam:
@@ -64,7 +64,7 @@ VOICE_CONTRACT:
 | Adam | pitch cadence: claim, proof, ask | polished, sports radio, "listen" | reframing the question | "Strike that." (narration only) | "I don't know." | "You barely use it." |
 | Simone | complete sentences, no contractions under pressure | corporate-precise, dry | literalism | none | flattery | "I asked for it. He said yes before I finished the sentence." |
 | Lolo | fragments, profanity as punctuation | shop floor, bowling alley | insult as affection | "Hon." | "sorry" | "You want it out the window or out the door, hon? 'Cause the door's a no." |
-| Halina | questions that are verdicts | Polish-inflected English, saints' days | changes the subject to food | "Eat." | "I was wrong." | "So. He sends flowers, he doesn't come." |
+| Halina | questions that are verdicts | Polish-inflected English | changes the subject | "So." | "I was wrong." | "So. You took the room. Good. Now what?" |
 | Ruth | investor plural, "we" | fund-speak, cheerful | "Let's take that offline." | none | a number she can't defend | "We love the energy. We'd love it more in a different building." |
 
 Tag-strip test target: ≥80% attribution on every exchange of six lines or more.
