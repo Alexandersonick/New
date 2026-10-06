@@ -217,5 +217,15 @@ All of these are revision-level, not re-architecture:
 
 | Scope | Verdict |
 |---|---|
-| Against the available set | **H7 REMEDIATED, blind re-score not run.** The author cannot self-certify a PASS. A fresh blind H7 read of the revised text is still owed before this row can read PASS. H1–H5 and H8 were unchanged at PASS. H6: blind voice test PASS, mechanical clean. H7: the named recurrences (one-word callback payoff, exact-word cue, unasked mending, "He didn't" restraint, object-and-service as the dominant back-half care) were removed or reduced in the text. The fail-first ladder is kept and logged. The rotation clause still cannot be tested with only one prior. |
+| Against the available set | **PASS.** H7 was re-scored blind on the revised row (§12). H1–H5 and H8 were unchanged at PASS. H6: blind voice test PASS, mechanical clean. H7: the named recurrences (one-word callback payoff, exact-word cue, unasked mending, "He didn't" restraint, object-and-service as the dominant back-half care) were removed or reduced in the text. The fail-first ladder is kept and logged. The rotation clause still cannot be tested with only one prior. |
 | Overall gate | **BLOCKED.** Two earlier titles are unavailable, and the comparison set is short. |
+
+## 12. Blind H7 re-score (revised row)
+
+- **Reader:** a new independent reader. Inputs were `stripped_shelf.md` (PRIOR-1) and `stripped_measured_rev.md` only.
+- **Verdict: H7 PASS.** No signature-device category repeats STRONG. Care device, payoff line, last-image class, inciting kind and POV structure all changed.
+- **"Same hero, same voice" review:** false. The voice half fails: the new hero's comic stage-cue register is not PRIOR-1's clipped numbered plans, and PRIOR-1's signature was the heroine's deadpan first person. The "same hero" half partly holds ("a quiet, decent man who stays still and tells the truth about himself").
+- **Borderline items and what was done:**
+  1. *The restrained, self-reporting hero.* Restraint-type sentence-initial "He didn't" in narration is cut to 2 (ch1 offered exit, ch27 not asking). The other 7 remaining are perception or knowledge ("He didn't know how to be on the bench"). Three near-identical "He didn't answer right away" beats [3, 6, 11] were rewritten.
+  2. *"Her terms" resolution.* In the text, Roz never uses the word "terms" and her line is not a list of conditions. It is one request (ask on a Tuesday) plus a yes. His reply is a shared act: he writes TUES in the frost. The record wording in §11 and the stripped row is the cataloguer's, not the book's. **Logged as a SAMENESS_VERDICT item:** the heroine-sets-the-resolution shape recurs. Rotate it in the next title.
+  3. *Fail-first repair rung.* Reclassified on the evidence of the text: the softened line [5–6] is punished with the 4–1 warning, which is a bind cost, not a repair attempt. Her repair ladder starts at the withdrawal [11]. Still logged for rotation.
