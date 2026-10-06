@@ -682,7 +682,7 @@ She told it. He hit the whistle. They turned.
 
 On the way back, in the long dark stretch between the pond and the barn, where the lane ran along the back of the corn and there were no scares and the riders talked to each other and forgot about the guides, she sat with her hands on her clipboard and watched the yard lights come closer through the stalks.
 
-She had one question. She had about four hundred, actually, collected over seven years and filed in a place she didn't open. But one was right at the front, the way the jar's last ticket had been right at the bottom.
+She had one question. She had about four hundred, actually, collected over seven years and filed in a place she didn't open. But one was right at the front, the way her own ticket had been right at the bottom of the jar.
 
 "Why'd you sign up?" she said.
 
@@ -1126,7 +1126,7 @@ At 8:15 Bev climbed up into the third row of Wagon One with her clipboard and a 
 
 "From me. I can hear it in the shed. It sounds like a goose with emphysema." Bev settled, and folded her hands over the clipboard. "Don't mind me. I'm furniture."
 
-The woman from Battle Creek was in the second row. She had come back for a third night, with her pink TEAM LANTERN BRIDE sign and a friend in a matching fleece, and when she saw Gus climb up onto the bench she said "Oh!" with deep satisfaction and nudged her friend, and her friend said "That's him?" and the lady said "That's *him*," as if she had personally arranged it.
+The woman from Battle Creek was in the second row. She had come back for a second night, with her pink TEAM LANTERN BRIDE sign and a friend in a matching fleece, and when she saw Gus climb up onto the bench she said "Oh!" with deep satisfaction and nudged her friend, and her friend said "That's him?" and the lady said "That's *him*," as if she had personally arranged it.
 
 Gus sat. He did not look back. He said, very quietly, to the cue box, "Evening."
 
@@ -1516,7 +1516,7 @@ She kept her voice level. She finished the story. He hit the whistle. The wagon 
 
 "That's why after," Roz said, and clicked off.
 
-Beside her, Gus said nothing. He'd been very quiet all night. His hair was still damp at the ends from the dunk tank, though he'd had seven hours to dry, and he'd come to the barn at six-thirty-five in a dry flannel and a VanderWal Scenic hoodie she had never seen before, navy blue with the letters in white, as if he'd had them printed and then lost his nerve about wearing it in public and then found it again. Her hair was still damp too, under the knit hat. Neither of them had mentioned the dunk tank. It sat between them on the bench like a third guide.
+Beside her, Gus said nothing. He'd been very quiet all night. His hair was still damp at the ends from the dunk tank, though he'd had eight hours to dry, and he'd come to the barn at six-thirty-five in a dry flannel and a VanderWal Scenic hoodie she had never seen before, navy blue with the letters in white, as if he'd had them printed and then lost his nerve about wearing it in public and then found it again. Her hair was still damp too, under the knit hat. Neither of them had mentioned the dunk tank. It sat between them on the bench like a third guide.
 
 They did the 9:40 and the 10:20 and the 11:00 without fog, and she hated every one of them, quietly.
 
@@ -1624,7 +1624,7 @@ He was exactly where she'd left him. Crouched by the box with the Maglite on the
 
 He moved the light.
 
-It took her forty minutes after that, because the clamps were the wrong size and she had to file one down, and because her fingers stopped working properly at about 1:30 and she had to put them inside her coat, under her arms, and wait. He held the light the entire time. He didn't offer to file the clamp. He didn't offer to hold the clamp. Once, when she dropped a hex key into the wet grass and swore, quietly, a word she would never have used in room 114, he swept the beam over the grass in a slow, even arc until it caught the little glint of steel, and held it there, and didn't say anything, and she picked it up.
+It took her forty minutes after that, because the clamps were the wrong size and she had to file one down, and because her fingers stopped working properly at about 1:30 and she had to put them inside her coat, under her arms, and wait. He held the light the entire time, and the clamp stayed hers. Once, when she dropped a hex key into the wet grass and swore, quietly, a word she would never have used in room 114, he swept the beam over the grass in a slow, even arc until it caught the little glint of steel, and held it there, and didn't say anything, and she picked it up.
 
 Somewhere around the second clamp she stopped being angry about the fog. The steady white circle of light went exactly where she needed it a second before she needed it, and she was sixteen again, the first scarecrow in her father's barn with the radio on, when every problem had a part.
 
@@ -3170,7 +3170,7 @@ She turned her head, just slightly, toward the far bank. Toward the reeds. Thirt
 
 Gus flipped the toggle.
 
-He didn't flip it early.
+Not a half-beat early.
 
 On the far bank, low in the reeds, right at the edge of the water, a small light came on. Not the bride, sailing out on her line, high and veiled; this light was low and small and warm, about the size of a six-year-old curled up asleep with his dog. It sat in the reeds and glowed. And from somewhere in the willows above it, clear across the water, a dog barked, twice. A happy bark. A dog who has heard forty people coming through the corn and knows exactly who they are. Half beagle, and half something nobody would admit to.
 
@@ -3914,7 +3914,7 @@ Gus knew the voice. It was the voice Mitch used at production meetings right bef
 
 "So," said Gus.
 
-"Calumet's head of shop retired in September." Mitch leaned against a rack of flats with his coffee. "Hal Ostrowski. You remember Hal. Forty years. They threw him a party, he cried, he took a fishing boat to Florida. And Calumet's board decided, since they're rebuilding anyway, since they bought half this building's inventory at auction last week, they want to build a real shop. A *shop* shop. They're moving into the old Pullman warehouse on Ninety-Fifth. Thirty thousand square feet. Two paint frames. A CNC router the size of your truck."
+"Calumet's head of shop retired in September." Mitch leaned against a rack of flats with his coffee. "Hal Ostrowski. You remember Hal. Forty years. They threw him a party, he cried, he took a fishing boat to Florida. And Calumet's board decided, since they're rebuilding anyway, since they put in a bid on half this building's inventory for the auction next week, they want to build a real shop. A *shop* shop. They're moving into the old Pullman warehouse on Ninety-Fifth. Thirty thousand square feet. Two paint frames. A CNC router the size of your truck."
 
 "Mitch."
 
@@ -4172,7 +4172,7 @@ Something in her went still.
 
 "Is it bad?" said Roz.
 
-He thought about it. He thought about it.
+He thought about it.
 
 "I don't know yet," Gus said. "That's why I want to tell you."
 
@@ -4274,7 +4274,7 @@ Roz knew before Bev opened her mouth. Every ride sold out on both wagons. A cide
 
 "Rosalind," Bev said, across the gravel. "Come here."
 
-She went. Gus came too, behind her, from the wagon. So did Danny, from the parking field, with his wand still lit. So did Lorna, off Wagon Two, and Clyde behind her, and Ed from the Corn in his overalls, and Hank, who climbed down off Marguerite for the second time in Roz's memory, and they all came across the yard to the shed door in the orange light and stood there.
+She went. Gus came too, behind her, from the wagon. So did Danny, from the parking field, with his wand still lit. So did Lorna, off Wagon Two, and Clyde behind her, and Ed from the Corn in his overalls, and Hank, who climbed down off Marguerite between rides for the second time in Roz's memory, and they all came across the yard to the shed door in the orange light and stood there.
 
 Bev turned around and wrote on the chalkboard, under Saturday's $25,600, on the next blank line, in her careful capitals.
 
@@ -5138,7 +5138,7 @@ She told it the way she'd told it all week, plain, like reading to a kid at bedt
 
 "And at dawn," she said, "they found him."
 
-Gus flipped the toggle. He didn't flip it early.
+Gus flipped the toggle on the word.
 
 The small light came on low in the reeds. Rufus barked twice across the water. Thirty-two lanterns went up, row by row, gold on the black, and in the third row Bev Oosterhouse held hers up too, a little behind everyone else, with her mouth pressed tight.
 
@@ -5220,7 +5220,7 @@ Then, from the fourth row, the man in the Western Michigan jacket, the one who'd
 
 Gus answered from the bench.
 
-He didn't stand. He didn't turn around. He stayed belted in on the right side of the front bench, with his hands on his knees, where he had sat every ride since the second of October, and he said it plainly, to the water, in his own voice, five words.
+He stayed seated, facing the water. He stayed belted in on the right side of the front bench, with his hands on his knees, where he had sat every ride since the second of October, and he said it plainly, to the water, in his own voice, five words.
 
 "Right here. Choosing this one."
 
@@ -5240,7 +5240,7 @@ He stayed belted. He didn't take the lantern or reach for her waist or do any of
 
 She took it.
 
-His hand was warm. He didn't pull. She climbed up the wagon step on her own, with her own legs, and he let her use his hand like a railing, and she sat down on the left side of the bench, and let go. She set the lantern on top of the cue box between them, still lit, on the masking tape that said BARK in red Sharpie, in her hand, in his mother's letters.
+His hand was warm and steady, and it stayed where it was. She climbed up the wagon step on her own, with her own legs, and he let her use his hand like a railing, and she sat down on the left side of the bench, and let go. She set the lantern on top of the cue box between them, still lit, on the masking tape that said BARK in red Sharpie, in her hand, in his mother's letters.
 
 She found her belt and buckled it herself.
 
