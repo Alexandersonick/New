@@ -328,7 +328,7 @@ But she had already put the Buick in reverse, and she backed out of his barn as 
 
 He opened the binder on the table saw.
 
-Rule 1 said guides stayed belted from barn to barn. Rule 7 he'd heard read out loud by Danny Pietrowski in front of ninety people, which was a way of learning a rule he did not recommend. He flipped to the back, where there was a single laminated page titled FINALE: TEAGUE'S POND: APPROVED SCRIPT, with a date at the bottom (committee vote, Sept. 2020) and the initials R.P.
+Rule one said guides stayed belted from barn to barn. Rule seven he'd heard read out loud by Danny Pietrowski in front of ninety people, which was a way of learning a rule he did not recommend. He flipped to the back, where there was a single laminated page titled FINALE: TEAGUE'S POND: APPROVED SCRIPT, with a date at the bottom (committee vote, Sept. 2020) and the initials R.P.
 
 He read it standing up, and then he sat down on an upturned bucket and read it again.
 
@@ -370,7 +370,7 @@ That was the most Hank had said to him since 2019, and Gus decided to take it as
 
 "Bro!"
 
-Danny Pietrowski came around the back of the wagon with a clipboard and a headlamp already on his forehead, though the sun wasn't down. He was taller than Gus remembered by about a foot and a half, which made sense, since the last time Gus had seen him Danny had been twelve and crying in the Teague barn loft and refusing to come down.
+Danny Pietrowski came around the back of the wagon with a clipboard and a headlamp already on his forehead, though the sun wasn't down. He was taller than Gus remembered by about a foot and a half, which made sense, since the last time they'd really spoken, before the Supper, Danny had been twelve and crying in the Teague barn loft and refusing to come down.
 
 "Hey, Danny."
 
@@ -618,7 +618,7 @@ He was quiet for a moment. Across the yard, Bev was making change and very obvio
 
 She didn't answer. She couldn't find the part of herself that answered things.
 
-"Okay," he said. "That's done." He took a breath. "And every ride, you can ask me one thing. Anything. And I'll answer it true. Not nice. True."
+"Okay," he said. "That's done. And every ride, you can ask me one thing. Anything. And I'll answer it true. Not nice. True."
 
 She stared at him.
 
@@ -1268,7 +1268,7 @@ The 11:00 went out with nine people in it, all of them Carrow, all of them peopl
 
 On the way back from the pond, in the dark along the back of the corn, Roz asked her question.
 
-She'd had it since Monday. Since Owen Sterk and his beakers. Since 4:50 that morning, staring at the ceiling, with a date on her chest like a cat. She had picked it up and put it down a dozen times, and now she said it to the corn before she could put it down again.
+She'd had it since Monday. Since Owen Sterk and his beakers. Since 4:50 on Tuesday morning, staring at the ceiling, with a date on her chest like a cat. She had picked it up and put it down a dozen times, and now she said it to the corn before she could put it down again.
 
 "Did you ever think about calling?"
 
@@ -1372,7 +1372,9 @@ He went in for Ed Brinks, who rolled his shoulder like a pitcher on a mound.
 
 "He's been dead eleven years, Ed," Gus said, coming up for air.
 
-"Then tell him when you see him." He went in for three members of the Carrow Cougars junior varsity football team, one of whom was Mason again, who had found his arm. He went in for the youth pastor from First Reformed, who said "Sorry! Sorry!" while throwing. He did not go in for Marv Kuiper, who missed nine times in a row with great cheerfulness and kept paying, and whom Gus privately decided was the best person in Carrow.
+"Then tell him when you see him."
+
+He went in for three members of the Carrow Cougars junior varsity football team, one of whom was Mason again, who had found his arm. He went in for the youth pastor from First Reformed, who said "Sorry! Sorry!" while throwing. He did not go in for Marv Kuiper, who missed nine times in a row with great cheerfulness and kept paying, and whom Gus privately decided was the best person in Carrow.
 
 Between dunks, between the clang and the cold and the climb, he could hear the rest of Harvest Days going on around him, the way you hear a show from backstage. The Ladies Aid pie auction on the Grange steps, with Clyde Mulder as auctioneer, saying "Fifteen. Fifteen. Do I hear fifteen. I don't care if I hear fifteen," in a perfect monotone. The corn maze behind the Grange, the little one the 4-H cut every year, full of shrieking eight-year-olds. The cider press at the Kuipers' booth, creaking. Lorna's diner booth, where she was selling pumpkin spice cinnamon rolls and arguing with a man from Paw Paw about whether pumpkin spice was a flavor or a lifestyle.
 
@@ -1514,7 +1516,7 @@ She kept her voice level. She finished the story. He hit the whistle. The wagon 
 
 "That's why after," Roz said, and clicked off.
 
-Beside her, Gus said nothing. He'd been very quiet all night. His hair was still damp at the ends from the dunk tank, though he'd had seven hours to dry, and he'd come to the barn at six-thirty-five in a dry flannel and a VanderWal Scenic hoodie she had never seen before, navy blue with the letters in white, as if he'd had them printed and then lost his nerve about wearing it in public and then found it again. Hers was still damp too, under the knit hat. Neither of them had mentioned the dunk tank. It sat between them on the bench like a third guide.
+Beside her, Gus said nothing. He'd been very quiet all night. His hair was still damp at the ends from the dunk tank, though he'd had seven hours to dry, and he'd come to the barn at six-thirty-five in a dry flannel and a VanderWal Scenic hoodie she had never seen before, navy blue with the letters in white, as if he'd had them printed and then lost his nerve about wearing it in public and then found it again. Her hair was still damp too, under the knit hat. Neither of them had mentioned the dunk tank. It sat between them on the bench like a third guide.
 
 They did the 9:40 and the 10:20 and the 11:00 without fog, and she hated every one of them, quietly.
 
@@ -1624,7 +1626,7 @@ He moved the light.
 
 It took her forty minutes after that, because the clamps were the wrong size and she had to file one down, and because her fingers stopped working properly at about 1:30 and she had to put them inside her coat, under her arms, and wait. He held the light the entire time. He didn't offer to file the clamp. He didn't offer to hold the clamp. Once, when she dropped a hex key into the wet grass and swore, quietly, a word she would never have used in room 114, he swept the beam over the grass in a slow, even arc until it caught the little glint of steel, and held it there, and didn't say anything, and she picked it up.
 
-Somewhere around the second clamp she stopped being angry about the fog. The steady white circle of light went exactly where she needed it a second before she needed it, and it was sixteen again, the first scarecrow in her father's barn with the radio on, when every problem had a part.
+Somewhere around the second clamp she stopped being angry about the fog. The steady white circle of light went exactly where she needed it a second before she needed it, and she was sixteen again, the first scarecrow in her father's barn with the radio on, when every problem had a part.
 
 "Nice hoodie," she said, without looking up from the clamp.
 
@@ -1726,7 +1728,7 @@ Danny looked at the stack of luan. "It doesn't look like a garden."
 
 "Like, for the garden. Or whatever. I can do stuff. I can run a saw. Somebody taught me." He shrugged at the floor. "I've got Saturday mornings free, before the hayride. And Tuesdays after Stats. I don't need a lot. Fifteen an hour. Twelve. Whatever. I just thought, you know. You've got a hoodie that says *Scenic* and no scenic guys."
 
-Gus took him in. Nineteen years old, six-two, with Walt Pietrowski's jaw and his sister's habit of saying the hard thing to a point just past your shoulder. The last time Gus had seen him before this October, Danny had been twelve and sitting in the Teague barn loft refusing to come down, with his arms around his knees, and Gus had stood at the bottom of the ladder for an hour and then gone home because there was nothing he could say that would get a grieving twelve-year-old down a ladder, least of all *I'm leaving.*
+Gus took him in. Nineteen years old, six-two, with Walt Pietrowski's jaw and his sister's habit of saying the hard thing to a point just past your shoulder. The last time they'd really talked, before this October, Danny had been twelve and sitting in the Teague barn loft refusing to come down, with his arms around his knees, and Gus had stood at the bottom of the ladder for an hour and then gone home because there was nothing he could say that would get a grieving twelve-year-old down a ladder, least of all *I'm leaving.*
 
 "Does your sister know you're here?"
 
@@ -1892,7 +1894,7 @@ And by the coat rack, on a folding chair pulled slightly back from the table, as
 
 "I just want to be transparent."
 
-"Hi," said Kenzie Vos, clutching her notebook to her chest with the bright, nervous friendliness of a twenty-four-year-old who has been told by her editor that this is her big chance. "I'm a huge fan. I rode in seventh grade. I cried so hard I threw up a little."
+"Hi," said Kenzie Vos, clutching her notebook to her chest with the bright, nervous friendliness of a twenty-four-year-old who has been told by her editor that this is her big chance. "I'm a huge fan. I rode the first year, senior year of high school. I cried so hard I threw up a little."
 
 "That's the goal," said Roz, and sat down.
 
@@ -1950,7 +1952,7 @@ There it was. Roz heard it land. Bev wasn't doing this for the hayride. Or not o
 
 She stopped.
 
-Seven faces waited. Eight, with Kenzie's. The radiator banged once, like a fist on a door.
+Six faces waited. Seven, with Kenzie's. The radiator banged once, like a fist on a door.
 
 *Isn't true.* That was the end of the sentence. That was the whole sentence. And if she said it, out loud, in this room with its bulletin-shimmed table and its public meeting and its reporter by the coat rack, the next question was the obvious one, the one Owen Sterk had asked in fourth period over a beaker. *Then what is?*
 
@@ -2002,7 +2004,7 @@ Afterward, in the main hall, with the lights half off and Arlene rinsing the cof
 
 Roz looked at her.
 
-"Rule three," said Bev. "Second sentence. 'An author may withdraw her story.' I fixed the grammar on it in January. You wanted 'their.'" Bev let go of her arm. "So if you don't want it, withdraw it. That's your right. Nobody can stop you." She picked up her casserole carrier from the bench by the door. "But you know what happens to the numbers if you do. And you know what that town out there will say about why. And I don't think you want either of those things any more than I do."
+"Rule three," said Bev. "Third sentence. 'An author may withdraw her story.' I fixed the grammar on it in January. You wanted 'their.'" Bev let go of her arm. "So if you don't want it, withdraw it. That's your right. Nobody can stop you." She picked up her casserole carrier from the bench by the door. "But you know what happens to the numbers if you do. And you know what that town out there will say about why. And I don't think you want either of those things any more than I do."
 
 She went out to her Buick. The hall door sighed shut behind her on its old hydraulic arm.
 
@@ -2114,7 +2116,7 @@ She came from the ticket table at a pace Roz had never seen her use, with her cl
 
 "What did you do?"
 
-"Rule three," said Roz. "Second sentence."
+"Rule three," said Roz. "Third sentence."
 
 Bev's mouth went tight. For one second it was the face from the Pietrowski kitchen in 2019, the pound cake face, and then it was something else, something Roz had never seen on Bev: it was hurt, plain and simple, as if Roz had reached across the table and slapped her.
 
@@ -2152,7 +2154,7 @@ All twelve of them, in pink fleece, with buttons. They did it politely, in a lin
 
 "I don't know, ma'am."
 
-"It's like if they cancelled Christmas," said a Bunco member in the back.
+"It's like if they canceled Christmas," said a Bunco member in the back.
 
 "It's exactly like that," said their leader.
 
@@ -2164,7 +2166,7 @@ The woman from Battle Creek did not go to the parking field with the others. She
 
 "Yes, ma'am."
 
-"I'm Joyce. I've ridden this since 2021. My husband passed in 2020, in the April, with the virus, and that fall my daughter drove me out here because I wasn't leaving the house, and I sat on that wagon and you told that story and I cried, and it was the first crying I'd done in six months." Joyce held the sign against her coat. "So I'd like to know why."
+"I'm Joyce. I've ridden this since 2021. My husband passed in 2021, in the April, with the virus, and that fall my daughter drove me out here because I wasn't leaving the house, and I sat on that wagon and you told that story and I cried, and it was the first crying I'd done in six months." Joyce held the sign against her coat. "So I'd like to know why."
 
 Roz looked at her. Behind Joyce, the Bunco women were climbing into a church van, pink in the yard light.
 
@@ -2424,7 +2426,7 @@ She hadn't decided to. It came out the way water comes out of a gutter, because 
 
 He was quiet a moment. Rain ran off the brim of his father's slicker.
 
-"Kate," Gus said. "Lighting designer. Two years. 2022 to 2024. She was smart and funny and she could focus a light on a dime from forty feet up a ladder." "She broke it off. She said I talked about everywhere except where I was from. Like I was a man with a whole room in his house he kept the door shut on and just walked past."
+"Kate," Gus said. "Lighting designer. Two years. 2022 to 2024. She was smart and funny and she could focus a light on a dime from forty feet up a ladder. She broke it off. She said I talked about everywhere except where I was from. Like I was a man with a whole room in his house he kept the door shut on and just walked past."
 
 The orchard went by in black rows, dripping.
 
@@ -2932,7 +2934,7 @@ Kenzie Vos was waiting outside room 114 at 3:05 on Thursday with her notebook he
 
 "Miss Pietrowski! Hi. Hi. I don't want to bother you."
 
-"Then don't," said Roz, but gently, because Kenzie was twenty-four and had once been a seventh grader who threw up a little on the hayride, and because a herd of eighth graders was stampeding past them toward the buses and all of them had turned their heads at the word *Pietrowski* like sunflowers.
+"Then don't," said Roz, but gently, because Kenzie was twenty-four and had once been a high school senior who threw up a little on the hayride, and because a herd of eighth graders was stampeding past them toward the buses and all of them had turned their heads at the word *Pietrowski* like sunflowers.
 
 "I just want ten minutes. For the feature. The Halloween edition." Kenzie flipped the notebook open. "It's going to be the front page. My editor gave me eighteen hundred words. That's like, unheard of. That's the school levy."
 
@@ -3576,13 +3578,13 @@ Roz's hand was on the bench between them, palm down, on the cracked vinyl. Gus l
 
 Dot came at ten-fifteen.
 
-She came down the lane from the house on foot, with her cane, slowly, in her red cardigan and a wool coat over it and a knit hat with a pompom that she had obviously borrowed from a great-grandchild. Hank saw her first. Hank climbed down off Marguerite, which Gus had never once seen him do between rides, and walked across the yard and offered Dot his arm, and she took it, and they came across the gravel together like a very slow wedding.
+She came down the lane from the house on foot, with her cane, slowly, in her red cardigan and a wool coat over it and a knit hat with a pom-pom that she had obviously borrowed from a great-grandchild. Hank saw her first. Hank climbed down off Marguerite, which Gus had never once seen him do between rides, and walked across the yard and offered Dot his arm, and she took it, and they came across the gravel together like a very slow wedding.
 
 "Well, now," said Dot, at the wagon step. "I'll take the 11:00."
 
-"Dot," said Roz. "You haven't ridden in ten years."
+"Dot," said Roz. "You haven't ridden in years."
 
-"Eleven. I haven't ridden since Arlo." She looked up at the bench. "I hear you're telling it. I'd like to hear how you tell it. Hank, I'll need the step."
+"Six. I haven't ridden since Arlo." She looked up at the bench. "I hear you're telling it. I'd like to hear how you tell it. Hank, I'll need the step."
 
 Hank brought the step stool from the shed, the one they used for the kids, and held Dot's elbow while she climbed it, and Gus leaned down from the bench and took her other hand, and between them they got her up and into the front row, on the end, in Mateo's usual seat. Mateo had gone home at nine. Ed came running from the Corn with a blanket and tucked it over her knees. The whole yard had stopped to watch.
 
@@ -3834,7 +3836,7 @@ And under that, smaller:
 
 Roz stood on the porch with the paper in her hand.
 
-She didn't go inside. She sat down on the top step, under the light, in her coat, with her school bag beside her. She could see the light on the backs of her hands, and on her shoes, and on the bare maple in the yard. Across the dark field, a quarter mile east, past the black shape of the Teague barn, a single light was on in the VanderWal pole barn. She could see it from here. She had always been able to see it from here. She had spent seven years not looking.
+She didn't go inside. She sat down on the top step, under the light, in her coat, with her school bag beside her. She could see the light on the backs of her hands, and on her shoes, and on the bare maple in the yard. Across the dark fields to the southeast, past the black shape of the Teague barn, a single light was on in the VanderWal pole barn. She could see it from here. She had always been able to see it from here. She had spent seven years not looking.
 
 Her phone buzzed. It was Lorna.
 
@@ -4000,7 +4002,7 @@ So: Friday. Before the ride, or after. In person. He'd tell her the offer and th
 
 He came off I-94 onto US-131 and then onto the two-lane county roads in the full dark. At the turn onto Hollins Road his headlights swept across the Teague corn, and in the distance, past the barn, he could see the yard lights on, orange, where she'd left the battery chargers running for Friday.
 
-A quarter mile farther east, on the left, on Teague Road, if you knew where to look across the field, there was a porch light.
+Off to the left, north across the field on Teague Road, if you knew where to look, there was a porch light.
 
 He didn't slow down. He drove home and backed Delores up to the barn door and sat in the cab with the engine off for a minute, in the dark, with the Gerstner in the bed behind him and the porch light across the field.
 
@@ -4130,7 +4132,7 @@ He looked over.
 
 "I can see that."
 
-"For a door." He held them up. Heavy-duty, four-inch, ball-bearing, oil-rubbed bronze. "Shop door. The big one on the east side. It's been a sheet of plywood since the end of summer. I'm hanging a real one. I've got a slab of old barn door from the Brinkses' and I'm going to put it up and paint it."
+"For a door." He held them up. Heavy-duty, four-inch, ball-bearing, oil-rubbed bronze. "Shop door. The big one on the east side. It's been a sheet of plywood since my dad built the barn. I'm hanging a real one. I've got a slab of old barn door from the Brinkses' and I'm going to put it up and paint it."
 
 "Paint what on it?"
 
@@ -4316,7 +4318,7 @@ Bev came to her through the noise. She stopped in front of Roz, with the chalk s
 
 Over Bev's shoulder, Roz looked for Gus.
 
-He was standing at the edge of the crowd by the shed door, a little apart. He stood without cheering, smiling, a real one, the one from the corn, and he was looking at her across the shed, and when she met his eyes he lifted his chin a little, the way you'd nod to someone across a theater at the end of a good show. Then his face changed. It went careful again. It went back to holding the full cup.
+He was standing at the edge of the crowd by the shed door, a little apart. He stood apart from the cheering, smiling, a real one, the one from the corn, and he was looking at her across the shed, and when she met his eyes he lifted his chin a little, the way you'd nod to someone across a theater at the end of a good show. Then his face changed. It went careful again. It went back to holding the full cup.
 
 *There's a thing.*
 
@@ -4446,7 +4448,7 @@ She didn't tell him not to say okay.
 
 She walked around him to the driver's side of the Explorer and opened the door and threw the tool bag onto the passenger seat. She got in. She sat there for a moment with her hands on the wheel, not starting the engine. He stayed where he was. He had said the true things, all of them, and the rest would only be talking.
 
-The engine started. The headlights came on and lit up the stubble and the dead stalks and the far line of the woodlot, and the Explorer backed up and turned and went out of the field onto Hollins Road and left, toward Teague Road, toward home.
+The engine started. The headlights came on and lit up the stubble and the dead stalks and the far line of the Woodlot, and the Explorer backed up and turned and went out of the field onto Hollins Road and left, toward Teague Road, toward home.
 
 He stood in the field until the taillights were gone.
 
@@ -4674,7 +4676,7 @@ Danny measured him the way his sister measured things.
 
 It took them two hours.
 
-The east wall of the barn had a rough opening, eight feet by ten, framed in two-by-sixes, that his father had always meant to put a door in and never had. For thirty years it had been covered with a sheet of OSB nailed up from the inside and painted barn red on the outside to match, so that from the road it looked like a door if you didn't look hard. Gus had stared at that sheet of OSB every morning since the end of summer. It was the kind of lie he'd made his living building. It held still from a distance, and up close it was nothing at all.
+The east wall of the barn had a rough opening, eight feet by ten, framed in two-by-sixes, that his father had always meant to put a door in and never had. For more than twenty years it had been covered with a sheet of OSB nailed up from the inside and painted barn red on the outside to match, so that from the road it looked like a door if you didn't look hard. Gus had stared at that sheet of OSB every morning since the end of summer. It was the kind of lie he'd made his living building. It held still from a distance, and up close it was nothing at all.
 
 They took it down. They hung the Brinks door.
 
@@ -4722,7 +4724,7 @@ He went inside and got his phone.
 
 * * *
 
-Mitch picked up on the second ring, because Mitch always picked up on the second ring, even on a Saturday, even at ten-fifteen in the morning on Halloween.
+Mitch picked up on the second ring, because Mitch always picked up on the second ring, even on a Saturday, even at eleven in the morning on Halloween.
 
 "Farmer," said Mitch. "It's not Monday."
 
@@ -4798,7 +4800,7 @@ Mitch hung up without saying goodbye, the way he always did, as if the call woul
 
 * * *
 
-His mother called at eleven-twenty, before he'd even put the phone down on the counter, which meant Joan had been listening to the police scanner again, or Danny had texted Lorna, who had texted the Ladies Aid, which had a branch in Grand Rapids.
+His mother called at eleven-forty, before he'd even put the phone down on the counter, which meant Joan had been listening to the police scanner again, or Danny had texted Lorna, who had texted the Ladies Aid, which had a branch in Grand Rapids.
 
 "You hung a door," Ruth said.
 
@@ -4814,7 +4816,7 @@ His mother called at eleven-twenty, before he'd even put the phone down on the c
 
 His mother didn't say anything. He stood at the kitchen window and looked out at the barn door, the white letters drying in the sun, and waited, the way he'd waited for her all his life when she was deciding whether to be upset.
 
-"Your father wanted to put a door in that wall for thirty years," Ruth said finally. "He said it every spring. 'This is the year, Ruthie.' He bought the lumber twice. It went into the chicken coop the first time and the deck the second." She was quiet. "I'm glad it's a door."
+"Your father wanted to put a door in that wall for twenty years," Ruth said finally. "He said it every spring. 'This is the year, Ruthie.' He bought the lumber twice. It went into the chicken coop the first time and the deck the second." She was quiet. "I'm glad it's a door."
 
 "Me too."
 
@@ -5154,7 +5156,7 @@ His mother said, "*Jaxon*."
 
 Roz reached down to her hip and unbuckled her belt.
 
-It made a sound in the silence. A small, flat, plastic click, the most ordinary sound in the world, and every person on that wagon from Carrow knew what it was, because every person on that wagon from Carrow had heard Rule one read out at the Harvest Supper every year of their lives. *Guides stay belted from barn to barn.*
+It made a sound in the silence. A small, flat, plastic click, the most ordinary sound in the world, and every person on that wagon from Carrow knew what it was, because every person on that wagon from Carrow had heard rule one read out at the Harvest Supper every year of their lives. *Guides stay belted from barn to barn.*
 
 "Rosalind," said Bev, from the third row, very quietly.
 
@@ -5368,9 +5370,9 @@ Danny got there second and put his arms around both of them and lifted, somehow,
 
 "I know how long it is, Danny."
 
-"As a performer," Ed announced to the shed, crying openly and not bothering to hide it, the way he had in his truck in 2017, "as a performer, that was the best finale I ever saw on this farm, and I've been in the Corn since Reagan."
+"As a performer," Ed announced to the shed, crying openly and not bothering to hide it, the way he had in his truck in 2017, "as a performer, that was the best finale I ever saw on this farm, and I've been in the Corn since Clinton."
 
-"You've been in the Corn since Reagan's *second term*, Ed," said Arlene, wiping her eyes.
+"You've been in the Corn since Clinton's *second term*, Ed," said Arlene, wiping her eyes.
 
 "Second term counts."
 
@@ -5592,7 +5594,7 @@ Something in his voice. She knew it. She'd heard it on the drive back from Paw P
 
 She looked at him.
 
-She knew what she was supposed to say. She'd known since two in the morning on her kitchen floor, since the rooster, since Danny at the table with his hands flat on the oilcloth. It was one word. It was shorter than *go*.
+She knew what she was supposed to say. She'd known since two in the morning at her kitchen table, since the rooster, since Danny at the table with his hands flat on the oilcloth. It was one word. It was shorter than *go*.
 
 "Stay," Roz said.
 

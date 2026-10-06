@@ -1,0 +1,104 @@
+[
+  {
+    "ch": 2,
+    "find": "Rule 1 said guides stayed belted from barn to barn. Rule 7 he'd heard read out loud",
+    "replace": "Rule one said guides stayed belted from barn to barn. Rule seven he'd heard read out loud",
+    "reason": "typo"
+  },
+  {
+    "ch": 3,
+    "find": "\"That's done.\" He took a breath. \"And every ride, you can ask me one thing.",
+    "replace": "\"That's done. And every ride, you can ask me one thing.",
+    "reason": "repetition"
+  },
+  {
+    "ch": 6,
+    "find": "Since 4:50 that morning, staring at the ceiling, with a date on her chest like a cat.",
+    "replace": "Since 4:50 on Tuesday morning, staring at the ceiling, with a date on her chest like a cat.",
+    "reason": "continuity"
+  },
+  {
+    "ch": 7,
+    "find": "\"Then tell him when you see him.\" He went in for three members of the Carrow Cougars",
+    "replace": "\"Then tell him when you see him.\"\n\nHe went in for three members of the Carrow Cougars",
+    "reason": "dialogue-punct"
+  },
+  {
+    "ch": 8,
+    "find": "Hers was still damp too, under the knit hat.",
+    "replace": "Her hair was still damp too, under the knit hat.",
+    "reason": "clarity"
+  },
+  {
+    "ch": 8,
+    "find": "and it was sixteen again, the first scarecrow in her father's barn",
+    "replace": "and she was sixteen again, the first scarecrow in her father's barn",
+    "reason": "clarity"
+  },
+  {
+    "ch": 10,
+    "find": "Seven faces waited. Eight, with Kenzie's.",
+    "replace": "Six faces waited. Seven, with Kenzie's.",
+    "reason": "continuity"
+  },
+  {
+    "ch": 10,
+    "find": "\"Rule three,\" said Bev. \"Second sentence. 'An author may withdraw her story.'",
+    "replace": "\"Rule three,\" said Bev. \"Third sentence. 'An author may withdraw her story.'",
+    "reason": "continuity"
+  },
+  {
+    "ch": 11,
+    "find": "\"Rule three,\" said Roz. \"Second sentence.\"",
+    "replace": "\"Rule three,\" said Roz. \"Third sentence.\"",
+    "reason": "continuity"
+  },
+  {
+    "ch": 11,
+    "find": "My husband passed in 2020, in the April, with the virus,",
+    "replace": "My husband passed in 2021, in the April, with the virus,",
+    "reason": "continuity"
+  },
+  {
+    "ch": 11,
+    "find": "\"It's like if they cancelled Christmas,\" said a Bunco member",
+    "replace": "\"It's like if they canceled Christmas,\" said a Bunco member",
+    "reason": "typo"
+  },
+  {
+    "ch": 13,
+    "find": "from forty feet up a ladder.\" \"She broke it off. She said I talked",
+    "replace": "from forty feet up a ladder. She broke it off. She said I talked",
+    "reason": "dialogue-punct"
+  },
+  {
+    "ch": 19,
+    "find": "a knit hat with a pompom that she had obviously borrowed",
+    "replace": "a knit hat with a pom-pom that she had obviously borrowed",
+    "reason": "typo"
+  },
+  {
+    "ch": 23,
+    "find": "He stood without cheering, smiling, a real one, the one from the corn, and he was looking at her",
+    "replace": "He wasn't cheering. He was smiling, a real one, the one from the corn, and he was looking at her",
+    "reason": "clarity"
+  },
+  {
+    "ch": 24,
+    "find": "lit up the stubble and the dead stalks and the far line of the woodlot,",
+    "replace": "lit up the stubble and the dead stalks and the far line of the Woodlot,",
+    "reason": "typo"
+  },
+  {
+    "ch": 28,
+    "find": "had heard Rule one read out at the Harvest Supper every year of their lives.",
+    "replace": "had heard rule one read out at the Harvest Supper every year of their lives.",
+    "reason": "typo"
+  },
+  {
+    "ch": 30,
+    "find": "She'd known since two in the morning on her kitchen floor, since the rooster,",
+    "replace": "She'd known since two in the morning at her kitchen table, since the rooster,",
+    "reason": "continuity"
+  }
+]
