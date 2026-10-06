@@ -8,7 +8,9 @@ Roz Pietrowski had written the rule herself, which was the worst part.
 
 She had written it on the back of a Bakker's Diner placemat last October, in the middle of the Seat War, while two grown women argued over a wagon bench as if it were the last lifeboat off the *Titanic*. She had laminated it on the teachers' lounge laminator. Now it lay face up on the folding table beside the jar, and the jar was the same blue Ball canning jar the Carrow Haunted Hayride had used since 1987, quart-sized, gone faintly green with age, with a strip of masking tape on the side that said GUIDES in Dot Teague's handwriting.
 
-Forty-one folded ticket halves sat inside it. One of them had his name on it.
+Eleven folded ticket halves sat inside it, one for every volunteer who had signed up to guide. One of them had his name on it.
+
+Seven years ago, two weeks before their wedding, August VanderWal had driven out of Carrow for a job in Chicago. The next summer she had written him into a ghost story, and the whole county had paid fifteen dollars a head to hear it ever since.
 
 "Nobody touch the jar," Roz said into the microphone.
 
@@ -42,7 +44,7 @@ Lorna Bakker leaned in at the edge of the stage with a coffee mug in each hand a
 
 "I know. That's what I'm saying. You're not looking at him so hard it's making noise."
 
-Roz picked up the coffee and drank some, mostly so her hands would have a job. She did not look toward the coat hooks, where the back tables were, where at six-fifteen the door had opened and ninety heads had very carefully not turned. She knew where he was the way you know where a stove is.
+Roz picked up the coffee and drank some, mostly so her hands would have a job. At six-fifteen the door by the coat hooks had opened and ninety heads had very carefully not turned, and the whispers had started under the ham buns, low and fast as a fuse. *He's back for good, Ruth says. Bought her house off her, barn and all. Does she know he's here? She wrote him into the ghost story, didn't she? She knows. Look at her.* She knew where he was the way you know where a stove is.
 
 "Wagon Two first," she said into the microphone, and Lorna retreated to the diner table with both mugs.
 
@@ -80,7 +82,7 @@ It was her own name, Rosalind Pietrowski, in Dot's tidy cursive.
 
 "It's a *jar*, Ed."
 
-Another laugh, and she rode it straight back into the glass, because she had built the whole evening around this next part without admitting she had built it. There were forty names left. One of them was his. One in forty was two and a half percent, which was about the odds of rain on a day the weather service called clear, and she had stood under a lot of clear skies and stayed dry.
+Another laugh, and she rode it straight back into the glass, because she had built the whole evening around this next part without admitting she had built it. Ten names left. One of them was his. She had stood under a lot of clear skies and stayed dry.
 
 She drew, and unfolded it with her thumb.
 
@@ -134,7 +136,7 @@ At table four, Arlene Doornbos, who had been half of the Seat War, sat up straig
 
 "Arlene would absolutely," said three people at once.
 
-Bev did not laugh. Bev looked at Roz for a long moment with an expression Roz had seen on her exactly once before, in the back of St. Casimir's in June of 2019, over a pound cake.
+Bev did not laugh. Bev looked at Roz for a long moment with an expression Roz had last seen on her in the Pietrowski kitchen in October of 2019, the week he left, over a pound cake.
 
 "I'm trying to help you," Bev said quietly.
 
@@ -144,15 +146,13 @@ Bev did not laugh. Bev looked at Roz for a long moment with an expression Roz ha
 
 "It's handled *and* it's a hayride."
 
-"Bev," Lorna called from the diner table, "if you take it back now I'll give you the last slice of the sour cream raisin, and you know I don't give anybody the sour cream raisin."
-
 Bev took her hand off the jar. She picked up her casserole carrier. She went back down the two steps to her folding chair and sat and set the carrier on her knees and folded both hands over the lid of it like a lid on a lid.
 
 "Well," Bev announced to the room, "I hope it's a warm October."
 
 That was the most quotable thing anyone said all night, and everyone in Carrow knew it, and Roz could see Lorna across the hall mouthing it to Clyde so she would have it right for the diner in the morning.
 
-Roz drew the rest of the pairs. She did them on time and in order and she made the joke she always made about the no-chainsaws rule, and it landed, though not as well as usual. She thanked the Teagues for the land. She announced the walk-through, Thursday at six. The room clapped and the noise came back up, like a radio when you finally find the station.
+Roz drew the rest: the alternates, in pairs. She did them on time and in order and she made the joke she always made about the no-chainsaws rule, and it landed, though not as well as usual. She thanked the Teagues for the land. She announced the walk-through, Thursday at six. The room clapped and the noise came back up, like a radio when you finally find the station.
 
 Then the last part of the ritual arrived, and she had forgotten about it until it was standing in front of her.
 
@@ -176,7 +176,7 @@ Lorna took Clyde's half and kissed it, loudly. Clyde took Lorna's and put it in 
 
 "Paperwork," said Clyde.
 
-Danny handed out the halves. Roz stood beside him with her own ticket in her fingers, her name in Dot's handwriting, waiting to give it away.
+Danny handed out everyone's halves but hers. Roz kept her own in her fingers, her name in Dot's handwriting, waiting to give it away.
 
 He came up last. She could have told you he would. A man who sat at the back for two hours and ate one ham bun was a man who would stand at the end of the line. She could have built a scare around it.
 
@@ -184,23 +184,23 @@ She looked at him, because there was nowhere else to look.
 
 He was taller than she remembered, or he stood straighter, or her memory had been leaning on him. His hair was the color of wet sand and needed cutting. There was a carpenter's pencil behind his right ear, at a church supper, as if a measurement might break out at any moment. He wore a brown work jacket with sawdust in the seams, and his left pinky was crooked in a way it had not been seven years ago.
 
-He looks like somebody let him out of a coat, she thought. Like he'd hung on a hook a long time and wasn't sure yet how to stand without it.
+August VanderWal. Gus, to everybody in Carrow since kindergarten, except Bev and the Diocese and, as of tonight, her. He looks like somebody let him out of a coat, she thought. Like he'd hung on a hook a long time and wasn't sure yet how to stand without it.
 
 "Rosalind," he said.
 
-Nobody called her Rosalind but Bev and the Archdiocese of Kalamazoo. He said it like a word he had practiced in a truck.
+Nobody called her Rosalind but Bev and the Diocese of Kalamazoo. He said it like a word he had practiced in a truck.
 
 "August."
 
 Danny looked from one to the other like a man watching a tennis match he'd bet his car on.
 
-Roz held out her ticket. Gus looked at it and didn't take it, not right away, and she knew with a terrible, professional clarity what he was doing. He was giving her one more second to pull it back. He was building her an exit. He was standing very still so that if she wanted to take her hand away, nobody would see her do it.
+Roz held out her ticket. He didn't take it, not right away, and she knew with a terrible, professional clarity what he was doing: giving her one more second to pull it back, standing very still so that if she took her hand away, nobody would see.
 
 Her thumb pressed her own name flat against the tablecloth. She hated that he knew how.
 
 "Take it," she said. "I've got a jar full of people waiting to see if you do."
 
-"I could say I've got a conflict," he said, very low. "Thursdays, Fridays, all of October. I could say it's a work thing and nobody would have to watch you do this."
+"I could say I've got a conflict," he said, very low. "Fridays, Saturdays, all of October. I could say it's a work thing and nobody would have to watch you do this."
 
 "Do you have a conflict?"
 
@@ -210,7 +210,7 @@ Her thumb pressed her own name flat against the tablecloth. She hated that he kn
 
 He took it by the very edge, the way you'd take a slide out of a microscope, and his fingers didn't touch hers. Then he unzipped the work jacket halfway, reached inside to the left, and pinned her name to the lining with a safety pin he had brought in his pocket.
 
-He'd brought a pin. He had come to the Supper knowing that if his name came out of the jar beside anyone's, he'd be pinning them over his heart, and he had come anyway, with a pin.
+He'd brought a pin.
 
 "Thursday," she said. "Six o'clock, walk-through. Wear boots."
 
@@ -220,13 +220,13 @@ He'd brought a pin. He had come to the Supper knowing that if his name came out 
 
 "I remember the pond lane."
 
-There it was, the first crack. He said it plainly, no weight on it, and it landed on her like a dropped sandbag anyway. She took his ticket from Danny, August VanderWal in Dot's cursive, and pinned it inside her father's barn coat, the brown canvas one with the sleeves rolled twice, without looking at what her hands were doing. Her hands had been pinning things in the dark since she was a teenager. They knew the way.
+He said it plainly, no weight on it. She took his ticket from Danny, August VanderWal in Dot's cursive, and pinned it inside her father's barn coat, the brown canvas one with the sleeves rolled twice, without looking at what her hands were doing. Her hands had been pinning things in the dark since she was a teenager. They knew the way.
 
 "Thursday," Gus said, and touched the zipper of his jacket, over the pin, as if checking that it held.
 
 He turned to go. He made two steps toward the coat hooks before the table nearest the stage, where the Teagues and the Ruiters and three generations of Brinkses sat, made a sound like a drawer being pulled open.
 
-It was Dot Teague. Dot was eighty-one and had not stood up at a Harvest Supper since her hip, and she didn't stand now. She turned in her chair, a small woman in a red cardigan with an old dog collar buckled around her wrist like a bracelet, and looked up at him with the same pale, delighted blue eyes she'd had in 2008, when she hired two teenagers to scare strangers in her woods.
+It was Dot Teague. Dot was eighty-one and had not stood up at a Harvest Supper since her hip, and she didn't stand now. She turned in her chair, a small woman in a red cardigan with an old dog collar buckled around her wrist, and looked up at him with the same pale, delighted blue eyes she'd had in 2008, when she hired two teenagers to scare strangers in her woods.
 
 The hall, which had come back to life, went still again to listen.
 
@@ -242,13 +242,13 @@ Gus found it on Sunday morning on the kitchen counter, unplugged and wrapped in 
 
 "You're giving Aunt Joan the toaster," he said.
 
-"Joan's toaster caught fire in August." Ruth VanderWal came in from the dining room with a roll of packing tape on her wrist like a bracelet. "You have a toaster."
+"Joan's toaster caught fire over Labor Day." Ruth VanderWal came in from the dining room with a roll of packing tape hooked over one wrist. "You have a toaster."
 
 "I have a toaster in Chicago. Had. It's in a storage unit in Cicero with my couch and my good drill."
 
 "Then you have a toaster in Cicero." She tore a strip of tape with her teeth, which she had told him all his life never to do. "Eat your eggs."
 
-He ate his eggs. He ate them standing at the counter because the kitchen chairs were already labeled for Grand Rapids, and his mother studied him over the top of a box of cookbooks with the expression she'd had since August, when he'd pulled into the driveway with everything he owned that fit in a 2011 Ford Ranger and said, *I need to stay a while,* and she had said, *How long is a while,* and he had said, *Can I buy the house?*
+He ate his eggs. He ate them standing at the counter because the kitchen chairs were already labeled for Grand Rapids, and his mother studied him over the top of a box of cookbooks with the expression she'd had since the end of summer, when he'd pulled into the driveway with everything he owned that fit in a 2011 Ford Ranger and said, *I need to stay a while,* and she had said, *How long is a while,* and he had said, *Can I buy the house?*
 
 She had laughed at him. Then she had sat down on the porch steps and cried, and then she had named a price that was too low, and he had argued her up eight thousand dollars, and the bank in Paw Paw had argued him back down six.
 
@@ -270,7 +270,7 @@ He put his plate in the sink. The sink was not labeled, because the sink was sta
 
 It had sounded ridiculous. It had also sounded like his.
 
-"Dot asked me," he said. "In August. Before the Supper. She said she was short a guide, and I said yes before I thought about what that meant."
+"Dot asked me," he said. "Back in the summer. Before the Supper. She said she was short a guide, and I said yes before I thought about what that meant."
 
 "That's how you've always said yes to things," his mother said, not unkindly.
 
@@ -400,7 +400,7 @@ She was in the barn coat, the sleeves rolled, a coil of fishing line over one sh
 
 He found the belt and fastened it. She fastened hers.
 
-"FOG is mine," she said, to the cue box, not to him. "You don't touch FOG. FOG runs a chiller and a pump, and if you flip it at the wrong time the Woodlot ghost comes down in a cloud nobody can see, and I've built that ghost four times since 2009."
+"FOG is mine," she said, to the cue box, not to him. "It runs a pump on the far bank. You leave it alone."
 
 "Okay."
 
@@ -434,7 +434,7 @@ He rested it there and didn't push.
 
 <!-- POV: Roz -->
 
-A scare is just a promise you keep two seconds late, and Roz had been keeping them since she was fourteen.
+A scare is just a promise you keep two seconds late, and Roz had been keeping them since she was thirteen.
 
 The first Friday of October came in clear and cold, with a hard blue sky that went orange over the corn at a quarter to seven and then purple. By then the line for the Carrow Haunted Hayride ran from the ticket table past the pumpkin scale and halfway down the gravel drive, and the parking field was already two-thirds full of minivans with Kalamazoo plates.
 
@@ -526,7 +526,7 @@ Roz didn't use the walkie for the finale. She didn't stand up, either. She told 
 
 "Fifty years from now," she said, "somebody will tell you this happened a long time ago. It didn't."
 
-She felt him beside her. She did not look at him.
+She felt him beside her.
 
 "There was a girl on Hollins Road who sewed her own veil. And a boy on Hollins Road who bought a ticket for the 6:10 to Chicago. Two weeks before the wedding, he took it."
 
@@ -548,7 +548,7 @@ The lantern stopped in the middle of the pond. It hung over its own reflection.
 
 The whistle came.
 
-It came on the syllable. It came on *ten*, exactly, the way it was supposed to and had not, in six Octobers, ever once come, because every guide who'd ever sat on the right side of the bench had flipped it late, a half-beat or a full beat after the line, and she had made her peace with that the way she'd made her peace with Wagon Two's squeaky axle. A train whistle came out of the willows on the far bank, long and low and lonely, two notes falling, and it came on *ten*.
+It came on the syllable, the way it was supposed to and never had, because every guide who'd ever sat on the right side of the bench had flipped it late. A train whistle came out of the willows on the far bank, long and low, two notes falling.
 
 She heard him flip the toggle back. A small brass click.
 
@@ -556,13 +556,15 @@ She heard him flip the toggle back. A small brass click.
 
 The lantern went out.
 
-In the silence, before Hank could find the key, someone in the second row said, in a stage whisper that carried across the whole wagon and probably the pond, "Oh my God. That's *him*. That's the guy."
+In the silence, before Hank could find the key, someone in the second row said, in a stage whisper that carried across the whole wagon and probably the pond, "Oh my gosh. That's *him*. That's the guy."
 
 And thirty-two people turned their heads.
 
-It happened all at once, the way a flock turns. They turned from the pond, from the far bank where her lantern had just gone dark on the best cue she'd ever had, and they looked at the man on the right side of the front bench. They looked at the back of his head and the collar of his work jacket, and Roz knew, because she always knew where they were looking, that not one person on that wagon was looking at the water.
+It happened all at once, the way a flock turns. They turned from the far bank where her lantern had just gone dark on the best cue she'd ever had, and they looked at the back of his head, and not one person on that wagon was looking at the water.
 
-He didn't move. He sat with his hands on his knees and his belt on and looked straight ahead at the pond.
+Roz sat in the turned silence and heard her own line go around the wagon a second time in other people's mouths, *still choosing the city*. It sounded the way it had sounded the summer she wrote it at her kitchen table: mean, and good, and only true-ish. She had known it was cruel when she wrote it. She had said it anyway, six Octobers running, because it sold, and she had just said it again with him sitting there.
+
+He wasn't looking at the pond. For one second, in the dark, he was looking at her: a second look, quick and steady, the kind you give a rig to see if it held. Then he turned back to the water, and sat with his hands on his knees, and let them stare.
 
 "Hank," Roz said into the walkie, and Hank started the engine, and the wagon rolled home.
 
@@ -592,7 +594,7 @@ She came out from under the wagon. She stood up and brushed the gravel off her k
 
 He blinked. "What?"
 
-"The whistle. Nobody hits that cue. Every guide since 2020 has been late. You hit it on *ten*."
+"The whistle. Nobody hits that cue. Every guide since 2020 has been late. You hit it on the word."
 
 "I read it about forty times on a bucket," he said. "It seemed like the least I could do."
 
@@ -608,11 +610,15 @@ He was quiet for a moment. Across the yard, Bev was making change and very obvio
 
 "What?"
 
-"The story. Tell it like it's written. Every ride. I'll sit there and I'll hit the whistle and I won't say anything and I won't make a face." He looked at the wheel too, as if it were easier. "That's not a favor. You don't owe me anything for it. It's your story. They came for it."
+"The story. Tell it like it's written. Every ride. I'll sit there and hit the whistle, and if anybody wants to talk to me about it, I'll talk to them, and I won't make a face." He looked at the wheel too, as if it were easier. "That's not a favor. You don't owe me anything for it. It's your story. They came for it."
 
 "They came for you, apparently."
 
-"Then they'll get me." He took a breath. "And every ride, you can ask me one thing. Anything. And I'll answer it true. Not nice. True."
+"Then they'll get me." He took a breath. "I'm sorry, Roz. Not for the story. For how I left. I'm not asking for anything for it. I just haven't said it out loud to you, and I'd like that done before the second ride."
+
+She didn't answer. She couldn't find the part of herself that answered things.
+
+"Okay," he said. "That's done." "And every ride, you can ask me one thing. Anything. And I'll answer it true. Not nice. True."
 
 She stared at him.
 
@@ -640,7 +646,7 @@ He climbed up first. She stood by the wheel for three more seconds, which was al
 
 She told it seven times that night.
 
-She told it on the 7:40 with Mateo whispering the words along with her, because he knew them. She told it on the 8:20, when the line had grown past the drive to the road, and somebody near the back of the wagon held up a phone with its screen lit and then put it away, embarrassed, when Roz looked at it. She told it on the 9:00 and the 9:40 and the 10:20. She told it exactly as written, every word in its place, the veil and the 6:10 and the lantern, and every time she reached *that's the 6:10*, the whistle came on *ten*, and every time the wagon turned to look at him, and every time he sat with his hands on his knees and looked at the water.
+She told it on the 7:40 with Mateo whispering the words along with her, because he knew them. She told it on the 8:20, when the line had grown past the drive to the road, and somebody near the back of the wagon held up a phone with its screen lit and then put it away, embarrassed, when Roz looked at it. She told it on the 9:00 and the 9:40 and the 10:20. She told it exactly as written, every word in its place, the veil and the 6:10 and the lantern, and every time the whistle came, the wagon turned to look at him, and every time he sat with his hands on his knees and looked at the water.
 
 By the 10:20, Danny was putting cars on the shoulder of Hollins Road.
 
@@ -684,9 +690,9 @@ She didn't look at him. She said it to the corn.
 
 He didn't answer right away. Marguerite rattled over a rut. Behind them a teenager laughed at something on a phone.
 
-"Dot asked," Gus said. "In August. She was short a guide." He paused. "And I didn't want to be somebody who hides from a hayride."
+"I wanted to hear you tell it," Gus said. "Guys at the shop in Chicago had heard of it. A lighting designer from Holland told me about it at a bar in 2022, the bride and the 6:10, like it was a thing that happened to somebody else. I wanted to hear it once in person, from you, and know it was mine." He paused. "That's the selfish answer. Dot asking is the other one."
 
-The wagon came out of the corn into the yard light, and Hank swung it wide around the pumpkin scale, and Marguerite coughed to a stop by the pumpkin scale.
+The wagon came out of the corn into the yard light, and Hank swung it wide around the pumpkin scale, and Marguerite coughed to a stop.
 
 * * *
 
@@ -814,7 +820,7 @@ Marguerite lurched forward. Roz turned back around and sat and looked straight a
 
 Gus sat with popcorn down his back and did not say anything, because there was nothing to say that would not make it worse. But he thought it, all the way to the pond. He thought: she told it as written. She'll tell it as written at the pond in four minutes. And she just stopped a tractor in the woods so a kid would call me Mr. VanderWal.
 
-At the pond, she told it as written. He hit the whistle on *ten*. They turned.
+At the pond, she told it as written. He hit the whistle. They turned.
 
 * * *
 
@@ -1062,7 +1068,7 @@ The trouble with changing a last line was that somebody always knew the old one 
 
 Roz should have built for that. She built for everything else. She had built for wind on the pond line and rain in the battery box and the Hoekstra boys' frosting fingers, and on the second Friday of October, with the pencil copy folded in her coat pocket against his ticket half, she had not built for the lady from Battle Creek.
 
-The 7:00 and the 7:40 went as written. She'd decided that in the car: two rides clean, as approved, to get her nerve up, the way you test a rig with a sandbag before you hang a person on it. On both rides he flipped WHISTLE on *ten*. On both rides the wagon turned. On the 7:40 a man in a Detroit Lions jacket actually stood up, belt-free, on the hay bale to get a better look at Gus, and Roz said "Sit," in the voice, and he sat so fast the bale squeaked.
+The 7:00 and the 7:40 went as written. She'd decided that in the car: two rides clean, as approved, to get her nerve up, the way you test a rig with a sandbag before you hang a person on it. On both rides he hit the whistle. On both rides the wagon turned. On the 7:40 a man in a Detroit Lions jacket actually stood up, belt-free, on the hay bale to get a better look at Gus, and Roz said "Sit," in the voice, and he sat so fast the bale squeaked.
 
 At 8:15 Bev climbed up into the third row of Wagon One with her clipboard and a stadium cushion.
 
@@ -1096,7 +1102,7 @@ She told it as written all the way down. The girl. The veil. The 6:10. The lante
 
 "And if you hear a whistle," she said, "that's the 6:10."
 
-The whistle came on *ten*.
+The whistle came.
 
 "That's him," Roz said, and reached into her pocket for nothing, for the folded pencil copy she didn't need because she'd known it since Thursday, and she said, quietly, "maybe still deciding."
 
@@ -1208,7 +1214,7 @@ Dot's hand stayed on her cane.
 
 She told it as approved on the 9:40, and the 10:20, and the 11:00.
 
-Gus didn't say anything about it. Not between the 9:40 and the 10:20, when she stood by Marguerite's wheel and checked a battery terminal that was fine. Not on the 10:20, when he flipped WHISTLE on *ten* and the wagon turned and turned back. He didn't say *you didn't have to do that* or *I'm sorry they warned you* or any of the things she had braced for, the way you brace for a scare you've seen coming down the line. He just sat beside her with his hands on his knees, and once, on the long stretch back along the corn, when the wagon hit the bad rut by the drainage culvert and she jolted sideways, he put one hand flat on the bench between them so she wouldn't slide, and took it away again before she could notice that he had.
+Gus didn't say anything about it. Not between the 9:40 and the 10:20, when she stood by Marguerite's wheel and checked a battery terminal that was fine. Not on the 10:20, when he hit the whistle and the wagon turned and turned back. He didn't say *you didn't have to do that* or *I'm sorry they warned you* or any of the things she had braced for, the way you brace for a scare you've seen coming down the line. He just sat beside her with his hands on his knees, and once, on the long stretch back along the corn, when the wagon hit the bad rut by the drainage culvert and she jolted sideways, he put one hand flat on the bench between them so she wouldn't slide, and took it away again before she could notice that he had.
 
 She noticed.
 
@@ -1226,5 +1232,403 @@ He didn't answer right away. He never answered right away. She was learning that
 
 The wagon creaked. Hank coughed.
 
-"Then every other Sunday," he said. "Then sometimes. You said not to." He paused, and when he went on, his voice was very plain, the way it had been when he told her about the jeweler. "Not calling was the easiest thing I ever did, Roz. That's the truth. It was so easy. You'd told me not to, so I had permission. And I've hated that ever since."
+"Then every other Sunday," he said. "Then sometimes. You said not to."
+
+He paused. When he went on, his voice was very plain, the way it had been when he told her about the jeweler.
+
+"Not calling was the easiest thing I ever did, Roz. You'd told me not to, so I had permission. It was so easy."
+
+The yard lights came through the corn.
+
+"And I've hated that ever since."
+
+## Chapter 7
+
+<!-- POV: Gus -->
+
+Bev had painted the sign herself, and you could tell, because the letters got smaller toward the end as she ran out of plywood.
+
+DUNK THE GROOM, it said, in barn-red house paint. $2 A THROW / 3 FOR $5. Underneath, cramped and urgent: ALL PROCEEDS TO THE HAYRIDE WAGON FUND!! The second exclamation point had a smiley face in the dot.
+
+"Now," said Bev. "Before you say anything."
+
+Gus stood on the Grange Hall lawn at nine-fifteen on Saturday morning with a cup of Lorna's coffee in his hand and looked at the dunk tank. It was the Lions Club dunk tank, the one they rented out every summer for the Fourth, a blue fiberglass tub on a trailer with a cage on top, a little plank seat, and a round red target on a lever arm. Someone had already filled it with water from the fire hydrant on Main. The water was, by its look, roughly the temperature of Lake Superior in March.
+
+"It's for the wagon," Bev said. "The Lions said we could have it for free if we gave them the hot dog concession, which, fine. Danny was going to sit in it. He backed out."
+
+"Danny backed out?"
+
+"Danny said, and I'm quoting, 'Bro, no.'" Bev adjusted her pumpkin brooch. "And then I thought, well, people would pay more for a groom."
+
+"I'm not anybody's groom."
+
+"You were very nearly somebody's groom, August, and that's the part people will pay for." She folded her arms. "You can say no. Your back can go out. I'm told it's going around."
+
+There was a moment, standing there with the coffee, when he saw exactly what she had built. Bev had made a sign she knew he'd see, on a lawn the whole town would walk past, and if he said no, then that was a story too: *the groom wouldn't even sit in the dunk tank for the wagon fund.* And if he said yes, then that was the better story, the one she'd actually come for, the one where the whole town of Carrow lined up with softballs.
+
+He had promised himself in the truck in August that he would not argue with anybody about 2019, and that included Bev Oosterhouse and her plywood.
+
+"Do I get a towel?" he said.
+
+Bev blinked. It was the first time he had ever seen Bev Oosterhouse surprised, and he took a small private moment to enjoy it.
+
+"There's a towel," she said slowly. "Arlene brought towels."
+
+"Then I'll sit in it."
+
+"You'll sit in it."
+
+"Till noon. Then I've got to get the truck to the hayride for Hank." He handed her his coffee. "Hold this, Mrs. Oosterhouse. It's Lorna's. It's good."
+
+* * *
+
+Standby dunk tank, he thought, climbing the little aluminum ladder into the cage. Dunk tank, go.
+
+The water came up to the bottom of the plank and lapped there. It had a few yellow maple leaves floating in it and, inexplicably, a rubber duck. He sat. The plank was about as wide as a two-by-ten and smelled like the Fourth of July.
+
+The first customer was Mason Kuiper, who paid five dollars for three throws, wound up like a major-leaguer, and missed all three, the last one so badly it hit the hot dog stand.
+
+"Rule nine," called Gus, through the cage.
+
+"That's for the *wagon*," yelled Mason.
+
+"Mrs. Oosterhouse has extended it to the whole county."
+
+Mason went red and paid five more dollars. He missed two more times and then hit the target with the third, and the lever clanged, and the plank dropped out from under Gus like a trapdoor, and he went into the water.
+
+It was exactly as cold as it looked. It was colder. It closed over his head and filled his ears and went down the back of his collar and up the legs of his jeans, and he came up spluttering into the bright October morning with a maple leaf on his face and a crowd of about thirty people on the Grange lawn cheering like the Lions had won the Super Bowl, which they had not, ever.
+
+"Two dollars!" Bev was calling, somewhere. "Two dollars a throw! Wagon fund!"
+
+He climbed back onto the plank. He took the leaf off his face. The line had become a line.
+
+* * *
+
+He went into the water nineteen times before eleven o'clock.
+
+He went in for Arlene Doornbos, who threw underhand and hit the target on her first try.
+
+"Oh, I'm sorry," Arlene said, hands to her face, while he surfaced. "Oh, August, I'm so sorry. Can I have two more?"
+
+He went in for Ed Brinks, who rolled his shoulder like a pitcher on a mound.
+
+"Forty years of church league," Ed announced to the lawn, "and I finally get to throw at a VanderWal."
+
+"I've never done anything to you, Ed."
+
+"Your dad struck me out in the '79 Kalamazoo County final with the bases loaded," said Ed, and threw, and the lever clanged. "Tell him that one's from me."
+
+"He's been dead eleven years, Ed," Gus said, coming up for air.
+
+"Then tell him when you see him." He went in for three members of the Carrow Cougars junior varsity football team, one of whom was Mason again, who had found his arm. He went in for the youth pastor from First Reformed, who said "Sorry! Sorry!" while throwing. He did not go in for Marv Kuiper, who missed nine times in a row with great cheerfulness and kept paying, and whom Gus privately decided was the best person in Carrow.
+
+Between dunks, between the clang and the cold and the climb, he could hear the rest of Harvest Days going on around him, the way you hear a show from backstage. The Ladies Aid pie auction on the Grange steps, with Clyde Mulder as auctioneer, saying "Fifteen. Fifteen. Do I hear fifteen. I don't care if I hear fifteen," in a perfect monotone. The corn maze behind the Grange, the little one the 4-H cut every year, full of shrieking eight-year-olds. The cider press at the Kuipers' booth, creaking. Lorna's diner booth, where she was selling pumpkin spice cinnamon rolls and arguing with a man from Paw Paw about whether pumpkin spice was a flavor or a lifestyle.
+
+"It's a *flavor*," Lorna was saying. "It's nutmeg and cinnamon and clove and ginger, it's in every pie my grandmother ever made, the only thing new is the *Starbucks*."
+
+At about ten-thirty, Mateo Salas arrived at the front of the line holding a caramel apple on a stick in one hand and two crumpled dollar bills in the other.
+
+"Mrs. Salas," Gus said, through the cage, to Inés, who was standing behind her grandson with her knitting bag. "Good morning."
+
+"Good morning, August. He's been saving these since the bake sale." Inés did not look up from her needles. "Don't let him hit you in the face."
+
+Mateo handed his two dollars to Arlene, who gave him one softball. He looked at the softball. He looked at the caramel apple. He seemed to realize, belatedly, that he had one hand too few, and he stood there in the grass for a while working the problem.
+
+"Want me to hold the apple?" asked Gus.
+
+"You're in a cage."
+
+"I've got long arms."
+
+Mateo considered it. Then he walked up to the cage, solemnly, and passed the caramel apple through the bars, stick first, and Gus took it and held it up out of the water like a torch.
+
+"You have to aim low," Gus told him. "The target's heavier on the left side, so it needs a lower hit to trip it. See where the paint's chipped? Hit right there."
+
+"Why are you telling me how to dunk you?"
+
+"Because you saved since the bake sale."
+
+Mateo stared at him. Then he turned and walked back to the line Arlene had made in the grass with a strip of duct tape, and planted his feet, and wound up, and threw, and the softball went about eleven feet and rolled under the trailer.
+
+There was a pause.
+
+"That's fine," said Gus. "That was practice."
+
+"I only got one."
+
+From the line, about five people back, a woman's voice said, "He gets another."
+
+Gus didn't have to look. He knew her voice the way he knew the sound of a table saw starting: before it finished the first word.
+
+Roz came up the line with her hands in the pockets of the barn coat. She had been running the 4-H maze ticket table on the far side of the lawn all morning; he had been aware of her over there, the way you're aware of the exit sign in a dark theater, a small steady light in the corner of everything. She was wearing a knit hat with a pom-pom that one of her students had obviously made, because it was lopsided and said MISS P on it in yarn. She did not look at him. She handed Arlene a five-dollar bill.
+
+"Three," she said. "One's his."
+
+Arlene, who had been on the committee the night before, looked at the five dollars as if it might be evidence. She gave Roz three softballs. Roz handed one to Mateo.
+
+"Low," she said to him. "And left. He told you right. The lever's sticky."
+
+"I *know*," said Mateo.
+
+He threw. It hit the very bottom of the target, the chipped spot, so softly it barely made a sound, and the lever clanged, and the plank dropped, and Gus went into the water still holding the caramel apple over his head like the Statue of Liberty.
+
+He came up and the apple was dry. The crowd on the lawn lost its mind. Mateo stood frozen with both arms in the air, and Inés Salas, still knitting, said "Bravo," and the youth pastor clapped.
+
+He climbed back up onto the plank, with the apple, dripping.
+
+That was when Roz threw.
+
+He didn't see her wind up. He saw the softball, already in the air, already low and left. She threw the way she did everything, without a wasted motion, and it hit the target dead center with a sound like a door slamming. The lever clanged. The plank fell.
+
+He went in.
+
+When he came up this time, there was no cheering at all. The whole lawn had gone quiet. Not angry quiet. The other kind, the Grange Hall kind, ninety people waiting to see. Clyde had stopped the pie auction mid-fifteen.
+
+Roz walked up to the cage. She had one softball left in her hand. She looked at him through the bars, at his wet hair and the caramel apple and the maple leaf on his shoulder, and for one second he thought she might throw it, right there, from three feet, just to see.
+
+"Get out," she said.
+
+"What?"
+
+"Get out of the tank, August."
+
+He looked at Bev. Bev, holding his coffee, looked at Roz.
+
+"Rosalind," Bev said, "he's paid up till noon."
+
+"He's done. Get out."
+
+He climbed out. He came down the aluminum ladder, streaming water, and handed Mateo his caramel apple through the side of the cage, and stood on the grass in his soaked jeans while Arlene threw a towel at him.
+
+Roz handed her last softball to Mateo. Then she took off the barn coat, and folded it, and laid it on the hay bale next to the cash box, and took off the lopsided MISS P hat and put it on top, and climbed the little ladder herself, in her flannel shirt and her jeans and her school shoes, and sat down on the plank.
+
+"Two dollars a throw," she said, to the lawn, in her rules-speech voice. "Three for five. Wagon fund. The groom's closed. The chair's open."
+
+Nobody moved.
+
+"Ed," she said. "I know you've got a five."
+
+Ed Brinks, slowly, reached into his overalls.
+
+The line formed again. It formed faster than before, and louder, and happier, the way a crowd gets when it has been given permission to do something it slightly wanted to do but wasn't sure it was allowed. Ed dunked her on his second throw. Arlene dunked her, underhand, and apologized. The football players got her twice. Lorna came out from the diner booth wiping her hands on her apron and paid ten dollars and missed every throw on purpose, wildly, and then threw the last one straight into the target and said "*That's* for the sour cream raisin."
+
+Gus stood on the grass with a towel around his shoulders while she went into the cold water and come up and climb back onto the plank, again and again, her hair plastered to her head, her jaw set, not once looking toward where he stood.
+
+It was the Woodlot all over again: a tractor stopped in the dark for a handful of popcorn. She was stopping the line. She'd never say so, and if he said it to her she'd tell him it was for the wagon fund. But Carrow had lined up for an hour to dunk the groom, and she had put herself in the water instead, and you didn't need to be a stage manager to read that cue.
+
+His mother appeared beside him with a dry flannel shirt over her arm. She had a look on her face he hadn't seen since he was a boy who'd come home with a ribbon.
+
+"I brought this from the truck," Ruth said. "You'll catch your death."
+
+"Thanks, Mom."
+
+"Which side of the coat?" Ruth said.
+
+"What?"
+
+"Her coat. The ticket. On the bale there." His mother nodded at the folded barn coat on the hay bale. "Which side did she pin it?"
+
+He looked at the coat. He didn't touch it. He didn't need to; he'd watched her pin it at the Supper.
+
+"Left," he said.
+
+"Hm," said Ruth, and went off toward the pie auction, where Clyde had resumed at fifteen.
+
+Behind him, at the diner booth, Lorna slid an index card across her pie tin.
+
+"Okay, so," she announced to the lawn. "Sour cream raisin's up three slices."
+
+## Chapter 8
+
+<!-- POV: Roz -->
+
+The fog died on the 9:00 ride, which was the worst possible ride for anything to die on, because the 9:00 on a Saturday was full of people who had driven an hour and paid for a pond.
+
+Roz flipped FOG at *look across the water* and nothing came out from under the willows. No low white sheet sliding onto the black. Just black. The lantern lifted off the far bank anyway, alone, naked, a light on a string, and from the wagon in the dark you could see it was a light on a string, the way you can see a puppeteer's hand when the stage lights come up too fast.
+
+She kept her voice level. She finished the story. He hit the whistle. The wagon turned to look at him. For once she was grateful.
+
+"FOG's out," she said into the walkie on the way back, low. "Lorna, if yours is out too, tell me."
+
+"Ours is fine," said Lorna's voice, crackling. "Ours is great. Ours is so foggy Clyde said something."
+
+"What did he say?"
+
+"He said 'foggy.'" A pause. "You want me to send Danny down?"
+
+"No. I'll do it after."
+
+"After the 11:00? Roz, it's going to be twenty-two degrees."
+
+"That's why after," Roz said, and clicked off.
+
+Beside her, Gus said nothing. He'd been very quiet all night. His hair was still damp at the ends from the dunk tank, though he'd had seven hours to dry, and he'd come to the barn at six-thirty-five in a dry flannel and a VanderWal Scenic hoodie she had never seen before, navy blue with the letters in white, as if he'd had them printed and then lost his nerve about wearing it in public and then found it again. Hers was still damp too, under the knit hat. Neither of them had mentioned the dunk tank. It sat between them on the bench like a third guide.
+
+They did the 9:40 and the 10:20 and the 11:00 without fog, and she hated every one of them, quietly, the way you hate a sticky key on a piano you're playing in front of people.
+
+* * *
+
+At ten past midnight the yard was empty. Hank had driven Marguerite into the machine shed and gone home without a word. The last cars were pulling out of the field with their headlights swinging over the corn. Bev had chalked $13,900 on the board and locked the shed.
+
+Roz got her headlamp and her red tool bag from the Lab bin in the barn and started down the pond lane on foot.
+
+Behind her, boots on gravel.
+
+She stopped. She didn't turn around.
+
+"I'm not asking you to come," she said.
+
+"I know you're not."
+
+"It's a fog machine. I built it. I can fix it."
+
+"I know you can." His boots stopped too, about ten feet back, which she noted, because she noted everything. "I'm not coming to fix it. I wouldn't know where to start. You built a fog machine with a dry-ice chiller in a horse trough. That's not my department."
+
+"Then why are you here?"
+
+He was quiet for a second.
+
+"It's a quarter mile in the dark to the far side of the pond," Gus said. "It's twenty-two degrees. And the last person who walked down there alone at midnight in this town was a lady in a ghost story, and you wrote her, so you know how that ended."
+
+She almost laughed. She put it away.
+
+"Help," he said, "or hold the flashlight? Your call. I'll do either. I'll go home if you want. But it's got to be one of the three."
+
+The wind came across the field and moved the corn, a long dry rattle like someone running a stick along a fence. Her hands were already cold in her gloves. The pump in the fog rig had a ceramic seal, and if there was water in the line when it froze, the seal would crack, and she did not have a spare, and the closest spare was in a warehouse in Ohio, and the next ride was Friday.
+
+"Flashlight," she said.
+
+* * *
+
+The fog rig lived under the willows on the far bank in a plywood box painted black, hinged on top, with a vent cut in the side facing the water. Inside it was a glycol fog machine she'd bought used from a high school theater in Portage in 2019, a ninety-gallon Rubbermaid stock tank she called the horse trough, a coil of copper tubing, a pump, and enough extension cord to run a carnival. It took them twelve minutes to get there around the edge of the pond through the wet grass. She opened the lid and the smell came up at them, glycol and wet plywood and cold metal.
+
+"Hold it on the pump," she said. "There. No, lower. There."
+
+He held it on the pump. He held it absolutely still. She'd forgotten that about him, or she'd made herself forget: how still his hands were when they had a job. He'd been like that at fifteen, holding the ghost line in the Woodlot, rigid with the effort of not pulling early. He'd been like that at twenty-three on the ladder in her father's barn, holding a beam while her father nailed it. Now he crouched on the wet grass beside the black box with her old silver Maglite in his fist and the beam lay on the pump as steady as if it had been bolted there.
+
+It took her ten minutes to find it. The fluid line from the tank to the heater block was split, a hairline crack along the vinyl, right where the tubing bent around the frame. The cold had made it brittle and the vibration had done the rest, and the fluid had been weeping out onto the bottom of the box all night into a tacky little puddle she put her glove in.
+
+"There you are," she told it.
+
+"Who?"
+
+"The line. It's split."
+
+"Do you have another line?"
+
+"No."
+
+He didn't say anything. She'd braced for it, the thing he'd have said at twenty-five, the *what if we* or *I could run to the hardware store in the morning* or, worst, *let me look at it.* He didn't say any of it. He held the light.
+
+She sat back on her heels.
+
+"Hardware's closed till Monday," she said, mostly to the pump. "Meijer in Portage won't have food-grade tubing in a three-eighths ID at one in the morning, because nobody in the history of Meijer has needed that at one in the morning."
+
+"Except you."
+
+"Except me." She pulled off a glove and pressed her fingers to the tank. "It's going to be nineteen by four."
+
+"Is that bad?"
+
+"That's a cracked seal and no fog till November."
+
+She ran down a list of every hose she owned. The garden hose: wrong diameter, wrong material. The washing machine hose: wrong fittings. The hose in the—
+
+"Kitchen sink," she said.
+
+"What?"
+
+"The sprayer. On the kitchen sink. At my house. It's a braided line on a quick-connect. It's the same ID. It's rated for hot water." She was already standing up. "I can cut it to length and clamp it."
+
+"You're going to take apart your kitchen sink."
+
+"Danny never uses the sprayer. He thinks it's a trap."
+
+"It *is* a trap," said Gus, who had once, in 2018, at her kitchen sink, sprayed himself full in the face, and they both remembered it, she could tell by the way the flashlight beam jumped a half inch and came back.
+
+She didn't laugh. It was very close.
+
+"Fifteen minutes," she said. "Drain the line while I'm gone. There's a valve at the bottom of the tank. Quarter turn. Don't touch anything else."
+
+"Quarter turn on the valve."
+
+"And hold the light on it so I can find it when I get back."
+
+"I'll be right here," he said.
+
+* * *
+
+She drove home in the Explorer with the heater roaring and pulled the sprayer hose out from under her kitchen sink by headlamp at 12:51 a.m. while Danny slept upstairs. She cut it with her father's tin snips, kept the quick-connect end, and put the rest of the sink back together badly. She was back at the pond at 1:09.
+
+He was exactly where she'd left him. Crouched by the box with the Maglite on the valve. The puddle on the floor of the box had grown, which meant he'd drained the line, which meant the seal was safe, which meant the whole night had gone from a disaster to an errand.
+
+"You drained it."
+
+"Quarter turn. You said."
+
+"I did say." She knelt down beside him. "Light on the heater block."
+
+He moved the light.
+
+It took her forty minutes after that, because the clamps were the wrong size and she had to file one down, and because her fingers stopped working properly at about 1:30 and she had to put them inside her coat, under her arms, and wait. He held the light the entire time. He didn't offer to file the clamp. He didn't offer to hold the clamp. Once, when she dropped a hex key into the wet grass and swore, quietly, a word she would never have used in room 114, he swept the beam over the grass in a slow, even arc until it caught the little glint of steel, and held it there, and didn't say anything, and she picked it up.
+
+Somewhere around the second clamp she stopped being angry about the fog. The steady white circle of light went exactly where she needed it a second before she needed it, and it was sixteen again, the first scarecrow in her father's barn with the radio on, when every problem had a part.
+
+"Nice hoodie," she said, without looking up from the clamp.
+
+The light didn't move. "I had twelve printed."
+
+"Twelve?"
+
+"Minimum order. I've got eleven more in a box in the barn. I was going to give them to my crew."
+
+"You don't have a crew."
+
+"I was going to give them to my crew," he said, "eventually," and she bit the inside of her cheek and filed the clamp.
+
+"Is VanderWal Scenic a real thing," she said, "or is it a hoodie?"
+
+"It's a barn, a borrowed table saw, one contract for a college opera in March, and a hoodie." The beam stayed perfectly still on the fitting. "So it's real-ish."
+
+"What's the opera?"
+
+"Mozart. Everyone's in disguise and nobody can tell who they're in love with."
+
+"Sounds stupid."
+
+"It's very stupid," he agreed. "It's three hours long. I'm building them a garden with a hedge you can hide behind."
+
+At 1:52 she clamped the last fitting, filled the line from the jug, and flipped the rig's test switch.
+
+The pump hummed. The heater block ticked. Then, out of the vent in the side of the black box, white fog came, thick and slow, and slid out over the bank and down onto the pond, and lay on the black water in the light of the Maglite like milk poured into coffee.
+
+They watched it for a while. Neither of them said anything.
+
+She was sitting on the wet grass with her back against the fog box, her hands inside her coat. He was crouched beside her with the flashlight, which he'd turned off, finally, because there was enough moon now to see the fog by. His knees must have been killing him. He didn't move.
+
+"That's eighty minutes," she said. "You held a flashlight for eighty minutes."
+
+"Seventy-nine. I checked when you got back with the hose."
+
+"Why didn't you offer to help?"
+
+"You said flashlight."
+
+She looked at him then. She didn't mean to. She'd been not looking at him for eight days and she was good at it, and she was cold and tired and it was two in the morning and her kitchen sink was in pieces, and she turned her head and looked at him in the moonlight. He looked back. His face was very plain. He wasn't trying to make it do anything.
+
+She had a question. It was Saturday; it was still, technically, if you didn't count midnight, the fourth night. She had the real one ready, the one she'd been carrying since Thursday: *Why didn't you fight me? When I said go. Why didn't you even argue?*
+
+She opened her mouth, and what came out was:
+
+"What did Chicago smell like?"
+
+He was quiet for a moment, and she could see him notice that it wasn't the question she'd meant, and decide not to say so.
+
+"Burnt coffee," Gus said. "Sawdust, at the shop. The El, in the summer, like hot brakes. The lake, when the wind was right, and the wind was almost never right." He looked out at the fog on the water. "Never like this."
+
+"Like what?"
+
+"Glycol. Wet grass. A woman who took apart her own kitchen sink at midnight to save a pump." He stood up, slowly, with a sound in his knees like a dropped bag of marbles. "I'll walk you back."
+
+They walked back around the pond to the lane, the fog still pouring out of the box behind them, sliding across the water, filling the low place where the lantern would ride on Friday. Halfway up the lane she turned around. Under the moon the whole pond had gone white, edge to edge.
 
