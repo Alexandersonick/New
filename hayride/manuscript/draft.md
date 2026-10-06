@@ -3944,3 +3944,289 @@ He thought about it. She could see him turn the question over and look for the t
 
 "I don't know yet," Gus said. "That's why I want to tell you."
 
+## Chapter 23
+
+<!-- POV: Roz -->
+
+On the second-to-last Friday of the season, everything that could need Roz at once needed her at once, and she let it, because it meant she didn't have to find out what his thing was.
+
+Hank's new hitch pin went in at five-fifteen. Hank put it in himself, on his back on a piece of cardboard in the gravel, and then lay there looking at it with a flashlight while Roz stood over him with the clip.
+
+"It's from Ohio," she told him, after ten minutes.
+
+"Yup."
+
+"Not China."
+
+"Yup."
+
+"It's rated for twelve thousand pounds, Hank. It'll hold Marguerite twice."
+
+Hank slid out from under the wagon. He stood up. He brushed off his knees and looked at her for a long moment, and then he said, with great seriousness, "Ohio's close to China," and lay back down on the cardboard to look at it for another ten minutes, exactly as she'd predicted in aisle nine.
+
+At five-forty the reeds rig on the far bank wouldn't talk to the bark. She went down the pond lane at a jog with her red tool bag and found a mouse had chewed through the signal wire in the night, a clean bite, right through the insulation. She spliced it on her knees in the wet grass by headlamp while the mouse, or a relative, watched her from the willows.
+
+At six-ten Joyce from Battle Creek arrived with the Bunco. All twelve of them. In pink. They'd made new buttons. The new buttons had a lantern on them, a small one, and under it, in tiny letters, WE'RE LOOKING FOR SOMEBODY.
+
+"We heard," Joyce said, at the wagon step, very seriously. "About the boy. We're on the 8:20."
+
+"You don't have to come back for this one, Joyce."
+
+"Honey, we want to," said Joyce. "Sharon made the buttons in one night. Sharon has a Cricut."
+
+At six-twenty-five Kenzie Vos showed up with a photographer from the *Ledger* who was also her cousin.
+
+"Just the wagon at dusk," Kenzie said. "For the web edition. The sky's doing a thing. We won't get in the way."
+
+"You can shoot the wagon," said Roz. "Not the bench."
+
+"Of course. Totally. Not the bench." Kenzie turned to the cousin. "Not the bench, Tyler."
+
+The cousin, who was twenty-two and had a camera the size of a casserole, immediately photographed the bench.
+
+"Tyler," said Roz, walking over. "Rule nine. Nobody touches a rider. I'm extending it tonight to lenses. Do you know what happens to people who break rule nine?"
+
+"They... walk back to the barn?"
+
+"They walk back to the barn in the dark, past Ed Brinks and his lantern, and they explain to their cousin's grandmother at the diner on Saturday morning why they're not allowed on the hayride anymore." She held out her hand. "Delete it, please."
+
+He deleted it.
+
+And at six-thirty, Gus came across the yard toward the wagon, with his hands in his jacket pockets and his face set in the careful way it went when he had decided something and was carrying it like a full cup.
+
+"Roz," he said. "Do you have a minute?"
+
+"Not right now."
+
+"Five minutes."
+
+"The bark's spliced with electrical tape and a prayer, Hank's in love with a hitch pin, and the Bunco's back with a Cricut." She didn't look at him. She was counting lanterns on the Corn Stop wagon, which she had already counted, which she knew were forty. "After."
+
+"After the 7:00?"
+
+"After the night."
+
+He stood there. She could feel him standing there.
+
+"Okay," he said. Then: "Sorry. I'm still working on that."
+
+She didn't laugh. She almost did. She kept her eyes on the lanterns and counted them again, thirty-eight, thirty-nine, forty, and when she looked up he was climbing onto the bench.
+
+* * *
+
+The 7:00 went out full. So did the 7:40 and the 8:20 and every ride after.
+
+They came for the lanterns. That was what everyone said on the line, at the ticket table, getting off the wagon. *We came for the lanterns.* But Roz had built enough rides to know there were two kinds of people on every wagon that night, and she could tell them apart at the Orchard Gate. There were the ones who'd heard about the boy in the corn and wanted to hold a light. And there were the ones who'd read the *Ledger* that morning over coffee, and they didn't look at the scarecrow, or the Corn, or the ghost. They looked at the back of the man on the right side of the bench.
+
+At the pond, she told Arlo. Every ride. Gus flipped the toggle on *found him*, and the small light came on low in the reeds, and Rufus barked twice from the willows, and the wagon lifted its lanterns and laid them gold across the black water. On the 8:20, twelve women in pink held up twelve lanterns and wept openly, and Sharon of the Cricut said *oh, that poor little boy* loud enough to be heard on Wagon Two.
+
+And on every ride, after the lanterns, after the bark, in the quiet before Hank found the key, somebody from the second kind of people said it.
+
+"Where's the bride?"
+
+On the 9:00 it was a man in a Colts jacket, not unkindly, just curious. On the 9:40 it was a woman who said it to her husband and then, louder, to the bench: "Excuse me? Is there a bride tonight? The paper said there was a bride."
+
+"Not tonight, ma'am," said Roz.
+
+"But it's in the *paper*."
+
+"Hank," said Roz into the walkie, and they went home.
+
+Gus didn't say anything. Every ride, he sat with his thumb off the toggle and his face to the water and let them ask. She had stopped being able to tell whether he was holding still or just still.
+
+* * *
+
+At 10:04, after the 9:40 came in, Bev came out of the shed with the chalk in her hand and stood in the doorway and looked across the yard at Roz.
+
+Roz knew. She knew before Bev opened her mouth. She'd been doing the arithmetic in the back of her head all night, the way she always did: the 7:00, the 7:40, the 8:20 sold out on both wagons, the season passes, the walk-ups turned away at nine because the 10:20 and the 11:00 were full too, a cider urn emptied three times, a Bunco group that bought twelve extra lanterns to take home at five dollars apiece because Sharon had asked if they could, and Roz had said yes before she could think about whether they had forty extra lanterns, which they did not, which meant Gus and Danny were going to be in the barn on Sunday building twelve more.
+
+"Rosalind," Bev said, across the gravel. "Come here."
+
+She went. Gus came too, behind her, from the wagon. So did Danny, from the parking field, with his wand still lit. So did Lorna, off Wagon Two, and Clyde behind her, and Ed from the Corn in his overalls, and Hank, who climbed down off Marguerite for the second time in Roz's memory, and they all came across the yard to the shed door in the orange light and stood there.
+
+Bev turned around and wrote on the chalkboard, under Thursday's blank line, in her careful capitals.
+
+$29,350.
+
+There was a silence.
+
+Then Marv Kuiper, who had been counting with Arlene at the folding table, put both his hands up in the air like a man at a football game and said, "*AHEAD!*" at the top of his lungs, and the shed exploded.
+
+Lorna screamed. Ed whooped and threw his straw hat, and it landed on the space heater, and Arlene beat it out with a cash-box lid. Danny grabbed Roz around the shoulders from behind and shook her like a pop can.
+
+"Twenty-nine!" Danny yelled in her ear. "Twenty-nine three-fifty! Roz! That's three hundred and fifty dollars *extra*!"
+
+"I can read, Danny."
+
+"That's a whole *tire*! That's a tire on the new wagon! That's *our* tire!"
+
+"Okay, so," Lorna was saying, to anyone, wiping her eyes with her apron, "I'm making a cake. I'm making a sheet cake. It's going to say 'AHEAD' on it in Marv's handwriting. Marv, I need your handwriting."
+
+"I'll write it on a napkin," said Marv, overcome. "I'll write it on anything you want."
+
+"Good job," Ed told Roz, enormously, picking up his scorched hat. "Good *job*, kid. As a performer. Good *job*."
+
+Clyde, by the door, said "Huh," which from Clyde was a fireworks display. Hank put his seed cap back on, very carefully, and said, slowly and distinctly, "Well, I'll be."
+
+Roz stood in the doorway with Danny hanging off her shoulders and looked at the number. Twenty-nine thousand three hundred and fifty dollars. A new wagon by the first of January. Great Lakes Mutual. A liability rider. Mateo in the front row next year, and the year after, and Dot's corn full of lights.
+
+She'd done it with the other story. Not with the bride.
+
+Bev came to her through the noise. She stopped in front of Roz, with the chalk still in her fingers and white dust on her quilted vest, and for a second neither of them said anything at all. Bev's face was doing something complicated. Then Bev put both her arms around her, chalk and clipboard and all, and held on hard, the way she had in the back of the church in June of 2019, when Roz hadn't cried, and Bev had cried enough for both of them.
+
+"You did it with the other one," Bev said, into her hair. Her voice was rough. "You did it with Arlo."
+
+"I know."
+
+"I'm still angry at you."
+
+"I know, Bev."
+
+"I'm going to be angry at you till Thanksgiving." Bev let go. She wiped her eyes with the back of her chalky hand and left a white streak across her cheek. "Then I'll bring a pie."
+
+Over Bev's shoulder, Roz looked for Gus.
+
+He was standing at the edge of the crowd by the shed door, a little apart. He stood without cheering, smiling, a real one, the one from the corn, and he was looking at her across the shed, and when she met his eyes he lifted his chin a little, the way you'd nod to someone across a theater at the end of a good show. Then his face did something else. It went careful again. It went back to holding the full cup.
+
+*There's a thing.*
+
+* * *
+
+The 11:00 went out full. It was the last ride of the second-to-last night. The air had gone sharp and cold, the first real cold of the year, and you could see your breath in the lantern light, and the stars over the corn were the hard bright winter kind.
+
+She told Arlo at the pond. He flipped the toggle. The light came on in the reeds, and Rufus barked, and the lanterns went up, and on the way back nobody asked about the bride, because everyone on the 11:00 was from Carrow and had read the paper and knew better than to ask her to her face.
+
+The long stretch past the culvert. The corn black on the left. The yard lights coming through the stalks.
+
+She had the question. She'd had it since the hardware store. She'd had it, if she was honest, since the Supper, since the jar, since the first whisper under the ham buns. *Chicago let him go, is what I heard.* She'd put it at the very bottom of all the other questions, under the ring and the calling and the pie, and she'd piled the others on top of it like sandbags. And then she had kissed him in the corn, and fixed nothing, and let him fix her porch light, and it had been the best week she could remember since before she was twenty-four, and the whole time the question had been down there at the bottom, waiting.
+
+*There's a thing. A work thing.*
+
+Everyone in Carrow knew he'd come home because the theater folded. Everyone said it like it was a footnote. *Back for good,* they said, at the Supper, at the diner, in the paper. *Back for good,* like it was a gift he'd given the town.
+
+She needed to know if it was a gift. She needed to know before she let herself want anything else. She'd built a whole season on the wrong story once already.
+
+"Would you have come back," Roz said, "if the job hadn't ended?"
+
+She said it to the corn.
+
+The wagon rattled over the bad rut by the culvert. Behind them, somebody's kid was asleep on somebody's shoulder, and a teenage couple was whispering, and a man was telling his wife about the red railroad lantern in 1958.
+
+Gus didn't answer right away. He never did. She waited for him to turn it over and find the true side, and she knew, she knew already, in the way you know a rig is going to fail a second before it fails, from the sound, that the true side was going to be the one she'd built the question to avoid.
+
+"No," Gus said.
+
+The yard lights came through the stalks.
+
+She sat very still on the bench. She kept her face where it was. She had been keeping her face where it was since she was fifteen and her mother drove away, and she was good at it, she was the best in Carrow at it, Bev had said so to a reporter.
+
+"Okay," said Roz.
+
+He turned his head.
+
+"No more," she said. She was looking straight ahead at Hank's back. "That's the last one. I'm done asking."
+
+The wagon came out of the corn into the light.
+
+## Chapter 24
+
+<!-- POV: Gus -->
+
+The parking field emptied the way a theater empties after the last show, all at once and then slowly, the last few cars sitting with their engines running while somebody looked for their keys.
+
+Gus waited by the Explorer.
+
+He'd helped Hank put Marguerite away. He'd helped Danny stack the bale blankets. He'd stood in the shed doorway while Lorna wrote AHEAD on a napkin in Marv's handwriting, at Marv's dictation, for the sheet cake, and everyone laughed. He'd waited for Roz to come out of the shed and she hadn't. She'd stayed in there with Bev and the cash boxes until eleven-fifty, and then she'd gone down the pond lane with her headlamp to check the reeds rig, which she'd spliced with electrical tape at five-forty and which did not need checking, and he'd watched her headlamp go away into the dark and come back twenty minutes later.
+
+Now it was twelve-fourteen. The field was empty except for the Explorer and Delores, parked at the far end by the road, and one minivan with its dome light on where a father was strapping a sleeping kid into a car seat by feel.
+
+She came across the stubble with her tool bag. She saw him by the Explorer and slowed down, and for a second he thought she might turn around and go back to the barn, the way you'd back away from a dog you weren't sure of. Then she kept coming.
+
+She stopped about six feet away. She set the tool bag down on the hood.
+
+"You said there was a thing," she said.
+
+"There's a thing."
+
+"Is it the thing I think it is?"
+
+"I don't know what you think it is."
+
+"Then tell me," said Roz.
+
+The minivan's dome light went off. Its engine started. It pulled out of the field and turned onto Hollins Road, toward the highway, and its taillights went away down the dark road and left them in the yard light from the barn, orange and thin at this distance, and the stars.
+
+"Mitch called," Gus said. "My old boss. Calumet Repertory, in Chicago. They're building a new shop. A big one. On Ninety-Fifth Street, in an old railroad warehouse. They want a head of shop. They asked him who, and he said me." He kept his hands in his jacket pockets. He kept his voice plain. "I went in Wednesday to get my tool chest. He told me in person. Eighty-four thousand. Benefits. Crew of eight, twelve the second year. Starts January fourth. They want an answer by Monday."
+
+She didn't say anything.
+
+"I haven't decided," he said. "I want you to know that. I'm not telling you because I've decided. I'm telling you because I said I'd answer true, even when you didn't ask. And because I'm not going to sit in a truck in a parking lot this time and let you find out from somebody at the diner."
+
+She was looking at the Explorer's hood. At the tool bag.
+
+"That's why you said no," she said. "On the wagon."
+
+"I said no because it was the truth."
+
+"You said no because you'd have stayed in Chicago if they hadn't let you go. And now Chicago wants you back. With a crew and a parking space." Her voice was very level. It was the voice from the Supper, from the jar, the voice she used to read a ticket into a microphone in front of ninety people. "So the answer's still no. It's just that now there's a job."
+
+"That's not what I said."
+
+"It's what it means."
+
+"It's not what it means." He took a breath. He made himself slow down. He'd decided in the truck on I-94 that if this conversation happened, he wasn't going to argue, he was going to say true things and let them sit there. "I wouldn't have come back on my own. That's true. I'd been in Chicago so long I'd stopped looking at the room. The door was shut and I walked past it every day and I'd stopped knowing what was in there. When the shop folded, I had nowhere to go. That's the truth. That's what made me come home. I didn't do anything brave. I ran out of other places."
+
+She was quiet.
+
+"But that was August," he said. "Whether I'd have come back is one question. Whether I stay is a different question. I'm here now. I've got a barn and a sign I haven't painted and your dad's toolbox on my bench and a contract for a hedge. I know what's in the room now. That changes the answer. I don't know yet how much. That's why I haven't decided."
+
+The wind came across the stubble. It was very cold. Somewhere back by the barn, Hank's truck started and pulled out, its headlights swinging over the field and across both of them and away.
+
+Roz picked up her tool bag off the hood.
+
+"Go," she said.
+
+He went still.
+
+"You should go," she said. She was looking at him now, finally, straight on, and her face was doing the thing it did, holding exactly where she put it, and he knew that face. He'd seen it across a kitchen table between a salt shaker and a pepper shaker. "It's eighty-four thousand dollars, Gus. It's a crew. It's everything you were good at. It's a shop with your name on a parking space. You don't stay in Carrow for a hayride and a hedge and a girl who wrote you into a ghost story. You don't stay for that. Nobody would. Go."
+
+He stood in the empty field and looked at her.
+
+He knew exactly what she was doing. He'd watched her do it for three weeks to other people, and for seven years to him: telling the town where to look so it wouldn't see her hand. She was stopping the line. She was sending him first, before he could go, so it would be her choice and not his. It was a good scare. It was the oldest one she had.
+
+"That's what you said last time," Gus said.
+
+Her face held. Something behind it didn't.
+
+"And you went," she said.
+
+"I went." He nodded slowly. "You said go and I went, because it was easy. Because you'd said it and so it wasn't my fault. That's the thing I've hated every day for seven years. I'm not going to do that again. I'm not going to decide because you said go, Roz. If I go, it'll be because I decided to. And if I stay, same. It's not going to be you sending me. You don't get to make it easy for me this time."
+
+"I'm not making it easy."
+
+"You're making it easy for *you*."
+
+She stared at him. For one second her face slipped, and he saw what was under it, and it was the twenty-four-year-old on the kitchen floor with the veil, and then she put it back.
+
+"I'm going home," she said.
+
+"Okay."
+
+She didn't tell him not to say okay.
+
+She walked around him to the driver's side of the Explorer and opened the door and threw the tool bag onto the passenger seat. She got in. She sat there for a moment with her hands on the wheel, not starting the engine. He didn't move. He didn't go to the window. He didn't say anything else, because he had said the true things, all of them, and the rest would only be talking.
+
+The engine started. The headlights came on and lit up the stubble and the dead stalks and the far line of the woodlot, and the Explorer backed up and turned and went out of the field onto Hollins Road and left, toward Teague Road, toward home.
+
+He stood in the field until the taillights were gone.
+
+Then he walked to Delores and looked at her for a while, and didn't get in. He left her parked at the end of the field, where Danny could yell at him about it in the morning, and he walked home instead, the quarter mile east along the gravel shoulder of Hollins Road in the dark, the way he'd walked it a thousand times as a kid. The corn on his left was cut down to stubble. The ditch on his right was full of dry leaves that moved when the wind moved. There were no cars. There was no moon yet. His breath went out in front of him white and came back.
+
+Halfway home, he stopped at the place where the road crested over the culvert and you could see across the field in both directions. To the west, the Teague barn, dark now, with the yard lights off. To the east, his own barn, dark too.
+
+To the north, across the stubble on Teague Road, a quarter mile off, a porch light came on.
+
+He stood on the culvert and watched it for a while. He didn't wave. She couldn't have seen him if he had.
+
+Then he walked the rest of the way home in the dark.
+
