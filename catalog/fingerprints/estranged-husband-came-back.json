@@ -1,0 +1,135 @@
+{
+  "title": "My Estranged Husband Came Back",
+  "author_pen_name": "Briar Salvano",
+  "lane": "marriage_crisis",
+  "evidence_level": "FULL_TEXT",
+  "relationship_start": "married_estranged",
+  "opening_engine": "doorstep_return_with_caregiving_request",
+  "inciting_event": "dying_father_in_law_summons_her",
+  "heroine_goal": "care_for_dying_father_figure_on_own_terms",
+  "external_engine": "home_hospice_caregiving_schedule",
+  "agency_pattern": "early_terms_then_repeated_corrective_confrontation",
+  "hero_error": "unilateral_concealment_as_protection",
+  "power_configuration": "hero_information_advantage_vs_heroine_terms_authority",
+  "containment": "shared_care_of_dying_parent",
+  "midpoint_reversal": "benign_secret_plan_reads_as_second_departure",
+  "darkest_moment_cause": "repeated_core_harm",
+  "climax_owner": "heroine_led",
+  "climax_mechanism": "heroine_refuses_grand_gesture_sets_terms",
+  "repair_mechanism": "sustained_uncredited_small_reliability",
+  "resolution_visibility": "family_witnessed_private_recommitment",
+  "ending_state": "reconciled_marriage",
+  "pov_structure": "dual_first_alternating_linear",
+  "setting_function": "small_town_gossip_ledger_and_deathbed_house",
+  "relocation_reset": "returns_to_family_asset_jointly_inherited",
+  "intimacy_function": "confirms_repair",
+  "supporting_cast_function": "dying_mentor_arbiter_plus_accountability_network",
+  "epilogue_design": "nine_months_later_porch_callback_asks_before_deciding",
+  "narrative_voice_tags": [
+    "forensic_retrospective_on_the_record",
+    "inventory_cataloguing_counts",
+    "structural_engineering_metaphor_hero_pov",
+    "baking_metaphor_heroine_pov",
+    "dry_understated_dialogue",
+    "specific_particular_x_of_a_y_constructions"
+  ],
+  "monster_difference": "not_applicable",
+  "climax_venue": "dying_fathers_sickroom_at_dawn",
+  "climax_audience": "the_two_of_them_and_dying_parent",
+  "evidence_delivery": "act_performed_and_log_read",
+  "decisive_authority": "heroines_own_choice",
+  "spectacle_mode": "private_line",
+  "macro_beats": [
+    "estranged_husband_returns_with_caregiving_ask",
+    "heroine_sets_terms",
+    "concealed_failure_discovered",
+    "heroine_corrects_hero_publicly",
+    "hero_repeats_concealment_benignly",
+    "hero_unreachable_in_crisis_rupture",
+    "sustained_uncredited_reliability",
+    "heroine_refuses_grand_gesture_then_recommits"
+  ],
+  "signature_scenes": [
+    "porch_return_rolling_pin_in_hand",
+    "bank_statement_in_photo_box",
+    "harvest_supper_public_correction",
+    "half_packed_box_in_hall_closet",
+    "hospital_hallway_some_doors_close",
+    "dawn_vigil_chart_then_resignation_refused",
+    "ring_moved_from_chain_to_finger_before_dying_father"
+  ],
+  "inciting_kind": "external_blow",
+  "repair_shape": "sustained_unglamorous_presence",
+  "repair_shape_secondary": "relinquishing_power_or_control",
+  "ending_image_class": "callback_to_opening",
+  "core_axes": {
+    "1_inciting_disruption": "Theo, gone three years after leaving a four-word note, appears in person on Rosalind's porch at 9 p.m. (neighbours watching from darkened windows) to tell her his father Gid has weeks to live with congestive heart failure and has asked for her by name; the request is for care, not the marriage (Ch1).",
+    "2_the_bind": "Gid has been her surrogate father since she was nine and a motherless child at his table, and he asks for both of them in the room together for his last eight weeks; she cannot refuse him without abandoning the one person who never left her, so she must share a house, a schedule and a sickbed with the husband she never divorced.",
+    "3_first_irreversible_decision": "Ch3: she says yes to Gid and lays down four counted-off terms to Theo (this is for Gid, she keeps her own house, no apologies yet, divorce paperwork when he dies), and pays a visible price by handing her bakery to Junie for two months.",
+    "4_midpoint_reversal": "Chs 13-15: after she trusts him with the Meridian trip and he says 'I love you' on the porch, Theo secretly arranges a job in Kenton so he can stay; the cut-off calls and half-packed box read to her as a second departure, she forces disclosure in the driveway, and Gid wheels out and names the same pattern in both of them (his concealment, her waiting for perfect).",
+    "5_rupture_lowest_point": "Ch18: Theo leaves for a Columbus parking-structure emergency with a vague 'few hours', goes unreachable underground for six hours while Gid is rushed to hospital, and Rosalind, who made the care decisions alone in the ER, sends him away in the hallway ('Some doors close for a reason'); the doctor then cuts Gid's time to two to four weeks.",
+    "6_climax_action": "Chs 21-22: when Gid crashes Theo answers on the first ring, stays on the line, then keeps the overnight vigil logging oxygen every twenty minutes; at dawn he unilaterally offers to resign his career and stay within twenty minutes of her forever, and Rosalind says 'No', names it the same pattern at a larger size, and sets the terms (Kenton taken for its own sake, decisions made together, an ordinary call every day). She causes the outcome; he relinquishes the grand gesture.",
+    "7_repair_mechanism": "Uncredited small acts and asking before deciding: he sets up the hospital bed and cleans the gutters without telling her (Junie reports it to him: 'She noticed'), drives Gid to physical therapy, fixes the porch step under Gid's eye, calls her every afternoon at two, lets the town see him break down in his eulogy with Rosalind beside him, and in the epilogue asks her before accepting a partnership. Witnessed by Junie, Denise, Gid and the town.",
+    "8_resolution_epilogue_shape": "Ch23 she kisses him first and says she loves him; Ch24 she moves his grandmother's ring from a chain to her finger in front of Gid on the porch; Gid dies with both holding his hands (Ch25); his will leaves the house to them jointly and Marion's recipe box to her (Ch27); there is an informal porch 'second wedding that wasn't'. Epilogue, nine months later at 9 p.m.: she opens the porch door to him on purpose, he asks before saying yes to the partnership, and the opening rule is called back."
+  },
+  "first_attraction_device": {
+    "device": "comic_undercut",
+    "quote": "It was three years old and it still fit him, which felt like a personal insult, the specific kind that arrives disguised as an observation about outerwear. (Ch1)"
+  },
+  "first_care_device": {
+    "device": "care_object_and_service",
+    "quote": "I pulled the hinge pins, planed a sixteenth off the door’s edge, and reset the strike plate a hair proud so it would catch true. It took forty minutes and cost nothing and I did not tell anyone I’d done it (Ch4, the fixed kitchen doorframe)"
+  },
+  "heat_level": "sweet_closed_door_kisses_only",
+  "timeline_entry_point": "after_departure",
+  "opening_first_sentence": "You do not, under any circumstances, answer the porch light at nine o’clock at night in a town like Sutton’s Ridge without knowing who’s standing on the other side of it.",
+  "chapter_count": 27,
+  "approx_words": 72600,
+  "narrator_habits": [
+    {
+      "habit": "'on the record' / 'I want to be honest/exact' self-witnessing asides",
+      "example": "It was not about him. I want that on the record, even if the only person keeping the record is me."
+    },
+    {
+      "habit": "inventory and counting as a stand-in for feeling",
+      "example": "I lay in the dark doing the thing I do instead of crying, which is running an inventory"
+    },
+    {
+      "habit": "'the specific/particular X of a Y who...' characterising constructions, used heavily in both POVs",
+      "example": "the specific ugly satisfaction of a woman who has mistaken avoidance for discipline and hasn’t yet been asked to tell the difference."
+    },
+    {
+      "habit": "exact numbers and measurements",
+      "example": "a man on my porch I had not laid eyes on in one thousand and ninety- one days, and I had counted"
+    },
+    {
+      "habit": "structural/beam similes in Theo's chapters, often carried into Rosalind's",
+      "example": "Recalibrated, the way he does, like a man checking a level against a beam before he’ll say the wall is true."
+    },
+    {
+      "habit": "short corrective fragments and 'I did not' chapter closers",
+      "example": "Not a crack. A settling. / I went and helped her fix the crust. I did not, that night, decide the ending."
+    }
+  ],
+  "evidence_notes": {
+    "source": "The Drive read_file_content text cut off mid-sentence in Ch16 (about 44k words). I downloaded the full PDF (136 pages, wkhtmltopdf) with download_file_content, extracted it with pdftotext and read all 27 chapters and the Epilogue end to end. The extract matches the Drive text for Ch1-15 apart from whitespace. Byline printed on the title page: 'Briar Salvano'.",
+    "word_count": "pdftotext body counts at 72,639 words, including the title page. 27 numbered chapters plus an Epilogue; chapter_count excludes the Epilogue.",
+    "pov": "No chapter carries a POV label. POV alternates strictly in first person past: Rosalind in odd chapters 1-27 and the Epilogue, Theo in even chapters 2-26 (inferred from content). Linear timeline from September through funeral and late October, then a June epilogue nine months later. Backstory (the $412k guarantee, Gid and Marion's old crisis) is told in dialogue.",
+    "inciting_event": "Function class: external_disaster (the parent's terminal diagnosis) delivered by the returning husband. The original harm is older: Theo concealed a $412k business failure he caused, quietly paid it off, and left with 'I have to go. I'm sorry. — T.' (an omission/choice_under_pressure). The book opens after that.",
+    "heroine_goal": "Function class: protect_dependent. She says it is for Gid, not the marriage (Ch1, Ch3). She has a secondary self-protective aim: not to be left again (her mother's pattern; she nearly sold the shop 18 months earlier, Ch11).",
+    "hero_error": "Deciding alone what she can handle knowing and handing her finished plans. It recurs in three escalating forms: the hidden debt and leaving, the secret Kenton job, and the unilateral offer to resign. Ch16 traces it to Gid ('I taught it to you').",
+    "midpoint": "The structural midpoint is Chs 13-15 of 27. Ch10 (the harvest supper public correction, 'You're right') is an earlier turn, and Rosalind herself says it 'doesn't undo three years' (Ch11).",
+    "darkest_moment": "Ch18-19. Same pattern under real pressure (going silent and alone), so repeated_core_harm. Junie challenges whether Rosalind is using it to close a half-open door (Ch19).",
+    "climax_staging": "Venue: the hospital-bed room in Gid's house, about 6-6:30 a.m. after the overnight crisis. Audience: the two of them, with Gid drifting in and out ('Finally... you two figured out the actual assignment'). Evidence: she reads the oxygen chart he logged every twenty minutes, and the first-ring call of the night before is cited. Binding authority: her refusal and terms. No crowd. The public scene (harvest supper, Ch10) is not the climax.",
+    "climax_owner": "Heroine-led. The hero's vigil is the proof, but the decisive move is her 'No' to the grand gesture and her terms; he accepts ('I relinquish the grand one'). She initiates the kiss and 'I love you too' in Ch23.",
+    "repair_shape": "Dominant: sustained_unglamorous_presence (Junie: 'be boring and reliable today, and then tomorrow'; gutters, vigil, daily 2 p.m. calls). Secondary: relinquishing_power_or_control (he gives up the grand-gesture fix and the habit of deciding alone; asks before Kenton, the books and the partnership). Also present: letting_her_be_right_before_people_who_mattered (Ch10, in front of the church board).",
+    "resolution_visibility": "The recommitment is private (kitchen kiss, Ch23). The ring goes on before Gid as the only witness (Ch24). It is later witnessed by the community at the informal porch gathering (Ch27) and the funeral. The will makes it legal by joint house ownership.",
+    "relocation": "Both move into Gid's house in his last week (Ch25). The house is willed to them jointly (Ch27) and her own house is rented out. She grew up 'half in this kitchen', so this counts as a return to a family asset.",
+    "intimacy": "No sex on the page. Near-kiss refused in Ch13 ('Don't'), first kiss in Ch23, they share a bed for comfort only during the death watch (Ch25).",
+    "epilogue": "Nine months later in June, at 9 p.m. on the porch. It opens by quoting the opening line ('I wrote that rule for myself three years ago') and has her break the rule on purpose. Theo asks before accepting a Kenton partnership. Junie, Denise, Walt's apprentice and Arlene pass by. The recipe box now holds her own card 'for G'.",
+    "ending_image": "Final paragraph quoted verbatim: 'I reached for Theo’s hand on the step, his grandmother’s ring catching the last of the porch light, and did not let go.' It comes right after 'Nothing happens in Sutton’s Ridge at nine o’clock at night, and everything, if you’re paying attention, always has.' Classed as callback_to_opening (the porch light at nine o'clock); secondary class act_in_motion.",
+    "first_attraction": "Comic undercut on the jacket (Ch1). The first physical beat is the pepper-jar hand touch in Ch4 ('neither of us moved for a second longer than the moment required'), which reads as involuntary_symptom.",
+    "text_anomalies": "The source has continuity slips: Sandra asks for 'Thursday' again in Ch16 after the Meridian trip happened in Ch13; one paragraph is duplicated in Ch16; Rosalind mentions the ring 'by proxy' (Ch24) before the ring scene in the same chapter; the porch step is fixed in Ch24 and replaced again in Ch27; the bakery reopening is given as ten days after hospital (Ch21), 'back in October' (Epilogue) and 'first Monday of November' (Ch27); it is called 'September' throughout weeks that run into October. None of these change the fingerprint.",
+    "not_determinable": "Nothing major. Whether the book should be read as a second-chance romance or grief fiction with a romance thread is a judgement; the dying-father arc takes about as much page time as the marriage."
+  }
+}

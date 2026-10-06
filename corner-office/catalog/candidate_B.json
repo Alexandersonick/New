@@ -1,0 +1,61 @@
+{
+ "candidate": {
+  "lane": "marriage_crisis_grovel",
+  "evidence_level": "CONCEPT",
+  "relationship_start": "married_cofounders_drifted",
+  "monster_difference": "not_applicable",
+  "schema_version": "1.1",
+  "title": "E2 Candidate B \u2014 Shotgun",
+  "opening_engine": "public_workplace_slight",
+  "inciting_event": "spouse_gives_founders_space_to_rival_publicly",
+  "heroine_goal": "own_the_company_outright",
+  "external_engine": "shotgun_buy_sell_clock",
+  "agency_pattern": "early_legal_trigger_then_fundraising",
+  "hero_error": "lets_her_go_rather_than_fight",
+  "power_configuration": "symmetric_founder_stakes_under_clause",
+  "containment": "thirty_day_buy_sell_clause",
+  "midpoint_reversal": "hero_elects_to_sell_heroine_must_raise",
+  "darkest_moment_cause": "hero_exit_plan_with_confidante_revealed",
+  "climax_owner": "heroine_led",
+  "climax_mechanism": "heroine_rewrites_deal_at_closing_table",
+  "repair_mechanism": "hero_returns_proceeds_without_control",
+  "resolution_visibility": "private_contractual",
+  "ending_state": "renegotiated_marriage_separate_work",
+  "pov_structure": "single_first_past",
+  "setting_function": "founders_agreement_clause_drives_clock",
+  "relocation_reset": "no_relocation_reset",
+  "intimacy_function": "tests_trust",
+  "supporting_cast_function": "investors_as_gatekeepers",
+  "epilogue_design": "months_later_new_company_launch",
+  "narrative_voice_tags": [
+   "deal_language_irony",
+   "past_tense_reflective",
+   "sharp_dialogue"
+  ],
+  "climax_venue": "document_exchange",
+  "climax_audience": "the_two_of_them_and_counsel",
+  "evidence_delivery": "documents_produced_aloud",
+  "decisive_authority": "contract",
+  "spectacle_mode": "private_line",
+  "macro_beats": [
+   "founders_room_given_to_rival",
+   "heroine_triggers_buy_sell",
+   "hero_refuses_to_buy_her_out",
+   "heroine_raises_capital",
+   "hero_exit_with_confidante_revealed",
+   "heroine_wins_company",
+   "closing_table_rewrite",
+   "separate_work_shared_home"
+  ],
+  "signature_scenes": [
+   "clause_read_aloud_to_husband",
+   "investor_pitches_by_wife",
+   "closing_table_pen_scene"
+  ],
+  "inciting_kind": "commission",
+  "repair_shape": "restitution",
+  "ending_image_class": "spoken_line",
+  "evidence_notes": "status: candidate B (concept). Author draft."
+ },
+ "schema_version": "1.1"
+}

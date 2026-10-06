@@ -1,0 +1,1185 @@
+{
+ "schema_version": "1.1",
+ "as_of": "2026-10-06",
+ "scope_note": "Account-wide same-lane and cross-lane FULL_TEXT rows: Veyra Thornwyck fixture (8) + 6 rows back-filled 2026-10-06 from full text (Shawn J Dean 1, Briar Salvano 4, Veyra Thornwyck 1). Pen name for E2 is provisional, so every available pen name is compared.",
+ "catalog": [
+  {
+   "title": "His Work Wife Came First",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "restore_apiary_and_require_relational_priority",
+   "external_engine": "apiary_restoration_and_founder_leave",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_public_status_and_company",
+   "containment": "marriage_history_company_ties_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "public_vow_plus_structural_relocation",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "wife_counts_husband_public_words",
+    "apiary_restoration_becomes_self_reclamation",
+    "husband_takes_leave_and_moves",
+    "community_witnesses_accountability"
+   ],
+   "evidence_notes": "Supplied 160-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Dedicated Our Song to Her",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "claim_songwriting_identity_and_rights",
+   "external_engine": "music_rights_royalties_and_credit_dispute",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_public_status_and_catalog_credit",
+   "containment": "marriage_history_music_rights_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "public_credit_correction_plus_legal_transfer",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "award_dedication_reuses_wifes_song_without_credit",
+    "wife_builds_royalty_case",
+    "husband_corrects_credit_on_television",
+    "wife_performs_work_under_own_name"
+   ],
+   "evidence_notes": "Supplied 213-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Called Her His Muse",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "claim_songwriting_identity_and_save_family_studio",
+   "external_engine": "music_rights_and_studio_recapitalization",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_public_status_and_catalog_credit",
+   "containment": "marriage_history_music_rights_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "heroine_public_performance_plus_husband_confession",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "television_interview_names_other_woman_as_muse",
+    "notebooks_establish_hidden_authorship",
+    "community_concert_restores_wifes_voice",
+    "new_record_leads_with_her_credit"
+   ],
+   "evidence_notes": "Two supplied PDFs normalize to an identical story body and are treated as one manuscript; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Filmed His Life Without Me",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "claim_film_authorship_and_save_family_lodge",
+   "external_engine": "film_rights_counterdocumentary_and_lodge_revival",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_public_cut_and_industry_status",
+   "containment": "marriage_children_film_rights_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "heroine_counterfilm_screening_plus_husband_confession",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "premiere_reduces_wife_to_four_seconds",
+    "wife_builds_counterdocumentary",
+    "community_screening_restores_authorship",
+    "lodge_and_marriage_reopen_under_new_terms"
+   ],
+   "evidence_notes": "Supplied 174-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Cried at Her Wedding",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "gain_company_ownership_and_professional_credential",
+   "external_engine": "construction_governance_bonding_and_gym_project",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_company_status_and_equity",
+   "containment": "marriage_company_finances_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "public_ownership_transfer_and_costly_disclosure",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "wedding_toast_exposes_husbands_fixation",
+    "wife_audits_company_value",
+    "public_microphone_confession_transfers_equity",
+    "credential_and_gym_project_mark_independence"
+   ],
+   "evidence_notes": "Supplied EPUB; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Held Her Hand on Stage",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "reclaim_journalism_and_protect_rural_hospital",
+   "external_engine": "investigative_reporting_and_public_policy",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_political_platform_and_public_story",
+   "containment": "marriage_campaign_history_reporting_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "heroine_reporting_payoff_plus_public_policy_action",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "election_stage_handclasp_erases_wife",
+    "newspaper_investigation_follows_hospital_bill",
+    "inauguration_converts_reporting_to_policy",
+    "marriage_resumes_under_publicly_changed_priorities"
+   ],
+   "evidence_notes": "Supplied 180-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "My Husband Painted Her Instead of Me",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_functional_but_wife_erased",
+   "opening_engine": "public_career_ceremony_partner_erasure",
+   "inciting_event": "public_partner_erasure",
+   "heroine_goal": "reclaim_artist_identity_and_save_family_shop",
+   "external_engine": "art_provenance_acquisition_and_shop_revival",
+   "agency_pattern": "early_exit_then_documented_reclamation",
+   "hero_error": "professional_status_used_to_erase_wife_labor",
+   "power_configuration": "husband_controls_museum_status_and_artistic_narrative",
+   "containment": "marriage_art_provenance_business_and_shared_town",
+   "midpoint_reversal": "documentary_evidence_converts_private_harm_to_material_claim",
+   "darkest_moment_cause": "husband_repeats_core_avoidance_under_pressure",
+   "climax_owner": "heroine_then_joint_public_accountability",
+   "climax_mechanism": "heroine_art_show_plus_public_provenance_correction",
+   "repair_mechanism": "public_accountability_plus_power_or_resource_redistribution",
+   "resolution_visibility": "community_witnessed_status_correction",
+   "ending_state": "reconciled_marriage_hfn",
+   "pov_structure": "single_first_linear",
+   "setting_function": "larkspur_family_asset_enables_independence",
+   "relocation_reset": "returns_to_larkspur_family_asset",
+   "intimacy_function": "tests_reconsent_and_repair",
+   "supporting_cast_function": "accountability_network_and_professional_allies",
+   "epilogue_design": "months_later_business_and_marriage_thriving",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "epistemic_qualification",
+    "occupation_metaphor",
+    "essayistic_interiority"
+   ],
+   "monster_difference": "not_applicable",
+   "macro_beats": [
+    "public_partner_erasure",
+    "heroine_exits_to_larkspur",
+    "heroine_revives_family_asset_and_self",
+    "paper_trail_makes_harm_measurable",
+    "husband_attempts_repair_and_initially_fails",
+    "public_accountability_and_status_transfer",
+    "conditional_reconciliation",
+    "months_later_visible_stability"
+   ],
+   "signature_scenes": [
+    "retrospective_centers_other_woman",
+    "imaging_and_provenance_create_claim",
+    "wife_unveils_own_work",
+    "museum_corrects_public_story"
+   ],
+   "evidence_notes": "Supplied 172-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "I Married an Orc for Protection",
+   "lane": "monster_paranormal",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "guard_client_mutual_attraction",
+   "opening_engine": "safehouse_breach_and_forensic_anomaly",
+   "inciting_event": "protective_location_compromised",
+   "heroine_goal": "expose_systemic_conspiracy_and_keep_independence",
+   "external_engine": "forensic_investigation_and_civic_security_crisis",
+   "agency_pattern": "early_bargain_then_leads_investigation",
+   "hero_error": "protective_overcentralization",
+   "power_configuration": "hero_security_and_enclave_dominance_checked_by_her_evidence",
+   "containment": "marriage_sanctuary_contract_and_shared_investigation",
+   "midpoint_reversal": "threat_reframed_as_distributed_system",
+   "darkest_moment_cause": "home_attack_and_civic_blackout",
+   "climax_owner": "heroine_led_expert_team",
+   "climax_mechanism": "audit_trail_and_distributed_emergency_response",
+   "repair_mechanism": "power_devolution_and_free_rechoice",
+   "resolution_visibility": "private_choice_after_public_case_resolution",
+   "ending_state": "chosen_permanent_marriage_hea",
+   "pov_structure": "dual_first_linear",
+   "setting_function": "orc_sanctuary_law_changes_available_choices",
+   "relocation_reset": "protected_cohabitation",
+   "intimacy_function": "tests_permission_and_mutual_trust",
+   "supporting_cast_function": "competing_expert_team",
+   "epilogue_design": "six_months_later_domestic_future_and_pregnancy",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "procedural_interiority",
+    "contractual_diction"
+   ],
+   "monster_difference": "orc_kinship_law_and_enclave_governance_enable_sanctuary",
+   "macro_beats": [
+    "safehouse_breach",
+    "protection_marriage_bargain",
+    "joint_forensic_investigation",
+    "distributed_conspiracy_revealed",
+    "home_attack_and_city_blackout",
+    "heroine_coordinates_system_response",
+    "power_devolved_and_case_exposed",
+    "marriage_freely_rechosen"
+   ],
+   "signature_scenes": [
+    "unplugged_printer_proves_safehouse_breach",
+    "marriage_terms_create_legal_sanctuary",
+    "three_key_system_reveals_distributed_threat",
+    "heroine_coordinates_independent_sources_during_blackout"
+   ],
+   "evidence_notes": "Supplied 284-page print interior; full-text extraction plus opening, arc-checkpoint, climax, and epilogue review.",
+   "author_pen_name": "Veyra Thornwyck"
+  },
+  {
+   "title": "The Assistant Remembered What My Husband Forgot",
+   "author_pen_name": "Veyra Thornwyck",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_cohabiting_neglected",
+   "opening_engine": "ghostwritten_card_forensic_discovery",
+   "inciting_event": "delegated_intimacy_exposed",
+   "heroine_goal": "honest_stay_or_leave_verdict",
+   "external_engine": "probation_year_plus_client_account_renewal",
+   "agency_pattern": "early_timed_terms_then_withheld_rescue",
+   "hero_error": "outsourced_presence_via_delegation",
+   "power_configuration": "heroine_holds_verdict_hero_holds_company",
+   "containment": "shared_home_under_self_set_deadline",
+   "midpoint_reversal": "heroine_recognizes_own_overfunctioning",
+   "darkest_moment_cause": "repeated_core_harm_relapse_under_pressure",
+   "climax_owner": "hero_led",
+   "climax_mechanism": "hero_delegates_work_crisis_states_true_reason",
+   "repair_mechanism": "sustained_self_performed_care",
+   "resolution_visibility": "private_recommitment",
+   "ending_state": "reconciled_marriage",
+   "pov_structure": "single_first_retrospective_linear",
+   "setting_function": "husband_company_competes_for_presence",
+   "relocation_reset": "no_relocation_reset",
+   "intimacy_function": "confirms_repair",
+   "supporting_cast_function": "accountability_and_mirror_network",
+   "epilogue_design": "no_epilogue_anniversary_day_unwitnessed_act",
+   "narrative_voice_tags": [
+    "forensic_retrospective",
+    "numeric_precision",
+    "educator_analogy_framing",
+    "aphoristic_summation",
+    "corrective_negation",
+    "quiet_declarative_chapter_closers"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "hero_private_office_speakerphone",
+   "climax_audience": "the_two_of_them_plus_client_on_speaker",
+   "evidence_delivery": "act_performed",
+   "decisive_authority": "heroines_own_choice",
+   "spectacle_mode": "private_line",
+   "macro_beats": [
+    "outsourced_intimacy_discovered",
+    "heroine_sets_timed_written_terms",
+    "hero_hires_substitute_and_is_refused",
+    "hero_practices_care_badly_himself",
+    "relapse_under_work_pressure",
+    "inherited_warning_delivered",
+    "hero_delegates_work_to_stay_present",
+    "unscripted_apology_and_recommitment"
+   ],
+   "signature_scenes": [
+    "florist_call_reveals_ghostwriter",
+    "six_page_list_and_calendar_access_revoked",
+    "burnt_chicken_at_mothers_house",
+    "hero_sends_assistant_to_hospital",
+    "speakerphone_call_wife_as_sole_witness",
+    "index_cards_abandoned_for_plain_apology"
+   ],
+   "inciting_kind": "discovery",
+   "repair_shape": "sustained_unglamorous_presence",
+   "repair_shape_secondary": "risking_real_loss_on_her_behalf",
+   "ending_image_class": "act_in_motion",
+   "core_axes": {
+    "inciting_disruption": "A florist's assistant, by phone, tells Ines alone in her kitchen that 'his office' (assistant Fern Alcott) calls in the anniversary order every year; next morning Fern confirms by phone in the school parking lot that she has written every card, picked every gift and dinner, and booked Margo's medical care for eight years. There is no audience and no affair.",
+    "the_bind": "Nothing external holds her: she still loves the actual man, and Naomi lists what leaving would cost (half the house, no credit for 18 months of unpaid early bookkeeping for Calloway Freight, a principal's social exposure in a small town). So she binds herself with a one-year deadline that has a real divorce consequence.",
+    "first_irreversible_decision": "Ch 4: she hands Whit the six-page list 'EVERYTHING I HAVE BEEN RUNNING', removes Fern from the shared marriage calendar in front of him through three confirmation screens, has already moved Margo's cardiology contact off Fern, and sets one year with a filing with Naomi as the price. Her visible price is giving up her own safety-net role, so nobody covers the dropped tasks.",
+    "midpoint_reversal": "Ch 22-24: Whit nearly forgets Margo's birthday, catches it at 4:40pm, and tells her the truth that he almost forgot, without calling Ines or Fern. Ines then catches herself texting that she had booked the gutter cleaners, Naomi names it as the same overfunctioning habit, and the repair becomes two-sided rather than his alone.",
+    "rupture_lowest_point": "Ch 39-40, nine days before the deadline: Margo falls while the Vance team has flown in unannounced to force a decision. Whit says 'I'm going to send Fern' and stays 90 more minutes to close a three-year renewal. Fern goes out of love for Margo, not for him. Whit arrives at 4:55pm, and in Margo's driveway admits 'I failed the test.'",
+    "climax_action": "Ch 44: a reefer unit fails on the first Berkline load and Roland Vance demands Whit in person. Whit decides overnight, with Ines deliberately giving no advice, to have COO Deborah lead the response and not fly. He invites Ines to his office at about 8am and phones Roland on speaker with her as the only witness, stating the real reason (the anniversary and his mother's fall). Roland laughs and says 'Send Deborah... Happy anniversary.' Whit causes the outcome and Ines witnesses it.",
+    "repair_mechanism": "Self-performed care done badly and repeated, witnessed mostly by Ines and Margo: he attends Lila's concert alone with his phone left in the car, cooks Thanksgiving, burns the chicken at Margo's, sorts Desmond's study himself, and calls the Ashworths. He also arranges Deshawn's rides and tells no one; Ines learns of it by accident. Further acts: the six o'clock phone rule, data entry for her audit, the leave-by-six company policy (witnessed by employees), and promoting Deborah. Client Roland Vance and his wife Cheryl independently notice the change.",
+    "resolution_epilogue_shape": "There is no epilogue. Ch 45: his prepared index-card apology collapses after card seven into a plain 'I let you disappear', and she answers 'I love you' with their first kiss of the year. Ch 46, the anniversary Saturday: a card in his own hand misspelling 'deserve'. Margo hands over Desmond's box of cards. Ines overhears, unseen, Whit confirm Margo's appointment and make himself the contact, a callback to ch 4. They walk out to two cars with no plan."
+   },
+   "first_attraction_device": "other:observed_unprompted_attendance",
+   "first_attraction_quote": "looking, for all the world, like someone who had shown up somewhere on time because he wanted to be there and not because anyone had told him to. (ch 5, Ines watching from the back row before he sees her)",
+   "first_care_device": "care_object_and_service",
+   "first_care_quote": "carrying a bag from the good Thai place, the one three towns over that I loved and he found mediocre and always ordered from anyway because I loved it. (ch 2, immediately undercut: she wonders whether that too 'had gone out under someone else's name')",
+   "heat_level": "closed_door_sweet_single_kiss",
+   "timeline_entry_point": "at_crisis",
+   "opening_first_sentence": "The handwriting on the card was wrong.",
+   "chapter_count": 46,
+   "approx_words": 59500,
+   "narrator_habits": [
+    {
+     "habit": "clock and number precision as an emotional anchor",
+     "example": "I hung up and stood in my kitchen for what turned out to be almost four minutes, because I checked the oven clock before and after"
+    },
+    {
+     "habit": "corrective negation fragments ('Not X. Y.')",
+     "example": "Not shock. Recognition."
+    },
+    {
+     "habit": "school and principal analogies applied to the marriage",
+     "example": "the way I say a student's name when I want them to stop building the architecture of an excuse"
+    },
+    {
+     "habit": "recurring cup or glass turning gesture shared across characters",
+     "example": "turning her water glass in slow quarter-circles the way she usually turned wine"
+    },
+    {
+     "habit": "aphoristic generalization in present tense",
+     "example": "Competence is a wonderful thing to have. It is a terrible thing to be rewarded for having"
+    },
+    {
+     "habit": "chapters close on a short, quiet withheld action",
+     "example": "I let him call the gutter company himself. I did not check."
+    }
+   ],
+   "evidence_notes": {
+    "source": "Full text read: all 46 chapters plus author note (PDF, 168 pp). Drive read_file_content truncated at ch 18 (~p.80 of 168), so the PDF was downloaded with download_file_content and extracted with pdftotext; every chapter was read in full.",
+    "pen_name": "Printed 'Veyra Thornwyck'; copyright page names Michael A Smith. Cover subtitle: 'A Workaholic CEO Neglected Wife Grovel Romance'.",
+    "workplace_function": "The workplace is the husband's company, Calloway Freight: logistics, 110 staff, founded by his late father Desmond with six trucks. It is not a coworker romance, and Ines never works there (except 18 months of unpaid early bookkeeping, mentioned once). It does three jobs. (1) It is the instrument of the harm: executive assistant Fern runs the marriage as office logistics, and Whit tries to replace her with a hired 'family operations coordinator' (Yvette, ch 10-11). (2) The Vance/Berkline account (28% of volume, 20-25 layoffs at stake) is the recurring pressure that produces each test: the dizzy spell where he texts Ines (ch 14), the relapse at the hospital (ch 39-40), and the reefer-failure climax (ch 43-44). (3) It is where repair becomes structural: he delegates real work to COO Deborah (the right delegation replacing the wrong one), sets a leave-by-six policy (ch 30), and the client Roland Vance and his wife act as outside witnesses that the change is real (ch 19, 36). Ines's own school is a mirror plot, not a containment: Denise Ferreira, the 'competent child' who carries her household, and Deshawn Ruiz. Priscilla Ochoa is her confidante there.",
+    "climax_staging": "The book explicitly stages against a public climax: 'past the glassed-in conference room where I had pictured... a long table, a row of faces, an audience... The conference room was dark.' Venue: Whit's office, blinds down, about 8am, a half-empty building with a custodian's floor buffer. The phone is on speaker on the desk. The only people present are Ines (invited by him) and Roland's voice. No documents are produced; the act is the call itself. Roland's laugh settles the business stakes. The marriage verdict is Ines's own and is spoken in ch 45 at the kitchen island ('I love you' and a kiss), so the relational climax is a separate private scene two days later. The deadline is never formally declared 'passed' in words.",
+    "midpoint_note": "Midpoint judged at ch 22-24 of 46: the honest late birthday, then the heroine's own overfunctioning exposed. The Vance dinner (ch 19) is the first point where the workplace sees the change.",
+    "heroine_goal_note": "Her goal is bound up with the partner: a truthful verdict rather than a career or asset goal. No external goal of hers is threatened.",
+    "ending_final_paragraph": "We walked out the back door together, into an ordinary Saturday afternoon, toward two separate cars, in no hurry, for once, to decide which one to take.",
+    "ending_image_secondary": "callback_to_opening (keys from ch 1, a card read at the same island, the contact-on-file change mirroring ch 4)",
+    "inciting_secondary": "omission (eight years of delegated care) is the underlying harm, and discovery is the event.",
+    "continuity_flags": "Ch 44 says 'my tenth wedding anniversary' but the book opens on the tenth and ends on the eleventh. Ages at the wedding are given as 29/32 (ch 3) and 29/31 (ch 38); Whit is said to be 46 (ch 12). Fern is 26 at the start of eight years but '29' at Desmond's death three years ago. Seasons drift: 'that spring' is used for November-January events, and Camille says 'eight months in' at about week 7. Margo's 'fall' on the porch steps is referred back to, but ch 14 was a dizzy spell. Ch 34 says Whit watched his father '38 years'.",
+    "heat": "No sex on the page. The first kiss of the year is deliberately withheld (ch 17 near-kiss interrupted by a phone he lets ring) until ch 45."
+   }
+  },
+  {
+   "title": "My Bodyguard Is Posing as My Husband",
+   "author_pen_name": "Briar Salvano",
+   "lane": "romantic_suspense_fake_marriage_bodyguard",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "strangers_protector_and_protectee",
+   "opening_engine": "forensic_discrepancy_found_then_stalked",
+   "inciting_event": "assassination_attempt_forces_cover_marriage",
+   "heroine_goal": "expose_fraud_and_finish_own_case",
+   "external_engine": "whistleblower_investigation_under_protection",
+   "agency_pattern": "active_investigation_then_overrules_handlers",
+   "hero_error": "emotional_withholding_behind_protocol",
+   "power_configuration": "complementary_expertise_institution_over_both",
+   "containment": "witness_protection_cover_cohabitation",
+   "midpoint_reversal": "safehouse_exposed_heroine_refuses_relocation",
+   "darkest_moment_cause": "hero_lapse_triggers_institutional_separation",
+   "climax_owner": "heroine_led",
+   "climax_mechanism": "heroine_public_evidence_reveal",
+   "repair_mechanism": "shared_vulnerability_then_structural_priority_change",
+   "resolution_visibility": "community_witnessed",
+   "ending_state": "fake_marriage_becomes_real_marriage",
+   "pov_structure": "dual_close_third_alternating_linear",
+   "setting_function": "small_town_neighbor_scrutiny_and_refuge",
+   "relocation_reset": "protected_cohabitation_becomes_chosen_home",
+   "intimacy_function": "creates_bond_cost",
+   "supporting_cast_function": "institutional_handlers_plus_neighbor_refuge",
+   "epilogue_design": "extended_denouement_wedding_then_two_years_later_mat",
+   "narrative_voice_tags": [
+    "close_third_alternating_labelled",
+    "ledger_arithmetic_emotion_metaphor",
+    "long_cumulative_em_dash_sentences",
+    "explicit_emotional_naming",
+    "deliberate_callback_echo_lines",
+    "numeric_precision_eleven_motif"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "corporate_gala_ballroom_podium",
+   "climax_audience": "industry_crowd_board_and_press",
+   "evidence_delivery": "documents_produced_aloud",
+   "decisive_authority": "officials_decision",
+   "spectacle_mode": "room_turns_audibly_then_physical_struggle",
+   "macro_beats": [
+    "discrepancy_found_and_dismissed",
+    "attempt_on_life_forces_cover_marriage",
+    "cover_tested_by_neighbors_attraction_grows",
+    "investigation_produces_named_fixer",
+    "safehouse_exposed_heroine_refuses_relocation",
+    "consummation_causes_lapse_hero_removed",
+    "home_invasion_heroine_self_rescues",
+    "public_evidence_reveal_arrest_then_real_marriage"
+   ],
+   "signature_scenes": [
+    "planted_wrong_detail_in_cover_story",
+    "neighbor_party_kiss_retracted_as_good_cover",
+    "hero_asleep_upright_facing_door",
+    "crawlspace_escape_to_widow_neighbor",
+    "ballroom_podium_evidence_reveal_and_arrest",
+    "fake_name_welcome_mat_replaced"
+   ],
+   "inciting_kind": "external_blow",
+   "repair_shape": "risking_real_loss_on_her_behalf",
+   "ending_image_class": "callback_to_opening",
+   "core_axes": {
+    "inciting_disruption": "After Laney privately shows COO Richard Vance that his authorization code sits on four Meridian-chain trust adjustments (ch2) and her apartment is covertly entered, Thorne's fixer Halloway cuts her brake line (ch3 last line, ch5), a hidden physical attack seen by no one, which general counsel Meredith Cho answers in an unminuted room with a Halcyon relocation as a fake married couple.",
+    "the_bind": "Staying visible means a professional killer who already tried once; going under means living as Laney Whitfield beside a stranger under a no-break-character rule, and she will not drop the case because she has demanded to be the one who hands the evidence over.",
+    "first_irreversible_decision": "Ch5: she signs the relocation agreement, giving up her name, apartment, phone number, office presence and friends for an estimated three months, on the stated condition that she finishes the case herself.",
+    "midpoint_reversal": "Ch23-24: a hand-delivered photograph of the house proves the cover is found; Laney overrules Rosa's second relocation, Cole backs her, and they hold a known position while she matches the ninth Thorne payment to Halloway's visitor-log Thursday (ch25).",
+    "rupture_lowest_point": "Ch28-32: after their first night Cole misses the 6 a.m. secure check, costing the warrant 11 days; Rosa removes him (ch29), and two nights later Halloway cuts the power, concusses Reyes and breaks in while Laney is alone.",
+    "climax_action": "Ch40: at Ashcroft's investor reception Laney presents the Meridian chain, badge absence and payment match from the podium, Meredith certifies them on the record, Halloway lunges, Cole blocks him, Laney hits him with a glass award, and FBI agents arrest Halloway and Thorne; heroine-led inside a collectively staged plan.",
+    "repair_mechanism": "Cole's changed acts: a next-day private apology for 'good cover' (ch13); full disclosure of his father's murder and his mother's scream (ch27); telling Rosa in the driveway he will resign and guard Laney unlicensed rather than leave (ch35, Rosa witnesses, Laney overhears); declaring love to Meredith (ch42); leaving field work for a home-every-night training post (ch43); vows before the whole street to stand beside her, not in front (ch51).",
+    "resolution_epilogue_shape": "A 13-chapter post-climax tail (about 20% of the text): statements, Vance's hallway confession, Marion's forgiveness, job offers, giving up the old apartment, buying the house, porch proposal, cemetery visit, engagement party, sentencing four months later, backyard wedding, reception and honeymoon; then a two-years-later epilogue swaps THE WHITFIELDS mat for HART-BENNETT under Marion's approval."
+   },
+   "first_attraction_device": "competence_before_greeting",
+   "first_attraction_quote": "Delaney Hart sat down across the safe-house conference table, didn\u2019t touch the coffee someone had set in front of her, and had the cover-identity packet open and three errors flagged in red pen before he\u2019d finished his own opening sentence. (ch6; secondary: first_inspection of her headshot in ch4, 'Chin level. Mouth not smiling.')",
+   "first_care_device": "care_object_and_service",
+   "first_care_quote": "\u201cYou made it the way I actually like it,\u201d she said Thursday morning ... \u201cI don\u2019t think I\u2019ve told you how I take my coffee.\u201d (ch8: he learned her coffee order from the case file)",
+   "heat_level": "moderate_single_on_page_scene_non_graphic",
+   "timeline_entry_point": "before_crisis",
+   "opening_first_sentence": "The number was wrong by four hundred and twelve dollars, and that was the part that wouldn\u2019t let Laney go home.",
+   "chapter_count": 53,
+   "approx_words": 66500,
+   "narrator_habits": [
+    {
+     "habit": "'the specific, [adj]' / 'the particular' intensifier (about 99 and 44 uses)",
+     "example": "with the specific, humiliating speed that only happened when she was right about something and didn\u2019t want to be."
+    },
+    {
+     "habit": "'and meant it' dialogue tag (about 15 uses)",
+     "example": "\u201cOkay,\u201d she said again, and meant it a little more the second time."
+    },
+    {
+     "habit": "short fragment tag after a line of dialogue",
+     "example": "\u201cOrganized,\u201d Cole said. Not a question."
+    },
+    {
+     "habit": "ledger and arithmetic metaphors for feeling",
+     "example": "the way a ledger accumulated toward a total she could finally, cautiously, begin to believe."
+    },
+    {
+     "habit": "'not X, not Y, just Z' correction cascades",
+     "example": "not panic, not yet, just the particular clarity that came from a fact arriving that she couldn\u2019t argue her way around."
+    },
+    {
+     "habit": "narrator flags its own callbacks; 'eleven' recurs about 100 times",
+     "example": "\u201cBoth can matter,\u201d Cole said, echoing, deliberately, the words she\u2019d once said back to him about the coffee"
+    }
+   ],
+   "evidence_notes": "SOURCE: Drive read_file_content cut off at PDF page 80 (in Chapter 19). The full 198-page PDF came through download_file_content, was decoded and extracted with pdftotext -layout, and paragraphs were rebuilt from indentation. All 53 chapters and the Epilogue were read in full, so evidence_level is FULL_TEXT. Front matter gives the author as 'Briar Salvano' (Copyright 2026). STRUCTURE: dual close third person with labelled POV chapters (Laney 31 plus the Epilogue, Cole 22) in uneven alternation. The climax is ch40, about 79% through. Ch41-53 plus the Epilogue (about 13.6k words) are all denouement. INCITING: the discovery (ch1) comes first, but the event that breaks equilibrium and starts the romance container is the brake-line attack (ch3/5), so inciting_kind is external_blow, with discovery as the precondition. HERO_ERROR: the clearest moment is ch12, when Cole kisses her at the Ortiz party and then retreats with 'That was \u2014 for the neighbors. Good cover.' His broader pattern is withholding his father's story and treating safety as the only form of love (ch14, ch27). The ch28 missed check is a lapse, not a value error. REPAIR: dominant is risking_real_loss_on_her_behalf (ch35: 'I'd rather lose my career than lose her'). Secondary shapes are changing_a_structure (ch43 training-program job, home every night) and relinquishing_power_or_control (ch24, ch33, and the vows 'stand beside you rather than in front of you'). CLIMAX STAGING: 400-guest investor reception at the Fairport Regency, with board and press present. Documents are shown on a screen and read aloud. The General Counsel verifies them on the record. The FBI arrests on a warrant signed that morning. A physical scuffle follows. SUPPORT: Rosa (Halcyon owner) is the protocol authority who removes and then reinstates Cole. Priya Nasser (FBI) and Meredith Cho (GC) are co-builders of the case. Marion Castellano (widowed neighbor) is the cover-tester and later the refuge. The Ortizes are the model real marriage. Outcomes per ch50: Thorne 22 years, Halloway 8, Vance 4. CONTINUITY ISSUES IN THE TEXT (descriptive): ch13 says 'nine weeks' when it is about 3 weeks in. Ch34 skips weeks ahead (therapy with Dr. Ashworth) before ch35 returns to the dawn after the break-in. Ch46 mentions the porch proposal before ch47 shows it. Ch7 has the move on a Saturday in April but the Epilogue says 'a March afternoon'. Ch37 says 'Ashcroft & Vance' though the firm is Ashcroft Capital elsewhere. Ch40 says 'Eleven weeks ago' while ch5 estimated three months. ENDING: the closing object is the new HART-BENNETT mat, a callback to the THE WHITFIELDS mat on arrival in ch7, and Laney's last line echoes ch15 ('I used to believe safe meant nobody could get to you'). Final paragraph, verbatim: 'Cole kissed the top of her head, and together they sat in the gathering dusk, two people who had once built an entire life out of a careful, necessary lie and had, slowly, patiently, over two remarkable years, built something infinitely truer in its place \u2014 a real home, on a real street, under a real name, exactly where they\u2019d always, without quite knowing it yet, been meant to stay.' Then 'THE END'. HEAT: one on-page sex scene (ch28), sensual but not explicit in its language. The rest is kisses."
+  },
+  {
+   "title": "My Estranged Husband Came Back",
+   "author_pen_name": "Briar Salvano",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_estranged",
+   "opening_engine": "doorstep_return_with_caregiving_request",
+   "inciting_event": "dying_father_in_law_summons_her",
+   "heroine_goal": "care_for_dying_father_figure_on_own_terms",
+   "external_engine": "home_hospice_caregiving_schedule",
+   "agency_pattern": "early_terms_then_repeated_corrective_confrontation",
+   "hero_error": "unilateral_concealment_as_protection",
+   "power_configuration": "hero_information_advantage_vs_heroine_terms_authority",
+   "containment": "shared_care_of_dying_parent",
+   "midpoint_reversal": "benign_secret_plan_reads_as_second_departure",
+   "darkest_moment_cause": "repeated_core_harm",
+   "climax_owner": "heroine_led",
+   "climax_mechanism": "heroine_refuses_grand_gesture_sets_terms",
+   "repair_mechanism": "sustained_uncredited_small_reliability",
+   "resolution_visibility": "family_witnessed_private_recommitment",
+   "ending_state": "reconciled_marriage",
+   "pov_structure": "dual_first_alternating_linear",
+   "setting_function": "small_town_gossip_ledger_and_deathbed_house",
+   "relocation_reset": "returns_to_family_asset_jointly_inherited",
+   "intimacy_function": "confirms_repair",
+   "supporting_cast_function": "dying_mentor_arbiter_plus_accountability_network",
+   "epilogue_design": "nine_months_later_porch_callback_asks_before_deciding",
+   "narrative_voice_tags": [
+    "forensic_retrospective_on_the_record",
+    "inventory_cataloguing_counts",
+    "structural_engineering_metaphor_hero_pov",
+    "baking_metaphor_heroine_pov",
+    "dry_understated_dialogue",
+    "specific_particular_x_of_a_y_constructions"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "dying_fathers_sickroom_at_dawn",
+   "climax_audience": "the_two_of_them_and_dying_parent",
+   "evidence_delivery": "act_performed_and_log_read",
+   "decisive_authority": "heroines_own_choice",
+   "spectacle_mode": "private_line",
+   "macro_beats": [
+    "estranged_husband_returns_with_caregiving_ask",
+    "heroine_sets_terms",
+    "concealed_failure_discovered",
+    "heroine_corrects_hero_publicly",
+    "hero_repeats_concealment_benignly",
+    "hero_unreachable_in_crisis_rupture",
+    "sustained_uncredited_reliability",
+    "heroine_refuses_grand_gesture_then_recommits"
+   ],
+   "signature_scenes": [
+    "porch_return_rolling_pin_in_hand",
+    "bank_statement_in_photo_box",
+    "harvest_supper_public_correction",
+    "half_packed_box_in_hall_closet",
+    "hospital_hallway_some_doors_close",
+    "dawn_vigil_chart_then_resignation_refused",
+    "ring_moved_from_chain_to_finger_before_dying_father"
+   ],
+   "inciting_kind": "external_blow",
+   "repair_shape": "sustained_unglamorous_presence",
+   "repair_shape_secondary": "relinquishing_power_or_control",
+   "ending_image_class": "callback_to_opening",
+   "core_axes": {
+    "1_inciting_disruption": "Theo, gone three years after leaving a four-word note, appears in person on Rosalind's porch at 9 p.m. (neighbours watching from darkened windows) to tell her his father Gid has weeks to live with congestive heart failure and has asked for her by name; the request is for care, not the marriage (Ch1).",
+    "2_the_bind": "Gid has been her surrogate father since she was nine and a motherless child at his table, and he asks for both of them in the room together for his last eight weeks; she cannot refuse him without abandoning the one person who never left her, so she must share a house, a schedule and a sickbed with the husband she never divorced.",
+    "3_first_irreversible_decision": "Ch3: she says yes to Gid and lays down four counted-off terms to Theo (this is for Gid, she keeps her own house, no apologies yet, divorce paperwork when he dies), and pays a visible price by handing her bakery to Junie for two months.",
+    "4_midpoint_reversal": "Chs 13-15: after she trusts him with the Meridian trip and he says 'I love you' on the porch, Theo secretly arranges a job in Kenton so he can stay; the cut-off calls and half-packed box read to her as a second departure, she forces disclosure in the driveway, and Gid wheels out and names the same pattern in both of them (his concealment, her waiting for perfect).",
+    "5_rupture_lowest_point": "Ch18: Theo leaves for a Columbus parking-structure emergency with a vague 'few hours', goes unreachable underground for six hours while Gid is rushed to hospital, and Rosalind, who made the care decisions alone in the ER, sends him away in the hallway ('Some doors close for a reason'); the doctor then cuts Gid's time to two to four weeks.",
+    "6_climax_action": "Chs 21-22: when Gid crashes Theo answers on the first ring, stays on the line, then keeps the overnight vigil logging oxygen every twenty minutes; at dawn he unilaterally offers to resign his career and stay within twenty minutes of her forever, and Rosalind says 'No', names it the same pattern at a larger size, and sets the terms (Kenton taken for its own sake, decisions made together, an ordinary call every day). She causes the outcome; he relinquishes the grand gesture.",
+    "7_repair_mechanism": "Uncredited small acts and asking before deciding: he sets up the hospital bed and cleans the gutters without telling her (Junie reports it to him: 'She noticed'), drives Gid to physical therapy, fixes the porch step under Gid's eye, calls her every afternoon at two, lets the town see him break down in his eulogy with Rosalind beside him, and in the epilogue asks her before accepting a partnership. Witnessed by Junie, Denise, Gid and the town.",
+    "8_resolution_epilogue_shape": "Ch23 she kisses him first and says she loves him; Ch24 she moves his grandmother's ring from a chain to her finger in front of Gid on the porch; Gid dies with both holding his hands (Ch25); his will leaves the house to them jointly and Marion's recipe box to her (Ch27); there is an informal porch 'second wedding that wasn't'. Epilogue, nine months later at 9 p.m.: she opens the porch door to him on purpose, he asks before saying yes to the partnership, and the opening rule is called back."
+   },
+   "first_attraction_device": {
+    "device": "comic_undercut",
+    "quote": "It was three years old and it still fit him, which felt like a personal insult, the specific kind that arrives disguised as an observation about outerwear. (Ch1)"
+   },
+   "first_care_device": {
+    "device": "care_object_and_service",
+    "quote": "I pulled the hinge pins, planed a sixteenth off the door\u2019s edge, and reset the strike plate a hair proud so it would catch true. It took forty minutes and cost nothing and I did not tell anyone I\u2019d done it (Ch4, the fixed kitchen doorframe)"
+   },
+   "heat_level": "sweet_closed_door_kisses_only",
+   "timeline_entry_point": "after_departure",
+   "opening_first_sentence": "You do not, under any circumstances, answer the porch light at nine o\u2019clock at night in a town like Sutton\u2019s Ridge without knowing who\u2019s standing on the other side of it.",
+   "chapter_count": 27,
+   "approx_words": 72600,
+   "narrator_habits": [
+    {
+     "habit": "'on the record' / 'I want to be honest/exact' self-witnessing asides",
+     "example": "It was not about him. I want that on the record, even if the only person keeping the record is me."
+    },
+    {
+     "habit": "inventory and counting as a stand-in for feeling",
+     "example": "I lay in the dark doing the thing I do instead of crying, which is running an inventory"
+    },
+    {
+     "habit": "'the specific/particular X of a Y who...' characterising constructions, used heavily in both POVs",
+     "example": "the specific ugly satisfaction of a woman who has mistaken avoidance for discipline and hasn\u2019t yet been asked to tell the difference."
+    },
+    {
+     "habit": "exact numbers and measurements",
+     "example": "a man on my porch I had not laid eyes on in one thousand and ninety- one days, and I had counted"
+    },
+    {
+     "habit": "structural/beam similes in Theo's chapters, often carried into Rosalind's",
+     "example": "Recalibrated, the way he does, like a man checking a level against a beam before he\u2019ll say the wall is true."
+    },
+    {
+     "habit": "short corrective fragments and 'I did not' chapter closers",
+     "example": "Not a crack. A settling. / I went and helped her fix the crust. I did not, that night, decide the ending."
+    }
+   ],
+   "evidence_notes": {
+    "source": "The Drive read_file_content text cut off mid-sentence in Ch16 (about 44k words). I downloaded the full PDF (136 pages, wkhtmltopdf) with download_file_content, extracted it with pdftotext and read all 27 chapters and the Epilogue end to end. The extract matches the Drive text for Ch1-15 apart from whitespace. Byline printed on the title page: 'Briar Salvano'.",
+    "word_count": "pdftotext body counts at 72,639 words, including the title page. 27 numbered chapters plus an Epilogue; chapter_count excludes the Epilogue.",
+    "pov": "No chapter carries a POV label. POV alternates strictly in first person past: Rosalind in odd chapters 1-27 and the Epilogue, Theo in even chapters 2-26 (inferred from content). Linear timeline from September through funeral and late October, then a June epilogue nine months later. Backstory (the $412k guarantee, Gid and Marion's old crisis) is told in dialogue.",
+    "inciting_event": "Function class: external_disaster (the parent's terminal diagnosis) delivered by the returning husband. The original harm is older: Theo concealed a $412k business failure he caused, quietly paid it off, and left with 'I have to go. I'm sorry. \u2014 T.' (an omission/choice_under_pressure). The book opens after that.",
+    "heroine_goal": "Function class: protect_dependent. She says it is for Gid, not the marriage (Ch1, Ch3). She has a secondary self-protective aim: not to be left again (her mother's pattern; she nearly sold the shop 18 months earlier, Ch11).",
+    "hero_error": "Deciding alone what she can handle knowing and handing her finished plans. It recurs in three escalating forms: the hidden debt and leaving, the secret Kenton job, and the unilateral offer to resign. Ch16 traces it to Gid ('I taught it to you').",
+    "midpoint": "The structural midpoint is Chs 13-15 of 27. Ch10 (the harvest supper public correction, 'You're right') is an earlier turn, and Rosalind herself says it 'doesn't undo three years' (Ch11).",
+    "darkest_moment": "Ch18-19. Same pattern under real pressure (going silent and alone), so repeated_core_harm. Junie challenges whether Rosalind is using it to close a half-open door (Ch19).",
+    "climax_staging": "Venue: the hospital-bed room in Gid's house, about 6-6:30 a.m. after the overnight crisis. Audience: the two of them, with Gid drifting in and out ('Finally... you two figured out the actual assignment'). Evidence: she reads the oxygen chart he logged every twenty minutes, and the first-ring call of the night before is cited. Binding authority: her refusal and terms. No crowd. The public scene (harvest supper, Ch10) is not the climax.",
+    "climax_owner": "Heroine-led. The hero's vigil is the proof, but the decisive move is her 'No' to the grand gesture and her terms; he accepts ('I relinquish the grand one'). She initiates the kiss and 'I love you too' in Ch23.",
+    "repair_shape": "Dominant: sustained_unglamorous_presence (Junie: 'be boring and reliable today, and then tomorrow'; gutters, vigil, daily 2 p.m. calls). Secondary: relinquishing_power_or_control (he gives up the grand-gesture fix and the habit of deciding alone; asks before Kenton, the books and the partnership). Also present: letting_her_be_right_before_people_who_mattered (Ch10, in front of the church board).",
+    "resolution_visibility": "The recommitment is private (kitchen kiss, Ch23). The ring goes on before Gid as the only witness (Ch24). It is later witnessed by the community at the informal porch gathering (Ch27) and the funeral. The will makes it legal by joint house ownership.",
+    "relocation": "Both move into Gid's house in his last week (Ch25). The house is willed to them jointly (Ch27) and her own house is rented out. She grew up 'half in this kitchen', so this counts as a return to a family asset.",
+    "intimacy": "No sex on the page. Near-kiss refused in Ch13 ('Don't'), first kiss in Ch23, they share a bed for comfort only during the death watch (Ch25).",
+    "epilogue": "Nine months later in June, at 9 p.m. on the porch. It opens by quoting the opening line ('I wrote that rule for myself three years ago') and has her break the rule on purpose. Theo asks before accepting a Kenton partnership. Junie, Denise, Walt's apprentice and Arlene pass by. The recipe box now holds her own card 'for G'.",
+    "ending_image": "Final paragraph quoted verbatim: 'I reached for Theo\u2019s hand on the step, his grandmother\u2019s ring catching the last of the porch light, and did not let go.' It comes right after 'Nothing happens in Sutton\u2019s Ridge at nine o\u2019clock at night, and everything, if you\u2019re paying attention, always has.' Classed as callback_to_opening (the porch light at nine o'clock); secondary class act_in_motion.",
+    "first_attraction": "Comic undercut on the jacket (Ch1). The first physical beat is the pepper-jar hand touch in Ch4 ('neither of us moved for a second longer than the moment required'), which reads as involuntary_symptom.",
+    "text_anomalies": "The source has continuity slips: Sandra asks for 'Thursday' again in Ch16 after the Meridian trip happened in Ch13; one paragraph is duplicated in Ch16; Rosalind mentions the ring 'by proxy' (Ch24) before the ring scene in the same chapter; the porch step is fixed in Ch24 and replaced again in Ch27; the bakery reopening is given as ten days after hospital (Ch21), 'back in October' (Epilogue) and 'first Monday of November' (Ch27); it is called 'September' throughout weeks that run into October. None of these change the fingerprint.",
+    "not_determinable": "Nothing major. Whether the book should be read as a second-chance romance or grief fiction with a romance thread is a judgement; the dying-father arc takes about as much page time as the marriage."
+   }
+  },
+  {
+   "title": "I Was His Neglected Wife",
+   "author_pen_name": "Briar Salvano",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_connected",
+   "opening_engine": "client_meeting_credit_erasure",
+   "inciting_event": "public_credit_erasure",
+   "heroine_goal": "credited_authority_and_reclaimed_vocation",
+   "external_engine": "construction_project_underwriting",
+   "agency_pattern": "early_bargain_then_terms_setting",
+   "hero_error": "unilateral_decision_making",
+   "power_configuration": "hero_ownership_dominance",
+   "containment": "shared_business_home_and_child",
+   "midpoint_reversal": "surprise_fix_rejected_problem_reframed",
+   "darkest_moment_cause": "repeated_core_harm",
+   "climax_owner": "heroine_led",
+   "climax_mechanism": "heroine_declines_rival_offer_sets_terms",
+   "repair_mechanism": "co_negotiated_equity_and_hero_restraint",
+   "resolution_visibility": "institutional_change",
+   "ending_state": "reconciled_marriage",
+   "pov_structure": "dual_third_linear",
+   "setting_function": "family_business_credit_hierarchy",
+   "relocation_reset": "no_relocation_reset",
+   "intimacy_function": "confirms_repair",
+   "supporting_cast_function": "accountability_network",
+   "epilogue_design": "months_later_shared_name_signage",
+   "narrative_voice_tags": [
+    "construction_metaphor_saturated",
+    "numeric_counting_motif",
+    "proleptic_foreshadowing",
+    "long_cumulative_sentences",
+    "explanatory_therapeutic_dialogue",
+    "callback_phrase_recurrence"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "private_room",
+   "climax_audience": "the_two_of_them",
+   "evidence_delivery": "confession",
+   "decisive_authority": "heroines_own_choice",
+   "spectacle_mode": "private_line",
+   "macro_beats": [
+    "credit_erasure_witnessed_by_client",
+    "heroine_withholds_work_until_named",
+    "hero_small_fixes_misfire",
+    "rival_partnership_offer_held_secret",
+    "surprise_title_gift_rejected",
+    "secret_equity_deal_announced_publicly",
+    "heroine_code_catch_then_private_terms",
+    "co_negotiated_equity_and_shared_sign"
+   ],
+   "signature_scenes": [
+    "client_credits_heroine_on_recorded_call",
+    "restaurant_title_and_bracelet_refused",
+    "staff_meeting_equity_announcement_no_clap",
+    "egress_violation_caught_red_pen",
+    "site_trailer_envelope_left_unopened",
+    "hero_silent_at_final_walkthrough"
+   ],
+   "inciting_kind": "omission",
+   "repair_shape": "relinquishing_power_or_control",
+   "ending_image_class": "act_in_motion",
+   "core_axes": {
+    "inciting_disruption": "Investor-partner Porter redirects Marisol's correctly answered draw-schedule question to Idris in a client meeting before Renata Cho (Ch1) and Idris does not notice; on a recorded conference call (Ch3) the client herself says Marisol built the systems while Idris stays silent, then texts her only 'good call'.",
+    "the_bind": "She signed the personal loan guarantee on the Brenner Row project, is unsalaried in a family company she rescued after an embezzlement six years earlier, holds the systems eleven employees' jobs depend on, and shares a fifteen-year marriage, a home and a fourteen-year-old daughter, with her own design studio packed in a storage unit.",
+    "first_irreversible_decision": "Ch4: she refuses to finish the Friday underwriting package unless her name goes on the client-facing team, openly accepting the risk of losing the locked loan rate ('I would rather lose four points on a loan').",
+    "midpoint_reversal": "Ch13: Idris surprises her at a restaurant with a Director of Operations title, a 15% retroactive raise and a bracelet; she refuses the shape of it ('generosity that gets decided for somebody instead of with them is just control with better lighting'), moving the problem from credit to inclusion, and he then starts a secret equity negotiation with the lawyer and Porter (Ch14-16).",
+    "rupture_lowest_point": "Ch18: at the Friday all-hands Idris announces her 10% ownership stake, negotiated for six weeks without her, to applause; she does not clap, their daughter hears it from a classmate, and the deadline on her rival partnership offer lapses unanswered while she sits in the storage-unit lot (Ch18C-19).",
+    "climax_action": "Heroine-caused: she catches an egress-code violation in Porter's corridor cut, which makes him name her on the record before the bonding committee (Ch20-20B); then in the site trailer (Ch23) she lays Celeste's signed offer on the desk, Idris confesses his Seattle visit before she speaks, and she declines the offer and dictates her terms while he writes them down and leaves the envelope unopened.",
+    "repair_mechanism": "Idris writes her list of his wrongs on legal pads; she redlines the equity agreement in the lawyer's office and strikes his sole-tiebreaker clause (witnessed by Ellen, with Porter agreeing to quiet written disclosure); he brings licensing facts instead of plans and asks before acting on clients and hires; he stays deliberately silent while she runs the final walkthrough (witnessed by Renata and Porter); the company is renamed Calder & Vega.",
+    "resolution_epilogue_shape": "Four months later: the CALDER & VEGA CONSTRUCTION sign goes up in his father's typeface while family and Deb watch; she has a windowed office, her drafting table and three design clients, has stopped counting smile seconds, and walks out hand in hand with Idris."
+   },
+   "first_attraction_device": "other:competence_witnessed",
+   "first_care_device": "care_object_and_service",
+   "heat_level": "sweet_closed_door_kisses_only",
+   "timeline_entry_point": "at_crisis",
+   "opening_first_sentence": "Marisol Vega had learned exactly how many seconds she could hold a smile before it started reading as a symptom.",
+   "chapter_count": 54,
+   "approx_words": 72800,
+   "narrator_habits": [
+    {
+     "habit": "'the specific' as a recurring qualifier (about 167 uses)",
+     "example": "the specific carefulness of a man who wanted something to do with his hands"
+    },
+    {
+     "habit": "construction and load-bearing metaphors for emotion and marriage",
+     "example": "a company whose actual load-bearing wall, if anyone bothered to check the foundation plans instead of admiring the roofline, was her."
+    },
+    {
+     "habit": "forward-looking hindsight lines",
+     "example": "He would think about this moment later, replay it more times than he wanted to admit"
+    },
+    {
+     "habit": "counting and exact numbers as characterization",
+     "example": "Four seconds of smile, six years of this, one folder of inspection dates nobody else kept"
+    },
+    {
+     "habit": "'not quite X and not quite Y but' compound-feeling constructions",
+     "example": "something in her chest that was not quite grief and not quite gratitude but some complicated cousin of both"
+    },
+    {
+     "habit": "short negated-action sentences after long ones",
+     "example": "She did not say any of that either."
+    }
+   ],
+   "evidence_notes": {
+    "source": "Google Doc fileId 1qbUjNFsB8lAf7-TGRhoeG64TdY9LbAc1UpfgtW0NREc read in full (431,982 chars; front matter, TOC, Chapters 1-26 with B/C sub-chapters, Epilogue). Front matter prints: 'A Second-Chance Devotion Romance', 'Contemporary Grovel Cluster \u2014 Book 3 of 10', author Briar Salvano.",
+    "chapter_count": "53 chapter headings (26 numbered chapters plus 27 lettered B/C sub-chapters) and 1 Epilogue = 54 headed units. About 72,800 words after the TOC.",
+    "pov": "Alternating close third, each chapter labelled with an italic name (Marisol/Idris). Ch13 switches POV mid-chapter at a bullet break (Idris then Marisol). Linear, with forward-looking hindsight lines.",
+    "chronology": "The lettered chapters read as later insertions and add continuity slips: Ch2B shoebox scene mentions promises 'over pasta or coffee or a legal pad' before those happen; Ch3B mentions a 'dentist appointment lie' and 'the six words from the permission slip' before Ch5/Ch10B; Ch11B cites the drafting table and legal pad before Ch15; Ch20C (Ellen review with Marisol) comes before the Ch23 trailer and Ch24 'real negotiation'; elapsed time drifts between 'eight months', 'six weeks' and 'two months'. Fields follow the main numbered-chapter spine.",
+    "climax_staging": "The book has two climactic stagings. (a) Public competence climax: Ch20 red-pen egress catch in Porter's office, then Ch20B bonding committee (venue institution/surety office, audience four reviewers + Porter + Idris, evidence documents_produced_aloud by Porter on the record, authority officials_decision approving the package). (b) Relational climax that resolves the dominant problem: Ch23 site trailer, the two of them, offer letter set down unopened, his preemptive confession, her choice. The staging fields record (b). A third repair-proof scene is the Ch25 final walkthrough (Renata, Porter, Idris silent).",
+    "inciting_kind": "omission: Idris's failure to notice or speak while Porter erases her. Ch11 shows the root was a choice three years earlier (the Delgado laugh), so 'choice_under_pressure' is a secondary reading.",
+    "darkest_moment": "Hero repeats the core error at its most public: a well-meant unilateral equity announcement (Ch18). Celeste's first deadline lapses at the same moment (Ch19).",
+    "repair_shape": "Dominant relinquishing_power_or_control: the sole-tiebreaker clause is struck, she joins every negotiation, he leaves the envelope closed. Secondary letting_her_be_right_before_people_who_mattered: his silence at the Ch25 walkthrough. being_taught_by_her_on_her_terms is also present (the legal-pad lists).",
+    "heroine_goal_class": "Normalizes to independence / clear_name class: recognized authority in the shared business plus a revived design practice. Celeste Anwar's partnership offer is the rival path. She declines it but gets a design-build line.",
+    "ending_image_final_paragraph": "\u201cIt was worth every bit of what it cost,\u201d Idris said, and took her hand as they walked out together, past Deb\u2019s desk, past the front door with its new lettering catching the last of the afternoon light, out into a Saturday that belonged, at last, to both of them equally, built the slow, unglamorous, correct way, one honest conversation at a time.",
+    "ending_image_class": "act_in_motion: walking out hand in hand past the new sign. The epilogue also calls back to the opening's smile-counting ('the number of seconds she could hold a smile'), so callback_to_opening is secondary.",
+    "heat": "No sex scenes. Intimacy is hand-holding and two kisses in Ch26, which confirm repair.",
+    "relocation": "No relocation. The drafting table comes back from storage into the garage (Ch15) and later into a converted office at the company (Epilogue).",
+    "supporting_cast": "Deb (office manager; carries Alma's story and pushes Idris to ask), Junie (daughter; diagnoses both parents' secrets), Naomi (friend; carries the rival offer and calls out the heroine's own withholding), Porter (investor; antagonist who becomes an ally and later names her on record), Renata Cho (client; names her on record in Ch3 and later refers work), Celeste Anwar (rival partnership offer), Hank and Ellen. Generational echo: Idris's mother Alma, whose work was uncredited (shoebox ledgers, an unfinished sampler that Deb finishes in Ch26B).",
+    "uncertain": "The epilogue says Junie is still fourteen four months later. 'Chapters 1\u20133' in the prior sample includes sub-chapters 2B and 3B. The final sample includes Ch26, Ch26B and the Epilogue.",
+    "first_attraction_quote": "watching his wife solve in four minutes a problem that had made an experienced plumber call him at seven in the morning worried \u2014 felt something shift in his chest that had nothing to do with the wall cavity at all. (Ch9)",
+    "first_care_quote": "\u201cI checked the tin Tuesday night. It was almost out.\u201d (Ch6, coffee driven from Sequim before dawn)",
+    "repair_shape_secondary": "letting_her_be_right_before_people_who_mattered"
+   }
+  },
+  {
+   "schema_version": "1.1",
+   "title": "The Quarterback Needs a Fake Wife",
+   "author_pen_name": "Briar Salvano",
+   "lane": "sports",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "strangers",
+   "opening_engine": "immigration_deadline_countdown",
+   "inciting_event": "visa_sponsorship_revoked_by_acquirer",
+   "heroine_goal": "stay_in_country_and_own_bakery",
+   "external_engine": "immigration_filing_and_contract_extension_vote",
+   "agency_pattern": "early_bargain_then_public_self_narration",
+   "hero_error": "silence_under_pressure_defers_to_agent",
+   "power_configuration": "hero_economic_dominance_heroine_legal_dependency",
+   "containment": "contract_marriage_cohabitation",
+   "midpoint_reversal": "heroine_publicly_confesses_arrangement",
+   "darkest_moment_cause": "protagonist_bad_choice",
+   "climax_owner": "heroine_led",
+   "climax_mechanism": "heroine_preempts_expose_with_public_truth",
+   "repair_mechanism": "quiet_hands_on_service_then_public_backing",
+   "resolution_visibility": "community_witnessed",
+   "ending_state": "convenience_marriage_made_real_with_child",
+   "pov_structure": "dual_first_linear",
+   "setting_function": "franchise_town_jobs_and_tabloid_pressure",
+   "relocation_reset": "protected_cohabitation",
+   "intimacy_function": "confirms_mutual_declaration",
+   "supporting_cast_function": "mentor_chorus_validation_network",
+   "epilogue_design": "multi_year_milestones_then_birthday_epilogue",
+   "narrative_voice_tags": [
+    "warm_comic_dialogue_driven",
+    "catchphrase_and_countdown_callbacks",
+    "retrospective_foreshadowing_asides",
+    "explicit_therapeutic_self_analysis",
+    "long_cumulative_recap_sentences",
+    "numeric_clock_precision"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "public_civic_meeting",
+   "climax_audience": "whole_town",
+   "evidence_delivery": "confession",
+   "decisive_authority": "public_opinion_turns",
+   "spectacle_mode": "room_turns_audibly",
+   "macro_beats": [
+    "sponsorship_deadline_forces_bargain",
+    "heroine_sets_terms_contract_marriage",
+    "hero_service_in_domestic_crises",
+    "mutual_declaration_then_expose_threat",
+    "hero_defers_voice_heroine_withdraws",
+    "hero_quiet_hands_on_repair",
+    "heroine_preempts_expose_town_turns",
+    "long_milestone_denouement_wedding_baby"
+   ],
+   "signature_scenes": [
+    "four_am_proof_box_delivery",
+    "storm_shared_bed_father_confession",
+    "heroine_corrects_donor_about_hero",
+    "gala_hero_defers_to_agent",
+    "midnight_mixer_repair_with_note",
+    "heroine_seizes_aisle_microphone"
+   ],
+   "inciting_kind": "external_blow",
+   "repair_shape": "sustained_unglamorous_presence",
+   "repair_shape_secondary": [
+    "letting_her_be_right_before_people_who_mattered",
+    "relinquishing_power_or_control"
+   ],
+   "ending_image_class": "act_in_motion",
+   "core_axes": {
+    "inciting_disruption": "Hearthstone Hospitality Group, the corporate buyer of Pruitt's Bakery, ends Nora's visa sponsorship by form letter left on the bakery counter (Dot read it first; Nora reads it alone at 5 a.m., Ch1), leaving 42 days of grace; in parallel the Blitz Report re-runs the old Brooke photo, which puts Cade's extension and the Cavanaugh facility deal at risk (Ch2).",
+    "the_bind": "Only a genuine, cohabiting marriage keeps her adjustment-of-status filing alive (fraud penalties hit both spouses, Ch4); the alternative is deportation to Dublin, and no employer in the area can sponsor her, so she cannot walk away from the arrangement or from living with him.",
+    "first_irreversible_decision": "Ch6 courthouse wedding with Priya and Marcus as witnesses, followed by her move into his lake house (Ch7); the visible price is legal fraud exposure for both and his mother learning of it secondhand (Ch7-8). The bargain itself was sealed by a handshake on her terms in Ch4.",
+    "midpoint_reversal": "Ch28 (exactly 28 of 56): when Teague holds up the marriage and joint-account filings at the stadium dedication's public-comment mic, Nora takes the mic first and confesses the arrangement herself. This resolves the external plot at the 50% mark. Mutual love was already declared in Ch15-16.",
+    "rupture_lowest_point": "Ch21-23: at the Cavanaugh gala Nora asks 'What do you want to do,' and Cade answers 'Let Renata handle the statement' in front of his agent; Nora answers 'Copy that' and leaves for six nights on Priya's couch, and the extension passes without her.",
+    "climax_action": "Nora (heroine-caused) tells the crowd that the arrangement started as paperwork and lists his acts of care; Deacon heckles Teague and the crowd laughs. Cade follows (Ch29), confirms her account, confesses his gala freeze and tells Cavanaugh to judge him on the marriage. Cavanaugh stands and claps, and the crowd gives a standing ovation.",
+    "repair_mechanism": "Cade tells Renata to stop and says he will handle his own statements (Renata witnesses, Ch22); he texts without pushing (Ch23). At night in Priya's flat, with Priya's door code and tip-off, he fixes Nora's failing stand-mixer belt and leaves a note asking nothing (Ch24-25). He confesses the freeze publicly before the town (Ch29). He buys out Hearthstone's stake and puts it in her name alone so that her staying never depends on him (Dot witnesses, Ch31).",
+    "resolution_epilogue_shape": "27 post-climax chapters of low-stakes milestones: bakery deed, Teague's piece neutralized, green card interview, Christmas with her family, proposal on the dock, June lawn wedding, Dublin honeymoon, second shop, pregnancy, daughter Eleanor, citizenship and Dot's retirement. The epilogue is Eleanor's first birthday at the lake house, ending on the porch with the Dublin shop key."
+   },
+   "first_attraction_device": {
+    "device": "competence_before_greeting",
+    "quote": "\u201cGood,\u201d he said, like that settled something",
+    "note": "Ch1: Cade approves her refusal to lower her bread standards, and she 'thought about it anyway, for about four seconds.' Cade's side (Ch2) runs on endorsement_before_encounter through Renata: 'I've watched her build a wait list out of nothing but skill and stubbornness.'"
+   },
+   "first_care_device": {
+    "device": "care_object_and_service",
+    "quote": "Equipment manager owed me a favor. Facility\u2019s got a spare in storage",
+    "note": "Ch5: at 4 a.m. he drives a borrowed commercial proof box to the bakery after her proof box dies before a wedding order."
+   },
+   "heat_level": "low_closed_door",
+   "timeline_entry_point": "at_crisis",
+   "opening_first_sentence": "Six weeks isn\u2019t a deadline.",
+   "chapter_count": 56,
+   "approx_words": 67100,
+   "narrator_habits": [
+    {
+     "habit": "'Copy that' catchphrase used as deflection, then promise, then weapon (29 uses)",
+     "example": "\u201cCopy that,\u201d I said, and meant it more than either of the last two times."
+    },
+    {
+     "habit": "Italic countdown motif before risk, retired at the end (about 10 uses)",
+     "example": "*Three, two\u2014*"
+    },
+    {
+     "habit": "'the specific/particular X of a [person] who...' characterizing construction (about 69 uses of 'the specific')",
+     "example": "the specific weariness of a woman who\u2019s spent three decades building something"
+    },
+    {
+     "habit": "Retrospective foreshadowing asides that close a scene",
+     "example": "I should have kept checking the exits."
+    },
+    {
+     "habit": "Paired descriptor stacks after a comma ('steady, certain'; 'quiet, unhurried')",
+     "example": "steady, certain, entirely unafraid"
+    },
+    {
+     "habit": "Corrective 'not X, that's just true' aphorism and running recap lists of earlier care acts",
+     "example": "That\u2019s not vanity. That\u2019s just true."
+    }
+   ],
+   "evidence_notes": {
+    "source": "Google Doc 1O7H-WrVH9aaWj3JAcK-agID2pOhyRqOdJLr-a2UM3_s (newer copy). The full 391,770-char export was saved to disk and read end to end: front matter, Ch1-56, Epilogue, Note to Readers. No truncation. The words figure is for Ch1 through the end of the Epilogue.",
+    "author": "Title page and copyright line print 'Briar Salvano'. The subtitle reads 'A Marriage of Convenience Sports Romance'.",
+    "lane": "Cross-lane: shelved as sports, with a fake/convenience-marriage engine. The football content is mostly backdrop (the contract extension, the stadium deal and a few game scenes).",
+    "structure": "The main external and romantic arc resolves at Ch28-29 (50%). Ch30-56 plus the Epilogue are a long, low-conflict milestone denouement. The only later tension is Ch46 (she hides her second-shop plan; resolved in one scene). Teague's late piece (Ch44) is toothless.",
+    "pov": "Chapters are italic-labelled 'Nora' or 'Cade'. The pattern mostly alternates but breaks at Ch27-28 (both Nora), Ch29-30 (both Cade) and Ch51-52 (both Nora); the Epilogue is Nora. There are third-person pronoun slips inside first-person chapters: Ch14 'squeezed his hand', Ch18 'his knuckles', Ch36 'against his mouth', Ch49 'her grandfather's name', Ch50 a long third-person passage, and the Epilogue 'her grandfather's Dublin shop' and 'their shoulders'.",
+    "continuity_flags": "Ch32 says Teague's piece was pulled, but Ch44 says it ran on page nine. Ch31 has Cade buying Hearthstone's stake, but Ch44 has Nora 'paying off the loan' and Ch56 mentions 'the loan'. Ch48 says 'two years ago today' at the first anniversary. Dot is 68 in Ch1 and still 68 in Ch56. Theo is five in Ch14 and eight a year later. Ch37 has 'Marisol, no, Teresa'. Ch44's sign reads 'CONTINUED 2023' while the copyright year is 2026. Ch31 says the sponsorship letter came 'six months ago', which does not match the six-week timeline.",
+    "climax_staging": "The venue is an outdoor stadium dedication ceremony with folding chairs and an open public-comment aisle mic; it is tagged public_civic_meeting because it functions as one. Teague produces the documents aloud (the antagonist's documents_produced_aloud). The resolving proof is Nora's own confession and testimony of his acts, plus Deacon's heckle as a witness. The decision is made binding by the crowd and Cavanaugh's standing applause.",
+    "hero_error_detail": "The root is a father who left during storms and for good when Cade was twelve, plus a doctored-text leak by ex Brooke four years earlier. These produce the 'Vault' withholding; the error that breaks the trust is ceding his voice to his agent at the gala. Nora has the mirrored flaw of carrying crises alone (she hides the Hearthstone wholesale cut, Ch17).",
+    "intimacy": "There are two closed-door scenes, Ch15 (after the mutual declaration on the deck, with explicit consent dialogue) and Ch31 (after the deed reveal); both fade to 'Later, tangled together'.",
+    "ending_image": "The final paragraph is quoted verbatim: 'Behind us, faint through the frosted window glass, Diane was humming something low over the last of the dishes, Theo\u2019s voice rising once more in some fresh, self-important protest about bedtime. I closed my hand around the key one more time, warm now from both our pockets, and slipped it into mine instead of setting it back in its drawer, kept it close, this time, instead of tucked away safe, and leaned into Cade\u2019s shoulder, the frozen lake dark and endless in front of us, the whole loud, ordinary house glowing gold at our backs.' It is classed act_in_motion (pocketing the key, leaning in), with an object element (the key, a callback to the Ch48 anniversary gift, not to the opening).",
+    "undetermined": "Nothing material. chapter_count excludes the Epilogue (56 numbered chapters plus the Epilogue)."
+   }
+  },
+  {
+   "title": "My Twin Sister Took My Place as His Wife",
+   "author_pen_name": "Shawn J Dean",
+   "lane": "marriage_crisis_grovel",
+   "evidence_level": "FULL_TEXT",
+   "relationship_start": "married_estranged",
+   "opening_engine": "unseen_witness_to_own_impersonation",
+   "inciting_event": "twin_identity_substitution_discovered",
+   "heroine_goal": "reclaim_professional_name_via_commission",
+   "external_engine": "art_restoration_deadline_and_certification",
+   "agency_pattern": "early_exit_then_dictates_labor_terms",
+   "hero_error": "unilateral_carrying_as_avoidance",
+   "power_configuration": "heroine_craft_authority_over_hero",
+   "containment": "debt_repaid_as_supervised_labor",
+   "midpoint_reversal": "harm_reframed_from_house_to_name",
+   "darkest_moment_cause": "hero_relapse_damages_shared_work",
+   "climax_owner": "joint_heroine_directed",
+   "climax_mechanism": "her_voice_his_hands_restoration_under_examiner",
+   "repair_mechanism": "sustained_supervised_presence_and_self_reporting",
+   "resolution_visibility": "private_recommitment_after_expert_certification",
+   "ending_state": "reconciled_marriage",
+   "pov_structure": "dual_alternating_first_her_close_third_him_linear",
+   "setting_function": "workshop_rules_enforce_restraint_and_reversibility",
+   "relocation_reset": "relocates_to_own_unheated_workspace",
+   "intimacy_function": "touch_tests_trust_single_kiss_confirms_repair",
+   "supporting_cast_function": "accountability_network_vs_family_enabler",
+   "epilogue_design": "months_later_shared_workbench_sister_on_stool",
+   "narrative_voice_tags": [
+    "craft_metaphor_precision",
+    "numeric_time_stamping",
+    "dry_understated_refusals",
+    "procedural_numbered_plans_hero_pov",
+    "emotion_displaced_into_hands",
+    "look_longer_second_reading"
+   ],
+   "monster_difference": "not_applicable",
+   "climax_venue": "heroine_studio_at_night",
+   "climax_audience": "single_expert_examiner",
+   "evidence_delivery": "act_performed_and_log_read",
+   "decisive_authority": "expert_certification",
+   "spectacle_mode": "quiet_tally",
+   "macro_beats": [
+    "impersonation_witnessed_unseen",
+    "heroine_exits_and_sets_labor_terms",
+    "mutual_confession_of_relief_at_absence",
+    "name_theft_traced_to_family",
+    "hero_relapse_damages_work_then_self_reports",
+    "heroine_ends_terms_to_test_want",
+    "heroine_asks_instead_of_commands",
+    "joint_restoration_certified_then_recommitment"
+   ],
+   "signature_scenes": [
+    "window_witness_of_toast_to_twin",
+    "phone_in_bowl_terms_recited_back",
+    "thermos_tea_fall_story_told",
+    "forged_resignation_read_aloud_by_mentor",
+    "self_written_damage_page_hinged_into_log",
+    "face_cleaned_on_her_count_brow_left"
+   ],
+   "inciting_kind": "betrayal",
+   "repair_shape": "being_taught_by_her_on_her_terms",
+   "repair_shape_secondary": "accepting_a_consequence_he_could_avoid",
+   "ending_image_class": "act_in_motion",
+   "core_axes": {
+    "1_inciting_disruption": "Her twin Cora lived in the house as 'Maud' for nine weeks, impersonating her in person at Friday dinners before Declan's boss, colleagues and the neighbours, with Declan complicit from the first night (he 'poured the wine'); Cora also used Maud's phone to send forged emails withdrawing her from the parish contract and resigning to her mentor. Maud discovers it unseen, from across the street through the dining-room window, the night before their anniversary (Ch1).",
+    "2_the_bind": "Leaving the house is easy but leaving the problem is not: the forged resignation has cost her the St. Wenceslaus commission and her mentor's trust, a Christmas Eve re-dedication needs independent certification, her plated right hand trembles at fine work, and every other pair of steady hands is either in Boston or has heard from Frances that she quit, so the only hands she can command without asking a favour are her husband's.",
+    "3_first_irreversible_decision": "Ch3: on their anniversary morning she works her house key off the ring left-handed, leaves it beside his unopened gift and moves to a cot in her unheated studio; Ch6 she then signs a no-deposit, certification-conditional contract left-handed, staking her name on five weeks.",
+    "4_midpoint_reversal": "Chs 11-15: both admit they were relieved by the absence (she glad to be away, he 'stopped waiting for you' at the Valley Forge exit), then Odalys's screenshots, the confrontation with their mother and Frances reading the forged resignation aloud show the real theft was her professional name, not the house; Frances sets terms (Maud in arm's reach, awake, every swab logged).",
+    "5_rupture_lowest_point": "Chs 18-19: while she sleeps he 'takes it off her plate', cleans a corner alone in breach of Frances's one-entry rule and removes 13 mm of irreplaceable 1886 glaze ('This is what you do. You make it easier, and it's gone'); in Ch23 a wrist screw backs out and she ends the terms and empties the phone bowl.",
+    "6_climax_action": "Ch27: Declan cleans the Virgin's face in six 90-second sections on Maud's spoken count while Frances watches; he says his hand is tired between sections, and on her pre-planned 'Leave it' he stops a millimetre short of the old brow damage. Frances reads the hinged confession page in the log and certifies. Caused jointly, set in motion by Maud asking rather than ordering (Ch26).",
+    "7_repair_mechanism": "Changed behaviour: phone and watch in her bowl every shift; he does only what he's told; writes up his own damage in his capitals for her, Frances and the Monsignor to read; tells Ray, the office floor and the neighbours the truth in person; refuses Pauline's offer to blame Cora; turns down Atlanta for 'evenings' (Ray, Nadine and later Joan witness it); answers 'Ask Maud' before the Commission; says 'my hand's tired' in front of Frances; asks 'What do you need?' twice. She resumes asking him for things.",
+    "8_resolution_epilogue_shape": "Ch28 cot scene: the apology he wasn't allowed to give is finally allowed, she lists the things she'll ask him for, one kiss, the house key back on her ring, the July magnifier gift finally opened. Ch29: hanging and Midnight Mass, he stays out of every photograph, she tells Cora on the steps 'March. Bring nothing.' Ch30 (March): a Saturday at a shared bench, he cleaning a $4 cow painting, Cora silent on the stool, ending on 'Again.'"
+   },
+   "first_attraction_device": {
+    "device": "involuntary_symptom",
+    "quote": "Inside the black brace on my other wrist my pulse had come up hard against the plastic... I had stopped at forty-one. The timer had not. (Ch9)"
+   },
+   "first_care_device": {
+    "device": "care_object_and_service",
+    "quote": "\u201cShe needs them,\u201d he said, which was the reason he\u2019d ordered them. (Ch2: headband magnifiers ordered in July, wrapped badly himself)"
+   },
+   "heat_level": "clean_single_kiss_closed_door",
+   "timeline_entry_point": "at_crisis",
+   "opening_first_sentence": "The first wrong thing was my coat, because I had left it on the third hook in the front hall on August 3 and it had just walked out of my front door without me.",
+   "chapter_count": 30,
+   "approx_words": 73100,
+   "narrator_habits": [
+    {
+     "habit": "look-longer second reading ('if you stayed on it' / 'give her another second') revising a first impression",
+     "example": "If you stayed on it, and I had spent my working life staying on things, it was the face of someone with nothing left to worry about."
+    },
+    {
+     "habit": "conservation-craft similes for feeling",
+     "example": "the way gesso cracks when it goes on too thick over a surface nobody prepared."
+    },
+    {
+     "habit": "exact clock times, counts and measurements",
+     "example": "At 5:51 the freight elevator ground up to the third floor, and then there was nothing for nine minutes while he waited in the corridor for the clock."
+    },
+    {
+     "habit": "Declan chapters open on a numbered plan, often derailed",
+     "example": "Okay. So. One: catch her on the step. Two: get her back inside, into a chair, coffee or no coffee."
+    },
+    {
+     "habit": "clipped dry rejoinders and one-word answers as character beats",
+     "example": "\u201cThat\u2019s accurate,\u201d I said, to the radiator."
+    },
+    {
+     "habit": "em-dash reserved for cut-off speech; narration uses commas and 'and' chains instead",
+     "example": "\u201cAre you okay, are you warm enough? Pappas turns the boiler down on\u2014\u201d"
+    }
+   ],
+   "evidence_notes": {
+    "source": "Full text read end to end (twin_full.txt, 30 chapters plus 'A Note to Readers'). Pen name printed on title page and note: 'Shawn J Dean'. Subtitle printed: 'A Marriage-in-Crisis Betrayal Second-Chance Romance'.",
+    "word_count": "Body text Ch1-30 counts at 73,124 words with whitespace splitting; REVISION_REPORT gives 72,926 measured, so a slightly different build. Rounded to 73,100.",
+    "pov": "Every chapter heading labels its POV. Maud: 1st person past (20 chapters). Declan: close 3rd past (10 chapters). Linear, Nov 13 to Dec 24, then a March coda; the Bologna fall is told in retrospect (Ch11).",
+    "relationship_start": "Married six years. Text shows a quiet drift that predates the crisis ('I stopped asking you for things in the spring', Ch28; his relief at her absence, Ch12). Not openly estranged at page one, so married_estranged is approximate.",
+    "inciting_event": "Function class: partner_betrayal/public_erasure. The sister is the agent, the husband is complicit by omission that turned into commission ('three seconds' with the corkscrew, Ch2-3). Mother Pauline coached the forged email ('Make it sound like her. Sharper.', Ch21). inciting_kind = betrayal.",
+    "heroine_goal": "Function class: clear_name / preserve_record. She refuses to move back into the house; her stated aim is the painting back on the wall by Dec 24 with Frances's signature. Whether to stay married is explicitly left open ('I didn't say anything about after that', Ch7).",
+    "midpoint": "Ch15 of 30 (Frances) is the structural midpoint; the confessions of relief (Ch11-12) lead into it. HOSTILE_READER_REPORT also credits the heroine with causing the midpoint.",
+    "climax_staging": "Venue: Maud's third-floor studio in a Kensington glove factory, 10:31-11:24 pm, Dec 23. Audience: Frances Tilley (and her dog) only; Walter and Odalys wait on the stairs; the Monsignor gets the paper at 11:44. Evidence: the cleaning is performed live and Frances reads the treatment log, including the hinged self-confession. Binding authority: Frances's written certification, which the Commission requires. No crowd and no speech.",
+    "climax_owner": "Joint. Maud decides and directs (the sections, the count, 'LEAVE' written on the Mylar in advance) and Declan does the physical work. Her decision to ask instead of order (Ch26) is what makes the climax possible.",
+    "repair_shape": "Dominant: being_taught_by_her_on_her_terms (the studio terms of Ch7, kept for weeks). Secondary: accepting_a_consequence_he_could_avoid (he logs the glaze loss himself when it could have been hidden, Ch18-19; turns down the SVP job). Also present: public_confession (Ray, the 14-building call, Mrs Kessler, Pauline).",
+    "darkest_moment": "Two-stage: hero relapse with a material, permanent cost (Ch18-19), then a wrist screw backs out and she ends the terms herself to find out whether she wants him or only his hands (Ch23). Cause class: repeated_core_harm plus heroine's choice.",
+    "intimacy": "No sex on the page. Charged touch in Ch9 (her hand over his), Ch17 (her trembling hand resting on his forearm as a bridge), Ch19 (her hand around his wrist). One kiss in Ch28. HOSTILE_READER_REPORT: 'One kiss, closed door.'",
+    "relocation": "She moves to her own rented studio (cot, no weekend heat, no shower), refuses his offer of the house or a rental, and goes back to Brown Street only on the night of Dec 23.",
+    "epilogue": "There is no labelled epilogue. Ch30 is a March coda in Maud's POV at the shared bench, and it pays off 'March. Bring nothing.' (Cora sits on the stool) and the Rogier van der Weyden museum visit.",
+    "ending_image": "Final paragraph: 'I laid a fresh square of tape beside it on the other side of the rail, and took a clean swab from the jar, and held it out to him. / \u201cAgain.\u201d' Classed as act_in_motion. It also ends on a spoken line and echoes the end of Ch8 ('Again.'), the first night's work.",
+    "not_determinable": "No heat beyond one kiss is implied, so heat_level is settled. The text does not say whether Cora is forgiven; that is deliberately left open past March. The mother's arc ends unreconciled (she leaves the Mass at the Lamb of God)."
+   }
+  }
+ ]
+}
