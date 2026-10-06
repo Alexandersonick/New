@@ -4580,3 +4580,375 @@ She looked at him in the doorway for a long time.
 
 "Okay," Roz said.
 
+## Chapter 27
+
+<!-- POV: Roz -->
+
+At three in the afternoon on Halloween, in plain daylight, with nobody watching, Roz walked out onto the dock at Teague's Pond with her red tool bag and a coil of new monofilament over her shoulder and brought the Bride home.
+
+She did it the slow way. She'd always done the Bride the slow way.
+
+The line ran ninety feet across the water, from a cedar post under the far willows to an eyebolt in the last piling of the dock. For six years the old Singer in its plywood box had pulled the lantern out along it on her cue and drawn it back in the dark.
+
+For sixteen days it had hung in the middle of the pond, unlit, with a spider in its bail.
+
+She took the spider out first. She did it with a twig, carefully, and set the spider and most of its web on a cattail at the water's edge, and said "Sorry," to it, and meant it. Then she sat down on the end of the dock with her legs over the water and reeled the trolley in by hand, slowly, hand over hand on the pull cord, the way you'd bring in a kite, until the lantern came gliding over the water toward her through the cold afternoon light and stopped at the end of the line, at the eyebolt, a foot from her knees.
+
+She looked at it up close.
+
+It was so much smaller than it was from the wagon. That was always the trick. From thirty feet away, in fog, in the dark, with a voice telling you where to look, a hurricane lantern under a yard of muslin was a woman standing on the water. Up close it was a two-dollar lantern from a Goodwill in Kalamazoo with an LED candle in it, and a piece of four-dollar cloth she'd bought at a bridal shop in November of 2019 off a remnant table, on her way out the door with a returned veil and a receipt, because she hadn't known what else to do with her hands.
+
+The muslin was damp and gray from sixteen days of weather. She unpinned it from the bail. She didn't throw it away. She folded it, carefully, in quarters, and put it in the inside pocket of her father's coat, on the left, next to his ticket half.
+
+Then she checked the LED. She checked the battery. She checked the switch, which she'd moved, two weeks ago, from the cue box to the lantern itself, so it could be turned on by hand. She re-tied the lantern to the trolley with new line, and pushed the trolley back out from the eyebolt along the track, just a little, about six feet. Not out to the middle of the water. Just far enough that it hung over the pond, at the end of the dock, where someone standing on the last board could reach out and lift it down.
+
+She looked at it hanging there, with no veil, a plain lantern on a line at the end of a dock.
+
+"Okay," she told it.
+
+"Who are you talking to?"
+
+Danny was standing at the head of the dock with a plastic Meijer bag in one hand. She hadn't heard him come down the lane. She never heard Danny anymore; he'd learned somewhere, maybe from her, how to walk a gravel lane quiet.
+
+"The lantern," she said.
+
+"Cool. Normal." He came down the dock, the old boards giving under him. He held out the bag. "Double-As. For the reeds rig. You said this morning you wanted backups, and then you left without them, because you didn't sleep, because of the rooster." He looked past her at the lantern on the line. Then he looked again. "Wait. Is that her?"
+
+"That's her."
+
+"You took the veil off."
+
+"It was wet."
+
+"You're bringing her in?" Danny's voice went careful. "Are you putting her back? For tonight? Because the Saturn kid's mom drove from Sturgis, and Bev's riding the 11:00, and if you put her back on Halloween after the paper, Roz, people are going to lose their *minds*."
+
+"I'm not putting her back."
+
+"Then what are you doing?"
+
+She thought about it. She looked at the lantern, small and plain at the end of the dock, a foot from where her hand would be if she stood on the last board and reached.
+
+"Bringing her home," she said.
+
+Danny was quiet for a while. A crow went over the pond, low, and said something rude, and landed in the willows.
+
+"Is this the other thing?" he said. "The thing I said? The one-word thing?"
+
+"I don't know yet."
+
+"Okay." He set the bag of batteries down on the dock beside her tool bag. He stood there a second longer. Then he said, in a very different voice, the voice from the stairs, "Roz. Whatever it is. I'll be on Wagon Two. Four minutes behind you. If you need me I can't actually help you at all."
+
+"Lorna says that."
+
+"Lorna's right," said Danny. "I'm just putting it on record."
+
+He went back up the lane. She heard him start to whistle halfway to the Woodlot, badly, something that might have been the Pere Marquette or might have been the theme from a video game, and then she couldn't hear him anymore.
+
+* * *
+
+On Halloween night, everybody came in costume.
+
+Roz had forgotten that. She forgot every year, and every year it delighted her. By six-thirty the line stretched from the ticket table to the road and down the road past the VanderWal mailbox, and it was full of witches and pirates and three separate Spider-Men and a family of five dressed as the planets, including a toddler as Pluto with a sign that said STILL A PLANET. A pair of teenagers came as the Woodlot ghost, in matching bedsheets with eye holes. A woman from Paw Paw came as Dot Teague, in a red cardigan with a dog collar on her wrist, and Dot, who was sitting by the ticket table in a lawn chair under three blankets, laughed so hard she had to be patted on the back.
+
+Roz brought her a cocoa at seven-fifteen, between rides.
+
+"She's got the cane wrong," Dot said, nodding at the woman from Paw Paw. "I hold it on the left. Everybody thinks it's the right. Arlo used to say I walked like a woman who'd lost an argument with a fence."
+
+"Did you?"
+
+"Twice." Dot took the cocoa in both hands and looked up at Roz from under the blankets, and her pale blue eyes narrowed a little. "Well, now. You've got the face."
+
+"What face?"
+
+"The one you had at fourteen. On my porch. With the drawing of the ghost on the zip line. You came up my steps with that paper and that face, and I thought, that girl's about to break something on purpose and make it better." Dot sipped. "Arlo saw it too. He said, 'Dottie, let her hang it.'"
+
+Roz stood by the lawn chair and didn't say anything.
+
+"I'm only telling you," said Dot, "I'm sitting right here. Under three blankets. I can't get to the pond anymore on my own." She lifted the cocoa an inch, like a toast. "So you tell it right, whatever it is. And then come tell me."
+
+"Dot."
+
+"Go on," said Dot. "Your wagon's loading.
+
+Lorna came over between the 6:40 setup and the first ride, dressed, for reasons she would not explain, as a slice of pie.
+
+"Sour cream raisin," she said, before Roz could ask. "Obviously. Clyde came as the fork."
+
+Across the yard, Clyde Mulder stood by Wagon Two in his usual barn coat and his usual cap, with a large cardboard fork safety-pinned to his back.
+
+"He let you do that?"
+
+"He said, and I quote, 'Fine.'" Lorna adjusted her crust, which was a ring of brown felt around her neck. "Are you okay? You look like you did before you told Bev about the chainsaw rule. In 2017. When you were twenty-two and Ed cried."
+
+"Ed didn't cry."
+
+"Ed cried in his truck. I saw him." Lorna looked at her more closely. "Roz."
+
+"I'm okay."
+
+"You don't say okay. Okay's his."
+
+"I'm borrowing it," said Roz.
+
+Lorna studied her for a long moment, the way she studied a crust to see if it was done. Then she reached out and squeezed Roz's arm once, hard, through the barn coat, and went back to Wagon Two, where Clyde the fork was waiting with his arms folded.
+
+Mateo came as a lantern.
+
+He'd made it himself, he told her, at the wagon step, with his grandmother's help. It was a cardboard box painted black with a wire handle on top, and a cutout window in the front with yellow tissue paper behind it, and a battery puck light inside that lit the tissue paper from behind, and his face looked out through a hole in the side. He couldn't sit down in it. He had to ride standing up in the front row, holding the bench back, and Mrs. Salas had brought a second skein of orange yarn to knit him into a seat belt if necessary.
+
+"I'm the one from the boy," Mateo explained. "From the corn. I'm one of the ones looking."
+
+"You're a very good one," said Roz.
+
+"I know." He looked past her at Gus, who was climbing up onto the bench. "Is he still the train guy?"
+
+Roz looked at Gus. Gus, belted in, looked straight ahead at Hank's back and did not turn around.
+
+"I don't know, Mateo," she said. "We'll see."
+
+* * *
+
+They did the 7:00 and the 7:40 and the 8:20 and the 9:00.
+
+It was the best night of the season, maybe of all of them, though that was what you always thought on the last night. Ed handed lanterns to Spider-Men and witches and a toddler Pluto. The two bedsheet teenagers screamed at their own costume in the Woodlot. And at the pond, every time, the small light came on in the reeds and thirty-two lanterns went up gold across the black water.
+
+Gus flipped the toggle every time on *found him*. He didn't flip it early. They didn't talk much on the bench. When they did, it was about the riders, or the battery box, or the toddler Pluto, who had fallen asleep on her father's shoulder at the Woodlot and slept through the whole finale with her STILL A PLANET sign crumpled in one fist.
+
+Once, on the 8:20, on the long stretch along the corn, his hand was on the bench between them, palm down, the way it had been the night after the maze. She looked at it. She put hers down beside it, an inch away, not touching. He didn't move his. She didn't move hers. They rode back to the barn that way, an inch apart, and neither of them made it a thing.
+
+And every ride, at the pond, after the lanterns, after the bark, in the silence before Hank found the key, someone asked.
+
+"Where's the ghost from the paper?"
+
+It was a man dressed as a pirate on the 7:40. On the 8:20 it was a woman in cat ears, polite and curious. On the 9:00 it was a teenage boy dressed as one of the planets, Saturn, with a hula hoop for rings, who said it loud and not politely: "Yo, where's the *bride*? It said in the paper there's a *bride*. My mom drove from *Sturgis*."
+
+"Not tonight," said Roz, every time.
+
+And every time, Gus didn't turn around.
+
+"You okay?" he said, on the way back from the 9:00, low, under the noise of the Saturn boy explaining to his mother that the paper was *literally* a lie.
+
+"Ask me after the 11:00."
+
+"Is that a question?"
+
+"It's an instruction," said Roz. "There's a difference."
+
+"Can I ask one thing now? Not a question. A thing."
+
+She looked at him sideways. "What?"
+
+"Whatever you're doing on the 11:00," Gus said, very quietly, to the cue box, "I'm on the bench. That's all. I just wanted it on record."
+
+"Lorna says that."
+
+"Lorna's right," said Gus. "Lorna's always right. It's exhausting."
+
+* * *
+
+At ten o'clock, between the 9:40 and the 10:20, Bev Oosterhouse came out of the shed with her clipboard and her casserole carrier and walked across the yard to the Big Wagon.
+
+"I'm riding the 11:00," Bev said.
+
+Roz looked down at her from the bench.
+
+"You haven't ridden the 11:00 since 2015."
+
+"I rode the 11:00 every last night for ten years, as chair. It's tradition. The chair rides the last ride on Halloween." Bev lifted her chin. "You're chair. You're riding. I'm vice-chair. I'm riding too. I've decided."
+
+"Okay, Bev."
+
+"Don't say okay to me, Rosalind, you sound like *him*." Bev glanced at Gus, who very carefully looked at the cue box. Then she looked back at Roz, and her face softened, just a little, around the mouth. "I want to see your Arlo. Everybody's talking about it. Ed's been impossible. Ed's been doing the limp at church." She set the casserole carrier on the wagon step. "I'll sit in the third row. I've got a cushion."
+
+She went back to the shed. Roz watched her go, the quilted vest and the pumpkin brooch and the clipboard, across the orange yard, through a crowd of witches.
+
+Then she climbed down off the bench.
+
+"Where are you going?" said Gus.
+
+"To talk to Hank."
+
+She walked up the length of the wagon to the front, to Marguerite, where Hank sat in the tractor seat with his seed cap pulled down and his hands folded on the wheel, the way he'd sat every night of the season, the way he'd sat every October since 1994. She climbed up on the tractor's step, which you weren't supposed to do, which nobody ever did, and stood beside him, holding the fender.
+
+Hank looked at her.
+
+"The 11:00," Roz said, low, so nobody on the wagon could hear. "At the pond. When you turn the key."
+
+Hank waited.
+
+"Don't start it again," she said. "Not right away. Wait. However long it takes. Until I tell you. Even if it's a long time. Even if people start to talk. Even if Bev says something. Just keep it off and wait."
+
+Hank looked at her for a long moment, under the brim of his seed cap, with his pale old farmer's eyes that had seen thirty-two Octobers of this wagon go down that lane and come back.
+
+"Yup," said Hank.
+
+She climbed down off the tractor. She walked back down the length of the wagon in the yard light, past the bale backs and the hand rail and the battery box, and climbed up onto the bench, and sat down on the left side, and buckled her belt, and put the clipboard on her knees.
+
+Gus didn't ask. He looked at her once, sideways, and then at the cue box, and said nothing.
+
+She reached inside her coat, on the left, and touched the ticket half with two fingers. August VanderWal, in Dot's handwriting, pinned with the same safety pin as every year. Beside it, folded in quarters, damp, four dollars' worth of muslin.
+
+The 10:20 riders were climbing up. A witch. Two Spider-Men. The family of planets, minus Pluto, who'd gone home to bed.
+
+On the call sheet on her knees, at the bottom, under THE SEARCH, she picked up her pencil and wrote, very small, for the 11:00:
+
+*Finale: author's choice.*
+
+## Chapter 28
+
+<!-- POV: Roz -->
+
+The 11:00 on Halloween left the barn full, and every person on it knew it was the last ride of the year.
+
+It was in the air every October, the particular hush of the last wagon, people holding their blankets a little closer and talking a little lower, as if the season might overhear and leave early. Thirty-two riders on the bales behind her. Bev in the third row, on her stadium cushion, with her clipboard flat on her knees and her pumpkin brooch catching the yard light. The Saturn boy from Sturgis and his mother, who had driven two hours for a bride. Two Spider-Men, a witch, and a man in a Western Michigan jacket who'd told Arlene at the table that he'd read the *Ledger* piece four times. And in the front row, standing, holding the bench back with both hands because he couldn't sit down in his costume, Mateo, as a lantern, with Mrs. Salas beside him knitting by the light of his tissue-paper window.
+
+She'd checked the battery box. She'd checked it twice. She didn't check it again.
+
+"Hank," she said into the walkie. "Wagon One rolling."
+
+"Yup."
+
+Marguerite pulled. The wagon lurched. Thirty-two people said *oh*.
+
+* * *
+
+At the Orchard Gate the scarecrow sat up, shedding straw, and the Spider-Men screamed, and the witch laughed.
+
+At the Corn, Ed held out a lantern to every rider, down the whole length of the wagon. *Take one. We're looking for somebody.* When he got to the third row he stopped in front of Bev, and held the lantern out with both hands, and Bev looked at it for a moment as if it were a casserole she hadn't made. Then she took it.
+
+"Thank you, Ed," Bev said.
+
+"You're welcome, Beverly," said Ed, and limped on.
+
+At the Woodlot the ghost came down, and thirty-two lanterns lifted toward it, and somebody said *hi* to it again, kindly, and it went back up into the dark.
+
+Then the trees opened, and there was the pond.
+
+Hank stopped the wagon at the flat spot by the dock. He set the brake. He turned the key.
+
+Marguerite shuddered and went quiet, and the silence came down.
+
+* * *
+
+She told Arlo first.
+
+She told it the way she'd told it all week, plain, like reading to a kid at bedtime. October eleventh, 1958. Pepper and the rabbit and the corn eight feet tall. Four words on a party line. Forty neighbors with lanterns. A man in his good shoes. The lines across the rows, and the calling, all night.
+
+"And at dawn," she said, "they found him."
+
+Gus flipped the toggle. He didn't flip it early.
+
+The small light came on low in the reeds. Rufus barked twice across the water. Thirty-two lanterns went up, row by row, gold on the black, and in the third row Bev Oosterhouse held hers up too, a little behind everyone else, with her mouth pressed tight.
+
+Then it was over, and the lanterns came down into laps, and the wagon sat in the silence and waited for Hank to find the key.
+
+Hank didn't find the key.
+
+The silence went on. Five seconds. Ten. The wagon started to notice it. A Spider-Man shifted on his bale. The man in the Western jacket cleared his throat.
+
+From the fourth row, in the dark, the Saturn boy from Sturgis said, loud and impatient, "Okay, so where's the *bride*?"
+
+His mother said, "*Tyler*."
+
+"What? The paper said."
+
+Roz reached down to her hip and unbuckled her belt.
+
+It made a sound in the silence. A small, flat, plastic click, the most ordinary sound in the world, and every person on that wagon from Carrow knew what it was, because every person on that wagon from Carrow had heard Rule one read out at the Harvest Supper every year of their lives. *Guides stay belted from barn to barn.*
+
+"Rosalind," said Bev, from the third row, very quietly.
+
+"Hank's got the wagon," Roz said. She didn't turn around. "Gus has the riders. Nobody stands up."
+
+She stood up.
+
+She didn't look at him. She knew if she looked at him she wouldn't be able to do it, so she didn't. Beside her he went still, the way he went still when a thing he'd been waiting for finally came down the line. He didn't reach for her. He didn't say anything. She was grateful for both.
+
+She stepped down off the bench onto the wagon's front step, and from the step onto the ground.
+
+* * *
+
+The dock was thirty feet from the wagon. She'd never walked it during a ride. In eighteen Octobers, nobody had walked it during a ride. The boards were white with frost, and they gave under her, old and soft, and her boots were loud on them in the dark, and behind her thirty-two people sat on the bales holding lanterns while a guide walked out on the dock in the middle of the finale, and not one of them made a sound.
+
+At the end of the dock, a foot past the last board, the lantern hung on its line over the water. No veil. Unlit. Where she'd left it at three o'clock.
+
+She reached out and lifted it off the line.
+
+It was light. It always surprised her how light it was. She held it by the wire bail with one hand and found the switch on its base with her thumb and turned it on, and the LED came up warm in the glass, and lit her hands, and her father's coat, and the frost on the boards, and the black water under her, and she turned around.
+
+From the end of the dock the whole wagon lay in front of her. Thirty-two small lights in thirty-two laps. Mateo standing in the front row in his cardboard lantern. Bev in the third, with her hand over her mouth. Hank on the tractor, turned all the way around in his seat. And on the right side of the front bench, belted in, with his hands on his knees, Gus, looking at her across thirty feet of dark.
+
+She held up the lantern. She didn't use the voice. She used her own.
+
+"There was a girl on Hollins Road," Roz said, "who didn't sew her own veil. She bought it at a shop in Kalamazoo, and it had a price tag on it, and she asked the boy she was going to marry if it was ridiculous, and he said yes, because he always told her the truth. She laughed so hard she sat down on the kitchen floor."
+
+The wagon was absolutely silent. Somewhere in the reeds the little lantern for Arlo was still lit, low, by the water.
+
+"Two weeks before the wedding, he got a job in Chicago. A real one. The kind that doesn't wait. And he asked her to come with him. He asked her to bring her brother. He said there were schools. He said he'd find an apartment with two bedrooms. And when she said no, he asked her to wait, and said he'd drive home every weekend, every single one, until they figured it out."
+
+She held the lantern steady. Her hand was steady, the way it was when a rig held.
+
+"She said no to that too," Roz said. "Her father had just died. She was twenty-four and she was scared, and she thought if he was going to leave eventually, it was better if she was the one who said it. So she took off the ring and put it on the kitchen table, next to a salt shaker shaped like a rooster, and she said: *Go. Don't call. If you're going, go.*"
+
+On the bench, Gus didn't move.
+
+"And he went, because she told him to. And he didn't call, because she told him not to." She took a breath. "And then she wrote a ghost story where she was the one waiting. She put herself out here, on this water, with a lantern, being left. And she put him on a train he never took, choosing the city. And for six years she told it to you at this pond, and you paid fifteen dollars, and you cried, and she let you."
+
+She looked at the wagon. At the lights. At the man on the bench.
+
+"She was never waiting," Roz said. "She sent him."
+
+The silence went on. The pond lay black and still. The fog had come up off the water on its own, the real kind, thin and pale, and it lay around her ankles on the end of the dock.
+
+In the front row, in the dark, in his cardboard lantern, Mateo said, very clearly:
+
+"Is that true?"
+
+Roz looked at him. Nine years old. He had ridden this wagon every October of his life since he was six. He'd known the Lantern Bride by heart. He'd whispered it along with her on the first night.
+
+"It's true," she said. "I'm the one who sent him."
+
+* * *
+
+Nobody said anything for a long time.
+
+Then, from the fourth row, the man in the Western Michigan jacket, the one who'd read the *Ledger* four times, said into the silence, gently enough, because he had to know, because everyone on that wagon had to know:
+
+"So where's the groom now?"
+
+Gus answered from the bench.
+
+He didn't stand. He didn't turn around. He stayed belted in on the right side of the front bench, with his hands on his knees, where he had sat every ride since the second of October, and he said it plainly, to the water, in his own voice, five words.
+
+"Right here. Choosing this one."
+
+Something went across the wagon. Roz couldn't have named it. It wasn't a sound, exactly. It was the thing a room does when it turns, all at once, the way a flock turns, only this time nobody looked at him. Thirty-two people looked at her, standing at the end of the dock with the lantern, and then back at him, on the bench, and then at her again, as if they were watching a line being strung between two posts across the water.
+
+In the third row, Bev Oosterhouse lowered her hand from her mouth and laid it flat on top of her clipboard, and closed her eyes.
+
+Roz walked back down the dock.
+
+She walked it slowly, because the boards were frosted and she was carrying a light, and because she didn't trust her knees. Thirty feet. The boards gave and creaked. The lantern swung a little on its bail and its light went back and forth across the frost. She came off the dock onto the ground, and walked to the front of the wagon, to the step below the bench, and stopped.
+
+He was looking down at her. He was still belted in. His face was doing nothing at all, which she knew now was the hardest thing it ever did.
+
+He held out his hand.
+
+He didn't unbuckle. He didn't climb down. He didn't take the lantern or reach for her waist or do any of the things a man might do in a story. He just held his hand down to her from the bench, palm up, the way he'd hold a ladder steady, and waited for her to decide.
+
+She took it.
+
+His hand was warm. He didn't pull. She climbed up the wagon step on her own, with her own legs, and he let her use his hand the way you'd use a railing, and she sat down on the left side of the bench, and let go. She set the lantern on top of the cue box between them, still lit, on the masking tape that said BARK in red Sharpie, in her hand, in his mother's letters.
+
+She found her belt and buckled it herself.
+
+Click.
+
+Up on the tractor, Hank Ruiter turned around in his seat. He had taken off his seed cap. He held it in both hands against his chest. In the light from the lantern on the cue box, his old face was wet.
+
+"Thirty-two years," Hank said, "I've been parking this wagon at this pond, and I've heard every story this town's got, and that's the best one anybody ever told here."
+
+He put his cap back on. He turned around. He found the key.
+
+"Yup," said Hank, and started the engine, and took them home.
+
