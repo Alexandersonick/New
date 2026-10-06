@@ -511,13 +511,13 @@ The script's coarse labels are dialogue 50%, image/quiet 50%, decision 6.7%, nam
 - **Names:**
   - Leads: Rosalind "Roz" Pietrowski and August "Gus/Augie" VanderWal.
   - Her family: brother Danny (19); late father Walt; absent mother.
-  - His family: mother Ruth; late father Pete; Aunt Joan and Rufus the beagle mix.
-  - The farm: Dot Teague (81), late husband Arlo, the dogs (all named Pepper).
+  - His family: mother Ruth; late father Pete; Aunt Marlys and Rufus the beagle mix.
+  - The farm: Dot Ambrose (81), late husband Arlo, the dogs (all named Pepper).
   - The committee: vice-chair Bev Oosterhouse, Arlene Doornbos (late husband Herm), Marv Kuiper, Ed Brinks, Clyde Mulder.
   - The hayride crew: friend Lorna Bakker; tractor driver Hank Ruiter and the tractor Marguerite; Kenny and Brielle Hoekstra.
   - Riders and fans: Mateo and Inés Salas; Joyce from Battle Creek and Sharon; Mason Kuiper; Tyler; Jaxon.
   - Press: Kenzie Vos and Brody.
-  - His work world: Mitch Ferrante, Teo, Lou, Bettina; ex Kate.
+  - His work world: Vince Ferrante, Nico, Gil, Bettina; ex Kate.
   - Students: Owen Sterk and Kaylee Dykstra.
   - Town: Mr Haverkamp and Lyle; Mr Bosma.
   - Grandfathers: Stan Pietrowski and Hendrik VanderWal.
@@ -530,8 +530,8 @@ The script's coarse labels are dialogue 50%, image/quiet 50%, decision 6.7%, nam
   - vice-chair: church/Grange volunteer
   - Hank: farmer
   - Kenzie: local reporter
-  - Mitch: production manager
-- **Locations:** fictional Carrow, Michigan (Kalamazoo/Paw Paw area): Grange Hall, Teague farm and pond, Hollins Road, Teague Road, Bakker's Diner, Carrow Hardware, room 114. Also Tractor Supply in Paw Paw, a Lawton cider mill, the Marathon station on M-40; Chicago (Lakefront Stage Company, Calumet Repertory, the Pullman warehouse on 95th St, a Clark Street jeweler, Pilsen); Grand Rapids; Battle Creek; Allegan; Sturgis.
+  - Vince: production manager
+- **Locations:** fictional Carrow, Michigan (Kalamazoo/Paw Paw area): Grange Hall, Ambrose farm and pond, Hollins Road, Ambrose Road, Bakker's Diner, Carrow Hardware, room 114. Also Tractor Supply in Paw Paw, a Lawton cider mill, the Marathon station on M-40; Chicago (Lakefront Stage Company, Calumet Repertory, the Pullman warehouse on 95th St, a Clark Street jeweler, Pilsen); Grand Rapids; Battle Creek; Allegan; Sturgis.
 - **Species:** human (`monster_difference: not_applicable`).
 - **Wealth level:** working and lower-middle class, rural. $15 tickets, a $510 ring sale, an $84k offer turned down, a $29k community target.
 - **Cover trope:** second chance with an ex-fiancé / forced proximity / small-town fall festival / haunted hayride / Halloween.

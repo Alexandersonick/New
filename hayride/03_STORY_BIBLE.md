@@ -88,7 +88,7 @@ STORY_DNA:
 ### Rosalind "Roz" Pietrowski (POV), CHARACTER
 - 31 (born March 1995). Eighth-grade science, Carrow Middle School, room 114. Builds the hayride's effects in her garage, which she calls the Lab. Hayride volunteer since she was 14; effects lead 2015–2025; chair since January 2026.
 - **Look:** 5'5", dark-blond hair usually in a clip, a burn scar on the back of her left hand from a fog-machine heater (age 17), reading glasses she refuses to wear on the wagon. Wears her late father's brown canvas barn coat (too big, sleeves rolled twice).
-- **Lives:** the Pietrowski farmhouse on Teague Road with Danny. The orchard was sold in 2021 to clear her father's debts; she kept the house and two acres.
+- **Lives:** the Pietrowski farmhouse on Ambrose Road with Danny. The orchard was sold in 2021 to clear her father's debts; she kept the house and two acres.
 - **Competence (job-eye):** she reads every moment as a scare: where people are looking, what will come from the other side, how long a silence holds before someone laughs. A teacher's ear for the kid in the back row about to cry.
 - **Flaw (stated by the narrator in Ch 1):** she leaves first. She sent her mother off with a smile (2010), sent Gus off with an order (2019), and sends the eighth graders off before they can complain.
 - **Want:** the number; control of the story. **Need:** to ask someone to stay.
@@ -96,7 +96,7 @@ STORY_DNA:
 - **What she never says:** "I'm fine." She says "It's handled."
 
 ### August "Gus" VanderWal (POV), CHARACTER
-- 32 (born February 1994). Grew up on Hollins Road, next farm east of the Teagues. Started as the hayride's Woodlot ghost operator at 15, pulling the zip-line sheet Roz built at 14; she yelled at him for pulling early.
+- 32 (born February 1994). Grew up on Hollins Road, next farm east of the Ambroses. Started as the hayride's Woodlot ghost operator at 15, pulling the zip-line sheet Roz built at 14; she yelled at him for pulling early.
 - In Chicago, scenic carpenter, then assistant TD, then shop foreman at Lakefront Stage Company (2019–2026). It folded in May 2026, and he was let go with the whole shop.
 - Came home in August 2026. Bought his mother's house and the pole barn on Hollins Road. **His own want [F7]:** VanderWal Scenic, building sets for regional colleges and high schools out of the barn. One contract so far (Lakeshore College's spring opera); he needs a second to make it through winter.
 - **Look:** 6'1", sun-bleached brown hair that needs cutting, a crooked left pinky (broken by a falling flat in 2021), a carpenter's pencil behind his right ear, Carhartt jacket with sawdust in the seams.
@@ -111,16 +111,16 @@ STORY_DNA:
 |---|---|---|---|
 | Danny Pietrowski | 19 | Roz's brother; parking field and Wagon Two's tractor; worshipped Gus at 12 | carries a clipboard of parked cars; knows the legend's real version; confronts Roz in Ch 5 |
 | Beverly "Bev" Oosterhouse | 67 | vice-chair, ex-chair (2015–2025), runs Harvest Days. Antagonist through love: she has protected Roz since the funeral casseroles of 2019 and believes the legend completely | always holding a clipboard and a casserole carrier; owns the most quotable line in every scene she's in |
-| Dorothy "Dot" Teague | 81 | owns the farm; co-founded the hayride in 1987 with her late husband Arlo; Gus's first boss | Arlo was the lost boy of the 1958 lantern search; she keeps his boyhood dog's collar on a nail in the barn |
+| Dorothy "Dot" Ambrose | 81 | owns the farm; co-founded the hayride in 1987 with her late husband Arlo; Gus's first boss | Arlo was the lost boy of the 1958 lantern search; she keeps his boyhood dog's collar on a nail in the barn |
 | Hank Ruiter | 70 | drives Wagon One's 1966 Farmall 806, which he calls Marguerite | speaks in single words; kills the engine at the pond for the finale silence |
 | Lorna Bakker | 31 | Roz's best friend; runs Bakker's Diner (pie); guide on Wagon Two | talks fast, calls things before they happen, keeps a pie-based tally of town gossip |
 | Clyde Mulder | 74 | Lorna's Wagon Two partner; retired mail carrier | deadpan; knows everyone's mail |
-| Ruth VanderWal | 64 | Gus's mother; moving to Grand Rapids near her sister Joan on Oct 21 | labels every box in red marker |
+| Ruth VanderWal | 64 | Gus's mother; moving to Grand Rapids near her sister Marlys on Oct 21 | labels every box in red marker |
 | Mateo Salas | 9 | rides Wagon One every night on his grandmother's season pass | asks the questions adults won't; "Is that true?" in Ch 28 |
 | Inés Salas | 66 | Mateo's grandmother; knits through every scare | |
 | Ed Brinks | 58 | plays the Corn Stop farmer with a lantern | was a hayride scarer for 30 years |
 | Kenzie Vos | 24 | *Lakeshore Ledger* reporter writing the Halloween feature | |
-| Mitch Ferrante | 50s | Gus's old Lakefront boss, now at Calumet Repertory, Chicago | phone only |
+| Vince Ferrante | 50s | Gus's old Lakefront boss, now at Calumet Repertory, Chicago | phone only |
 
 **Name audit:** no slop names. Similar initials, all distinct shapes: Danny / Dot / Bev. The tractor is Marguerite (not a person-name collision).
 
@@ -136,10 +136,10 @@ End: reconciled, committed, the truth public; trust earned through ten answered 
 
 **Carrow, Michigan.** Pop. ~2,300. Southwest Michigan fruit country, twenty minutes inland from Lake Michigan. Blueberries, apples, pumpkins. The Amtrak line runs to Chicago from a station two towns over. Main Street: Bakker's Diner, Carrow Hardware, the Grange Hall (1911), the *Lakeshore Ledger* office (a weekly that comes out Thursdays), First Reformed, St. Casimir's (the Pietrowskis' church). A town that keeps score in pie, casseroles and who parked where.
 
-**The Carrow Haunted Hayride.** Founded 1987 by Dot and Arlo Teague; run by the Carrow Grange since 2005. It runs on the Teague farm off Hollins Road on Friday and Saturday nights in October. **2026 ride nights:** Oct 2, 3, 9, 10, 16, 17, 23, 24, 30, 31. Rides leave the barn at 7:00, 7:40, 8:20, 9:00, 9:40, 10:20 and 11:00 (seven a night). Two wagons alternate:
+**The Carrow Haunted Hayride.** Founded 1987 by Dot and Arlo Ambrose; run by the Carrow Grange since 2005. It runs on the Ambrose farm off Hollins Road on Friday and Saturday nights in October. **2026 ride nights:** Oct 2, 3, 9, 10, 16, 17, 23, 24, 30, 31. Rides leave the barn at 7:00, 7:40, 8:20, 9:00, 9:40, 10:20 and 11:00 (seven a night). Two wagons alternate:
 - **Wagon One** (the Big Wagon, 1971 hay wagon, 32 riders on hay bales with bench backs; the axle that failed inspection is this wagon's). Tractor: Hank's Farmall, Marguerite. Front bench: two guides, **belted** (seat belts installed 2019 for insurance), with the **cue box** between them: two brass toggle switches labelled WHISTLE and FOG, wired by Roz.
 - **Wagon Two** (smaller, 24 riders). Tractor driven by Danny. Guides: Lorna and Clyde.
-- **Route:** 1.6 miles, about 25 minutes. Stop 1 **the Orchard Gate** (a scarecrow that sits up; Roz's pneumatic rig). Stop 2 **the Corn** (Ed Brinks as the farmer with a lantern; the maze edge). Stop 3 **the Woodlot** (the bedsheet ghost on a zip line; Roz's first effect, built at 14). Stop 4 **Teague's Pond**, the finale. The wagon stops and Hank kills the engine. The guide tells the legend while the Lantern Bride (a hurricane lantern with a muslin veil) glides across the pond on a hidden line. The front-bench guide flips WHISTLE: a recorded train whistle from a speaker in the far willows. Ten seconds of silence, then the engine and back to the barn.
+- **Route:** 1.6 miles, about 25 minutes. Stop 1 **the Orchard Gate** (a scarecrow that sits up; Roz's pneumatic rig). Stop 2 **the Corn** (Ed Brinks as the farmer with a lantern; the maze edge). Stop 3 **the Woodlot** (the bedsheet ghost on a zip line; Roz's first effect, built at 14). Stop 4 **Ambrose's Pond**, the finale. The wagon stops and Hank kills the engine. The guide tells the legend while the Lantern Bride (a hurricane lantern with a muslin veil) glides across the pond on a hidden line. The front-bench guide flips WHISTLE: a recorded train whistle from a speaker in the far willows. Ten seconds of silence, then the engine and back to the barn.
 - **Money:** the Great Lakes Mutual letter (Aug 2026): renewal requires a DOT-rated replacement wagon and a liability rider by Jan 1. Cost $38,000. Reserve $9,000. **Season target: $29,000 net**, tallied on a chalkboard in the Grange shed by the barn. Tickets $15 adult, $8 child, season pass $60. Last year netted $21,400.
 - **Guide Handbook** (Roz's 2025 revision; she wrote every rule below):
   - Rule 1: Guides stay belted from barn to barn.
@@ -163,12 +163,12 @@ Facts behind it: Gus never took a 6:10; he drove his truck. Roz never sewed a ve
 ## 6. Backstory timeline (locked FACTS)
 | When | Fact |
 |---|---|
-| 1958 Oct | Arlo Teague, 6, lost in the corn overnight; the town walks it with lanterns; he's found at dawn asleep with his dog Pepper |
+| 1958 Oct | Arlo Ambrose, 6, lost in the corn overnight; the town walks it with lanterns; he's found at dawn asleep with his dog Pepper |
 | 1987 | Dot and Arlo start the hayride |
 | 2008 Oct | Gus (14) and Roz (13) first volunteer; Roz builds the Woodlot ghost at 14 (2009); Gus pulls it early |
 | 2010 | Roz's mother leaves for Arizona |
 | 2015 | Gus's father Pete dies; Roz becomes effects lead |
-| 2017 Dec | Gus proposes in the Teague barn loft (ring: his grandmother's garnet) |
+| 2017 Dec | Gus proposes in the Ambrose barn loft (ring: his grandmother's garnet) |
 | 2019 Jun 9 | Walt Pietrowski dies in the orchard (heart); Roz, 24, becomes Danny's guardian (he's 12) |
 | 2019 Sep | Lakefront offers Gus a scenic carpenter job; it starts Oct 14 and won't wait |
 | 2019 Oct 6 | He asks her to come, or to postpone and do it long distance. She says, "Go. Don't call. If you're going, go." |
@@ -194,7 +194,7 @@ Facts behind it: Gus never took a 6:10; he drove his truck. Roz never sewed a ve
 | R3, Fri Oct 9 | 6 | she changes the ending on the fly → riders object, a refund, Bev's Rule 3 complaint → **formal warning** (cost, F5); Q3 calling | $9,800 |
 | Harvest Days, Oct 10 | 7 | Bev's DUNK THE GROOM booth; Gus volunteers; Roz throws | +$640 dunk |
 | R4, Sat Oct 10 | 8 | fog chiller fails; "help, or hold the flashlight?"; Q4 | $13,900 |
-| Oct 12–14 | 9 | Gus's shop; Danny asks for work; Mitch's call plants Calumet; Bev at the barn | |
+| Oct 12–14 | 9 | Gus's shop; Danny asks for work; Vince's call plants Calumet; Bev at the barn | |
 | Thu Oct 15 | 10 | committee votes 5–2: the legend becomes "heritage", with a plaque at the pond, and Bev gives it to the *Ledger* | |
 | **R5, Fri Oct 16** | 11 | **MIDPOINT:** Roz withdraws her story (Rule 3 clause) on the season's best-selling night; she cuts the Bride; boos and refunds; Q5 | $16,200 (dips) |
 | Oct 16–17 | 12 | fallout: Bev betrayed, the tally drops, Gus asks why | |
@@ -342,7 +342,7 @@ These override the rows above where they conflict.
 6. **Ledger note (risk 10):** the heroine goal "save the event against a money deadline" is used here. Record it in SERIES_LEDGER so the next Shawn J Dean title does not reuse it.
 
 ## 13. Facts fixed during drafting (continuity)
-- Dot Teague: born 1945 (81 in 2026); 13 in Oct 1958; first date with Arlo in 1975 (Dairy Queen, Paw Paw); married later. Arlo: born 1952, 6 in 1958, died 2020 at 68. Every Teague animal since 1958 is named Pepper (currently a cat, Pepper the Fourth).
+- Dot Ambrose: born 1945 (81 in 2026); 13 in Oct 1958; first date with Arlo in 1975 (Dairy Queen, Paw Paw); married later. Arlo: born 1952, 6 in 1958, died 2020 at 68. Every Ambrose animal since 1958 is named Pepper (currently a cat, Pepper the Fourth).
 - 1958 search: Sat Oct 11, 1958; about 40 neighbors with lanterns; Hendrik VanderWal (Gus's grandfather) organized the walking lines and found Arlo at dawn in a low place by the pond; Stan Pietrowski (Roz's grandfather, died 2006) walked it in his wedding shoes; the Brinkses brought a red railroad lantern; Arlo thought the lanterns were a parade.
 - The Search finale (Ch 17+): Ed hands each rider a lantern at the Corn Stop ("Take one. We're looking for somebody."). At the pond Roz tells 1958; at dawn in the story a small light comes on low in the reeds on the far bank; the WHISTLE toggle is rewired to a dog's bark (Gus's cue). The Bride's lantern stays parked on its line in the willows (it's used in Ch 28).
 - Joyce (the lady from Battle Creek): widowed April 2020; rides alone after Ch 11.
@@ -357,7 +357,7 @@ These override the rows above where they conflict.
 - Ch 28 riders include Brody (photographer) and Jaxon (the Saturn boy from Sturgis).
 - Arlo finale vote (Ch 14): 4–3, Roz, Dot, Ed, Arlene for; Bev, Marv, Clyde against.
 - Dot stopped riding in 2020 (after Arlo died); first ride back is Ch 19. Ed has been in the Corn "since Clinton's second term".
-- Geography: Hollins Road runs east–west. The VanderWal place is a quarter mile east of the Teague drive. Roz's house is north, on Teague Road; her porch light is visible from the VanderWal barn across the field.
+- Geography: Hollins Road runs east–west. The VanderWal place is a quarter mile east of the Ambrose drive. Roz's house is north, on Ambrose Road; her porch light is visible from the VanderWal barn across the field.
 - Roz's porch light: dead from March 2024 (corroded wire at the box, breaker 9); she fixes it herself on Mon Oct 26 (Ch 20) and leaves it on. Lorna's photo of her under it reaches Gus at 7:38 p.m. (Ch 21).
 - Ending (Ch 30): Gus says a proposal is coming. Roz refuses Danny's one-word "stay" and names her own terms ("When you ask, ask on a Tuesday... the answer's yes"). Gus writes TUES in the frost on the dock board with one of Walt's pencils.
 - Gus's voice device in the text: headset cue-calls ("Standby whistle... Whistle. Hold." Ch 2; "Standby humiliation" Ch 4; "Standby dunk tank" Ch 7; "Blackout" Ch 12; "Bark, go" Ch 17; "going dark" Ch 21; "Standby" Ch 29). The register plan keeps cue-calls out of Ch 24 and Ch 26.
