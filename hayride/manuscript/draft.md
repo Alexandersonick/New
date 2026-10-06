@@ -2942,3 +2942,215 @@ She put her hand on the lid beside Danny's.
 
 "Take it," she said. "He should have real tools."
 
+## Chapter 17
+
+<!-- POV: Gus -->
+
+Somebody had put a strip of masking tape over the word WHISTLE on the cue box, and written on it, in red Sharpie, in block capitals that looked a great deal like his mother's: BARK.
+
+Gus found it at six-thirty-one on Friday, climbing up onto the bench. He sat down and looked at it for a while.
+
+"Well," he told the toggle. "Promotion."
+
+"It's not a promotion," said Roz, climbing up on the other side. "It's a lateral move."
+
+"From train to dog?"
+
+"From villain to dog." She buckled in. "Dogs are very well liked."
+
+She was wearing the barn coat and the MISS P hat, and she had a clipboard on her knees with the call sheet on top, and at the bottom of the call sheet, where for two weeks she'd written FINALE: AS APPROVED and then for one week had written nothing, she had written, in pencil, small: THE SEARCH (ARLO, 1958). Then, under it, smaller: *Committee 4–3. God help us.*
+
+"Are you nervous?" he said.
+
+"I'm never nervous."
+
+"You've checked that battery box four times."
+
+"It's a new box," said Roz. "For the reeds rig. It has to talk to the bark. The bark has to talk to your toggle. If any of the three of them aren't speaking to each other at the pond, I've got thirty-two people holding lanterns at a boy who isn't there."
+
+"So you're nervous."
+
+"I'm *thorough*." She looked straight ahead at Hank's back. "Don't flip it early."
+
+"I've never flipped anything early in my life."
+
+"You pulled the Woodlot ghost early for two entire seasons."
+
+"I was fifteen and you were terrifying," said Gus. "I was trying to get it over with."
+
+She didn't laugh. But she looked at him sideways for one half-second, and then down at the clipboard, and the corner of her mouth went somewhere it hadn't been in seven years, and stayed there long enough for him to see it.
+
+* * *
+
+The 7:00 went out two-thirds full. That was down from the first weekend and up from the rain, and on the board in the shed Bev had chalked $17,400 after Saturday, and under it, for Friday, she had written nothing yet, and Gus understood from the way she'd held the chalk that she didn't expect to need much room.
+
+Mateo was in the front row. Mrs. Salas was knitting something long and orange that was either a scarf or a very ambitious sock. Behind them were two families from Paw Paw, some Western students, a young couple with a baby in a sling, and, in the third row, in pink, alone, Joyce from Battle Creek.
+
+She'd come back. She had her sign in a plastic grocery bag on her lap and her arms folded over it. When Gus climbed up onto the bench, she gave him a short nod, the kind you'd give a man across a church aisle whose family you'd had a long feud with but whose mother you respected.
+
+The Orchard Gate. The scarecrow sat up. The Western students screamed and then laughed at themselves for screaming.
+
+Then the Corn.
+
+Ed Brinks was standing where he always stood, at the edge of the maze in the cut stalks, in his overalls and his straw hat, with his lantern held up by his face so it lit him from below. For thirty years he had said one line here. He had said it to Gus's father and to Gus at five and to Gus at fifteen pulling ghosts, and to Roz, and to the Pietrowski cousins and the Hoekstra boys and Mateo, and to busloads from Allegan. *Ain't nobody comes back out of my corn.*
+
+Tonight Ed didn't say it.
+
+Behind him, on a hay wagon parked at the maze edge, sat forty lanterns. Gus had cleaned every bail. Roz had wired every candle. Danny had put the batteries in and checked the polarity of every one, twice, under threat.
+
+Ed limped forward. Gus saw Roz's mouth twitch at the limp. Ed picked up a lantern from the wagon, switched it on, and held it out over the side of the Big Wagon to the first rider within reach, who happened to be Mateo.
+
+"Take one," Ed said, in a voice Gus had never heard him use, low and urgent and hoarse. "We're looking for somebody."
+
+Mateo took it with both hands, like a chalice.
+
+Ed went down the length of the wagon. He handed a lantern into every pair of hands. A Paw Paw father. A Western student, who stopped laughing. The young mother with the baby, who held it out a little from the sling so the baby could see. Joyce from Battle Creek, who looked at it for a long moment before she took it, and then held it in her lap on top of the grocery bag with her sign in it.
+
+"We're looking for somebody," Ed said, all the way down the wagon, every time. "Take one. Take one."
+
+When Hank pulled away from the Corn, the Big Wagon was lit from inside. Thirty-two small lights in thirty-two pairs of hands, warm and gold, swaying as the wagon rocked, so that the whole thing went down the dark lane toward the Woodlot like a lantern itself. Nobody was on their phone. Nobody was talking much. They looked at their lights and at each other's faces lit from underneath, and someone in the back said "Oh," the oh you say when somebody's moved the couch.
+
+At the Woodlot the ghost came down, and nobody screamed. They held up their lanterns at it, and in thirty-two little lights the bedsheet looked like a lost thing caught in the trees, and somebody said, "Hi," to it, kindly, and it went back up into the dark.
+
+Then the pond.
+
+* * *
+
+Hank turned the key. The engine stopped. The silence came down.
+
+But it was a different silence than it had been for three weeks. Before, it had been the dark: thirty-two people sitting blind on hay bales, waiting to be told what to fear. Now the wagon was full of light. The lanterns glowed in every lap, and the light went out from the wagon a little way onto the black water and lay on the fog in gold patches, and you could see the dock, and the reeds, and the faces.
+
+Roz didn't stand up. She told it sitting down, belted, in the voice not much above talking.
+
+"October eleventh, 1958," she said. "A Saturday. There was a boy on this farm named Arlo, and he was six, and he had a dog named Pepper."
+
+Gus had heard her tell the bride a hundred and twenty-some times by now. He knew every turn of it, every breath. This was different. She told it slower. She told it like someone reading aloud to a kid at bedtime, someone who wasn't trying to scare anybody. Pepper and the rabbit. The corn, eight feet tall and unpicked because it had rained all September. A door shutting on the sky. The dinner bell. *Arlo's in the corn.* Four words on a party line.
+
+"And they came," Roz said. "Forty of them. Neighbors. In their work clothes and their church clothes. One man came straight from a wedding in his good shoes and walked the corn all night in them and complained about it for thirty years." A laugh from somewhere in the dark, small and surprised. "Every one of them brought a lantern. Like the one you're holding."
+
+Gus watched them look down at their lanterns.
+
+"They made lines," Roz said. "Ten feet apart, across the rows, so nobody would get ahead and nobody would fall behind. And they walked this field, all night, calling. *Arlo. Arlo.*"
+
+She stopped. She let it sit. Thirty-two people sat holding their lights in the silence, and Gus knew, because he had spent three weeks learning how she built a moment, that she was letting them hear it, the calling, in their own heads, out over the dark corn behind them.
+
+"He could see the lanterns," she said. "All night. He thought it was a parade. He kept walking toward the lights, and they kept moving, so he figured the right thing to do was sit down and wait for the parade to come to him. So he sat down in a low place by the water, with his dog, and he waited."
+
+She turned her head, just slightly, toward the far bank. Toward the reeds. Thirty-two heads turned with her.
+
+"And at dawn," Roz said quietly, "they found him."
+
+Gus flipped the toggle.
+
+He didn't flip it early.
+
+On the far bank, low in the reeds, right at the edge of the water, a small light came on. Not the bride, sailing out on her line, high and veiled; this light was low and small and warm, about the size of a six-year-old curled up asleep with his dog. It sat in the reeds and glowed. And from somewhere in the willows above it, clear across the water, a dog barked, twice. A happy bark. A dog who has heard forty people coming through the corn and knows exactly who they are. Half beagle, and half something nobody would admit to.
+
+Rufus, Gus thought. Good boy.
+
+On the wagon, nobody said anything for a while.
+
+Then the young mother with the baby lifted her lantern. Just a little, without anybody telling her to. Up off her lap, toward the small light in the reeds, the way you'd hold up a light to show someone where you were. And the Paw Paw father next to her did it too. And then the Western students, and Mrs. Salas, who put down her knitting to do it, and Mateo with both hands, and the whole wagon, row by row, thirty-two lanterns lifted in the dark toward the far bank, and all of it lying on the black water in long gold lines, like a town walking a field.
+
+In the third row, Joyce from Battle Creek held her lantern up with one hand and wiped her face with the other.
+
+"Hank," said Roz, very quietly, into the walkie.
+
+The engine started. They went home.
+
+* * *
+
+Joyce found her at the wagon step.
+
+She waited until everybody else was off. She stood on the gravel in her pink fleece with the lantern still in her hand, because nobody had told her to give it back yet, and her grocery bag under her other arm.
+
+"Well," Joyce said.
+
+Roz looked at her.
+
+"*That's* finished," said Joyce, and handed her the lantern, and walked to the parking field.
+
+* * *
+
+By the 9:00 the line was back to the barn wall.
+
+He didn't know how. Nobody posted anything; Kenzie Vos's feature wasn't out until Thursday. But Carrow was a town where nothing moved faster than something good, and by the 8:20 people were getting off Wagon One and walking straight to the parking field and getting on their phones, and by the 9:00 there were cars on Hollins Road again, and Danny was out with his wand.
+
+"They're saying *lanterns*," Danny reported, breathless, between rides. "On the line. People in line are saying *you get a lantern*. A lady asked me if it was true you get a lantern. I said yeah. She said she was bringing her mom."
+
+"How many?" said Roz.
+
+"How many what?"
+
+"Cars."
+
+"I don't know, like, a lot? I stopped counting at the culvert." Danny looked at Gus. "Bro. The bark."
+
+"Rufus," said Gus.
+
+"Rufus is a *legend*," said Danny, and ran.
+
+They did it seven times. Every time, Ed said *take one*. Every time, the wagon lit up. Every time, at the pond, she told it, and he flipped the toggle on *found him*, and the small light came on in the reeds and Rufus barked twice across the water, and the wagon lifted its lanterns. Every time, somebody cried. On the 10:20 it was a big man in a Carhartt jacket who held his lantern up with both hands and didn't bother wiping his face.
+
+On the 11:00, the last ride, they came back to the barn one lantern short.
+
+* * *
+
+"It's the kids," said Ed Brinks, at eleven-thirty, in the yard, counting. Thirty-nine lanterns on the wagon at the Corn Stop. "There was a family on the 11:00 with three little ones. The middle one wanted to keep it. Mom made him give it back, I saw her. But I bet he dropped it in the maze on the way to the porta-john."
+
+"I'll find it tomorrow," said Roz.
+
+"Raccoon'll find it first," said Ed. "That raccoon's a menace. He'll have it in his den by morning, reading by it."
+
+Roz looked at the dark corn. Gus watched her calculate: one lantern, one LED, one battery pack, one tomorrow, one raccoon.
+
+"I'll get it now," she said.
+
+"I'll hold the flashlight," said Gus.
+
+She didn't argue. That was how he knew how tired she was, or how good the night had been, or both. She just took her headlamp out of her coat pocket and put it on and walked toward the maze entrance, and he got her old silver Maglite out of the Explorer, where he'd known it would be, and followed.
+
+* * *
+
+The Teague maze was seven acres of field corn cut in a pattern Dot drew on graph paper every July, and this year's pattern was, according to the map on the sign at the entrance, a pumpkin. From inside, in the dark, it was not a pumpkin. It was a series of identical eight-foot walls of dry rustling stalks under a sky full of stars, and every path forked, and every fork looked like every other fork.
+
+They found the lantern in twenty minutes, on its side at the bottom of a dead end near the pumpkin's stem, where a small child had obviously set it down very carefully and then been hauled away by a parent. It was still on. The LED candle glowed in the dirt like a tiny campfire.
+
+Roz picked it up. She held it up and looked at it, at the battery pack and the switch, and he could see her checking it the way she checked everything, polarity and connections and solder, and finding it fine.
+
+"Good," she said to it. "You held."
+
+They didn't turn around right away.
+
+He didn't know why. The lantern was found. The night was over. It was midnight and cold and they had been on a wagon since six-thirty. But they stood at the bottom of the dead end with the corn ticking and rustling around them, eight feet tall on three sides, and the stars overhead, and the lantern in her hand lighting them both from below, the way Ed's lit him, and neither of them moved.
+
+"It's Friday," Roz said.
+
+"It is."
+
+"I haven't asked."
+
+"You've been busy."
+
+She looked at the lantern in her hand.
+
+"What do you want?" she said. "Not from me." She looked up at him, finally, in the light. "Want."
+
+He held the Maglite. He didn't turn it on.
+
+"My name on a shop door," Gus said. "Not a hoodie. A door. VanderWal Scenic, painted, with the hours under it, even if nobody ever comes during the hours." He thought about it. "And things I build that go out and come back. Sets. A hedge for a college opera that goes to Holland in a truck and comes back after the run, and I strike it and store it and somebody rents it two years later for a different opera with different people pretending to be in love behind it. Things that travel and come home." He shrugged. "That's it. That's the want."
+
+She was very still.
+
+"It's not about you," he said. "You asked me not to make it about you. It isn't."
+
+"I know it isn't."
+
+"Okay."
+
+"Don't say okay," she said, and he could hear that she was close to laughing, or close to something.
+
+The corn rustled. Far off, on Hollins Road, a car went by, and its headlights moved across the tops of the stalks above them like a slow searchlight, and went away.
+
+"What do you want, Roz?" he said.
+
