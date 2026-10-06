@@ -26,9 +26,11 @@ the first one ever built, made by her before the company existed.
   state training grant, escrow released at steel-cut).
 - **Lowest point. Her own act:** pressured by a planted press leak and a frightened crew, she goes on
   live TV and announces no sale, telling no one first. The acquirer walks. The lender pulls the
-  covenant test forward to ten business days. The executive, blindsided, resigns. In the fight, he
-  says, "Now you know what it's like to be scared and alone with it." She sends him out; he goes to
-  sleep in the removed office.
+  covenant test forward to ten business days. The executive resigns over a broken arrangement with
+  Pip, not as a mirror of the husband. In the fight, no one says she did "his thing". He says only
+  that he would have said yes if she'd called; she throws the 1 a.m. calls at him and sends him out.
+  He goes to sleep in the removed office. The book does not rebalance blame: in Ch 22 he looks for
+  a version where the last two years aren't his fault and doesn't find one.
 - **Repair (dominant shape: accepting a consequence he could avoid).** Rhythm: he tells her
   beforehand, does it unwatched, and she does not verify. He originates the practice himself after a
   plant manager's line about "finding out from the parking lot"; she never sets terms. Acts:
@@ -43,11 +45,15 @@ the first one ever built, made by her before the company existed.
   workforce vote: Saturdays plus 5% of the company from her shares into a crew trust. He stands up
   and disagrees: close his plant instead. They argue as equals. She decides on the spot, writes his
   plant's name in the empty box on the whiteboard herself, and calls the vote. The tally is 97–41–3;
-  the crew's oldest lead votes no, openly, for her own retirement. Staging: workplace floor /
+  the crew's oldest lead votes no, openly, arguing that a failed plan might bring a buyer's cheque back. Night before: the lead refuses to give the heroine advice, and the heroine texts the husband ahead of time that she won't cut him off. Staging: workplace floor /
   workforce / no evidence / a vote / a quiet tally.
-- **Narrator-wrong reversal (Ch 25):** she believed he stopped their morning ritual first after his
-  unilateral decision two years ago. In fact he came alone for three weeks and she never knew. This
-  is told once, to her.
+- **Concealment motive:** pride. He hid the loan because she had warned him the second plant was
+  wrong, and telling her meant saying she'd been right. ("I'd rather owe Chicago nine million dollars
+  than owe her that sentence.")
+- **Kneeling apology (Ch 25) and confession:** asked why he gave the room away, he answers: he
+  couldn't bear walking past the room where they were married, dark, as proof of what they'd become,
+  so he gave it to the woman who asked. No secret devotion, no reveal that she stopped first. The
+  blame stays his.
 - **Resolution (Ch 29–30):** in the same week, she asks him into the room at seven, where the ritual
   stopped. He asks to come home, clear the room with the ladder, and come out every morning at seven
   before driving downtown to his own job. On Friday the lender's test passes by $410k. The crew

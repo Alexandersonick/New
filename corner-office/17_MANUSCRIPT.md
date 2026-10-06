@@ -822,7 +822,7 @@ What do I want her to do. That's the question I've been asking Simone for eight 
 
 "It had six thousand when I picked up the phone," Simone says.
 
-On the plane, Kurt Lindahl has the window, of course. Kurt is fifty, Minneapolis, tall in a lean, smooth, expensive way, like a man who was born in a good coat. He runs Halvard Group, which owns eleven furniture brands you've heard of and nine you've sat on without knowing it. He's charming the way I'm charming, which is to say on purpose, and we both know it, and that makes us get along the way two magicians get along at a party.
+On the plane, Kurt Lindahl has the window, of course. Kurt is forty-nine, Minneapolis, tall in a lean, smooth, expensive way, like a man who was born in a good coat. He runs Halvard Group, which owns eleven furniture brands you've heard of and nine you've sat on without knowing it. He's charming the way I'm charming, which is to say on purpose, and we both know it, and that makes us get along the way two magicians get along at a party.
 
 "Big day," he says, when I sit down. "I'm excited to see the room. Your deck on that room is my favorite deck in the deal. Two kids, a garage, a dream. It's going to test through the roof."
 
@@ -860,7 +860,7 @@ I laugh, because he wants me to, and look out past him at the wing so he can't t
 
 Somewhere over Lake Michigan, the flight attendant comes by with the coffee cart, and Kurt asks for hot water with lemon, and I ask for coffee, black, and I drink it and look at my phone in airplane mode where I can't get any messages, and I think: this is the last quiet I'm going to have today.
 
-The last good meetings Pip and I had in that room were coffee at seven, which was less a meeting than a rule, written on the inside of the door, number three, in her handwriting. For four years in the Lindqvist building, every working day I was in town, we sat in that room at seven in the morning, her at her desk and me in the other chair with my feet on the radiator, and we decided the day, just us, before anybody else came up the elevator and the company woke up.
+The last good meetings Pip and I had in that room were coffee at seven, which was less a meeting than a rule, written on the inside of the door, number three, in her handwriting. For six years in the Lindqvist building, every working day I was in town, we sat in that room at seven in the morning, her at her desk and me in the other chair with my feet on the radiator, and we decided the day, just us, before anybody else came up the elevator and the company woke up.
 
 I don't think about how it ended. I'm a forward-looking guy. It's in my bio.
 
@@ -1004,9 +1004,7 @@ I hold up the phone. "Who else has read version fourteen?"
 
 "She built it because I asked her to build it. Don't put that on her, Pip."
 
-"I'm not putting anything on anybody. I'm reading a slide."
-
-"Simone's running integration," I say. "Integration of us."
+"I'm not putting anything on anybody. I'm reading a slide. *Simone's running integration*," I say, in his Monday voice. "Integration of us."
 
 "That's what integration is, Pip. You don't understand what's—"
 
@@ -1162,6 +1160,8 @@ He shuts the freezer and puts water on to boil at his end, and the two of us sta
 
 "Ongoing," he says, and opens the bag. "The site went down after lunch from too much traffic."
 
+"I heard. Tavi called me from the men's room to tell me."
+
 "Do you want to know how many?" he says.
 
 "How many of what?"
@@ -1286,7 +1286,7 @@ It's the one in the middle of the fourth floor, the one we built in 2019 when a 
 
 "Facilities has hooks."
 
-"Facilities is busy," Simone says, without looking up. "Facilities spent yesterday answering questions from the Grand Rapids Ledger about whether our building is structurally sound."
+"Facilities is busy," Simone says, without looking up. "Facilities spent yesterday answering questions from the *Grand Rapids Ledger* about whether our building is structurally sound."
 
 "And is it?"
 
@@ -1451,6 +1451,8 @@ It comes out of my mouth before I can stop it. *I don't know.* I don't say that.
 There's no expression on her face when she says it. It's just another item, five or six, a part number. She picks her pen back up.
 
 "You say yes to me before I finish the sentence," she says, writing. "You have done it since May. I ask for a budget line and you say yes. I ask for headcount and you say yes. I asked for the corner office as a joke, Adam, I asked because it was empty and I was tired of taking calls in the stairwell, and you said yes before I got to the word *office*." She underlines something. "I did not think about why until Monday. I think you say yes to me so fast because nothing I ask for costs you anything."
+
+She takes her reading glasses off to rub the bridge of her nose, and without them she looks younger and more tired, and for half a second I see her the way I'd see her if we'd met at a trade show in Chicago with no rings on anybody's hands and a hotel bar that stayed open late. I don't let the thought finish. I've been not finishing it since August, at one in the morning, with her voice in my ear and my wife on the other side of a wall. Not finishing a thought every night for five months is its own kind of answer, and I know it, and I look away.
 
 I look past her through the glass wall at the northwest corner of the floor, where there's nothing now but brick and two big windows over Monroe Avenue and four steel bolt plates in the maple floor, bright and clean, where somebody's set a little orange safety cone so nobody trips.
 
@@ -2033,7 +2035,7 @@ She lifts her eyes from the mug. She's tired, and there are lines by her eyes th
 
 I stand there with my hands on the counter.
 
-The true thing is sitting in my chest, the shape of a stone you swallowed as a kid that your mother swore would come out on its own. It has to do with coffee at seven, and how it ended, and the version of that I've been telling myself ever since. I can't get it up my throat. Not in a kitchen at midnight with my coat still damp on the hook.
+The true thing is sitting in my chest, the shape of a stone you swallowed as a kid that your mother swore would come out on its own. It has to do with the room, and why I said yes to Simone before she finished the sentence, and what I couldn't stand to walk past. I can't get it up my throat. Not in a kitchen at midnight with my coat still damp on the hook.
 
 "I miss you," I say instead.
 
@@ -2235,7 +2237,7 @@ The door from the floor bangs open and Benny comes in for coffee, peeling off on
 
 "Told you," says Lolo.
 
-I hold my phone up and photograph the whiteboard, and Benny leans into the frame with his doughnut, so I take it again.
+I hold my phone up and photograph the whiteboard, and Benny leans into the frame with his donut, so I take it again.
 
 "Nobody erases that," Lolo tells the room, which is Irene and Benny and a vending machine. "Anybody erases that board, they answer to me."
 
@@ -2387,9 +2389,7 @@ He reads on, slower. "And the deposits release at steel-cut."
 
 "I see the box. Three of the question marks are pencil and one's pen."
 
-"The pen one's from Wednesday."
-
-"Money before the money." I put my finger on it. "Steel and glass, six weeks of it, before the first escrow comes loose. Overtime. And the second shift's a hiring problem. I need thirty people who can weld the knee, and there aren't thirty people in Michigan who can weld the knee, so I'd have to train them, and that's months."
+"The pen one's from Wednesday. Money before the money." I put my finger on it. "Steel and glass, six weeks of it, before the first escrow comes loose. Overtime. And the second shift's a hiring problem. I need thirty people who can weld the knee, and there aren't thirty people in Michigan who can weld the knee, so I'd have to train them, and that's months."
 
 "So you stagger it."
 
@@ -2595,7 +2595,7 @@ Odell listens to the whole thing. When I'm done he sits back and lets his chair 
 
 "Why not?"
 
-*I don't know* is the honest answer, and it isn't the answer. The answer is that I've been carrying it so long by myself that I've started to think carrying it is the job. That if I set it down in front of her she'll pick it up, because she's Pip, she picks up everything, she'd pick up the heavy end of a building if you let her. And then it'll be hers too, and that'll be my fault.
+*I don't know* is the honest answer, and it isn't the answer. The answer is that she told me Nashville was wrong. Not to my face; she never got the chance. She told Gordon, and Gordon told me, and I stood on a stage the next morning anyway. If I tell her about Northgate, I'm telling her she was right, and that every dollar of it went into the hole I dug while she was saying so. I'd rather owe Chicago nine million dollars than owe her that sentence.
 
 "Because I'm an idiot, Odell," I say.
 
@@ -2745,47 +2745,19 @@ She sets the can down on the scorer's table, takes her glasses off and lets them
 
 "You're going to anyway."
 
-"Coffee at seven."
+"This plan of yours. Saturdays, second shift, everybody learning the knee. How long you figure it runs?"
 
-I keep my eyes on lane sixteen, where one of the Bedpans throws a strike and does a little dance with her hands in the air.
+"Twelve weeks to get ahead of the orders. A year to be safe."
 
-"Your dad told me about it," Lolo says. "Years ago. He thought it was the cutest thing. His girl and her fella, up in that room every morning at seven, deciding the whole day. He used to say it like it was a TV show he watched."
+"A year." Lolo nods slowly, like she's measuring a board she already knows is short. "I'm sixty-three, hon. My hands go numb at night. I wake up at three and I can't feel my thumbs, and I lie there and wait for them to come back like a dog that got out." She turns the pencil over on the score sheet. "I got a sister in Port Charlotte with a spare room and a ceiling fan. I've been thinking about Florida since your dad's retirement party. Before your video. Before your husband and his slide."
 
-"That was ages ago."
+"You never said."
 
-"It was two years ago." She picks the pencil back up. "It stopped after Nashville, right? He did that thing at the all-hands, with the slide. And then it stopped."
-
-"Then it stopped," I agree.
-
-"Who stopped first?"
-
-"He did."
-
-It's out of my mouth too fast, like a thing I've been saying to myself in the truck on the way to work since Nashville, and I hear how smooth it is, like a stair you've walked down so many times it's worn in the middle.
-
-Lolo taps the pencil on the score sheet, twice. "You sure about that, hon?"
-
-"Yes."
-
-"'Cause I remember that winter," Lolo says. "Right after Nashville. I was running a double for three weeks while Dave Wierenga was out with his gallbladder. I'd come off second shift and stay for first. And every morning that winter, you were in the plant by six-thirty."
-
-"I'm always early."
-
-"Not before eight, you weren't. Never in your life. You were at the Lindqvist building every morning at seven having coffee with your husband, and then you'd come out to Clyde Park at eight-thirty with a travel mug, and Benny would say *here comes the boss*." She taps the pencil again. "And then for three weeks you were at your bench at six-thirty, every day. You'd come in and sit down and you wouldn't talk to anybody, and you'd file things."
-
-I study the arrows on the lane, the little dark triangles set into the wood.
-
-"So I'm thinking," Lolo says, gently, which is the worst way Lolo says anything, "if you were here at six-thirty, hon, you weren't there at seven. So how would you know if he stopped?"
+"Nobody asks the second-shift lead what she thinks about at three in the morning. They ask her how many knees." She says it without any heat at all, which is worse. "I'm not saying no to your plan. I'm saying don't build it on me like I'm part of the building. I'm not the building. I'm a lady with a sister and a bad pair of hands."
 
 There's a sound in my ears like the moment between a pin wobbling and falling over.
 
-"He stopped," I say. "He was in Nashville, he was always in Nashville that spring, he was on planes every week—"
-
-"That spring, sure. I mean the three weeks."
-
-"I don't—" I stop.
-
-*I don't know.* That's what I was going to say. I don't know, because I was here at six-thirty filing things, and the first morning I didn't go up, I told myself it was one morning, a protest, a message he'd get, and then the second morning was easier, and by the end of the week it was the way things were. And somewhere in there I decided he'd stopped too, the way you decide a noise in the house is the furnace. I never went to check.
+I've had a whiteboard full of Lolo's numbers for a week. Four thousand one hundred knees a year, two shifts and Saturdays, and every one of those numbers has her standing in the middle of it, training kids, running second shift, holding the whole line together the way she's held it since 1994. I never asked her if she wanted to be standing there. I put her on the board like a machine I owned.
 
 Benny comes back from the Gutter with four cans of Stroh's pressed together in his hands and a fresh basket of fries balanced on top, and squints at the two of us.
 
@@ -2887,6 +2859,16 @@ On the wall, the old Lindqvists look down out of their oil paint.
 
 "Wonderful," Kurt says from Minneapolis, writing something down. "That's what we had. Thank you."
 
+"You don't have all of it," I say.
+
+Kurt looks up from his notes. Down the table, Nadia's stylus stops.
+
+"The knee, the corner, the lift points," I say. "The crane bay in this building, which every engineer on the job told me was vanity. The escrow rule your lawyers keep asking about. The name, too. I named the company in a garage on Garfield Avenue while he was outside on the phone with a bank, because we had two desks and nothing else." I keep my hands flat on the walnut. "Put it in your schedule, Kurt. If you're going to try to buy it, you should know whose it is."
+
+Ruth doesn't say anything. Del Ortiz sits back in his chair and folds his hands on his stomach, like a man at a ball game whose team just did something he paid to see.
+
+"Noted," Kurt says, and smiles, and writes it down.
+
 I sit there with my hands flat on the black walnut on either side of my coffee, and I can feel the grain under my palms. I've been waiting two years for somebody in this building to say that sentence out loud in a room with a table in it, and now somebody has, and it's him, and it's in answer to a question from a man in a turtleneck in Minneapolis who wants to buy it, and it doesn't feel like anything I thought it would. It feels like being handed a receipt.
 
 Adam's eyes are still on me. He doesn't smile, and he doesn't do the face where he checks whether I liked it. He just holds still like a man who said a true thing and is waiting to see what it costs.
@@ -2909,7 +2891,7 @@ The table waits.
 
 He turns down the table to Adam. Adam nods, once, very small.
 
-"In October," Gordon says, "to meet payroll, the company received nine million dollars in a loan from our CEO. Mr. Kerrigan borrowed that amount personally from Northgate Capital, in Chicago, secured by a pledge of his shares in the company. All of them." He reads the next part off the screen, carefully, like he's afraid he'll get it wrong in front of God. "The Northgate loan has a covenant tied to the company's cash position. If the company's cash falls below six million dollars on the test date, Northgate may call the loan. If Mr. Kerrigan cannot repay it, Northgate takes his thirty-four percent."
+"In October," Gordon says, reading it off the screen carefully, like he's afraid he'll get it wrong in front of God, "to make payroll, Mr. Kerrigan borrowed nine million dollars personally from Northgate Capital in Chicago and lent it to the company, against all thirty-four percent of his shares. If our cash falls below six million on the test date, Northgate can call it and take them."
 
 There's a sound in the room. I think it's me.
 
@@ -3025,7 +3007,7 @@ She opens the door. On her way out she jabs the Keurig's brew button with one kn
 
 Pip isn't in the stairwell, and she isn't on four, and she isn't at her truck in the lot behind the building where she always parks, because her truck isn't in the lot. Simone, coming down the hall toward me from the glass room with her notebook pressed to her chest, opens her mouth to say something, and I put a hand up and she closes it, and I go down the stairs two at a time, the old iron stairs that smell like pigeons and radiator paint, all the way to the ramp.
 
-I find her on level three of the Monroe Street ramp, standing next to my car.
+I find her on level three of the Monroe Avenue ramp, standing next to my car.
 
 It's my black Audi she's leaning on, the one with the Grand Valley sticker in the back window that she gave me as a joke when we got married, because I didn't go to Grand Valley, I went to Western, and she said I needed to be loyal to something local. She's got her arms crossed and her coat open and her face closed for business, and the ramp is cold and gray and smells like exhaust and somebody's old french fries, and a woman getting out of a Subaru two spaces down takes one look at us and gets back into the Subaru.
 
@@ -3047,7 +3029,7 @@ So I walk up to her and stop about four feet away, which is the distance I'd sto
 
 "October eighth, it was a Thursday," I say, like I'm reading it off a receipt.
 
-"I know what day of the week it was, Adam, I was in the house." Her voice is so level I can hear what it's costing her to keep it there. "I made eggs and ate them over the sink, and you came in at one and went upstairs. You'd just put your whole life on a piece of paper in Chicago and you went *upstairs*."
+"I know what day of the week it was, Adam, I was in the house." Her voice is so level I can hear what it's costing her to keep it there. "I made eggs and ate them over the sink, and you came in at one, and I heard you in the kitchen for an hour, and then you went upstairs. You'd just put your whole life on a piece of paper in Chicago and you went *upstairs*."
 
 "I didn't want you scared."
 
@@ -3115,11 +3097,17 @@ That one lands on both of us. I watch it land on her, and I feel it land on me s
 
 There are a lot of answers. I've got them lined up the way I line up answers for investors, in order of persuasiveness: *you were asleep, it was late, you had the plant, I didn't want to load it on you, it was my mistake to fix.* I could give her any of them and every one would close. Strike that. Every one would be a little bit true.
 
-"Because you'd have picked up the heavy end," I say. "You always pick up the heavy end, Pip. You'd have taken it off me and carried it, and I'd have let you, because I always let you. And then Nashville would have been yours too, and everything I broke would have been yours to fix."
+"Because you were right," I say. "About Nashville. You told Gordon it would eat us, and it ate us, and every dollar I borrowed went into feeding it. If I'd knocked, I'd have had to stand in your doorway and say *you were right and I was wrong and it's costing us the company*. I couldn't. I'd rather borrow nine million dollars against everything I own than say that sentence to you."
 
 A car comes down the ramp behind me, slow, and its headlights slide across her boots and away before she answers.
 
-"That's my end," she says finally. "The heavy end is my end, Adam. I'm a welder."
+"You'd rather owe a bank in Chicago," she says finally, "than owe me an *I told you so*."
+
+"Yes."
+
+"I wouldn't have said it."
+
+"I know," I say. "That's what made it worse."
 
 She pushes herself off my car and walks past me, close, and stops, and for a second we're standing shoulder to shoulder facing opposite directions, like two people in a duel who forgot to turn around.
 
@@ -3441,15 +3429,13 @@ On the way out, in the lobby, Adam stops in front of a framed photograph on the 
 
 "That was good in there," I say.
 
-"I didn't do anything but talk."
+"Gil said yes because of eight thousand rooms of tube and an envelope from 2014," he says, without looking away from the photo. "I just sat next to the envelope."
 
-"You told him the bad part first."
+"You didn't do the nose voice."
 
-"I've been practicing in the car, in my head," he says, without looking away from the photo. "I've been telling people the worst of it first for two days. It's horrible, Pip, like taking a cold shower on purpose."
+"I'm out of practice," he says, and doesn't smile, and doesn't move away from the man in the fedora for a while.
 
-"Get used to it," I say. "It's how welders talk."
-
-Holland Glazing calls my phone with net forty-five that afternoon, because they heard Great Lakes gave us sixty and they hate Great Lakes. Grand Rapids Glass matches it by the time we're past Jackson, because they've been mad at Holland since a softball game in 2011 that nobody will tell me about. Simone texts me a little after that: *Glass matched. Your hole is now 2.3.* And under it, a second text, a minute later: *I am not asking how. I assume someone was honest on purpose.*
+Holland Glazing calls my phone with net forty-five that afternoon, because they heard Great Lakes gave us sixty and they hate Great Lakes. Grand Rapids Glass matches it by the time we're past Jackson, because they've been mad at Holland since a softball game in 2011 that nobody will tell me about. Simone texts me a little after that: *Glass matched. Your hole is now 2.3.* And under it, a second text, a minute later: *I am not asking how. I assume Holland still hates Great Lakes.*
 
 I show it to Adam in the truck. He reads it and laughs, the real one, and then stops laughing and looks out the window at the snow on I-94.
 
@@ -3513,7 +3499,7 @@ Benny's looking at the floor. Irene's looking at the printout. Darnell's looking
 
 Irene is the one who moves. She picks up the printout and folds it in half and in half again, small and square, the way she folds a glazing spec, and puts it in her shirt pocket.
 
-"My sister's in Fort Myers," she says. "I'd rather work Saturdays than live with her."
+"My other sister's in Fort Myers," she says. "I'd rather work Saturdays than live with her."
 
 "I'm just listening, boss," Benny says to the floor. "Somebody in here should."
 
@@ -3591,7 +3577,7 @@ My wife and my work wife have taken over the transparency room, and everybody on
 
 It's the following Wednesday, a week and a day since the board. I'm standing by the coffee station at the end of the design studio with a cup of the office drip, which is worse than gas-station coffee and slightly better than Pip's, watching them through the glass. Pip's at the long white table in her plant jacket with her sleeves pushed up and a mechanical pencil behind her ear. Simone's across from her in a navy sweater with her calculator and its paper tape curling off the edge of the table onto the floor, a long white tongue of it, a week's worth, that nobody's allowed to throw away. Between them there's a whiteboard on an easel with Irene's numbers from the break room copied onto it in Pip's handwriting, and under that a column in Simone's, and they've been there since seven, and every so often one of them says something and the other one writes it down.
 
-The whole floor watches them, sales included. Marketing has stopped pretending to watch their monitors and has turned its chairs. Bridget from accounts payable comes up from three twice a day with a question about invoices she could ask by email, just to walk past the glass.
+The whole floor watches them, sales included. Marketing has stopped pretending to watch their monitors and has turned their chairs. Bridget from accounts payable comes up from three twice a day with a question about invoices she could ask by email, just to walk past the glass.
 
 "It's like a nature documentary," says Tavi, who's appeared at my elbow with a laptop under his arm. He's in his Carhartt indoors now and doesn't take it off anymore. "Two apex predators sharing a kill."
 
@@ -3611,7 +3597,7 @@ The whole floor watches them, sales included. Marketing has stopped pretending t
 
 "They have Simone's coffee. I've had it. It's hot water that's heard about coffee." He waits. "So why not?"
 
-Because nobody asked me in. Since the ramp I've been telling her things before I act on them, nine days of it, small things, a call from Kurt, a question from Gordon, an email from the guy at Northgate, texted to her the minute they happen like a teenager, and she's been answering *ok* and *thanks* and once, near midnight, *go to sleep*. She hasn't asked me into the glass room, though, and at forty I'm finding out that you don't walk into a room just because you can see through the walls.
+Because nobody asked me in. Since the ramp I've been telling her things before I act on them, eight days of it, small things, a call from Kurt, a question from Gordon, an email from the guy at Northgate, texted to her the minute they happen like a teenager, and she's been answering *ok* and *thanks* and once, near midnight, *go to sleep*. She hasn't asked me into the glass room, though, and at forty I'm finding out that you don't walk into a room just because you can see through the walls.
 
 "Because it's their meeting," I say.
 
@@ -3881,7 +3867,9 @@ A little after four the live truck pulls into the lot and parks by the fence, ri
 
 "I think they'd like you to," Carla says gently.
 
-"Is there anything you won't answer?" she asks, while I'm still looking at them.
+I don't answer her. I'm still looking at them.
+
+"Is there anything you won't answer?" she asks.
 
 "Anything about my husband."
 
@@ -3973,7 +3961,7 @@ She's in her navy coat with the black notebook under her arm. She doesn't wipe h
 
 It's so quiet in the room I can hear the press brake across the yard, one long *chunk* through the glass.
 
-"I was on a call with Kurt Lindahl for forty minutes on Wednesday," Simone says, "lying by omission for you, because you asked me. Because you *asked*. I have not been asked for anything in eight months, and you came to my apartment at nine-forty at night and asked me, and I said yes before I could think about whether I should." She takes a breath. "And then on Thursday you went on television and decided the whole thing in ninety seconds, and you did not text me. You did not call me. I watched it on my phone in the glass room with Gordon. I found out from Carla Ruiz."
+"I was on a call with Kurt Lindahl for forty minutes on Thursday," Simone says, "lying by omission for you, because you asked me. Because you *asked*. I have not been asked for anything in eight months, and you came to my apartment at nine-forty at night and asked me, and I said yes before I could think about whether I should." She takes a breath. "And then on Thursday you went on television and decided the whole thing in ninety seconds, and you did not text me. You did not call me. I watched it on my phone in the glass room with Gordon. I found out from Carla Ruiz."
 
 "There wasn't time—"
 
@@ -3981,7 +3969,7 @@ It's so quiet in the room I can hear the press brake across the yard, one long *
 
 The phone's right there between us, and I don't pick it up now either.
 
-"You did the thing," Simone says quietly. "The exact thing. The thing he did to you with the slide at the all-hands. You stood up in public and decided alone, and the people who were in it with you found out from the parking lot."
+"We had an arrangement," Simone says quietly. "I would tell you what Kurt said, and I would tell Kurt nothing. I kept my half. I kept it on a call with him this morning while he called me a liar. You kept yours by going on television." She lets that sit. "I found out with Carla Ruiz's viewers."
 
 She takes a white envelope out of her notebook and puts it on my desk, on top of the invoice with my arithmetic on the back.
 
@@ -4049,37 +4037,37 @@ He doesn't pretend he doesn't know what I mean. He turns the laptop a few degree
 
 "The anchor, Pip, the guy you handed it back to, *back to you, Tom*." He laughs, and it's no laugh I've got catalogued. It's an ugly sound. "I found out about my own company from Tom Bielski on Channel 6."
 
-"Now you know how it feels," I say.
+"You want to talk about who found out from whom?" I say.
 
 It comes out of me cold and fast and I can't stop it. It comes up from the bottom of everything since Nashville.
 
-"Now you know what it's like to find out from a stage, to be the person in the gray box on the slide. That's what I was, Adam, *P. Sobczak, pending*, in front of three hundred people. You did that to me at the all-hands with Nashville, and you did it with the room, and you did it with Northgate, and you did it every night at one in the morning when you picked up the phone and called *her* and told her the things you were afraid of instead of me, so don't you stand at that counter and tell me about *before*."
+"I found out about Northgate from Gordon, at a walnut table, in front of Ruth. I found out I was *pending* from a slide. I find out what you're afraid of through a wall at one in the morning, Adam, when you pick up the phone and tell *her*. Every night for eight months I've lain there and listened to you laugh with somebody else. So don't you stand at that counter and tell me about *before*."
 
 He says *don't* twice while I'm saying it, quietly, and I go right over him both times.
 
-"Then why did you do it?"
+"Then why didn't you call me?"
 
 He's not shouting. He's leaning on the counter with both hands like he'll fall down if he lets go.
 
-"You knew," he says. "You knew how it felt. You've known since Nashville. You stood in that ramp and told me exactly how it felt, and then you held your phone for twenty minutes, Darnell says twenty minutes, and you put it in your pocket and did it anyway. So why did you do it, Pip?"
+"Darnell says you sat in that room with your phone in your hand," he says. "Why didn't you call?"
 
 Because forty people were standing in a doorway in the snow with their hands in their pockets. Because I was scared, and because I was handling it.
 
 I don't say any of it. I stand in my own kitchen in my coat with my keys still in my hand, and he watches me across twelve feet of quartz with the river in it, and his face does something I've never seen it do. It opens all the way, and what's behind it is so tired.
 
-"Now you know," he says, very quietly. "What it's like. To be scared, and alone with it. And to think if you just decide fast enough, nobody else has to carry it."
+"I'd have said yes," he says, very quietly. "That's the part I can't get past. You could've called me from the yard and said *I'm going to tell them no*, and I'd have said yes. I'd have driven out and stood next to you in the snow. You didn't need to do it by yourself."
 
-That's the one. It goes in under my ribs like the corner of a sheet of glass.
+That's the one. It goes in under my ribs and stays there.
 
-Because he's right. I've been doing it since Nashville in a different shape: sitting at my bench at six-thirty in the morning filing things, deciding he'd stopped coming, deciding not to open the decks, deciding to sit in a room in a yard. Deciding alone and calling it his fault.
+Because it never crossed my mind. All that time with the phone in my hand, and not once did I picture him saying yes. I pictured him pitching me, stalling me, calling Simone. I didn't picture him standing next to me in the snow. I don't know yet what that says about him. I know what it says about me.
 
-I can't stand in a kitchen with somebody who can see me that clearly.
+I can't stand in a kitchen with somebody who'd have said yes.
 
 "I need you to go," I say.
 
 He closes his eyes. "Where am I supposed to go, Pip?"
 
-I don't have an answer. I've got nothing in my hands but my keys and nothing in my head but ten days and Simone's white envelope and *now you know*. What comes out of my mouth is the last thing I want to say, the worst thing, his own words in his own voice.
+I don't have an answer. I've got nothing in my hands but my keys and nothing in my head but ten days and Simone's white envelope and *I'd have said yes*. What comes out of my mouth is the last thing I want to say, the worst thing, his own words in his own voice.
 
 "You barely use it," I say.
 
@@ -4115,17 +4103,15 @@ I don't sit in my own chair by the radiator. I sit in hers, and I couldn't tell 
 
 It's the wrong height for me. She sets it low so her feet are flat on the floor, the way her father taught her to stand at a bench. I sit there with my knees up like a kid at a grown-up's desk and look out past where the post would be, at the yard and the fence and the maples on Clyde Park standing up black against the orange sky.
 
-*Now you know.*
+*I'd have said yes.*
 
-I said that to her three hours ago across the counter, with the whiskey I didn't drink beside my hand. She went still, the way a linebacker goes still on the turf after a hit.
-
-It was the truest thing I've said to her since Nashville, and I used it like a weapon.
+I said that to her three hours ago across the counter, with the whiskey I didn't drink beside my hand. It was true. I watched it go into her like I'd thrown it, and she went still, the way a linebacker goes still on the turf after a hit. I didn't mean it as a weapon. It landed like one anyway, because of everything it landed on top of: eight months of a phone ringing on my side of a wall.
 
 I sit in her chair till one. Then I get the moving blanket off the shelf by the door, the quilted gray one Darnell keeps there to wrap the glass when they set a unit, and I lie down on my mother-in-law's braided rug with my coat for a pillow and the blanket over me.
 
-I don't sleep. Somewhere around three I start thinking about coffee at seven, and the story I've been telling myself about how it ended. In my story she stopped coming, and that part's true. It's also the half that lets me off. The other half is what I did about it, which was nothing anybody could see, and which I've never told her.
+I don't sleep. Somewhere around three I start thinking about the wall. Two layers of 1890s plaster and a closet full of her winter coats. Every night I picked up the phone on my side of it, she was lying on hers. I knew the wall was thin. I've known since the winter we moved in, when I could hear her radiator knock from my desk. I called anyway, and I laughed, and I told myself it was work.
 
-Lying on her floor in the dark, it comes to me that we did the same thing. Neither of us said one word. We each decided alone what the other one meant, and then we each lived in it, in separate buildings, keeping busy.
+Lying on her floor in the dark, I go looking for a version of the last two years where that's anybody's fault but mine. I don't find one.
 
 Just shy of five I get up and fold the moving blanket and put it back on the shelf, corners square, the way my mother folded towels. I put her chair back at her height, as close as I can get it. I let myself out and lock the deadbolt, and I'm across the street in the church lot before Benny's Silverado comes down Clyde Park with its one bad headlight.
 
@@ -4227,11 +4213,11 @@ Lakeshore Community Credit Union sounds like a woman named Fran who saw the vide
 
 "Is it true you're a member?" she says. "Personally? Somebody here said you were a member."
 
-"Since 1998, Fran. I opened it with my First Communion money."
+"Since 1996, Fran. I opened it with my First Communion money."
 
 "Oh, honey," Fran says, and I can hear exactly how the rest of the call is going to go, and it goes that way. Fran's sorry, and then Fran's so sorry, and then she asks if I'd sign a photo for her nephew.
 
-A dentist in Ada who bought the first Corner we ever sold to a stranger, in 2015, and who's sent me a Christmas card every year since with a photo of himself painting watercolors in it, sounds like a man stepping very carefully backward out of a room. He's so proud of me. He's going to send a check for five hundred dollars, personally, no paperwork, because he believes in me.
+A dentist in Rockford who bought the first Corner we ever sold to a stranger, in 2015, and who's sent me a Christmas card every year since with a photo of himself painting watercolors in it, sounds like a man stepping very carefully backward out of a room. He's so proud of me. He's going to send a check for five hundred dollars, personally, no paperwork, because he believes in me.
 
 "Dr. Vander Molen, please don't," I say. "Keep it. Buy paint."
 
@@ -4291,7 +4277,7 @@ My father does the crossword while I eat. The clock over the stove ticks, the on
 
 My father lays the pen down crosswise on the crossword, which is what he does instead of clearing his throat.
 
-"I didn't tell anybody first," I say. "I didn't tell Adam, I didn't tell Simone, I didn't tell the crew. I had my phone in my hand for twenty minutes and I put it in my pocket. And now the deal's dead and the bank's calling the loan in nine days and Simone quit and I told him to leave." I put the fork down. "I did exactly what he did to me. With Nashville. On the stage. I stood up and decided in public, and the people who were in it with me found out from the TV."
+"I didn't tell anybody first," I say. "I didn't tell Adam, I didn't tell Simone, I didn't tell the crew. I had my phone in my hand and I put it in my pocket. And now the deal's dead and the bank's calling the loan in nine days and Simone quit and I told him to leave." I put the fork down. "He said he'd have said yes, Tato. If I'd called. He'd have driven out and stood next to me. And I never even pictured it."
 
 My father squares the pen against the edge of the newspaper and looks at it instead of me.
 
@@ -4303,7 +4289,7 @@ My father squares the pen against the edge of the newspaper and looks at it inst
 
 "You meant the thermostat, Tato. You told me."
 
-"I told you the joke." He nods at the wall where the thermostat is, under the Last Supper. "Thirty-one years, your mother and me and that thing. You know who won?"
+"I told you the joke." He nods at the wall where the thermostat is, under the Last Supper. "Forty-six years, your mother and me and that thing. You know who won?"
 
 "Mama, because Mama always wins."
 
@@ -4331,7 +4317,7 @@ She opens it in the MSU ENGINEERING MOM sweatshirt with a roll of packing tape i
 
 I say it in the doorway, before she can ask me in, before I can plan it. I say it the way Adam said it to Gil Chamberlain in Monroe, with the worst of it in the first sentence.
 
-"I'm sorry I didn't tell you. You were in it with me. You lied for me on a call with Kurt for forty minutes and I didn't text you. I held my phone for twenty minutes and I put it in my pocket. It was the exact thing. You were right. I did the thing he did to me with the slide, and I did it to you, and I'm sorry."
+"I'm sorry I didn't tell you. You were in it with me. You lied for me on a call with Kurt for forty minutes and I didn't text you. You kept your half of it with Kurt calling you a liar, and I went on television without keeping mine. You found out with everybody else in Kent County. I'm sorry."
 
 Simone stands in the doorway with the packing tape and turns the roll once around her finger, then again.
 
@@ -4449,25 +4435,19 @@ Margaret Oyelaran is about sixty, Nigerian by way of Evanston, in a camel suit a
 
 "You came without counsel in the room."
 
-"I came to tell you some things before you find them out."
+"I came to sign something, and I wanted to be in the room when I did."
 
 Margaret uncaps the pen.
 
-It's easier the third time. It's still horrible, like the cold shower, but you know where the water's coming from now. I tell them Nashville was my idea, over my co-founder's objection, without asking her, and that it's been losing four hundred and twenty thousand dollars a week for a year building a room nobody wants. I tell them the reason the company needed their nine million in October wasn't the market. It was me. I tell them Halvard walked because my wife went on television and said no, that she was right to say no and wrong not to call me first, and that I'd taught her that by not calling her first since Nashville. I tell them her plan in four lines, steel at net sixty and escrow at cut, a state training grant and six-day weeks, and a crew vote on Saturday.
-
-I say *um* twice. I forget the name of the state fund and have to look it up on my phone. Margaret watches me do it without blinking.
+I don't give them the history. They have Gordon's reports; they can read. I tell them one thing they can't get from a spreadsheet: that Nashville was my idea, over my co-founder's objection, and the nine million went into it, and the plan that keeps this company alive is hers, not mine. Steel at net sixty, escrow at cut. That's all I say about it. Margaret watches me say it without blinking.
 
 When I'm done, the room stays quiet long enough for a barge to go by on the river below, pushing ice.
 
-"Why are you telling us this?" Margaret says.
+"Why come in person?" Margaret says.
 
-"Because you're going to find out anyway, from the minutes or from Channel 6, and you've already found out half of it. I'd rather you heard it from me, in the right order."
+"Because I'm about to ask you to let me owe you more," I say, "and that's not a thing you ask for in an email."
 
-"In the right order," Margaret repeats.
-
-"Mine's the wrong order. I'm working on it."
-
-"And what do you want, Mr. Kerrigan?"
+"More," Margaret repeats, as if she's tasting the word. "And what do you want for it, Mr. Kerrigan?"
 
 I take the papers out of my bag. I spent an hour last night on the floor of her room with my laptop, writing it out like a letter instead of a deck, and Diane fixed the language at a gas station in Bridgman. Two pages. I slide them across the table.
 
@@ -4523,11 +4503,7 @@ Nobody in the room moves.
 
 I sign a little after three-thirty with Neil's pen, which says NORTHGATE on the side and skips on every capital letter. Forty-one pages in October; nine today. Neil walks me to the elevator. He keeps patting me on the shoulder like I've had a death in the family, which in a way I have. It's me, the man who had a plan for everything and a slide for the plan.
 
-"Say hi to your wife," he says at the elevator. "And good luck Saturday. With the vote."
-
-"How do you know about the vote?"
-
-"You told us," Neil says. "About an hour ago. You said *um*."
+"Say hi to your wife," he says at the elevator. "And good luck with the knees."
 
 I drive back in the dark. The snow's stopped. Michigan comes up out of Indiana flat and black and starry, and I don't turn on the radio, and somewhere around Paw Paw I look down and I'm doing eighty-five and humming. I don't know the song. It's something Polish. I've heard it through a wall.
 
@@ -4696,51 +4672,35 @@ I've been waiting for this longer than I'd ever admit, and I didn't know it unti
 
 I don't say *I forgive you*. I don't know if I do yet. I leave it on the rug between us where he put it.
 
-I ask him something instead.
+I ask him something instead. It's the thing I've wanted to ask since the elevator doors opened on four, with the ficus on my desk.
 
-"Were you ever there?"
+"Why did you give her the room?"
 
-"Where do you mean?" he says, still on his knees.
+He doesn't answer right away. He looks past me at the door, at the three lines in pencil, and I watch him decide to tell me the true version and not the one he's practised.
 
-"Coffee at seven, after Nashville." My voice comes out strange, too high, like it belongs to somebody younger. "Were you ever there, in the room, at seven, after I stopped coming?"
-
-He doesn't answer right away. His face goes through something I don't have catalogued, and I can tell he's deciding whether to tell me, and that he's going to, and that it's going to cost him.
-
-"Fifteen mornings," he says.
+"Because I couldn't walk past it," he says. "We got married in it. And then I stopped going in, after Nashville, and every time I came off the elevator it was sitting there in the corner with the lights off, and it was proof. Of what I'd done. Of what we'd turned into. So when Simone asked for a door that closes, I said yes before she finished, because then it wouldn't be dark anymore. Somebody would be in it. I'd walk past and the light would be on, and I could pretend that meant something." He swallows. "I told you you barely used it. I barely could look at it. I gave it away so I'd stop having to."
 
 The room goes away. Not dark. Just away, the way a room goes away when you stand up too fast.
 
-"Every working day for three weeks," he says. "The first one was a Wednesday, the morning after the all-hands. I got there at five to seven. I made yours at home, in your pot, and brought it in the green thermos." He puts his hand on the arm of the chair I'm sitting in. "This chair, the one you're in. I put my feet up on the radiator and waited till half past seven. Then I poured yours in the fern by the elevator and went to work."
-
-"What did you do for half an hour?"
-
-"I drank mine and read the door." He looks past me at it, at the three lines in pencil. "Every morning I read the door like it was going to say something different."
-
-"Fifteen mornings," I say again, like it's a number I can check.
-
-"The sixteenth morning I had a flight, and I didn't go up. And the next morning was easier." He looks down at the rug. "I told myself you'd stopped. That you'd made your choice, and I'd shown up for three weeks and you hadn't. I've been carrying that around for two years like a grudge I paid for."
-
-I was at my bench. Six-thirty every morning, filing things, with the knee line coming on around me, thinking *he's stopped, he doesn't care, he's on a plane*, thinking it so hard I made it true. And five miles north, on the fourth floor of the Lindqvist building, he was sitting in this chair with my terrible coffee going cold, reading our door, waiting for me.
-
-Lolo was right, and I wasn't there. How would I know if he stopped?
-
 I'm crying. I didn't know I was going to. It comes up out of me with no sound at all, my face just wet, both hands flat on my knees, the way I sat at the walnut table when he said *hers*. I don't wipe it, and he doesn't reach for me. He stays on the rug on his knees and lets me.
 
-"I stopped so you'd come find me," I say, when I can. "I wanted you to come out to the plant and knock on the glass and say *I'm sorry about the slide*. I sat at my bench for three weeks waiting for you to walk across that floor."
+"You gave away the room where we got married," I say, when I can, "so you wouldn't have to look at it."
 
-"I sat in this chair for three weeks waiting for you to walk across that floor."
+"Yes."
 
-"We were waiting at the wrong ends."
+"To a woman you called at one in the morning."
 
-"We were waiting at the wrong ends," he agrees, very quietly.
+"Yes."
 
-He's on his knees on my mother's rug in a shirt he's worn two days, with his hair sticking up in the back where he slept on it on my floor.
+He doesn't add anything to either one. He doesn't explain, or soften it, or tell me she's a good person, which she is. He just kneels there on my mother's braided rug in a shirt he's worn two days, with his hair sticking up in the back where he slept on it on my floor, and lets both of those sit in the room with us, ugly and true and his.
 
-When I can talk again, I ask him the last thing I want to know. "What happened to the fern?"
+When I can talk again, I say the only practical thing I can find.
 
-He laughs once, through his nose, and wipes his eyes with the heel of his hand.
+"Get up off my mother's rug. You'll wreck your knees."
 
-"It died," he says. "They replaced it with a fake one."
+He laughs once, through his nose, and wipes his eyes with the heel of his hand, and doesn't get up yet.
+
+"It's a good rug," he says.
 
 ## Chapter 26 — Adam
 
@@ -4814,7 +4774,7 @@ At ten I'm in the glass room on four with Gordon and the model, and I can't conc
 
 I keep my eyes on the spreadsheet and say, "Do what?"
 
-"Nashville, tomorrow." He wipes his palms on his cardigan, one and then the other. "I ran it last night, after Simone's model. I put Nashville in the empty box at the bottom, Pip's empty box, and it fills it. Stop the Nashville line Monday and you're above six million on the twelfth without a single Saturday. The severance and the lease don't hit till March. Saturdays still make it faster, but you wouldn't need them to make it."
+"Nashville, tomorrow." He wipes his palms on his cardigan, one and then the other. "I ran it last night, after Simone's model. I put Nashville in the empty box at the bottom, Pip's empty box. Two levers. Stop the line Monday and you don't spend a week of Nashville, four hundred and twenty thousand, before the test on Friday. And the forty finished Lites sitting in their yard, the campground people in Gatlinburg have been asking about them since November; that's the rest of the hole over twelve weeks. You're above six million on the twelfth by about one week of Nashville. Without a single Saturday. Saturdays make the twelve weeks faster. You wouldn't need them for Friday."
 
 "I know. I ran it at three this morning on a legal pad, and my version was uglier."
 
@@ -4870,7 +4830,7 @@ Pip turns the towel over on her arm and doesn't answer right away.
 
 "Why in front of the crew?" she says. "Why not just tell me now, and I'll change the board, and we do it my way?"
 
-"Because then it's your decision to close my plant, and you'd carry it. You'd pick up the heavy end." I take my hands out of my pockets. "It's my plant, so it should be my mistake to end, out loud, in front of the people whose Saturdays it's saving. And you should get to say no to me in front of them, if you want to."
+"Because then you'd be right about Nashville in private again, and I'd be wrong in private again, and nobody would ever have to hear me say it." I take my hands out of my pockets. "It's my plant, so it should be my mistake to end, out loud, in front of the people whose Saturdays it's saving. And you should get to say no to me in front of them, if you want to."
 
 Down the hall behind her, the kitchen radiator knocks twice, and she says, "Okay."
 
@@ -4959,7 +4919,7 @@ Lolo comes in ten minutes later with her coat on and her bowling bag in her hand
 
 "Thinking's for the daytime. At night it's called worrying." Her eyes go from me to the board and back. "So he went and told you."
 
-"Last night on the porch, after he rang the doorbell."
+"Tonight on the porch, after he rang the doorbell."
 
 "The doorbell," Lolo says, and makes the noise, the ketchup-on-pierogi noise. "Eleven years that man's had a key."
 
@@ -5010,6 +4970,14 @@ It's right, and I know it the way you know a square joint when you run your thum
 Lolo picks up her bowling bag and goes out, and the door swings shut behind her on its slow closer. Her boots go off across the dark plant, past the press brake, and then there's the side door, and her Buick in the lot coughing twice before it catches.
 
 I sit there until the hot chocolate grows a skin.
+
+Then I take out my phone. Lolo won't tell me what to do, so I do the one thing I can do before morning.
+
+*Tomorrow, say it*, I write to Adam. *Nashville. Whatever you're going to say. I won't cut you off in front of them. I'm telling you tonight so you don't stand there wondering.*
+
+It's read before I put the phone down. The dots come once, and go, and come back.
+
+*Okay*, he writes. And then: *Thank you for telling me.*
 
 Then I get up, take the blue marker off the tray under the whiteboard and uncap it. I stand in front of the empty box with the marker in my hand and think about writing something in it: *NASH*, or *NO*, or a question mark, neat, in the corner, the way Simone would.
 
@@ -5099,11 +5067,15 @@ Lolo stands up.
 
 She's been sitting on an upturned five-gallon bucket at the front, the way I used to sit by my father's welder, in her bowling jacket, SPARE PARTS across the back in iron-on letters that have given up. She stands slowly, one hand on her knee, takes her glasses off and lets them fall on their chain.
 
-"Pip," she says, "I want the pool."
+"Pip," she says, "I'm a no."
 
 The floor goes completely still.
 
-"I want the Halvard money, eighteen months of base for staying. I'm sixty-three, and I've been on a line since I was nineteen, and my hands go numb at night. My sister's got a lanai in Port Charlotte with a spare room and a ceiling fan, and that money's the lanai." She looks around at everybody, slowly, the whole half-circle, and then points at me with one hand. "I love this girl. I've known her since braces, and her father trained me. I think her plan's a good plan and I think Halvard would've been a sin, and I'm voting no anyway, because I'm tired and I want to go to Florida and I'm allowed to want that. I wanted her to hear it from me, in front of everybody, and not in the parking lot." She puts her glasses back on. "That's it, that's all I got."
+"Minneapolis is gone, I know. The pool went with it. But you all heard her: if this doesn't work, a bank in Chicago gets his shares, and a bank sells to whoever's got a checkbook, and maybe Minneapolis comes back with one." She looks around at everybody, slowly, the whole half-circle. "I'd rather bet on a checkbook than on twelve weeks of my knees. I'm sixty-three. That's not a speech, that's arithmetic. I'll train your new people either way. But my hand's going up for no, and I wanted her to see it go up from right here, not hear about it from Benny."
+
+"I wouldn't have told her," says Benny.
+
+"You'd have told her before lunch," says Lolo, and puts her glasses back on.
 
 She sits back down on her bucket.
 
@@ -5149,11 +5121,11 @@ It comes out of me before I've planned it, loud enough for the back row, like a 
 
 "You can't just decide that—"
 
-"I'm not deciding it, I'm asking them." He opens a hand at the floor, at all of them. "And you. You protected Nashville because it's mine, and you shouldn't have. You don't get to carry my mistake so I don't have to, not anymore. That's the heavy end, and it's mine."
+"I'm not deciding it. They are." He opens a hand at the floor, at all of them. "And you. You protected Nashville because it's mine, and you shouldn't have. She told me it was wrong two years ago," he says to the room, not to me. "She was right. I'm saying so out loud, in front of everybody, because I owe her that more than I owe her anything else."
 
-"And who says it's yours?"
+"You didn't have to say it here."
 
-"Your father," he says, and he almost smiles. "It's on the door."
+"Yes," he says, "I did."
 
 In front of a hundred and forty people, at six in the morning, across the whole floor of the plant, my husband and I are arguing, and nobody's stepping in, and nobody's leaving. We haven't had a fight since the all-hands. We went into separate rooms and filed things. This one's out loud, with everybody listening, and he isn't pitching and I'm not handling it, and my hand is steady on the marker.
 
@@ -5269,7 +5241,7 @@ Benny sets his cooler on the counter. "My cousin's got two duplexes off Clyde Pa
 
 "He'd rent to a raccoon if it paid first and last." Benny opens the cooler and looks into it like there might be a better lunch in there today. "I'll call him. He owes me for a transmission."
 
-He calls right there from the counter, and I get one side of it, mostly Polish, mostly swearing, and when he hangs up he says, "Two units, eight beds, and he wants a reference from you."
+He calls right there from the counter, and I get one side of it, mostly Polish, mostly swearing, and when he hangs up he says, "Two duplexes, sixteen beds, and he wants a reference from you. Gordon can get the rest a rate at the motel on Twenty-Eighth Street."
 
 "From me?"
 
@@ -5341,7 +5313,7 @@ I sit down at my desk, in my chair, set low, at my height, my feet flat on the f
 
 He goes still over the mug.
 
-That was his line, *Okay, boss, what are we doing today?* Every morning for four years he'd come in just before seven and put his feet up and say that, and I'd tell him the whole day, and he'd listen, and argue, and then go out and sell it.
+That was his line, *Okay, boss, what are we doing today?* Every morning for six years he'd come in just before seven and put his feet up and say that, and I'd tell him the whole day, and he'd listen, and argue, and then go out and sell it.
 
 I've just said it to him.
 
@@ -5467,7 +5439,7 @@ Out the glass corner the yard's going gray, and the maples on Clyde Park are com
 
 "Good," I say. "Weather's honest."
 
-He laughs, the real one, short, into the mug. Then he checks his watch, which he never used to wear, a cheap steel one from the Meijer on 28th Street.
+He laughs, the real one, short, into the mug. Then he checks his watch, which he never used to wear, a cheap steel one from the Meijer on Twenty-Eighth Street.
 
 "You're wearing a watch," I say.
 
@@ -5505,7 +5477,7 @@ Then, a minute later, the phone goes again in my hand: *Scared. Gordon has refre
 
 I write back: *Tell him to stop refreshing. It's a bank. It doesn't know he's there.*
 
-Lolo comes in early for second shift at noon to set up the training bay at the far end of the knee line, where twenty-three people from La Vergne, Tennessee, are going to start on Monday. Twenty-two of them have found places to live, because Benny's cousin owns two duplexes off Clyde Park and has suddenly discovered he's a landlord with a heart. The twenty-third is Kiana, who's bringing Jaylen, and who texted Lolo on Wednesday to ask if Michigan has tornadoes, and Lolo texted back *only the one in the yard, hon*, which I think she's very proud of.
+Lolo comes in early for second shift at noon to set up the training bay at the far end of the knee line, where twenty-three people from La Vergne, Tennessee, are going to start on Monday. Twenty-two of them have found places to live, between the two duplexes Benny's cousin owns off Clyde Park, now that he's discovered he's a landlord with a heart, and the motel on Twenty-Eighth Street where Gordon got a rate. The twenty-third is Kiana, who's bringing Jaylen, and who texted Lolo on Wednesday to ask if Michigan has tornadoes, and Lolo texted back *only the one in the yard, hon*, which I think she's very proud of.
 
 "You're really going to train them," I say, standing in the training bay with Lolo while she sets out coupons on the bench in a row like place settings.
 
@@ -5531,7 +5503,7 @@ Mid-afternoon my phone buzzes on the bench, a number with a 312 area code.
 
 And under it:
 
-*Also. The "two years" in Furnishings Weekly was Halvard's own comms team. I found the email in my sent-items archive on Monday; I had been copied. It was a new plan, written the day after Kurt stood in your yard. I thought you should know who the person familiar was. — S.*
+*Also. The "two years" in Furnishings Weekly was Halvard's own comms team. Gordon forwarded me the thread on Monday; I had been copied on it in January and never opened it. It was a new plan, written the day after Kurt stood in your yard. I thought you should know who the person familiar was. — S.*
 
 I stand there at the bench and read it twice.
 
@@ -5545,7 +5517,7 @@ The answer comes back a minute later.
 
 Near five my phone rings, and it isn't Adam. It's Gordon.
 
-"Pip," he says, and he's in the stairwell, because I can hear the pigeons. "Pip. Adam said to call you first. He said you should hear it from me before he hears it from me, which I didn't understand, but he was very firm, so I'm calling." He takes a breath. "Six point four one at close. The escrow from two weeks of cuts, Gil's terms, the Nashville line stopped Monday. Neil just called. We're over the floor by four hundred and ten thousand dollars."
+"Pip," he says, and he's in the stairwell, because I can hear the pigeons. "Pip. Adam said to call you first. He said you should hear it from me before he hears it from me, which I didn't understand, but he was very firm, so I'm calling." He takes a breath. "Six point four one at close. The escrow from two weeks of cuts, Gil's terms, and a week of Nashville we didn't spend. Neil just called. We're over the floor by four hundred and ten thousand dollars." He laughs, a little wildly. "One week of Nashville, Pip. Almost to the dollar."
 
 I sit down on the stool at my bench.
 
