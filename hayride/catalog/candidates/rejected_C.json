@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "confirms_repair",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate C - The Inspector",
+    "opening_engine": "raffle_draw_then_official_shutdown",
+    "inciting_event": "authority_restriction_imposed",
+    "heroine_goal": "save_asset",
+    "external_engine": "permit_compliance_clock",
+    "agency_pattern": "early_costed_commitment",
+    "hero_error": "duty_over_person",
+    "power_configuration": "hero_official_authority",
+    "containment": "permit_condition",
+    "midpoint_reversal": "secret_motive_exposed",
+    "darkest_moment_cause": "systemic_cost",
+    "climax_owner": "heroine_led",
+    "climax_mechanism": "heroine_reroute_collective_walk",
+    "repair_mechanism": "public_deferral_to_her_judgment",
+    "resolution_visibility": "community_witnessed",
+    "ending_state": "reconciled_engaged_couple",
+    "setting_function": "safety_regulation_vs_tradition",
+    "supporting_cast_function": "volunteer_collective",
+    "epilogue_design": "next_season_first_ride_act",
+    "climax_venue": "road_or_weather",
+    "climax_audience": "whole_town",
+    "evidence_delivery": "act_performed",
+    "decisive_authority": "nature",
+    "spectacle_mode": "quiet_tally",
+    "macro_beats": [
+      "forced_pairing",
+      "official_restriction",
+      "heroine_takes_liability",
+      "volunteers_rebuild",
+      "old_cause_investigated",
+      "secret_revealed",
+      "duty_closes_route",
+      "heroine_reroutes",
+      "hero_reverses_publicly"
+    ],
+    "signature_scenes": [
+      "red_tag_on_bridge",
+      "bridge_rebuild_weekend",
+      "old_fire_report",
+      "lantern_walk_in_wind"
+    ],
+    "evidence_notes": "status: rejected (batch 1). rejected_for: H2 strict vs PRIOR-1 beats 4-7; collides with B; follows PRIOR-1 back-half house template"
+  }
+}

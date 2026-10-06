@@ -64,3 +64,63 @@ Shape triples: A = external blow / sustained unglamorous presence / spoken line 
 Staging (venue / audience / evidence / authority / spectacle): A = moving wagon / riders / confession / heroine's own choice / private line · B = document exchange / family / documents produced / contract / quiet tally · C = road or weather / whole town / act performed / nature / quiet tally.
 
 Machine rows: `catalog/candidates/candidate_{A,B,C}.json`.
+
+---
+
+# Batch 2: after BLIND_SAMENESS_REVIEW_concept.md
+
+Batch 1 result (independent blind reader): A FAIL on H3 only (fixable: the profession was colour); B FAIL (H3, H2 strict vs PRIOR-1 beats 5–8); C FAIL (H2 strict vs PRIOR-1 beats 4–7). B and C collide with each other (one beat sheet fits both at 7/8), so the batch held only two real concepts. The house template named across PRIOR-1/B/C: secret-then-discovered midpoint → hero repeats his original wrong → an official or a document ratifies her plan → he publicly subordinates his authority to hers before witnesses.
+
+**B and C are filed to the reject pool** (`catalog/candidates/rejected_B.json`, `rejected_C.json`, `rejected_for:` noted) and stay in every later comparison set.
+
+## Candidate A2: "The Legend of Hollins Road" (A re-architected)
+
+The fix routes her craft through the inciting, the midpoint and the climax, and moves A off every house-template item.
+
+**Situation.** She is the hayride's chair, scare builder and the author of its legend. Seven Octobers ago she wrote the finale story the hayride tells: a groom who took the train to the city the week of his wedding, and a bride who still waits on the far bank of the pond with her lantern. She rigs the bride herself: a lantern on a hidden line across the water. The whole town knows who the groom is. This year she draws the ex for her front bench. Her own no-swap rule holds him there, and every night he must sit beside her while she tells riders the story of himself.
+
+- **Her goal:** clear the insurer's one-season ultimatum, a ticket target that pays for a new wagon and the liability rider.
+- **Bind:** she wrote the no-swap rule. Breaking it hands the chair to a rival who wants to fold the hayride into a daytime festival.
+- **His offer, not her terms (breaks PRIOR-1's "she imposes the bargain"):** on Ride 1 he offers an apology, not a defense: "Tell it. I'll sit there. And every ride, ask me one thing. I'll answer it true."
+- **First irreversible decision (hers, Ride 1, ~Ch 3):** she tells the legend as written with him on the bench. Word spreads ("the groom's riding the wagon"), and ticket sales jump. She is now monetizing a version of their story she knows is unfair. Visible price: she has publicly recommitted to it, and every rider's look at him is her doing.
+- **Midpoint (Ride 5, ~Ch 14): a costly change of plan, not a reveal.** Halfway to target, and with the rival moving to print the legend in the county paper as "official town history", she stops telling it. She cuts the finale effect she built and the story that is filling the wagons, on the night it would pay best. Ticket sales drop. The reader has known from Ch 1, in her POV, that the legend "isn't how it happened, it's how it sold."
+- **Rupture (Ride 9, ~Ch 24):** her ninth question: "Would you have come back if the job hadn't ended?" He answers truthfully: no. The same week, the city company that let him go offers him his old job back, higher. The truth device he gave her produces the wound, and now he holds an open exit. The darkest moment is caused by a truth told on request, not by a repeated harm.
+- **Climax (Ride 10, Oct 31), heroine-led and physical:** mid-ride, she unbelts and leaves the bench, which breaks the guides' first safety rule and her own chair's rule in front of the town. She walks the dark trail and takes the bride's place at the pond with the lantern she built. She plays her own effect and tells the true version from where the ghost stands: she was asked to come, she said no, she told him not to call, and she let a town and a legend say otherwise for seven years. The cost: her chair, her rule, and the story that saved her season. He stays belted on the bench, keeps forty riders seated in the dark, and takes over the narration, because someone has to and it is the unglamorous job.
+- **Repair: sustained, unglamorous presence, plus a refusal on the page.** Across the back half he is there for the dull work: hay bales at 6 a.m., tractor hitch pins, parking-field cones, an aunt's porch light. In Ch 26, in his own POV and without witnesses, he turns down the rehire on the phone and loses his one city reference. He tells her plainly the same day. Nothing is discovered later.
+- **Ending:** full reconciliation. No time-jump epilogue; the last chapter is Nov 1, teardown morning. Last image, an object at rest: the bride's lantern, unlit, hung on a nail in the barn beside two raffle stubs.
+- **Staging:** venue = the dark trail and the pond (the effect site, not a hall); audience = a full wagon of riders; evidence = act performed (she plays her own effect) plus confession; decisive authority = her own choice; spectacle = the wagon goes silent (quiet tally).
+- **Shape triple:** external blow (chance, self-locked) / sustained unglamorous presence / object at rest.
+- **Occupation swap:** swap her craft (the hayride's legend writer and effects builder) for any other job, and the inciting (sitting through his own legend), the midpoint (cutting her own story and effect) and the climax (playing her own ghost) all collapse.
+
+## Candidate D: "Leaving Season" (new)
+
+**Situation.** She has accepted a job in the city starting Nov 1, the reversal of the year he left. Her house is listed. The committee forgot to take her name out of the guide jar, so she draws her own last October beside the man who is back for good.
+
+- **Inciting kind:** omission (the committee's administrative miss).
+- **Bind:** her final duty is to train her sixteen-year-old niece to take her bench. Quitting would strand the kid on her first season.
+- **First irreversible decision (~Ch 4):** she signs the city lease, and her house goes under contract.
+- **Midpoint (~Ch 14):** the bond becomes a choice. The man who once asked her to leave with him now helps her leave alone, with apartment contacts, packing and a ride to the station. She realizes he did not come back to reclaim her.
+- **Rupture (~Ch 24):** her own bad choice. She tells him she will stay for him. He refuses to be the reason, and they break.
+- **Climax (Oct 31):** joint. After the last ride they put the niece on the bench for the final run, and the climax is the corn-maze walk where the two of them decide on long distance with a date. Venue: the corn maze. Audience: the two of them. Evidence: none. Authority: her own choice. Spectacle: an act nobody else sees.
+- **Repair:** risking real loss on her behalf. He sells the truck he came home in to pay her first month's rent gap, without strings.
+- **Ending:** engaged, long distance with a wedding date. Last image: a third party's gesture, as the niece punches two tickets for next October.
+- **Shape triple:** omission / risking real loss on her behalf / a third party's gesture.
+
+## Author self-score, batch 2 (provisional)
+
+A2–D: they differ on all 8 core axes. Staging differs on all five fields. The triples are distinct, and both triples differ from PRIOR-1's (discovery / taught by her / spoken line) and from rejected B and C.
+
+## Candidate E: "Best Scare on the Hill" (new, so batch 2 holds three)
+
+**Situation.** Each season the riders vote for the best guide pair, and the prize money goes to the winners' chosen cause. She needs it to pay off her late father's loan on the pumpkin patch that hosts the hayride's parking. She draws the ex. Their wagon is the town's favorite story, and the vote turns their old engagement into an entertainment.
+
+- **Inciting kind:** external blow (the draw).
+- **Bind:** withdrawing forfeits the pair's vote standing. The loan comes due Nov 2.
+- **First irreversible decision (~Ch 4):** she pledges the patch's harvest income to the hayride against her own future, so they will campaign for the vote.
+- **Midpoint (~Ch 14):** a public power shift. A rival pair circulates the old wedding-week story to swing votes, and their wagon drops to third.
+- **Rupture (~Ch 24):** goal collision. Winning now requires them to perform being in love for riders. He refuses to fake it, and she reads the refusal as leaving again.
+- **Climax (Oct 31):** the rider vote is counted on the carnival stage. Before the count he publicly withdraws their pair and gives the stage to her to say what the patch means. She wins the debt relief through the town's bid sheet instead. Owner: joint. Mechanism: public withdrawal plus a heroine appeal.
+- **Repair:** public confession. On the carnival stage he names exactly what he did wrong.
+- **Ending:** reconciled. Last image: a callback to the opening, the first ticket she tore on Ride 1.
+- **Staging:** stage / whole town / confession / vote / room turns audibly.
+- **Shape triple:** external blow / public confession / callback to the opening.

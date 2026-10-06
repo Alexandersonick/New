@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "creates_bond_cost",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate D - Leaving Season",
+    "opening_engine": "raffle_pairing_on_her_way_out",
+    "inciting_event": "administrative_omission",
+    "heroine_goal": "independence",
+    "external_engine": "departure_countdown_and_successor_training",
+    "agency_pattern": "early_costed_commitment",
+    "hero_error": "decided_for_both_by_leaving",
+    "power_configuration": "mutual_peers",
+    "containment": "successor_training_duty",
+    "midpoint_reversal": "bond_becomes_choice",
+    "darkest_moment_cause": "protagonist_bad_choice",
+    "climax_owner": "joint",
+    "climax_mechanism": "joint_private_decision",
+    "repair_mechanism": "risking_real_loss",
+    "resolution_visibility": "private_recommitment",
+    "ending_state": "engaged_long_distance",
+    "setting_function": "small_town_vs_departure",
+    "supporting_cast_function": "family_successor",
+    "epilogue_design": "no_epilogue_third_party_gesture",
+    "climax_venue": "corn_maze",
+    "climax_audience": "the_two_of_them",
+    "evidence_delivery": "no_evidence",
+    "decisive_authority": "heroines_own_choice",
+    "spectacle_mode": "act_nobody_else_sees",
+    "macro_beats": [
+      "forced_pairing",
+      "heroine_commits_to_leaving",
+      "hero_supports_exit",
+      "heroine_offers_to_stay",
+      "hero_refuses_to_be_reason",
+      "break",
+      "joint_decision",
+      "sacrifice_without_strings"
+    ],
+    "signature_scenes": [
+      "lease_signing",
+      "niece_training_on_bench",
+      "station_ride_rehearsal",
+      "corn_maze_decision"
+    ],
+    "evidence_notes": "concept batch 2; shape triple omission / risking_real_loss / third_party_gesture"
+  }
+}

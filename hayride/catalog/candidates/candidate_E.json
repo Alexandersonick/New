@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "tests_trust",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate E - Best Scare on the Hill",
+    "opening_engine": "raffle_pairing_into_rider_vote_contest",
+    "inciting_event": "chance_pairing_into_contest",
+    "heroine_goal": "clear_family_debt",
+    "external_engine": "rider_vote_competition",
+    "agency_pattern": "early_costed_commitment",
+    "hero_error": "emotional_withholding",
+    "power_configuration": "community_judges_both",
+    "containment": "contest_pairing",
+    "midpoint_reversal": "public_power_shift",
+    "darkest_moment_cause": "goal_collision",
+    "climax_owner": "joint",
+    "climax_mechanism": "hero_public_withdrawal_plus_heroine_appeal",
+    "repair_mechanism": "public_accountability",
+    "resolution_visibility": "community_witnessed",
+    "ending_state": "reconciled_couple",
+    "setting_function": "public_vote_reputation",
+    "supporting_cast_function": "competing_agendas",
+    "epilogue_design": "no_epilogue_callback_object",
+    "climax_venue": "stage_or_broadcast",
+    "climax_audience": "whole_town",
+    "evidence_delivery": "confession",
+    "decisive_authority": "vote",
+    "spectacle_mode": "room_turns_audibly",
+    "macro_beats": [
+      "forced_pairing",
+      "heroine_stakes_income",
+      "campaign_for_votes",
+      "rival_exposes_past",
+      "refuses_to_fake_love",
+      "public_withdrawal",
+      "community_bid",
+      "reconciled"
+    ],
+    "signature_scenes": [
+      "vote_board_at_diner",
+      "rival_pair_sabotage",
+      "refusal_to_perform",
+      "carnival_stage_count"
+    ],
+    "evidence_notes": "concept batch 2; shape triple external_blow / public_confession / callback_to_opening"
+  }
+}

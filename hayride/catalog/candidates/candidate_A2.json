@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "tests_trust",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate A2 - The Legend of Hollins Road",
+    "opening_engine": "raffle_pairing_forces_him_to_hear_her_legend_of_him",
+    "inciting_event": "chance_pairing_under_own_rule",
+    "heroine_goal": "save_asset",
+    "external_engine": "season_ticket_target",
+    "agency_pattern": "early_costed_commitment",
+    "hero_error": "emotional_withholding",
+    "power_configuration": "heroine_institutional_authority",
+    "containment": "volunteer_duty_pairing",
+    "midpoint_reversal": "heroine_abandons_profitable_story",
+    "darkest_moment_cause": "truth_on_request_plus_open_exit",
+    "climax_owner": "heroine_led",
+    "climax_mechanism": "heroine_performs_own_effect_confession",
+    "repair_mechanism": "sustained_unglamorous_presence",
+    "resolution_visibility": "community_witnessed",
+    "ending_state": "reconciled_couple",
+    "setting_function": "staged_legend_shapes_town_memory",
+    "supporting_cast_function": "competing_agendas",
+    "epilogue_design": "no_epilogue_teardown_morning_object",
+    "climax_venue": "trail_effect_site",
+    "climax_audience": "riders_mixed_town",
+    "evidence_delivery": "act_performed",
+    "decisive_authority": "heroines_own_choice",
+    "spectacle_mode": "quiet_tally",
+    "macro_beats": [
+      "forced_pairing",
+      "heroine_profits_from_unfair_story",
+      "truths_traded_weekly",
+      "heroine_cuts_story_at_cost",
+      "truth_wounds_and_exit_offered",
+      "hero_declines_exit",
+      "heroine_leaves_post_performs_truth",
+      "hero_holds_post"
+    ],
+    "signature_scenes": [
+      "legend_told_with_him_on_bench",
+      "question_per_ride",
+      "effect_cut_on_best_night",
+      "rehire_refused_on_phone",
+      "heroine_plays_own_ghost"
+    ],
+    "evidence_notes": "concept batch 2; A re-architected; shape triple external_blow / sustained_unglamorous_presence / object_at_rest"
+  }
+}

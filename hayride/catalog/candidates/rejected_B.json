@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.1",
+  "candidate": {
+    "lane": "sweet_small_town_holiday_second_chance",
+    "evidence_level": "CONCEPT",
+    "relationship_start": "exes",
+    "pov_structure": "dual_third_linear",
+    "relocation_reset": "no_relocation_reset",
+    "intimacy_function": "confirms_repair",
+    "monster_difference": "not_applicable",
+    "narrative_voice_tags": [
+      "warm_comic_close_third",
+      "sensory_seasonal",
+      "dialogue_driven"
+    ],
+    "title": "Candidate B - Two Bids",
+    "opening_engine": "raffle_draw_then_rival_revealed",
+    "inciting_event": "rival_encroachment_discovered",
+    "heroine_goal": "own_business",
+    "external_engine": "competitive_sale_deadline",
+    "agency_pattern": "early_costed_commitment",
+    "hero_error": "decides_for_both",
+    "power_configuration": "hero_economic_dominance",
+    "containment": "sale_condition_shared_season",
+    "midpoint_reversal": "mutual_goal_forms",
+    "darkest_moment_cause": "goal_collision_power_asymmetry",
+    "climax_owner": "heroine_led",
+    "climax_mechanism": "heroine_builds_alternative_deal",
+    "repair_mechanism": "power_redistribution",
+    "resolution_visibility": "family_witnessed",
+    "ending_state": "new_partnership_and_couple",
+    "setting_function": "land_sale_pressure",
+    "supporting_cast_function": "family_pressure",
+    "epilogue_design": "next_season_charter_document",
+    "climax_venue": "document_exchange",
+    "climax_audience": "family",
+    "evidence_delivery": "documents_produced_aloud",
+    "decisive_authority": "contract",
+    "spectacle_mode": "quiet_tally",
+    "macro_beats": [
+      "forced_pairing",
+      "rival_revealed",
+      "heroine_stakes_house",
+      "third_party_threat",
+      "joint_venture",
+      "old_pattern_recurs",
+      "heroine_alternative_deal",
+      "hero_cedes_control"
+    ],
+    "signature_scenes": [
+      "tractor_lesson",
+      "bank_signoff",
+      "partnership_walkout",
+      "kitchen_table_contract"
+    ],
+    "evidence_notes": "status: rejected (batch 1). rejected_for: H3 occupation swap; H2 strict vs PRIOR-1 beats 5-8; collides with C (one beat sheet 7/8, climax+repair repeat)"
+  }
+}
