@@ -580,7 +580,7 @@ She heard his boots in the gravel. She heard him stop by Marguerite's big rear w
 
 "That's very good."
 
-She came out from under the wagon. She stood up and brushed the gravel off her knees and looked at him for the first time since the Supper, really looked, in the orange light from the bulb strings, with the line of riders forty feet away pretending not to watch them.
+She came out from under the wagon. She stood up and brushed the gravel off her knees and looked at him properly, the first real look since the Supper, in the orange light from the bulb strings, with the line of riders forty feet away pretending not to watch them.
 
 "Don't," she said.
 
@@ -2152,7 +2152,7 @@ Danny jogged past with his wand and his clipboard, breathless, headlamp crooked.
 
 Then he was gone into the parking field, waving his wand at a minivan that was turning around to leave. Roz, at the wagon step, did not do the arithmetic, and then did it anyway, because she always did: twelve refunds at fifteen, plus three from the 9:00 who'd heard about it in line, plus the walk-ups who'd turned around in the parking field when Danny told them the bride was out.
 
-By the 10:20 the line for Wagon One was shorter than the line for Wagon Two for the first time all season.
+By the 10:20 the line for Wagon One was shorter than the line for Wagon Two, which had never happened before.
 
 She told it every ride. She didn't tell it, rather. Every ride, at the pond, Hank turned the key, and the silence came down, and she said: *This is Teague's Pond. I'm the author. She's not out there tonight.* Every ride the fog slid out across the water and lay there with nothing on it. Every ride someone asked if it was part of it, and every ride she said no.
 
@@ -2294,7 +2294,7 @@ She folded the next one very precisely.
 
 "The usual's 'oh,' like a hand to the chest." He demonstrated, with a blanket. "Tonight it was 'oh,' like when you walk into a room you've been in a hundred times and somebody moved the couch."
 
-Roz stopped folding. She looked at him over the heap of gray wool for the first time since he'd come in.
+Roz stopped folding. She looked at him over the heap of gray wool, the first time since he'd come in.
 
 "That's a very specific 'oh,'" she said.
 
@@ -2332,9 +2332,9 @@ He left it there and turned off the light.
 
 <!-- POV: Roz -->
 
-Rain on a hayride was a test of character, and by nine o'clock on Saturday the Carrow Haunted Hayride was failing it.
+Bev bought rain ponchos by the case for exactly one kind of night, and by nine o'clock on Saturday it was that night.
 
-It had started at four as a drizzle and turned at six into the kind of steady, sideways, forty-degree October rain that got into your boots by way of your collar. The hay bales were under tarps. The riders were under ponchos, the clear plastic kind Bev bought by the case from a party supply store in Portage, so that every wagonload looked like thirty-two leftovers in cling wrap. Danny had given up on the parking field at eight and was putting cars on Hollins Road again, not because there were many of them but because the field had turned to soup.
+It had started at four as a drizzle and turned at six into the kind of steady, sideways, forty-degree October rain that got into your boots by way of your collar. The hay bales were under tarps. The riders were under ponchos, the clear plastic kind Bev bought by the case from a party supply store in Portage, so that every wagonload looked like thirty-two leftovers in cling wrap. Danny had given up on the parking field at eight and was putting cars on Hollins Road again, because the field had turned to soup, though there weren't many of them.
 
 "It's a character-building night," Roz said, on the bench, with water running off the brim of her knit hat.
 
@@ -2382,7 +2382,7 @@ This was not a performance scream. Roz knew the difference the way a mechanic kn
 
 "Everybody sit," Roz said, in the voice, standing on the footrest as far as her belt allowed. "Stay seated. Nobody stand up. We're stopped. We're fine. Hank?"
 
-Hank was off the tractor already, a flashlight in his hand, crouched at the gap between Marguerite's drawbar and the wagon tongue. He shone the light. He looked for a long time. Then he looked up at the bench and said, for the first time in Roz's memory, two words in a row.
+Hank was off the tractor already, a flashlight in his hand, crouched at the gap between Marguerite's drawbar and the wagon tongue. He shone the light. He looked for a long time. Then he looked up at the bench and said two words in a row, which Roz had never once heard him do.
 
 "Pin's gone."
 
@@ -2496,5 +2496,119 @@ The orchard went by in black rows, dripping.
 
 "It's a follow-up."
 
-"Then yes," said Gus. "She was right. It was a whole room." He looked at the dark ahead, the yard lights coming up blurred through the rain. "Turns out it had a pond in it."
+"Then yes," said Gus. "She was right. It was a whole room." He looked at the dark ahead, the yard lights coming up blurred through the rain.
+
+"Turns out it had a pond in it."
+
+## Chapter 14
+
+<!-- POV: Roz -->
+
+Dot Teague would tell you any story you wanted on a Sunday afternoon, provided you brought pie and didn't mention her hip.
+
+Roz brought the sour cream raisin. She'd bought the whole thing from Lorna at the diner after church, and Lorna had rung it up with an expression of profound, almost spiritual interest, and had said, "Okay, so, the whole pie," in a voice that was going straight to the index cards.
+
+"It's for Dot," Roz had said.
+
+"Sure it is."
+
+"It's for *Dot*, Lorna."
+
+"I didn't say anything. I'm a businesswoman. I'm ringing up a pie." Lorna had handed her the box. "Sour cream raisin's at even money, by the way. After the mud thing. Clyde told the whole Wagon Two line about the mud thing. Clyde did *voices*."
+
+"Clyde doesn't do voices."
+
+"He did Hank," said Lorna. "It was one word, but it was very good."
+
+* * *
+
+Dot's kitchen hadn't changed since 1987, or possibly 1957. It had yellow linoleum and a table with chrome legs and a wall calendar from the Paw Paw co-op with a picture of a heifer for October. There was a radio on the counter tuned to a polka station out of Grand Rapids, low. There was a cat named Pepper the Fourth asleep on top of the refrigerator, because every animal Dot had owned since 1958 had been named Pepper, dogs and cats alike, as a matter of policy.
+
+"Well, now," said Dot, when she opened the box. "That's a whole pie."
+
+"It's a whole pie."
+
+"You want something."
+
+"I want to hear about Arlo."
+
+Dot looked at her across the table. She had the pie server in her hand already, because Dot was eighty-one and did not wait for permission to cut a pie.
+
+"Arlo," she said, "or the corn?"
+
+"The corn."
+
+Dot cut two slices, one large and one enormous, and put the enormous one in front of Roz. She poured coffee from a percolator that had been perking since the Eisenhower administration. She sat down slowly, with a small private sound for the hip that Roz pretended not to hear. She took the old dog collar off her wrist, the way she always did when she told it, and laid it on the table between them: worn brown leather, a brass buckle gone green, and a tag so rubbed you could barely read PEPPER.
+
+"October eleventh, 1958," said Dot. "A Saturday. He was six."
+
+* * *
+
+"His folks had the farm then," Dot said. "His mother and dad. And the corn went all the way back to the pond, same as now, only it was field corn, not a maze, and it was eight feet tall and nobody had picked it yet because it had rained all September. And Arlo had this dog. Pepper. Half beagle and half something nobody would admit to. And around supper, Pepper went into the corn after a rabbit, and Arlo went into the corn after Pepper."
+
+She ate a bite of pie.
+
+"And that was all. He just went in. Six years old. And it got dark the way it does in October, all at once, like somebody shut a door. His mother rang the dinner bell and he didn't come. She rang it again. She went to the edge of the field and called. Nothing. Eight feet of corn and a forty-acre field, and you could walk past a boy two rows over and never see him."
+
+"What did they do?"
+
+"His dad got in the truck and drove the road. Hollins Road. Up and down, honking. And his mother got on the party line." Dot smiled at that. "You won't know what a party line is."
+
+"I know what a party line is, Dot."
+
+"Eight houses on one phone line. You picked it up, you got everybody. She picked it up and she said, 'Arlo's in the corn,' and she put it down. That's all she said. Four words." Dot touched the dog collar. "And they came. By nine o'clock there were forty people in that yard. The VanderWals came across the field. That's Augie's grandfather, Hendrik, with his boys. Your grandfather came. Stan. Stan Pietrowski came in his good shoes because he'd been at a wedding in Kalamazoo, and he walked the corn all night in his good shoes and he never let anybody forget it."
+
+Roz laughed. She hadn't known that. She'd known her grandfather for eleven years before he died, and she'd never known that.
+
+"Everybody brought a lantern," Dot said. "Kerosene. Barn lanterns, hurricane lanterns, whatever they had. The Brinkses brought a railroad lantern, a red one, off the old spur line. And they made lines. That was Hendrik's idea; he'd been in the Army. You stand in a line, ten feet apart, across the rows, and you walk the whole field slow, together, calling his name, and nobody gets ahead and nobody gets behind. So you don't miss him."
+
+She was quiet for a moment.
+
+"I was nine," Dot said. "I lived over on Teague Road then, past your place. My mother walked me over and sat me on the porch with a blanket, and I watched them. All night. I watched forty lanterns go out into that corn in a line and come back and go out again. Back and forth. All night long, calling. *Arlo. Arlo. Arlo.* You'd see the lights go in, and then they'd be gone in the corn, just a glow over the tassels, and you'd hear the calling come back across the field like an echo. And then they'd come out at the far end, by the pond, and turn around, and come back."
+
+The polka station played something with an accordion. Pepper the Fourth shifted on the refrigerator.
+
+"Did they find him?" Roz said, though she knew they had. Everyone knew they had. Arlo had lived to be sixty-eight.
+
+"At dawn," Dot said. "At the far end, by the pond. In a low place in the corn where the ground dipped. He was asleep. Pepper was curled up around him like a fur collar, and he had his arms around the dog, and he was sound asleep, warm as toast. Hendrik VanderWal found him. Lifted him up and walked him out of the corn with his lantern still in his other hand, and all the rest of them came out of the rows behind, one line at a time, with their lanterns still lit even though it was getting light. I watched it from the porch. Forty people coming out of the corn at sunrise with their lanterns on."
+
+She picked up the collar and turned it over in her fingers.
+
+"And you know what Arlo said? When they asked him? Why didn't he come out, when they were calling?" Dot started to laugh, a quiet, wheezing, delighted laugh. "He said he *did* hear them. He said he saw the lights. All night. He thought it was a parade. He kept walking toward it and it kept moving away, so he figured you had to sit still and let the parade come to you. So he sat down with Pepper in the low place by the pond and waited for the parade, and fell asleep."
+
+Roz had put her fork down a while ago. She didn't remember doing it.
+
+"He told me that story on our first date," Dot said. "1970. At the Dairy Queen in Paw Paw. He said that was the scariest night of his life and the best one. He said he'd never been so lost and he'd never been so looked for." She buckled the collar back around her wrist. "That's why he wanted the hayride, you know. In '87. He said everybody ought to get to be a little scared in the corn once in a while, if there's a light coming."
+
+* * *
+
+She had it before she was halfway down Dot's porch steps.
+
+She had it the way she always got them: not as an idea but as a picture, all at once, every part of it in place, the way the Woodlot ghost had arrived in her head at fourteen as a falling sheet and a fishing reel and the exact speed it would need to come down. She stopped on the second step with the empty pie box in her hands and saw it.
+
+The Corn Stop. Ed in his overalls, but not saying *nobody comes back out of my corn*. Ed holding out a lantern. *Take one. We're looking for somebody.* A lantern for every rider, thirty-two small lights in thirty-two pairs of hands, the whole wagon lit from inside as it rolled past the Woodlot and down to the pond.
+
+And at the pond, in the dark, with the engine off and the fog on the water, she'd tell it. The true one. October 1958. Forty neighbors and a party line and a boy in the corn. *Arlo's in the corn.* Four words. And when she got to dawn, the riders would hold their lanterns up, and on the far bank, low in the reeds by the water, where the Bride had always risen, one small light would come on, very low, very small, the size of a six-year-old asleep with his dog.
+
+And from the willows, instead of a whistle, a bark.
+
+She stood on Dot's steps for a long time. The October sun was low and gold over the cornfield, and the field was turning, the tassels gone pale, and from here you could see all the way to the dark line of willows by the pond.
+
+She went back up the steps and knocked on the screen door.
+
+Dot came, slowly, with her cane. She looked through the screen at Roz standing there with the empty pie box.
+
+"You forgot something?"
+
+"I want to tell it," Roz said. "Arlo. The corn. At the pond. Instead of her. With lanterns."
+
+Dot looked at her through the screen for a long moment. Behind her, the polka station had moved on to a waltz.
+
+"You'd have to ask the committee," Dot said. "Rule three."
+
+"I know. I'll ask. But I'm asking you first. It's yours. It's not mine. I'm not going to tell it unless you say."
+
+Dot opened the screen door. She stood in it, small and straight, with the dog collar on her wrist, and she looked Roz up and down the way she'd looked at her at fourteen, when Roz had come up those same steps with a drawing of a ghost on a zip line and asked if she could hang it in the Woodlot.
+
+"Well, now," Dot said. "It's true. That'd be new for you."
 

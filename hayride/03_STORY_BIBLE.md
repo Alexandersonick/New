@@ -340,3 +340,12 @@ These override the rows above where they conflict.
 4. **No belt-buckling (risk 5).** He offers his hand from the bench, and she climbs up and buckles her own belt. Care-object stays a minor device.
 5. **The last sentence belongs to the lantern (risk 7).** The ticket halves appear earlier in Ch 30, not in the final sentence.
 6. **Ledger note (risk 10):** the heroine goal "save the event against a money deadline" is used here. Record it in SERIES_LEDGER so the next Shawn J Dean title does not reuse it.
+
+## 13. Facts fixed during drafting (continuity)
+- Dot Teague: born 1945 (81 in 2026); 13 in Oct 1958; first date with Arlo in 1975 (Dairy Queen, Paw Paw); married later. Arlo: born 1952, 6 in 1958, died 2020 at 68. Every Teague animal since 1958 is named Pepper (currently a cat, Pepper the Fourth).
+- 1958 search: Sat Oct 11, 1958; about 40 neighbors with lanterns; Hendrik VanderWal (Gus's grandfather) organized the walking lines and found Arlo at dawn in a low place by the pond; Stan Pietrowski (Roz's grandfather, died 2006) walked it in his wedding shoes; the Brinkses brought a red railroad lantern; Arlo thought the lanterns were a parade.
+- The Search finale (Ch 17+): Ed hands each rider a lantern at the Corn Stop ("Take one. We're looking for somebody."). At the pond Roz tells 1958; at dawn in the story a small light comes on low in the reeds on the far bank; the WHISTLE toggle is rewired to a dog's bark (Gus's cue). The Bride's lantern stays parked on its line in the willows (it's used in Ch 28).
+- Joyce (the lady from Battle Creek): widowed April 2020; rides alone after Ch 11.
+- Gus's father's slicker says PETE. VanderWal Scenic hoodies: 12 printed (minimum order).
+- Hayride guide jar: 11 tickets (guides + alternates). Committee: Bev (vice-chair), Roz (chair), Dot, Clyde, Arlene Doornbos, Ed Brinks, Marv Kuiper (treasurer). Heritage vote 4–3 (Bev, Arlene, Marv, Ed for; Roz, Dot, Clyde against).
+- Tally: Oct 2 $2,300; Oct 3 $6,100; Oct 9 $9,800; Oct 10 $13,900; Oct 16 $16,200; Oct 17 $17,400.
