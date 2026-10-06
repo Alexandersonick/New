@@ -3708,13 +3708,13 @@ Gus knew the voice. It was the voice Mitch used at production meetings right bef
 
 "So," said Gus.
 
-"Calumet's head of shop retired in September." Mitch leaned against a rack of flats with his coffee. "Hal Ostrowski. You remember Hal. Forty years. They threw him a party, he cried, he took a fishing boat to Florida. And Calumet's board decided, since they're rebuilding anyway, since they bought half this building's inventory at auction last week, they want to build a real shop. Not a shop. A *shop*. They're moving into the old Pullman warehouse on Ninety-Fifth. Thirty thousand square feet. Two paint frames. A CNC router the size of your truck."
+"Calumet's head of shop retired in September." Mitch leaned against a rack of flats with his coffee. "Hal Ostrowski. You remember Hal. Forty years. They threw him a party, he cried, he took a fishing boat to Florida. And Calumet's board decided, since they're rebuilding anyway, since they bought half this building's inventory at auction last week, they want to build a real shop. A *shop* shop. They're moving into the old Pullman warehouse on Ninety-Fifth. Thirty thousand square feet. Two paint frames. A CNC router the size of your truck."
 
 "Mitch."
 
 "Head of Scene Shop," said Mitch. "Crew of eight to start. Twelve by year two. Salary's eighty-four, benefits, pension, a parking space with your name on it, which in Chicago is like being knighted. Starts January fourth." He drank his coffee. "They asked me who. I said you. They looked you up. They saw *Othello*. They saw the submarine. They want to meet you. They want you."
 
-Gus held the paper cup. He looked at the Gerstner. Then he looked around the shop, at the orange tags and the paint frame and the flats leaning in the dark.
+Gus held the paper cup. His eyes went to the Gerstner, then around the shop, to the orange tags and the paint frame and the flats leaning in the dark.
 
 Eighty-four thousand dollars was more money than he had ever made in a year. It was more than double what VanderWal Scenic would make in its first year if VanderWal Scenic got its second contract, which it had not.
 
@@ -3742,7 +3742,7 @@ They loaded the Gerstner into Delores with a furniture dolly and two ratchet str
 
 Gus didn't say anything. He tightened the second strap. He checked it. He checked it again.
 
-Teo looked at him, then at the Gerstner in the truck bed, then at the Michigan plate.
+Teo's eyes went from him to the Gerstner in the truck bed to the Michigan plate.
 
 "You got a girl out there," Teo said. It wasn't a question.
 
@@ -3777,4 +3777,170 @@ He didn't slow down. He drove home and backed Delores up to the barn door and sa
 "Friday," he told the truck.
 
 Delores ticked as she cooled, and didn't argue.
+
+## Chapter 22
+
+<!-- POV: Roz -->
+
+The *Lakeshore Ledger* came out on Thursdays at six in the morning, and by six-twenty a stack of fifty of them was sitting on the counter at Bakker's Diner under a pie tin to keep them from blowing away every time the door opened.
+
+Lorna had saved her one. She slid it across the back booth at six-forty-one, face down, with a cup of coffee on top of it like a paperweight.
+
+"Okay, so," said Lorna. "Before you turn it over."
+
+"Lorna."
+
+"Before you turn it over, I want you to know the picture is very nice. Kenzie took it herself. At sunrise. She sat on the dock at six a.m. last Saturday in a sleeping bag. Her grandmother told me. She got frostbite on one toe. It's a very good picture."
+
+Roz took the coffee off. She turned the paper over.
+
+It was the whole top of the front page, above the fold, above the school levy and the township's new road salt contract. The photograph was the pond at dawn, gray and gold, with mist lying on the water and the willows on the far bank black against a pink sky, and the old dock in the foreground running out into the fog like the end of a sentence. It was, Roz thought with professional detachment, a perfect picture. You could build a ghost in that picture. Somebody had.
+
+The headline ran across the top in the *Ledger*'s Halloween font, which was a font that dripped:
+
+CARROW'S FAVORITE GHOST HAS A GROOM. HE'S BACK.
+
+And under it, smaller: *For six Octobers, "The Lantern Bride" has haunted Teague's Pond. This year the man in the story is riding the wagon. By Kenzie Vos, Staff Writer.*
+
+She read it. She read it the way you'd check a rig you hadn't built, slowly, looking for the weak spot.
+
+It was a good piece. That was the trouble. Kenzie had worked. She had the history of the hayride, Dot and Arlo and 1987, and she had a sidebar with a map of the route and a photo of Ed with his lantern. She had the 2020 committee vote. She had the line, the one everybody quoted: *That's him. Still choosing the city.* She had the turned heads and the Battle Creek Bunco and the youth group from Allegan. She had Bev.
+
+Bev was everywhere. Bev was in the third paragraph and the seventh and the twelfth. *"It's a simple story," said Beverly Oosterhouse, the hayride's vice-chair and former chair. "That's why it lasts. A boy took the train, and a girl stayed."* And later, in the paragraph that made Roz put the paper down for a second and look at the wall: *"I was there that week. I sat at that table," Oosterhouse said. "She didn't cry. Twenty-four years old, a brother to raise, her father barely in the ground. Not one tear. People should know what she held together."*
+
+Near the end, there was a paragraph about the withdrawal: *Two weeks ago, chair Rosalind Pietrowski, the legend's author, withdrew the story from the hayride's finale. She declined to comment for this article.* And under that, a single sentence that Roz read three times:
+
+*August VanderWal, who returned to Carrow this summer and is serving as a guide on Wagon One, also declined to comment. "It's her story," he said. "I don't have anything to add to it."*
+
+She sat in the booth and looked at that sentence.
+
+"He said that," said Lorna quietly. "To Kenzie. On Tuesday. In his driveway. Kenzie's grandmother says Kenzie drove out there and stood in his yard for twenty minutes trying to get him to say anything at all. Anything. What he remembered. What it was like on the bench. Why he signed up." Lorna turned her coffee cup. "He said that, and then he offered her a pop, and then he went back in his barn."
+
+At the bottom of the article, in the last paragraph, almost an afterthought, Kenzie had written: *This year's finale is a new one: a true story from the Teague farm's own history, told by lantern light. Riders say it's worth the trip. The hayride runs Friday and Saturday, October 30 and 31, its final two nights. It is not expected to tell the Lantern Bride.*
+
+* * *
+
+Room 114 had nine copies.
+
+They were on desks, folded open, under binders, sticking out of backpacks. When Roz walked in at 7:52 with her coffee, twenty-six eighth graders looked up at her at the same time with the bright, avid, unbearable faces of children who have discovered that their teacher has a personal life and that it's in the newspaper.
+
+"Good morning," said Roz.
+
+"Miss P," said Kaylee Dykstra, holding up the front page, "you're *famous*."
+
+"I'm not famous."
+
+"You're on the front page! Above the *levy*!"
+
+"The pond is on the front page, Kaylee. I'm in paragraph fifteen, declining to comment."
+
+"Is it true?" said someone from the back. "That he took a train?"
+
+"Is it true you didn't cry?"
+
+"Is he your *boyfriend* now?"
+
+"Okay," said Roz. "Phones away, papers away. Today's lab is phase changes, and if anybody says the word 'groom' I'm assigning a five-paragraph essay on the triple point of water."
+
+There was a groan. Papers went into backpacks. Kaylee folded hers very carefully, with the face of someone who was going to frame it.
+
+Owen Sterk hadn't brought one. He sat at his back lab bench with his hands folded, watching her the way he watched everything, and while the others were getting out their goggles, he said, not loudly, just to her:
+
+"It's not the whole story. In the paper."
+
+Roz stopped with the box of goggles in her hands.
+
+"No," she said. "It's not."
+
+"My grandpa says the paper always leaves out the part where everybody's wrong at once." Owen took a pair of goggles out of the box. "He says that's the only part worth reading."
+
+She stood there holding the box for a second too long. Then she said, "Your grandpa should write for the *Ledger*," and Owen said, "He did. In 1974. They fired him," and went back to his bench.
+
+* * *
+
+At lunch, Danny texted her.
+
+**31st sold out**
+
+**both wagons**
+
+**all 7 rides**
+
+**by 11:40am**
+
+**the ticket page crashed twice lol**
+
+And then, a minute later:
+
+**ppl in the comments are saying theyre coming for the lanterns AND the ghost**
+
+**like they think youre going to tell it again on halloween bc of the paper**
+
+**roz are you going to tell it again on halloween**
+
+She looked at the phone for a long time. She typed *no*. She deleted it. She typed *I don't know*. She deleted that. She put the phone face down on her desk, under the stack of phase-change worksheets, and ate her sandwich, and didn't taste it.
+
+* * *
+
+She went to Carrow Hardware after school because she needed wire nuts. She didn't need wire nuts. She had a coffee can of wire nuts in the Lab. But Carrow Hardware was on Main Street between the school and the Teague farm, and it was a place where you could stand in an aisle for ten minutes looking at fasteners and nobody would ask you anything, and she wanted, very badly, to stand somewhere for ten minutes where nobody asked her anything.
+
+The bell over the door jingled. Mr. Kuiper looked up from behind the counter, where he had the *Ledger* spread open on the glass case next to the key machine. So did the two old men on the bench by the woodstove, who were not customers and had not been customers since 1997 and came every day anyway to drink Mr. Kuiper's coffee. All three of them looked at her. All three of them looked away.
+
+She went to aisle four. Electrical.
+
+He was in aisle six. Hardware. She knew it before she saw him, the way you know where a stove is. She came around the end cap and there he was, in the VanderWal Scenic hoodie, with sawdust on his shoulders, holding two packages of hinges up to the fluorescent light and frowning at them as if they'd said something rude.
+
+He looked over.
+
+"Rosalind," he said.
+
+"August."
+
+"I'm buying hinges."
+
+"I can see that."
+
+"For a door." He held them up. Heavy-duty, four-inch, ball-bearing, oil-rubbed bronze. "Shop door. The big one on the east side. It's been a sheet of plywood since the end of summer. I'm hanging a real one. I've got a slab of old barn door from the Brinkses' and I'm going to put it up and paint it."
+
+"Paint what on it?"
+
+He looked at her for a second. Then he looked back at the hinges.
+
+"VanderWal Scenic," he said. "With the hours under it."
+
+Even if nobody ever comes during the hours, she thought. He'd said it in the corn. She'd been carrying it around for a week like the ticket in her coat.
+
+She stood in the end cap of aisle six at Carrow Hardware with the *Ledger* on the counter fifteen feet away and two old men by the woodstove not listening so hard you could hear it, and she thought about a sentence in paragraph fifteen. *It's her story. I don't have anything to add to it.* She thought about him in his driveway, with a twenty-four-year-old reporter standing in his yard for twenty minutes, offering her a pop. She thought about him on a wagon bench for three weeks, flipping a toggle for his own ghost, never once turning around.
+
+"I'm sorry," Roz said.
+
+She'd never said it to him. Not in 2019. Not at the Supper or on the bench or at the fog box or in the corn. She heard it come out of her mouth in the middle of Carrow Hardware, plain, the way he said things, with nothing on it.
+
+He lowered the hinges.
+
+"For the paper," she said. "For Bev. For the whole front page. For your name in it. For the pond." She stopped. "For six years of the pond."
+
+He was quiet for a moment. He looked at her, not the way he'd looked on the bench, holding still, but the way he'd looked in the corn, plain and open, with nothing held back behind his face.
+
+"It's a nice picture of the pond," Gus said.
+
+She laughed. She couldn't help it. It came out of her too loud in the quiet store, and by the woodstove one of the old men dropped his coffee cup, and Mr. Kuiper said "Oh for Pete's sake, Lyle," and went for paper towels.
+
+"That's all you've got?" she said. "It's a nice picture?"
+
+"It's a very nice picture. Kenzie got frostbite." He tucked the hinges under his arm. Then his face changed, just slightly, the way a stage changes when the light cue shifts from warm to cool. "Can I talk to you tomorrow? Before the ride. There's a thing."
+
+Something in her went still.
+
+"What kind of thing?"
+
+"Just a thing. A work thing." He looked at the hinges under his arm. "I'd like to tell you in person. Not in a hardware store with Lyle listening."
+
+"I'm not listening," said Lyle, from the woodstove, with his shirt soaked in coffee.
+
+"Is it bad?" said Roz.
+
+He thought about it. She could see him turn the question over and look for the true side.
+
+"I don't know yet," Gus said. "That's why I want to tell you."
 
