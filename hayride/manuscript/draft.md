@@ -878,7 +878,7 @@ So he wasn't looking, and he only heard it.
 
 She laughed.
 
-It wasn't a happy laugh. It was short, one breath, like something jarred loose. Then she said, quiet, to the clipboard: "That's the first thing anybody's told me about you in seven years that wasn't a ghost story."
+The laugh was short, one breath, like something jarred loose, and nobody would have called it happy. Then she said, quiet, to the clipboard: "That's the first thing anybody's told me about you in seven years that wasn't a ghost story."
 
 Then the wagon stopped, and she unbuckled, and she climbed down to help the riders off, and she didn't say anything else for the rest of the night.
 
@@ -899,4 +899,332 @@ Gus thought about it. Nine-year-olds deserved the same answer as everyone else.
 Mateo frowned. He looked at the dark lane to the pond, and then at the barn, and then at Gus, adding it up.
 
 "You should've taken the train," Mateo said finally. "Trains are cool."
+
+## Chapter 5
+
+<!-- POV: Roz -->
+
+Eighth graders could smell a story the way sharks could smell a paper cut, and by Monday morning room 114 had smelled it.
+
+"Miss P," said Kaylee Dykstra, before the bell, before Roz had even set her coffee down, "is it true you got left at the altar?"
+
+The room went silent in the specific way of twenty-six thirteen-year-olds pretending to look for a pencil.
+
+"Good morning, Kaylee."
+
+"My mom rode Saturday. She said there's a guy. On the wagon. And he's the guy from the story, and the story's about you, and you wrote it." Kaylee's eyes were enormous. "Is that true? Because that's so messed up. In a good way."
+
+"It's a ghost story," Roz said. She set the coffee down on the lab bench, on the coaster shaped like the periodic table that a student had given her in 2022, which had sodium in the wrong place. "It's not a documentary."
+
+"But it's about you."
+
+"Kaylee, what's today?"
+
+Kaylee looked at the board. "Density?"
+
+"Density. Which you'll need for Friday, when we put dry ice in water and make a fog bank on the floor of this classroom that will roll out the door and freak out Mr. Bosma's social studies class across the hall." Roz uncapped a marker. "Who wants to know how I make the pond fog?"
+
+Twenty-six hands went up, including Kaylee's, which went up slowly, the way a hand goes up when it knows it has been outmaneuvered and respects it.
+
+It worked until fourth period. In fourth period, Owen Sterk, who said maybe nine words a week and all of them true, raised his hand during the lab cleanup and said, without any malice at all, "Did he leave? Or did you tell him to?"
+
+Roz was holding a graduated cylinder. She kept holding it.
+
+"Why would you ask that, Owen?"
+
+"My grandpa says it's always both," said Owen, and went back to drying beakers.
+
+She dried the cylinder. She dried it for longer than a cylinder needed. Then the bell rang, and the room emptied out in its usual stampede, and she stood alone at the lab bench with the paper towel in her hand and the dry-ice cooler humming under the counter, and she thought: *always both.*
+
+* * *
+
+"Okay, so," said Lorna on Tuesday, sliding into the booth at Bakker's Diner across from Roz with a coffee pot in one hand and a slice of sour cream raisin on a saucer in the other, "I'm going to tell you some numbers, and you're going to eat this pie, and you're not going to make the face."
+
+"What face?"
+
+"The face you make when Bev reads the minutes." Lorna set down the pie. "Number one. The chalkboard. Bev texted me a picture last night because she knows I'll show you." She turned her phone around. In Bev's capitals, under the first night's $2,300, it now said $6,100. "Best opening weekend since the hayride started counting. Including 2021, when the youth pastor from Holland fell in the pond."
+
+"He didn't fall. He stepped off the dock."
+
+"He stepped off the dock *into the pond*, Roz, which is falling with extra steps." Lorna put the phone away. "Number two. The pie poll."
+
+"There's no pie poll."
+
+"There's always a pie poll. It's just never been about you before." Lorna pointed at the pie case by the register, where three handwritten index cards were taped to the glass. "Sour cream raisin, they kiss by Halloween. Apple, they don't. Pumpkin, it's complicated and nobody wants to say. Sour cream raisin is winning, which is wild, because nobody even *likes* sour cream raisin except you and Bev."
+
+"Take those down."
+
+"I can't take them down, it's democracy." Lorna poured them both coffee. "Number three. Clyde said a thing."
+
+"Clyde doesn't say things."
+
+"Clyde said a thing to me on Saturday on the bench between the Corn and the Woodlot, which is the longest stretch with nothing in it, and he's been holding it in for six seasons, apparently." Lorna leaned in. "He said, 'That story's mean.'"
+
+Roz put down her fork.
+
+"That's all," Lorna said. "'That story's mean.' Then he went back to not talking. I almost drove the tractor off the lane."
+
+"Danny drives your tractor."
+
+"Then I almost made Danny drive it off the lane." Lorna wrapped both hands around her mug. "I'm not saying anything. I'm just reporting Clyde."
+
+"You're saying something."
+
+"I'm saying I've known you since kindergarten and I was at your house on October sixth." Lorna's voice went quieter. "I'm saying today's October sixth. That's all I'm saying. Eat the pie."
+
+Roz looked at the pie.
+
+She had not, actually, forgotten what day it was. She had woken up at 4:50 a.m. and lain in bed in the dark and listened to the furnace kick on, and the date had been sitting on her chest like a cat. Seven years ago, at about six in the evening, at the Pietrowski kitchen table, with Danny supposedly upstairs doing homework, she had taken off the garnet ring and put it down between the salt and the pepper. She remembered the salt shaker. It was shaped like a rooster. It was still in the cupboard. She used it every day.
+
+"He sold it," she said.
+
+Lorna's eyebrows went up. "The ring?"
+
+"February of 2020. Rent. He went back to buy it in June and it was gone." Roz picked up her fork again. "That was Saturday's question."
+
+Lorna was quiet for a moment, which for Lorna was a weather event.
+
+"Huh," she said finally. "That's a pretty bad answer."
+
+"It's a true answer."
+
+"That's what I mean. It's bad on purpose. If he wanted to look good, he'd have said he kept it in his sock drawer." Lorna stirred her coffee, though she took it black. "Most people, when you ask them a hard question, they give you the answer that'll make you like them. He's giving you the answers that'll make you believe him. Those are different pies."
+
+* * *
+
+Danny was waiting for her on Thursday night in the kitchen, which meant something was wrong, because Danny was nineteen and never waited anywhere but the drive-through at Culver's.
+
+He was sitting at the kitchen table, at the end by the window, in the chair that had been their father's. He had his laptop open, and his community-college Intro to Statistics book, and a bag of pretzels, and he wasn't looking at any of them.
+
+"Hey," Roz said, setting down her school bag. "You eat?"
+
+"Pretzels."
+
+"Pretzels aren't dinner."
+
+"They're bread that made a decision." He closed the laptop. "Can I say something?"
+
+"You're going to say it either way."
+
+"Yeah, but I'm asking, so you can't be mad." He looked at her across the table, and for a second, in the light from the hanging lamp, he looked so much like their father at that table that her hand stopped on the zipper of her bag. "You know that's not how it went."
+
+She didn't pretend not to know what he meant. She'd been a teacher too long for that; kids could always tell.
+
+"It's a story, Danny. It's not a deposition."
+
+"It's a story about a real guy, and he's sitting right there, and everybody's turning around to stare at him every ride, and he just *sits* there." Danny's voice cracked a little at the top, the way it had at thirteen. "He bought me a drill. Did you know that? When I was eleven. A real one, a DeWalt, not a toy, for my birthday, and he taught me how to put a shelf in the barn loft. It's still up. It's still up there, Roz, it's still level."
+
+"I know about the shelf."
+
+"So he's not a *guy who took a train.* He's Gus. He's the guy who taught me a shelf."
+
+"He left, Danny."
+
+"Yeah." Danny looked at her for a long moment. "He left. And?"
+
+The furnace kicked on. The kitchen clock above the stove, which ran three minutes fast and had since 2016, ticked on toward nine.
+
+"And nothing," Roz said. "It's approved. The committee approved it in 2020. People drive from Battle Creek for it. We're at six thousand dollars, which is twice last year, and we need twenty-nine. You've seen the letter. If we don't make it, Great Lakes drops us and there is no hayride. There's no Wagon Two for you to drive. There's no Mateo in the front row. There's Bev's daytime pumpkin festival with a petting zoo and a bounce house, and Dot sitting on her porch watching kids eat kettle corn on the farm she and Arlo made scary for forty years."
+
+"I know."
+
+"So I tell the story."
+
+"I know." He picked up a pretzel and broke it into three pieces, carefully, like he was taking apart a small machine. "I'm just saying you know it's not how it went. That's all. I'm not saying stop. I'm just saying you *know*."
+
+He put the pieces down on the table in a row. He went upstairs. She heard his door close, not hard, just closed.
+
+Roz stood in the kitchen with her school bag on her shoulder for a long time.
+
+Then she went to the drawer by the phone, where she kept the things that had nowhere else to go: rubber bands, birthday candles, the warranty for the dishwasher, her father's reading glasses, and the laminated finale script, the original, the copy with *R.P.* at the bottom and the committee's 2020 vote typed under it. She took it out and laid it on the kitchen table where Danny's pretzel pieces were.
+
+She read it. She knew every word. She read it anyway, the way you check terminals you already know are tight.
+
+*That's him. Still choosing the city.*
+
+It was a good line. It was the best line she'd ever written. It turned the wagon every time; it turned it on a dime. And it wasn't true. He hadn't chosen the city, not the way the line meant. He'd chosen a job that wouldn't wait in a year that wouldn't give, and he had asked her to come, and she had said go.
+
+*Always both,* said Owen Sterk in her head, drying beakers.
+
+She couldn't cut it. Rule three: changes to the finale went through the committee, and the committee was Bev, and Bev would sooner retire the wagon. And she couldn't afford to cut it. Six thousand dollars said she couldn't.
+
+But a line was a small thing. A last line was the smallest thing, and nobody ever remembered the exact words of a last line, only how it felt.
+
+She found a pencil in the junk drawer, a stubby one from the Grange with the eraser chewed. She crossed out *Still choosing the city* on her copy, lightly, so she could still read it.
+
+Underneath, small, she wrote: *Maybe still deciding.*
+
+## Chapter 6
+
+<!-- POV: Roz -->
+
+The trouble with changing a last line was that somebody always knew the old one by heart.
+
+Roz should have built for that. She built for everything else. She had built for wind on the pond line and rain in the battery box and the Hoekstra boys' frosting fingers, and on the second Friday of October, with the pencil copy folded in her coat pocket against his ticket half, she had not built for the lady from Battle Creek.
+
+The 7:00 and the 7:40 went as written. She'd decided that in the car: two rides clean, as approved, to get her nerve up, the way you test a rig with a sandbag before you hang a person on it. On both rides he flipped WHISTLE on *ten*. On both rides the wagon turned. On the 7:40 a man in a Detroit Lions jacket actually stood up, belt-free, on the hay bale to get a better look at Gus, and Roz said "Sit," in the voice, and he sat so fast the bale squeaked.
+
+At 8:15 Bev climbed up into the third row of Wagon One with her clipboard and a stadium cushion.
+
+"Bev," said Roz, turning on the bench. "You never ride."
+
+"I'm riding tonight." Bev arranged the cushion. "Quality control. We had a complaint about the whistle volume."
+
+"From who?"
+
+"From me. I can hear it in the shed. It sounds like a goose with emphysema." Bev settled, and folded her hands over the clipboard. "Don't mind me. I'm furniture."
+
+The lady from Battle Creek was in the second row. She had come back for a third night, with her pink TEAM LANTERN BRIDE sign and a friend in a matching fleece, and when she saw Gus climb up onto the bench she said "Oh!" with deep satisfaction and nudged her friend, and her friend said "That's him?" and the lady said "That's *him*," as if she had personally arranged it.
+
+Gus sat. He did not look back. He said, very quietly, to the cue box, "Evening."
+
+"Are you talking to the box?" Roz asked, without moving her lips.
+
+"It's polite."
+
+"It's a box."
+
+"So's a church," he said, and she didn't laugh, but it was close, and she had to look at Hank's back for a while.
+
+They went out at 8:20.
+
+The Orchard Gate. The Corn. Ed's lantern. The Woodlot, where Brielle pulled clean and the youth group from Saugatuck screamed in a high, polite harmony. Then the pond, black and still, and Hank's key, and the silence.
+
+Roz told it.
+
+She told it as written all the way down. The girl. The veil. The 6:10. The lantern lifted off the far bank in its fog and came out across the water, and the wagon held its breath; she felt it hold, thirty-two people on the edge of their bales.
+
+"And if you hear a whistle," she said, "that's the 6:10."
+
+The whistle came on *ten*.
+
+"That's him," Roz said, and reached into her pocket for nothing, for the folded pencil copy she didn't need because she'd known it since Thursday, and she said, quietly, "maybe still deciding."
+
+The lantern went out.
+
+There was a pause, a beat, the length of a breath, in which nothing happened at all. Then, from the second row, in a voice like a ruler striking a desk:
+
+"That's *not* the story."
+
+Roz kept her face exactly where it was. Behind her the lady from Battle Creek was sitting bolt upright with her sign in both hands.
+
+"That's not how it goes," the lady said. "It goes 'still choosing the city.' I've ridden this four years. I know how it goes. 'Still choosing the city.' That's the *point*."
+
+"Ma'am," Roz began.
+
+"It's like changing the end of *Old Yeller*," the friend said.
+
+"It *is*!" said the lady. "It's exactly like that! You don't get to make Old Yeller live!"
+
+A few people laughed. More didn't. The youth group from Saugatuck, who had never heard the story before tonight, looked back and forth between the lady and the front bench with the bright, delighted faces of teenagers who have stumbled into adult conflict and intend to report it fully on the bus.
+
+From the third row, Bev Oosterhouse said, very calmly, "Rosalind."
+
+Just that. Her name, the long version, the way Bev had said it at the Supper over the jar.
+
+Gus hadn't moved. He sat with his hands on his knees, looking at the dark pond, the toggle back in its off position under his thumb.
+
+"Hank," said Roz into the walkie, in a voice that was almost level. "Go."
+
+* * *
+
+The lady from Battle Creek wanted her money back.
+
+She wanted it at the ticket table, in front of the line, and she wanted it, she said, "on principle, not because of the fifteen dollars, I don't care about the fifteen dollars," which was why she asked for it three times. Arlene Doornbos, who had the cash box while Bev was riding, looked at Roz across the table with her eyebrows halfway up her forehead.
+
+"Give it to her," Roz said.
+
+"Out of the season money?"
+
+"Out of the season money, Arlene."
+
+Arlene gave her the fifteen dollars. The lady from Battle Creek folded her sign under her arm with tremendous dignity and walked to the parking field, and her friend followed, and as she passed the Wagon One line she said, loudly, to no one, "They're *ruining* it."
+
+The 9:00 riders were climbing up. Hank was looking over his shoulder.
+
+Bev took Roz by the elbow.
+
+"Shed," Bev said. "Now. Lorna's taking your 9:00. Clyde can run Two alone, God knows he won't notice."
+
+"Bev, the line."
+
+"The line can stand in line. That's what it's for."
+
+* * *
+
+The Grange shed held five people and a space heater, which meant it held six with a quorum and nobody could move their elbows. Bev stood by the chalkboard. Dot sat in the only padded chair with her cane across her knees. Ed Brinks had come in from the Corn still in his farmer overalls with his lantern hooked on his belt, smelling of cornstalks and Copenhagen. Arlene had brought the cash box, because Arlene did not let go of the cash box for anything short of a fire. Marv Kuiper, the Grange treasurer, had been fetched from the pumpkin scale and was still wearing the sandwich board that said PUMPKINS $5 / BIG ONES $8.
+
+"This is an emergency meeting of the hayride committee," Bev said, "under the bylaws. Five of seven. That's quorum."
+
+"I know what quorum is, Bev."
+
+"Then you also know what rule three is." Bev didn't open the handbook. She didn't need to. She had read Roz's 2025 revisions twice at the January meeting and corrected the grammar in four places. "'The finale is told as approved by the committee. Changes need a committee vote.' You changed it."
+
+"I changed four words."
+
+"You changed the four words. Rosalind, those four words are the story. That's what people come for. That's the line they put on the Facebook. Marv, how many people asked for a refund tonight?"
+
+Marv checked. "One. But she was loud."
+
+"She was *loud*," Bev agreed. "And she's back on Saturday with her sister's whole Bunco group, she told Arlene, and if it's not 'still choosing the city' they'll all want their fifteen dollars."
+
+"I won't change it Saturday."
+
+"I know you won't. Because we're going to vote a warning." Bev looked around the shed. "That's the procedure. That's *your* procedure, honey. You wrote it."
+
+There was a silence. The space heater ticked. Through the shed's one small window Roz could see the yard, the line, the orange bulbs, and the Big Wagon pulling out with Lorna on the left of the front bench in her place, and Gus on the right, belted in, looking straight ahead.
+
+"Why'd you do it?" said Dot.
+
+Everyone looked at her. Dot hadn't said anything until now. She had her hands folded on top of her cane, and she was looking at Roz with an expression that was hard to read in the heater's orange glow.
+
+Roz opened her mouth. *Because Owen Sterk asked me if I told him to go. Because Danny was sitting in Dad's chair. Because Clyde says it's mean. Because it isn't true and it's the best thing I ever wrote and those are the same sentence.*
+
+"It's a better line," she said.
+
+"It's not a better line," said Bev. "It's a weaker line. 'Maybe.' Nobody cries at maybe."
+
+"Bev's right," said Ed, unexpectedly. "Maybe's a soft ending. I've been doing the Corn thirty years. You don't say 'maybe nobody comes back out of my corn.'"
+
+"Thank you, Ed."
+
+"I'm just saying, as a performer."
+
+"All in favor of a formal warning under rule three," said Bev.
+
+Bev's hand went up. Arlene's went up, still holding the cash box. Ed's went up, apologetically, lantern swinging. Marv looked at Roz and then at Bev and then at his sandwich board, and his went up too.
+
+Dot's hand stayed on her cane.
+
+"Four to one," said Bev. She wrote it on the clipboard. Then she put the clipboard down and, for a moment, her face did something that was not about procedure at all. "One more, Rosalind," she said quietly, "and it's rule twelve. You know I don't want that. You know nobody in this shed wants that. You're the best chair this hayride's had since Arlo. Just tell the story."
+
+"Okay."
+
+"Okay?"
+
+"Okay," said Roz. "As approved."
+
+* * *
+
+She told it as approved on the 9:40, and the 10:20, and the 11:00.
+
+Gus didn't say anything about it. Not between the 9:40 and the 10:20, when she stood by Marguerite's wheel and checked a battery terminal that was fine. Not on the 10:20, when he flipped WHISTLE on *ten* and the wagon turned and turned back. He didn't say *you didn't have to do that* or *I'm sorry they warned you* or any of the things she had braced for, the way you brace for a scare you've seen coming down the line. He just sat beside her with his hands on his knees, and once, on the long stretch back along the corn, when the wagon hit the bad rut by the drainage culvert and she jolted sideways, he put one hand flat on the bench between them so she wouldn't slide, and took it away again before she could notice that he had.
+
+She noticed.
+
+The 11:00 went out with nine people in it, all of them Carrow, all of them people who'd heard about the warning before the 9:40 was back in the yard, because nothing traveled faster in Carrow than a vote. Mr. Kuiper's grandson, Mason, rode in the back row and didn't throw anything.
+
+On the way back from the pond, in the dark along the back of the corn, Roz asked her question.
+
+She'd had it since Monday. Since Owen Sterk and his beakers. Since 4:50 that morning, staring at the ceiling, with a date on her chest like a cat. She had picked it up and put it down a dozen times, the way you pick up a tool you're not sure you want to use, and now she said it to the corn before she could put it down again.
+
+"Did you ever think about calling?"
+
+He didn't answer right away. He never answered right away. She was learning that he took the question in his hands first and turned it over to find the true side.
+
+"Every Sunday," Gus said. "For a year. I'd sit in the truck in the parking lot behind the theater shop at about four, because the shop was closed Sundays and nobody would see me, and I'd get your name up on the phone, and I'd look at it."
+
+The wagon creaked. Hank coughed.
+
+"Then every other Sunday," he said. "Then sometimes. You said not to." He paused, and when he went on, his voice was very plain, the way it had been when he told her about the jeweler. "Not calling was the easiest thing I ever did, Roz. That's the truth. It was so easy. You'd told me not to, so I had permission. And I've hated that ever since."
 
