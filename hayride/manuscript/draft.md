@@ -4952,3 +4952,207 @@ He put his cap back on. He turned around. He found the key.
 
 "Yup," said Hank, and started the engine, and took them home.
 
+## Chapter 29
+
+<!-- POV: Gus -->
+
+Nobody got off the 11:00.
+
+That was the first thing. Hank brought the wagon around the pumpkin scale and into the yard light and set the brake, and Roz unbuckled and climbed down to help the riders off the way she always did, and nobody moved. Thirty-two people sat on the bales with their lanterns still lit in their laps, and looked at her standing on the gravel, and didn't get up.
+
+Then Mateo did. He climbed down off the front row in his cardboard lantern, carefully, backward, the way his grandmother had taught him, one foot at a time, and when he got to the ground he walked over to Roz and stood in front of her and looked up through the hole in the side of the box.
+
+"I liked the old one," Mateo said. "The bride."
+
+"I know you did."
+
+"I like this one better," said Mateo. "It's sadder. But it's better."
+
+Then he turned around and walked back to his grandmother, who had come down off the wagon behind him with her knitting bag, and took her hand, and they went to the parking field together without looking back, a small glowing box and a woman with a long orange scarf trailing out of her bag.
+
+After that, they came down. One at a time. Each one gave back their lantern at the step, to Roz, and most of them didn't say anything. A few of them did. The witch said *thank you*. The man in the Western Michigan jacket said, *I'm going to have to write a letter to the editor*, and then, after a pause, *a nice one*. The Saturn boy from Sturgis handed his lantern back without a word, and then his mother, behind him, stopped, and put a hand on Roz's arm for a second, and said, "My husband left in 2018. I told him to," and went on to the car.
+
+Gus sat on the bench and watched them go. He didn't get down. He'd decided, on the way back along the corn, with the lantern lit on the cue box between them and her hand an inch from his on the cracked vinyl, that he wasn't getting off this bench until she told him to. Rule one. Barn to barn.
+
+Bev came down last.
+
+She had her stadium cushion under one arm and her clipboard under the other and her lantern in her hand, still lit. She stopped at the step. She looked at Roz. Roz looked at her.
+
+Bev held out the lantern. Roz took it.
+
+"Shed," said Bev. Her voice was rough. "Everybody. Now."
+
+* * *
+
+The Grange shed held the hayride committee and a space heater and, tonight, everybody else.
+
+It held Bev at the chalkboard and Arlene with the cash box and Marv with his binder. It held Ed Brinks in his overalls, without his hat, which he'd lost somewhere in the Corn. It held Clyde in the corner with his arms folded, still wearing a large cardboard fork. It held Lorna in a felt pie crust, and Danny in his parking vest with his wand still lit, and Hank in the doorway with his cap off. It held Dot, who'd come down from her lawn chair on Hank's arm and been set in the only padded seat by the heater with her three blankets and her cocoa. It held Gus, by the door, because Bev had said *everybody*, and he'd decided she meant him too.
+
+And it held Roz, in the middle of the floor, in her father's coat, with her hands at her sides.
+
+Nobody said anything for a while.
+
+Then Roz went to the shelf by the chalkboard where the Guide Handbook lived, the laminated one with Bev's pumpkin sticker on the cover, and took it down, and opened it to the second page, and read it out loud in her taking-attendance voice.
+
+"Rule one," she said. "Guides stay belted from barn to barn."
+
+She turned the page.
+
+"Rule twelve. A chair who breaks a rule steps down."
+
+She closed the handbook. She held it against her chest for a second, the way Danny had held it at the Supper.
+
+"I broke rule one," she said. "On the 11:00. At the pond. In front of thirty-two riders and a vice-chair. Everybody here knows it." She held the handbook out toward Bev. "So I'm stepping down. As of now. I wrote it. I said I'd hold myself to it."
+
+Bev didn't take the handbook.
+
+She stood by the chalkboard with the chalk in her fingers and looked at Roz for a long time. The heater ticked. Outside, a car went by on Hollins Road. Dot sipped her cocoa. Gus held very still by the door, because he'd learned at Lakefront that when an actor was about to land the line that mattered, you didn't breathe on the headset.
+
+"I said those words for you," Bev said finally. "Seven years. At the Ladies Aid. At church. To a reporter. To Ruth VanderWal's face." She put the chalk down in the tray. "I'd have said them for seventy. I'd have said them over your grave and his. You know that."
+
+"I know, Bev."
+
+"I didn't know they weren't true." Bev's voice cracked at the bottom, and she let it. "I sat at that table. That week. With the pound cake. And you didn't cry, and I thought it was because you were so strong. I told everybody how strong you were." She looked at the floor. "You were twenty-four. You'd sent him away. Of course you didn't cry. You'd have had to explain why."
+
+Nobody in the shed moved.
+
+"I was wrong," said Bev Oosterhouse.
+
+Gus had known Bev his entire life. He had heard her correct the grammar on a funeral program, and tell a bishop his homily ran long, and inform the Carrow Village Council that their Christmas lights were tacky. He had never heard her say those three words in that order, and from the faces in the shed, neither had anyone else. Arlene put her hand over her mouth. Marv dropped a pen. In the corner, Clyde, without unfolding his arms, said "Huh," very softly, the way you'd say it at a solar eclipse.
+
+Bev took the handbook out of Roz's hands.
+
+She held it against her own chest, over the pumpkin brooch, for a moment. Then she lifted her chin.
+
+"Now," Bev said. "I'll take it. Somebody has to keep you from writing the next one."
+
+* * *
+
+The shed broke open.
+
+Not all at once, the way it had at $29,350. Slowly, the way a room breathes out after a long scene. Lorna got to Roz first and put both arms around her, felt crust and all, and held on.
+
+"Okay, so," Lorna said into her shoulder, loud enough for the whole shed, "I'm not saying anything. I'm just saying sour cream raisin wins. Clyde owes me an apple pie."
+
+"Fine," said Clyde, from the corner, with his fork on.
+
+Danny got there second and put his arms around both of them and lifted, somehow, a few inches, and Lorna yelped.
+
+"Did you say it?" Danny said, into the top of his sister's head. "The word? The short one?"
+
+"Not yet."
+
+"It's shorter than *go*, Roz."
+
+"I know how long it is, Danny."
+
+"As a performer," Ed announced to the shed, crying openly and not bothering to hide it, the way he had in his truck in 2017, "as a performer, that was the best finale I ever saw on this farm, and I've been in the Corn since Reagan."
+
+"You've been in the Corn since Reagan's *second term*, Ed," said Arlene, wiping her eyes.
+
+"Second term counts."
+
+Marv was writing something on the back of his binder, AHEAD probably, and underlining it. Arlene had let go of the cash box.
+
+Hank put his cap back on.
+
+Dot, by the heater, set her cocoa down on the floor beside her chair, carefully, and held up one hand, and the shed went quiet again, because when Dot held up her hand you went quiet.
+
+"Rosalind," Dot said. "Come here. I told you to come tell me."
+
+Roz went. She knelt down by the padded chair, on the cold floor, in her father's coat, so her face was level with Dot's.
+
+Dot took the old dog collar off her wrist. Worn brown leather, a green-gone buckle, a tag rubbed down to almost nothing. PEPPER. She held it out.
+
+"Arlo said everybody ought to get to be a little scared in the corn once in a while," Dot said, "if there's a light coming." She put the collar in Roz's hand and folded Roz's fingers over it with her own small, dry, strong ones. "You're the light coming, honey. You always were. You just kept building it for other people's stories."
+
+Roz looked at the collar in her hand. She didn't say anything. She didn't have to. Her face had come all the way off where she'd put it, and nobody in the shed looked away.
+
+Behind Gus, very quietly, so only he could hear it, Bev said, "August."
+
+He turned. Bev was standing beside him with the handbook still held against her chest.
+
+"Tell your mother," Bev said, "I'll save her a seat. At the Ladies Aid. The good one, by the coffee. If she ever comes back down from Grand Rapids."
+
+"I'll tell her, Mrs. Oosterhouse."
+
+"Bev," said Bev. She looked at him for a moment over her reading glasses. "You can call me Bev. You've earned it. You sat in my dunk tank."
+
+* * *
+
+At twenty past midnight, after Danny had driven Dot up to the house and Lorna had taken the sheet cake that said AHFAD home to finish it, after Bev had counted the cash boxes twice and chalked the last number on the board, $33,980, under a line that said FINAL, and locked the shed, the yard was empty except for the Big Wagon in its shed and the two of them.
+
+Hank had parked Marguerite and the wagon inside the machine shed for the winter. The big doors were open. The yard lights were off. The only light was the lantern, the Bride's lantern, which Roz had carried out of the Grange shed and back across the yard and set, lit, on the cue box on the front bench of the wagon, in the dark of the machine shed, where it made a small gold room around the bench.
+
+She climbed up onto the bench and sat down on the left.
+
+He climbed up after her and sat down on the right.
+
+Neither of them buckled. There was nowhere to go. The wagon sat in the dark shed with its tongue on the ground, unhitched, and the smell of hay and diesel and cold, and the lantern between them.
+
+"You're not chair anymore," Gus said.
+
+"I'm not chair anymore."
+
+"How does it feel?"
+
+She thought about it. He watched her think about it, the way she did, turning the thing over to look at every side of the rig.
+
+"Like when Hank turns the key at the pond," she said. "And it goes quiet. And you don't have to do anything for ten seconds except sit there."
+
+"That sounds nice."
+
+"It's terrifying."
+
+"Those are the same thing sometimes," said Gus.
+
+She laughed, small, and looked at the lantern. She had Dot's collar on her own wrist now, buckled on the last hole, too big. She turned it with her other hand.
+
+"She gave you Pepper," Gus said.
+
+"She gave me Pepper." Roz turned the tag to the light. "Every animal on this farm since 1958. Dogs, cats. There was a goat in the eighties."
+
+"Pepper the goat."
+
+"Pepper the goat bit Ed." She let the tag fall. "I'm going to have to get a dog now."
+
+"You don't have to get a dog."
+
+"I'm going to have to get a dog, Gus, and name it Pepper, and Dot's going to come check. She's going to drive her Buick across the field to my porch and ask to see the collar on it."
+
+"I'll build it a house," he said. "A doghouse. With a little sign. By appointment."
+
+"Don't," said Roz, and laughed again, and wiped her face with the heel of her hand the way Danny did, the way her father had.
+
+He'd thought about what to say. He'd thought about it on the bench all night, through the 10:20 and the 11:00, through the dock and the lantern and *Right here*. He'd thought about the old ways of saying things, the big ones, the ones with rings and speeches, and he'd thought about the fact that he'd sold the ring for five hundred and ten dollars to a man on Clark Street and gone back in June to buy it back and it had been gone. And he'd decided that whatever he said, it wasn't going to be a question. He'd asked her one question seven years ago at a kitchen table and gotten an answer, and he didn't want her answering anything tonight that she hadn't decided to.
+
+"Sit with me next year," he said.
+
+It wasn't a question. He said it plainly, to the lantern, the way he'd said *I'll be on the bench*.
+
+She looked at him.
+
+"The draw's random," Roz said.
+
+"I know."
+
+"It's in the handbook. Rule seven. No swaps. Bev's going to enforce it, now. Bev's going to *laminate* it."
+
+"I know."
+
+"Eleven names in a jar," she said. "One in ten. That's ten percent. That's terrible odds."
+
+"I know," said Gus.
+
+She looked at him in the lantern light for a long moment. Her face was nowhere near where she'd put it. He didn't think she was ever going to put it back there again, not for him.
+
+"I'll rig it," Roz said.
+
+Then she leaned across the cue box, across the lantern and the masking tape that said BARK, and put her hand on his face, and kissed him.
+
+It wasn't like the corn. In the corn it had been short and cold and a question. This was warm, in the gold light, on the bench where they'd sat for ten nights a foot apart, and it was an answer. He put his hand over hers on his face and held it there. She didn't go up on her toes; she didn't have to; they were sitting down, the same height, finally, on the same bench. When she drew back, she didn't go far. She stayed there, an inch away, her forehead almost on his.
+
+Standby, Gus thought, out of old habit, in the stage manager's voice. Then he stopped, because there was nothing left to cue. Everything had already gone.
+
+From the dark at the back of the machine shed, up in Marguerite's seat, Hank Ruiter said: "Yup."
+
