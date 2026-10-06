@@ -48,3 +48,37 @@ already underway; a moment of humour between two characters already in the scene
    dialogue ≥25%, and the exit is ≤25 words. Then run
    `python3 /home/user/New/corner-office/tools/tric.py /tmp/YOURNAME_check.md` and break the runs it lists.
 4. Report: per chapter, words before → after, fragment % before → after, dialogue % after, tricolon hits before → after, and anything you could not fix.
+
+---
+
+## ADDENDUM after the full-draft hostile read (`qc/HOSTILE_READER_full_draft1.md`)
+Structural fixes are **already made** in the chapter files: the fifteen-mornings retellings were
+cut from Ch 10 and Ch 22, Pip's terms were removed (Ch 16; Adam adopts telling-before on his
+own), the countdown was fixed (test = **Friday 12 Feb**, close of business; Nashville's line stops
+Monday 8 Feb), Gil's and Margaret's yeses are business, the "nobody claps" beat and the
+pocket speech were cut, the Ch 30 ending was rewritten (same week, radiator chair), and
+billionaire markers were added. **Do not undo any of these.**
+
+### Additional book-wide repetition targets (cut your share by the amount shown)
+- "two years" (53×): cut by half; use "since Nashville", "since the spring before last", or nothing.
+- "looks at me" / "I look at him" / "looks at her" (~65×): cut by half. Use an action instead, or nothing.
+- "a long time" / "a long moment" (~43×): cut by two-thirds.
+- "before" as a chant ("I'm telling you before", "before, not after", "Before."): cut by a third in Ch 18–30. Keep it where it carries a plot act.
+- "like a person", "I'm learning", "I'm asking (you)", "the bad part first": cut each to at most one per chapter, and none in most chapters. These phrases are recognised from earlier books under the pen name.
+- **Clock times as voice texture** (6:52, 11:58, 4:40, "at 10:12"): keep a clock time only where the plot needs it, at most two per chapter. Write the rest as "just before seven", "near midnight", or cut.
+- **Weld and craft similes** for feelings ("like a weld that held", "like a sheet of glass"): at most one per chapter.
+- Glasses-off gestures: Lolo only, at most one per chapter. Remove them from Simone, Stan and Gordon (give each another tell or none).
+- Benny's unlit cigarette: at most two mentions in the whole book (Ch 3 and Ch 15). Cut it elsewhere.
+- Counting motifs ("that's three", "that's two things I'll give her", "four times"): at most one per chapter.
+- Corrective negation in narration ("That's not true." / "Not X. Y."): at most one per chapter.
+- "phone face down": at most one per chapter.
+
+### Assignments (expansion quota = words to ADD net, after cuts; measured by prose_metrics)
+| Agent | Chapters | Quotas (net words) | Specific tasks |
+|---|---|---|---|
+| A | 1–5 | Ch1 +100 · Ch2 +400 · Ch3 +400 · Ch4 +250 · Ch5 +250 | **Ch1:** cut backstory facts to about 4 (D-02): drop the napkin/First Communion frame line, the 2018-engineers anecdote, Elvin's newspaper, and Lolo's Lindqvist history, or move it to Ch3; record Ch1's dialogue below 25% as the action-set-piece exception. **Ch2:** raise dialogue to ≥25% with a sharper exchange on the floor (Bridget, the sales man, or Simone); add one line naming *a* wound ("Nashville, decided without me") without the coffee detail (D-06). **Ch3:** raise dialogue to ≥25% (Lolo, Benny, Walt). Ch4–5: line pass. |
+| B | 6–10 | Ch6 +700 · Ch7 +250 · Ch8 +450 · Ch9 +200 · Ch10 +450 | **Ch6:** expand the kitchen scene with a real exchange that changes something visible (dialogue ≥25%). **Ch8:** dialogue scene with the crew or Stan. **Ch10:** the fifteen-mornings memory has been cut; do NOT reintroduce it. Add depth to the Kurt dinner (Kurt's pressure made concrete) or the kitchen. |
+| C | 11–15 | Ch11 +500 · Ch12 +450 · Ch13 +300 · Ch14 +350 · Ch15 +200 | **Ch12:** dialogue ≥25%. **Ch13:** dialogue ≥25% (Odell or Gordon); convert Adam's numbered legal-pad list into prose or cut it (procedural-numbered-plan house habit). Keep the Ch 15 boardroom beats exactly. |
+| D | 16–20 | Ch16 +250 · Ch17 +200 · Ch18 +150 · Ch19 +350 · Ch20 +500 | **Ch20:** dialogue ≥25%; expand the break-room panic as a scene with the crew pushing Pip, so the pressure that makes her go on TV is on the page. Keep Ch16's new no-terms ending. |
+| E | 21–25 | Ch21 +150 · Ch22 +350 · Ch23 +200 · Ch24 +200 · Ch25 +250 | **Ch22:** it is a REFLECTIVE_SEQUEL (Adam alone), so low dialogue is allowed, but add the Simone call depth rather than interior. Do not reintroduce the fifteen-mornings detail anywhere before Ch 25. **Ch25** is the only full telling; make it land. |
+| F | 26–30 | Ch26 +200 · Ch27 +400 · Ch28 +150 · Ch29 +300 · Ch30 +150 | **Ch28:** keep the vote exactly (the amendment, Pip writes NASH, the tally 97–41–3, Benny's press brake). **Ch30:** the final two paragraphs must stay as written (the radiator-chair ending). Ch 29–30: thin the "before" and "like a person" chant hard. |
